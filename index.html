@@ -1,100 +1,235 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-
-<head>
-    <meta charset="UTF-8">
-    <title>FreeTalkEasy 語言學習中心</title>
-    
-    <style>
-        /* 原本的樣式... */
-    </style>
-</head>
-
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FreeTalkEasy 語言學習中心</title>
+    <title>多國語言單字卡 (FreeTalkEasy)</title>
     <style>
-        body {
-            font-family: "Microsoft JhengHei", Arial, sans-serif;
-            background-color: #f0f2f5;
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+        body { font-family: 'Microsoft JhengHei', sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
+        
+        /* 搜尋框區 */
+        .search-container { text-align: center; margin-bottom: 20px; }
+        #searchInput {
+            width: 100%; max-width: 400px; padding: 12px; 
+            border-radius: 25px; border: 1px solid #ccc; 
+            font-size: 16px; outline: none;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
-        h1 { color: #333; margin-bottom: 30px; }
-        .menu-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 20px;
-            width: 100%;
-            max-width: 400px;
-        }
-        .menu-card {
-            background: white;
-            padding: 25px;
-            border-radius: 15px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            text-decoration: none;
-            color: #333;
-            display: flex;
-            align-items: center;
-            transition: transform 0.2s;
-            border-left: 8px solid #ddd; /* 預設灰色 */
-        }
-        .menu-card:active { transform: scale(0.98); }
-        .icon { font-size: 40px; margin-right: 20px; }
-        .info h2 { margin: 0; font-size: 20px; }
-        .info p { margin: 5px 0 0; color: #666; font-size: 14px; }
 
-        /* 各種語言的顏色設定 */
-        .vn { border-left-color: #e74c3c; } /* 紅色 (越南國旗色) */
-        .eng { border-left-color: #3498db; } /* 藍色 */
-        .con { border-left-color: #f1c40f; } /* 黃色 */
+        /* 按鈕容器通用樣式 */
+        .scroll-container {
+            display: flex; gap: 10px; overflow-x: auto; 
+            padding-bottom: 10px; margin-bottom: 15px;
+            justify-content: center; /* 置中 */
+        }
+
+        /* 語言切換按鈕 (第一層) */
+        .lang-btn {
+            padding: 10px 20px; background: #fff; border: 2px solid #007bff; 
+            color: #007bff; border-radius: 8px; cursor: pointer; 
+            font-weight: bold; white-space: nowrap; transition: 0.2s;
+        }
+        .lang-btn.active { background: #007bff; color: white; }
+
+        /* 分類按鈕 (第二層) */
+        .cat-btn {
+            padding: 6px 14px; background: #fff; border: 1px solid #ccc; 
+            border-radius: 20px; cursor: pointer; white-space: nowrap; 
+            font-size: 0.9rem; transition: 0.2s;
+        }
+        .cat-btn.active, .cat-btn:hover {
+            background: #d32f2f; color: white; border-color: #d32f2f;
+        }
+
+        /* 卡片區 */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+        }
+        .card {
+            background: white; padding: 20px 15px;
+            border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center; cursor: pointer; transition: transform 0.2s;
+            position: relative; border-bottom: 4px solid transparent;
+        }
+        .card:active { transform: scale(0.95); }
+        .card h3 { margin: 5px 0; color: #333; font-size: 1.3rem; word-break: break-word; }
+        .card p { margin: 0; color: #888; font-size: 0.95rem; }
+        .icon { font-size: 24px; margin-bottom: 8px; display: block; opacity: 0.7; }
+        
+        /* 播放中的特效 */
+        .playing { 
+            border-bottom: 4px solid #d32f2f; 
+            background-color: #fff5f5; 
+            transform: translateY(-2px);
+        }
     </style>
 </head>
 <body>
 
-    <h1>🌍 選擇學習語言</h1>
-
-    <div class="menu-grid">
-        <a href="CN_VN/index.html" class="menu-card vn">
-            <div class="icon">🇻🇳</div>
-            <div class="info">
-                <h2>中文 ➜ 越南語</h2>
-                <p>CN_VN (已建立)</p>
-            </div>
-        </a>
-
-        <a href="#" class="menu-card con" onclick="alert('建置中...')">
-            <div class="icon">🇭🇰</div>
-            <div class="info">
-                <h2>中文 ➜ 廣東話</h2>
-                <p>CN_CON (建置中)</p>
-            </div>
-        </a>
-
-        <a href="#" class="menu-card eng" onclick="alert('建置中...')">
-            <div class="icon">🇺🇸</div>
-            <div class="info">
-                <h2>中文 ➜ 英文</h2>
-                <p>CN_ENG (建置中)</p>
-            </div>
-        </a>
-        
-         <a href="#" class="menu-card" style="border-left-color: #2ecc71;" onclick="alert('建置中...')">
-            <div class="icon">🇹🇼</div>
-            <div class="info">
-                <h2>越南語 ➜ 中文</h2>
-                <p>VN_CN (建置中)</p>
-            </div>
-        </a>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="🔍 搜尋單字 (例如: apple 或 蘋果)...">
     </div>
 
-    <p style="margin-top: 50px; color: #999; font-size: 12px;">© FreeTalkEasy System</p>
+    <div class="scroll-container" id="langContainer">
+        </div>
 
+    <div class="scroll-container" id="categoryContainer">
+        <button class="cat-btn active" onclick="filterCategory('all', this)">全部顯示</button>
+    </div>
+
+    <div class="grid" id="cardContainer"></div>
+
+    <script src="data.js"></script>
+
+    <script>
+        // 設定語言對照表 (顯示名稱 : 代碼)
+        const LANGUAGES = [
+            { name: '🇺🇸 英語', code: 'en' },
+            { name: '🇯🇵 日語', code: 'ja' },
+            { name: '🇰🇷 韓語', code: 'ko' },
+            { name: '🇻🇳 越語', code: 'vi' },
+            { name: '🇭🇰 廣東', code: 'zh-CN' } // 對應 Python 裡的設定
+        ];
+
+        // 預設狀態
+        let currentLang = 'en'; 
+        let currentCategory = 'all';
+        let currentAudio = null;
+
+        // 確認資料是否載入
+        if (typeof vocabData === 'undefined') {
+            document.body.innerHTML = "<h2 style='text-align:center; color:red;'>⚠️ 錯誤：找不到 data.js<br>請先執行 Python 程式！</h2>";
+        } else {
+            initApp();
+        }
+
+        function initApp() {
+            renderLangButtons();
+            renderCategoryButtons();
+            renderCards(); // 初始渲染
+        }
+
+        // --- 1. 產生語言按鈕 ---
+        function renderLangButtons() {
+            const container = document.getElementById('langContainer');
+            LANGUAGES.forEach(lang => {
+                const btn = document.createElement('button');
+                btn.className = `lang-btn ${lang.code === currentLang ? 'active' : ''}`;
+                btn.innerText = lang.name;
+                btn.onclick = () => switchLanguage(lang.code, btn);
+                container.appendChild(btn);
+            });
+        }
+
+        function switchLanguage(code, btn) {
+            currentLang = code;
+            // 更新按鈕樣式
+            document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            // 重新渲染卡片
+            renderCards();
+        }
+
+        // --- 2. 產生分類按鈕 ---
+        function renderCategoryButtons() {
+            const container = document.getElementById('categoryContainer');
+            // 從資料中提取所有不重複的「大分類」
+            const categories = [...new Set(vocabData.map(item => item.category))].filter(Boolean);
+            
+            categories.forEach(cat => {
+                const btn = document.createElement('button');
+                btn.className = 'cat-btn';
+                btn.innerText = cat;
+                btn.onclick = () => filterCategory(cat, btn);
+                container.appendChild(btn);
+            });
+        }
+
+        function filterCategory(category, btn) {
+            currentCategory = category;
+            // 更新樣式
+            document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+            if(btn) btn.classList.add('active');
+            
+            renderCards();
+        }
+
+        // --- 3. 核心：渲染卡片 ---
+        function renderCards() {
+            const container = document.getElementById('cardContainer');
+            const searchText = document.getElementById('searchInput').value.toLowerCase();
+            container.innerHTML = '';
+
+            // 篩選資料
+            const filteredData = vocabData.filter(item => {
+                // 1. 檢查該語言是否有資料 (有些字可能缺翻譯)
+                if (!item[currentLang]) return false;
+
+                // 2. 分類篩選
+                if (currentCategory !== 'all' && item.category !== currentCategory) return false;
+
+                // 3. 關鍵字搜尋 (搜中文 或 當前語言單字)
+                const word = item[currentLang].word.toLowerCase();
+                const cn = item.cn.toLowerCase();
+                if (searchText && !word.includes(searchText) && !cn.includes(searchText)) return false;
+
+                return true;
+            });
+
+            if (filteredData.length === 0) {
+                container.innerHTML = '<p style="text-align:center; width:100%; color:#888;">沒有找到資料 😅</p>';
+                return;
+            }
+
+            filteredData.forEach(item => {
+                const langData = item[currentLang]; // 取得當前語言的資料物件
+                
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <span class="icon">🔊</span>
+                    <h3>${langData.word}</h3> <p>${item.cn}</p>         `;
+
+                // 設定點擊播放
+                // 組合路徑: folder (例如 CN_ENG/audio) + / + filename
+                const audioPath = `${langData.folder}/${langData.audio}`;
+                card.onclick = () => playSound(audioPath, card);
+
+                container.appendChild(card);
+            });
+        }
+
+        // --- 4. 播放功能 ---
+        function playSound(path, cardElement) {
+            if (currentAudio) {
+                currentAudio.pause();
+                currentAudio.currentTime = 0;
+            }
+
+            // UI 特效
+            document.querySelectorAll('.card').forEach(c => c.classList.remove('playing'));
+            cardElement.classList.add('playing');
+
+            currentAudio = new Audio(path);
+            
+            // 錯誤處理
+            currentAudio.onerror = () => {
+                alert(`❌ 找不到音檔：\n${path}\n請確認 Python 程式是否執行成功。`);
+                cardElement.classList.remove('playing');
+            };
+
+            currentAudio.play().catch(e => console.log("播放被瀏覽器阻擋:", e));
+
+            currentAudio.onended = () => cardElement.classList.remove('playing');
+        }
+
+        // --- 5. 搜尋監聽 ---
+        document.getElementById('searchInput').addEventListener('input', () => {
+            renderCards(); // 打字時即時更新
+        });
+
+    </script>
 </body>
 </html>

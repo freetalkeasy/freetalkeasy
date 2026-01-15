@@ -1,1 +1,0 @@
-const wordList = [{"category": "問候", "vi": "Xin chào", "zh": "你好", "file": "Xin_chào.mp3"}, {"category": "餐廳", "vi": "Cho tôi một ly cà phê", "zh": "請給我一杯咖啡", "file": "Cho_tôi_một_ly_cà_phê.mp3"}, {"category": "數字", "vi": "Một", "zh": "一", "file": "Một.mp3"}];
