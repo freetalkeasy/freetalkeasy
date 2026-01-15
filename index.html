@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+
+<head>
+    <meta charset="UTF-8">
+    <title>FreeTalkEasy 語言學習中心</title>
+    
+    <style>
+        /* 原本的樣式... */
+    </style>
+</head>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreeTalkEasy 語言學習中心</title>
+    <style>
+        body {
+            font-family: "Microsoft JhengHei", Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 { color: #333; margin-bottom: 30px; }
+        .menu-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+            width: 100%;
+            max-width: 400px;
+        }
+        .menu-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-decoration: none;
+            color: #333;
+            display: flex;
+            align-items: center;
+            transition: transform 0.2s;
+            border-left: 8px solid #ddd; /* 預設灰色 */
+        }
+        .menu-card:active { transform: scale(0.98); }
+        .icon { font-size: 40px; margin-right: 20px; }
+        .info h2 { margin: 0; font-size: 20px; }
+        .info p { margin: 5px 0 0; color: #666; font-size: 14px; }
+
+        /* 各種語言的顏色設定 */
+        .vn { border-left-color: #e74c3c; } /* 紅色 (越南國旗色) */
+        .eng { border-left-color: #3498db; } /* 藍色 */
+        .con { border-left-color: #f1c40f; } /* 黃色 */
+    </style>
+</head>
+<body>
+
+    <h1>🌍 選擇學習語言</h1>
+
+    <div class="menu-grid">
+        <a href="CN_VN/index.html" class="menu-card vn">
+            <div class="icon">🇻🇳</div>
+            <div class="info">
+                <h2>中文 ➜ 越南語</h2>
+                <p>CN_VN (已建立)</p>
+            </div>
+        </a>
+
+        <a href="#" class="menu-card con" onclick="alert('建置中...')">
+            <div class="icon">🇭🇰</div>
+            <div class="info">
+                <h2>中文 ➜ 廣東話</h2>
+                <p>CN_CON (建置中)</p>
+            </div>
+        </a>
+
+        <a href="#" class="menu-card eng" onclick="alert('建置中...')">
+            <div class="icon">🇺🇸</div>
+            <div class="info">
+                <h2>中文 ➜ 英文</h2>
+                <p>CN_ENG (建置中)</p>
+            </div>
+        </a>
+        
+         <a href="#" class="menu-card" style="border-left-color: #2ecc71;" onclick="alert('建置中...')">
+            <div class="icon">🇹🇼</div>
+            <div class="info">
+                <h2>越南語 ➜ 中文</h2>
+                <p>VN_CN (建置中)</p>
+            </div>
+        </a>
+    </div>
+
+    <p style="margin-top: 50px; color: #999; font-size: 12px;">© FreeTalkEasy System</p>
+
+</body>
+</html>
