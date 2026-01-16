@@ -2,12 +2,12 @@
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="apple-touch-icon" href="https://freetalkeasy.github.io/freetalkeasy/icon.png"> 
     <title>多國語言單字卡 (FreeTalkEasy)</title>
     <style>
-        body { font-family: 'Microsoft JhengHei', sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
+        body { font-family: 'Microsoft JhengHei', sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; padding-bottom: 100px; }
         
-        /* 搜尋框區 */
         .search-container { text-align: center; margin-bottom: 20px; }
         #searchInput {
             width: 100%; max-width: 400px; padding: 12px; 
@@ -16,14 +16,15 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
-        /* 按鈕容器通用樣式 */
         .scroll-container {
             display: flex; gap: 10px; overflow-x: auto; 
             padding-bottom: 10px; margin-bottom: 15px;
-            justify-content: center; /* 置中 */
+            justify-content: center;
+        }
+        @media (max-width: 600px) {
+            .scroll-container { justify-content: flex-start; }
         }
 
-        /* 語言切換按鈕 (第一層) */
         .lang-btn {
             padding: 10px 20px; background: #fff; border: 2px solid #007bff; 
             color: #007bff; border-radius: 8px; cursor: pointer; 
@@ -31,7 +32,6 @@
         }
         .lang-btn.active { background: #007bff; color: white; }
 
-        /* 分類按鈕 (第二層) */
         .cat-btn {
             padding: 6px 14px; background: #fff; border: 1px solid #ccc; 
             border-radius: 20px; cursor: pointer; white-space: nowrap; 
@@ -41,195 +41,103 @@
             background: #d32f2f; color: white; border-color: #d32f2f;
         }
 
-        /* 卡片區 */
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
             gap: 15px;
         }
         .card {
-            background: white; padding: 20px 15px;
+            background: white; padding: 15px;
             border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            text-align: center; cursor: pointer; transition: transform 0.2s;
+            text-align: center; cursor: pointer; transition: all 0.2s;
             position: relative; border-bottom: 4px solid transparent;
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
         }
         .card:active { transform: scale(0.95); }
-        .card h3 { margin: 5px 0; color: #333; font-size: 1.3rem; word-break: break-word; }
+        .card h3 { margin: 5px 0; color: #333; font-size: 1.4rem; word-break: break-word; }
         .card p { margin: 0; color: #888; font-size: 0.95rem; }
-        .icon { font-size: 24px; margin-bottom: 8px; display: block; opacity: 0.7; }
+        .icon { font-size: 24px; margin-bottom: 5px; opacity: 0.7; }
+
+        /* === 🌟 熟練度顏色樣式 === */
+        /* 10次: 淺藍 */
+        .card.lvl-1 { background-color: #e3f2fd; border-bottom-color: #90caf9; }
+        /* 20次: 淺綠 */
+        .card.lvl-2 { background-color: #e8f5e9; border-bottom-color: #a5d6a7; }
+        /* 30次: 淺金黃 */
+        .card.lvl-3 { background-color: #fff8e1; border: 2px solid #ffb300; }
         
-        /* 播放中的特效 */
-        .playing { 
-            border-bottom: 4px solid #d32f2f; 
-            background-color: #fff5f5; 
+        .card.playing { 
+            border-bottom: 4px solid #d32f2f !important; 
+            background-color: #fff !important;
             transform: translateY(-2px);
         }
+
+        .multi-lang-list {
+            margin-top: 10px; padding-top: 10px; border-top: 1px dashed #eee;
+            width: 100%; text-align: left; font-size: 0.85rem; color: #555; line-height: 1.6;
+        }
+        .multi-lang-list div { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+        .footer {
+            margin-top: 40px; padding: 20px; text-align: center; color: #666; font-size: 0.9rem;
+            border-top: 1px solid #ddd;
+        }
+        .footer a { color: #007bff; text-decoration: none; }
+        .footer p { margin: 5px 0; }
+        
+        .install-btn, .reset-btn {
+            border: none; padding: 8px 16px; border-radius: 20px; font-size: 0.9rem; 
+            cursor: pointer; margin-bottom: 10px; display: inline-flex; align-items: center; gap: 5px;
+        }
+        .install-btn { background-color: #28a745; color: white; }
+        .reset-btn { background-color: #6c757d; color: white; margin-left: 10px; }
+
+        .modal-overlay {
+            display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.5); z-index: 999; justify-content: center; align-items: center;
+        }
+        .modal-box {
+            background: white; padding: 25px; border-radius: 15px; width: 90%; max-width: 400px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2); position: relative;
+        }
+        .close-btn { position: absolute; top: 10px; right: 15px; font-size: 24px; cursor: pointer; color: #999; }
+        .ios-badge { background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; }
     </style>
 </head>
 <body>
 
     <div class="search-container">
-        <input type="text" id="searchInput" placeholder="🔍 搜尋單字 (例如: apple 或 蘋果)...">
+        <input type="text" id="searchInput" placeholder="🔍 搜尋單字...">
     </div>
 
-    <div class="scroll-container" id="langContainer">
-        </div>
-
+    <div class="scroll-container" id="langContainer"></div>
     <div class="scroll-container" id="categoryContainer">
         <button class="cat-btn active" onclick="filterCategory('all', this)">全部顯示</button>
     </div>
 
     <div class="grid" id="cardContainer"></div>
 
-    <script src="data.js"></script>
+    <div class="footer">
+        <button class="install-btn" onclick="openModal()">📲 如何安裝成 APP？</button>
+        <button class="reset-btn" onclick="resetProgress()">🔄 重置學習紀錄</button>
+        <p>意見回饋：<a href="mailto:tw.jeremy@gmail.com">tw.jeremy@gmail.com</a></p>
+        <p style="font-size: 0.8rem; color: #999; margin-top: 10px;">
+            Copyright © 2026 FreeTalkEasy. All rights reserved.<br>翻印必究
+        </p>
+    </div>
 
-    <script>
-        // 設定語言對照表 (顯示名稱 : 代碼)
-        const LANGUAGES = [
-            { name: '🇺🇸 英語', code: 'en' },
-            { name: '🇯🇵 日語', code: 'ja' },
-            { name: '🇰🇷 韓語', code: 'ko' },
-            { name: '🇻🇳 越語', code: 'vi' },
-            { name: '🇭🇰 廣東', code: 'zh-CN' } // 對應 Python 裡的設定
-        ];
-
-        // 預設狀態
-        let currentLang = 'en'; 
-        let currentCategory = 'all';
-        let currentAudio = null;
-
-        // 確認資料是否載入
-        if (typeof vocabData === 'undefined') {
-            document.body.innerHTML = "<h2 style='text-align:center; color:red;'>⚠️ 錯誤：找不到 data.js<br>請先執行 Python 程式！</h2>";
-        } else {
-            initApp();
-        }
-
-        function initApp() {
-            renderLangButtons();
-            renderCategoryButtons();
-            renderCards(); // 初始渲染
-        }
-
-        // --- 1. 產生語言按鈕 ---
-        function renderLangButtons() {
-            const container = document.getElementById('langContainer');
-            LANGUAGES.forEach(lang => {
-                const btn = document.createElement('button');
-                btn.className = `lang-btn ${lang.code === currentLang ? 'active' : ''}`;
-                btn.innerText = lang.name;
-                btn.onclick = () => switchLanguage(lang.code, btn);
-                container.appendChild(btn);
-            });
-        }
-
-        function switchLanguage(code, btn) {
-            currentLang = code;
-            // 更新按鈕樣式
-            document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            // 重新渲染卡片
-            renderCards();
-        }
-
-        // --- 2. 產生分類按鈕 ---
-        function renderCategoryButtons() {
-            const container = document.getElementById('categoryContainer');
-            // 從資料中提取所有不重複的「大分類」
-            const categories = [...new Set(vocabData.map(item => item.category))].filter(Boolean);
-            
-            categories.forEach(cat => {
-                const btn = document.createElement('button');
-                btn.className = 'cat-btn';
-                btn.innerText = cat;
-                btn.onclick = () => filterCategory(cat, btn);
-                container.appendChild(btn);
-            });
-        }
-
-        function filterCategory(category, btn) {
-            currentCategory = category;
-            // 更新樣式
-            document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-            if(btn) btn.classList.add('active');
-            
-            renderCards();
-        }
-
-        // --- 3. 核心：渲染卡片 ---
-        function renderCards() {
-            const container = document.getElementById('cardContainer');
-            const searchText = document.getElementById('searchInput').value.toLowerCase();
-            container.innerHTML = '';
-
-            // 篩選資料
-            const filteredData = vocabData.filter(item => {
-                // 1. 檢查該語言是否有資料 (有些字可能缺翻譯)
-                if (!item[currentLang]) return false;
-
-                // 2. 分類篩選
-                if (currentCategory !== 'all' && item.category !== currentCategory) return false;
-
-                // 3. 關鍵字搜尋 (搜中文 或 當前語言單字)
-                const word = item[currentLang].word.toLowerCase();
-                const cn = item.cn.toLowerCase();
-                if (searchText && !word.includes(searchText) && !cn.includes(searchText)) return false;
-
-                return true;
-            });
-
-            if (filteredData.length === 0) {
-                container.innerHTML = '<p style="text-align:center; width:100%; color:#888;">沒有找到資料 😅</p>';
-                return;
-            }
-
-            filteredData.forEach(item => {
-                const langData = item[currentLang]; // 取得當前語言的資料物件
-                
-                const card = document.createElement('div');
-                card.className = 'card';
-                card.innerHTML = `
-                    <span class="icon">🔊</span>
-                    <h3>${langData.word}</h3> <p>${item.cn}</p>         `;
-
-                // 設定點擊播放
-                // 組合路徑: folder (例如 CN_ENG/audio) + / + filename
-                const audioPath = `${langData.folder}/${langData.audio}`;
-                card.onclick = () => playSound(audioPath, card);
-
-                container.appendChild(card);
-            });
-        }
-
-        // --- 4. 播放功能 ---
-        function playSound(path, cardElement) {
-            if (currentAudio) {
-                currentAudio.pause();
-                currentAudio.currentTime = 0;
-            }
-
-            // UI 特效
-            document.querySelectorAll('.card').forEach(c => c.classList.remove('playing'));
-            cardElement.classList.add('playing');
-
-            currentAudio = new Audio(path);
-            
-            // 錯誤處理
-            currentAudio.onerror = () => {
-                alert(`❌ 找不到音檔：\n${path}\n請確認 Python 程式是否執行成功。`);
-                cardElement.classList.remove('playing');
-            };
-
-            currentAudio.play().catch(e => console.log("播放被瀏覽器阻擋:", e));
-
-            currentAudio.onended = () => cardElement.classList.remove('playing');
-        }
-
-        // --- 5. 搜尋監聽 ---
-        document.getElementById('searchInput').addEventListener('input', () => {
-            renderCards(); // 打字時即時更新
-        });
-
-    </script>
-</body>
-</html>
+    <div class="modal-overlay" id="installModal" onclick="closeModal(event)">
+        <div class="modal-box">
+            <span class="close-btn" onclick="closeModal(null)">×</span>
+            <h3>📱 如何加入主畫面？</h3>
+            <p style="font-size:0.9rem; color:#666;">不用下載，直接把網頁變成 APP！</p>
+            <hr style="border:0; border-top:1px solid #eee; margin:15px 0;">
+            <div style="text-align:left;">
+                <span class="ios-badge">iOS (iPhone)</span>
+                <ol>
+                    <li>點擊下方 <strong>「分享」</strong> 按鈕 <span style="font-size:1.2rem;">⎋</span></li>
+                    <li>選擇 <strong>「加入主畫面」</strong> ⊞</li>
+                    <li>點擊右上角「加入」</li>
+                </ol>
+                <span class="ios-badge" style="background:#e8f5e9; color:#2e7d32;">Android</span>
+                <ol>
