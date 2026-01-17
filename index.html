@@ -1,143 +1,401 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="apple-touch-icon" href="https://freetalkeasy.github.io/freetalkeasy/icon.png"> 
-    <title>多國語言單字卡 (FreeTalkEasy)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FreeTalkEasy Multilingual Flashcards</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Microsoft JhengHei', sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; padding-bottom: 100px; }
-        
-        .search-container { text-align: center; margin-bottom: 20px; }
-        #searchInput {
-            width: 100%; max-width: 400px; padding: 12px; 
-            border-radius: 25px; border: 1px solid #ccc; 
-            font-size: 16px; outline: none;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        :root {
+            --primary-color: #4a90e2;
+            --bg-color: #f5f7fa;
+            --card-shadow: 0 2px 4px rgba(0,0,0,0.08); /* 輕量化陰影 */
+            
+            /* 5-Level Color System (Backgrounds) */
+            --lvl-0-bg: #ffffff; /* White - New */
+            --lvl-1-bg: #e3f2fd; /* Blue - 1+ clicks */
+            --lvl-2-bg: #e8f5e9; /* Green - 3+ clicks */
+            --lvl-3-bg: #fff9c4; /* Yellow - 10+ clicks */
+            --lvl-4-bg: #ffe0b2; /* Orange - 20+ clicks */
+            --lvl-5-bg: #ffebee; /* Red - 30+ clicks (Master) */
         }
 
-        .scroll-container {
-            display: flex; gap: 10px; overflow-x: auto; 
-            padding-bottom: 10px; margin-bottom: 15px;
+        body {
+            font-family: 'Noto Sans TC', 'Roboto', sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        h1 { margin-bottom: 20px; color: #333; text-align: center; font-size: 1.5rem; }
+
+        /* Controls */
+        .controls {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
             justify-content: center;
         }
-        @media (max-width: 600px) {
-            .scroll-container { justify-content: flex-start; }
+
+        select {
+            padding: 8px 12px;
+            font-size: 14px;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+            background-color: white;
+            cursor: pointer;
         }
 
-        .lang-btn {
-            padding: 10px 20px; background: #fff; border: 2px solid #007bff; 
-            color: #007bff; border-radius: 8px; cursor: pointer; 
-            font-weight: bold; white-space: nowrap; transition: 0.2s;
+        /* Legend Bar */
+        .legend {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 20px;
+            font-size: 11px;
+            flex-wrap: wrap;
+            justify-content: center;
         }
-        .lang-btn.active { background: #007bff; color: white; }
+        .legend-item {
+            padding: 3px 8px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            background-color: white;
+        }
 
-        .cat-btn {
-            padding: 6px 14px; background: #fff; border: 1px solid #ccc; 
-            border-radius: 20px; cursor: pointer; white-space: nowrap; 
-            font-size: 0.9rem; transition: 0.2s;
-        }
-        .cat-btn.active, .cat-btn:hover {
-            background: #d32f2f; color: white; border-color: #d32f2f;
-        }
-
-        .grid {
+        /* Card Container - Grid 調整 */
+        #card-container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            /* 最小寬度改為 180px，讓卡片更緊湊適合單字 */
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); 
             gap: 15px;
+            width: 100%;
+            max-width: 1000px;
+            flex: 1; /* Push footer to bottom */
         }
+
+        /* Flashcard Styles - 緊湊版 */
         .card {
-            background: white; padding: 15px;
-            border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            text-align: center; cursor: pointer; transition: all 0.2s;
-            position: relative; border-bottom: 4px solid transparent;
-            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            background-color: var(--lvl-0-bg);
+            border-radius: 8px;
+            padding: 12px;
+            box-shadow: var(--card-shadow);
+            cursor: pointer;
+            transition: transform 0.2s, background-color 0.3s;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border: 1px solid #e0e0e0;
+            position: relative;
+            min-height: 140px; /* 限制高度，避免太長 */
         }
-        .card:active { transform: scale(0.95); }
-        .card h3 { margin: 5px 0; color: #333; font-size: 1.4rem; word-break: break-word; }
-        .card p { margin: 0; color: #888; font-size: 0.95rem; }
-        .icon { font-size: 24px; margin-bottom: 5px; opacity: 0.7; }
 
-        /* === 🌟 熟練度顏色樣式 === */
-        /* 10次: 淺藍 */
-        .card.lvl-1 { background-color: #e3f2fd; border-bottom-color: #90caf9; }
-        /* 20次: 淺綠 */
-        .card.lvl-2 { background-color: #e8f5e9; border-bottom-color: #a5d6a7; }
-        /* 30次: 淺金黃 */
-        .card.lvl-3 { background-color: #fff8e1; border: 2px solid #ffb300; }
+        .card:hover { transform: translateY(-3px); }
+        .card:active { transform: scale(0.98); }
+
+        /* Level Colors Classes */
+        .level-0 { background-color: var(--lvl-0-bg); }
+        .level-1 { background-color: var(--lvl-1-bg); border-color: #90caf9; }
+        .level-2 { background-color: var(--lvl-2-bg); border-color: #a5d6a7; }
+        .level-3 { background-color: var(--lvl-3-bg); border-color: #fff59d; }
+        .level-4 { background-color: var(--lvl-4-bg); border-color: #ffcc80; }
+        .level-5 { background-color: var(--lvl-5-bg); border-color: #ef9a9a; }
+
+        .card-header {
+            font-size: 10px;
+            color: #888;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .main-word {
+            font-size: 20px; /* 字體適中 */
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 4px;
+            line-height: 1.2;
+        }
+
+        .phonetic {
+            font-size: 13px;
+            color: #7f8c8d;
+            margin-bottom: 10px;
+            font-style: italic;
+        }
+
+        .footer-translation {
+            margin-top: auto;
+            padding-top: 8px;
+            border-top: 1px dashed rgba(0,0,0,0.1); /* 虛線分隔 */
+            font-size: 12px;
+            color: #555;
+            line-height: 1.3;
+        }
+
+        .footer-flag { margin-right: 3px; }
+
+        /* Counter badge */
+        .click-counter {
+            background: rgba(0,0,0,0.05);
+            padding: 1px 5px;
+            border-radius: 8px;
+            font-size: 9px;
+        }
+
+        /* App Footer (SEO Links) - 淡化處理 */
+        .app-footer {
+            margin-top: 50px;
+            padding: 20px;
+            width: 100%;
+            text-align: center;
+            border-top: 1px solid #eee;
+            background-color: #fff;
+            color: #999;
+        }
         
-        .card.playing { 
-            border-bottom: 4px solid #d32f2f !important; 
-            background-color: #fff !important;
-            transform: translateY(-2px);
+        .app-footer a {
+            color: #aaa;
+            text-decoration: none;
+            margin: 0 5px;
+            font-size: 12px;
+            transition: color 0.2s;
         }
-
-        .multi-lang-list {
-            margin-top: 10px; padding-top: 10px; border-top: 1px dashed #eee;
-            width: 100%; text-align: left; font-size: 0.85rem; color: #555; line-height: 1.6;
-        }
-        .multi-lang-list div { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-
-        .footer {
-            margin-top: 40px; padding: 20px; text-align: center; color: #666; font-size: 0.9rem;
-            border-top: 1px solid #ddd;
-        }
-        .footer a { color: #007bff; text-decoration: none; }
-        .footer p { margin: 5px 0; }
         
-        .install-btn, .reset-btn {
-            border: none; padding: 8px 16px; border-radius: 20px; font-size: 0.9rem; 
-            cursor: pointer; margin-bottom: 10px; display: inline-flex; align-items: center; gap: 5px;
+        .app-footer a:hover {
+            color: #666;
+            text-decoration: underline;
         }
-        .install-btn { background-color: #28a745; color: white; }
-        .reset-btn { background-color: #6c757d; color: white; margin-left: 10px; }
 
-        .modal-overlay {
-            display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0,0,0,0.5); z-index: 999; justify-content: center; align-items: center;
+        .app-footer .main-link {
+            font-weight: bold;
+            font-size: 13px;
+            display: block;
+            margin-bottom: 10px;
+            color: #7faad9; /* 淺藍色 */
         }
-        .modal-box {
-            background: white; padding: 25px; border-radius: 15px; width: 90%; max-width: 400px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2); position: relative;
-        }
-        .close-btn { position: absolute; top: 10px; right: 15px; font-size: 24px; cursor: pointer; color: #999; }
-        .ios-badge { background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; }
+
     </style>
 </head>
 <body>
 
-    <div class="search-container">
-        <input type="text" id="searchInput" placeholder="🔍 搜尋單字...">
+    <h1>🌍 FreeTalkEasy Flashcards</h1>
+
+    <div class="controls">
+        <select id="lang-select">
+            <option value="CN_ENG">🇺🇸 英語 (English)</option>
+            <option value="CN_JP">🇯🇵 日語 (Japanese)</option>
+            <option value="CN_KR">🇰🇷 韓語 (Korean)</option>
+            <option value="CN_VN">🇻🇳 越語 (Vietnamese)</option>
+            <option value="CN_TH">🇹🇭 泰語 (Thai)</option>
+            <option value="CN_ID">🇮🇩 印尼語 (Indonesian)</option>
+            <option value="CN_FR">🇫🇷 法語 (French)</option>
+            <option value="CN_DE">🇩🇪 德語 (German)</option>
+            <option value="CN_ES">🇪🇸 西語 (Spanish)</option>
+            <option value="CN_RU">🇷🇺 俄語 (Russian)</option>
+            <option value="CN_CON">🇭🇰 廣東話 (Cantonese)</option>
+            <option value="CN_ZH">🇹🇼 中文 (Chinese Mode)</option>
+        </select>
+        
+        <select id="category-filter">
+            <option value="all">所有分類 (All Categories)</option>
+        </select>
     </div>
 
-    <div class="scroll-container" id="langContainer"></div>
-    <div class="scroll-container" id="categoryContainer">
-        <button class="cat-btn active" onclick="filterCategory('all', this)">全部顯示</button>
+    <div class="legend">
+        <div class="legend-item level-0">New (0)</div>
+        <div class="legend-item level-1">Lv1 (1+)</div>
+        <div class="legend-item level-2">Lv2 (3+)</div>
+        <div class="legend-item level-3">Lv3 (10+)</div>
+        <div class="legend-item level-4">Lv4 (20+)</div>
+        <div class="legend-item level-5">Lv5 Master (30+)</div>
     </div>
 
-    <div class="grid" id="cardContainer"></div>
+    <div id="card-container">Loading...</div>
 
-    <div class="footer">
-        <button class="install-btn" onclick="openModal()">📲 如何安裝成 APP？</button>
-        <button class="reset-btn" onclick="resetProgress()">🔄 重置學習紀錄</button>
-        <p>意見回饋：<a href="mailto:tw.jeremy@gmail.com">tw.jeremy@gmail.com</a></p>
-        <p style="font-size: 0.8rem; color: #999; margin-top: 10px;">
-            Copyright © 2026 FreeTalkEasy. All rights reserved.<br>翻印必究
-        </p>
-    </div>
+    <footer class="app-footer">
+        <a href="seo_pages/sitemap.html" class="main-link">📚 查看所有單字列表 (Vocabulary Lists)</a>
+        
+        <div class="sub-links">
+            <a href="seo_pages/about.html">關於我們</a> | 
+            <a href="seo_pages/privacy.html">隱私權政策 (Privacy Policy)</a> | 
+            <a href="seo_pages/contact.html">聯絡我們</a>
+        </div>
+        
+        <div style="margin-top: 15px; font-size: 11px; color: #ccc;">
+            &copy; 2024 FreeTalkEasy Project. All rights reserved.
+        </div>
+    </footer>
 
-    <div class="modal-overlay" id="installModal" onclick="closeModal(event)">
-        <div class="modal-box">
-            <span class="close-btn" onclick="closeModal(null)">×</span>
-            <h3>📱 如何加入主畫面？</h3>
-            <p style="font-size:0.9rem; color:#666;">不用下載，直接把網頁變成 APP！</p>
-            <hr style="border:0; border-top:1px solid #eee; margin:15px 0;">
-            <div style="text-align:left;">
-                <span class="ios-badge">iOS (iPhone)</span>
-                <ol>
-                    <li>點擊下方 <strong>「分享」</strong> 按鈕 <span style="font-size:1.2rem;">⎋</span></li>
-                    <li>選擇 <strong>「加入主畫面」</strong> ⊞</li>
-                    <li>點擊右上角「加入」</li>
-                </ol>
-                <span class="ios-badge" style="background:#e8f5e9; color:#2e7d32;">Android</span>
-                <ol>
+    <script src="data.js"></script>
+
+    <script>
+        // State
+        let currentLang = 'CN_ENG'; // Default
+        const STORAGE_KEY_PREFIX = 'fte_clicks_';
+
+        // DOM Elements
+        const container = document.getElementById('card-container');
+        const langSelect = document.getElementById('lang-select');
+        const catFilter = document.getElementById('category-filter');
+
+        // Initialization
+        window.onload = () => {
+            if (typeof vocabData === 'undefined') {
+                container.innerHTML = "<p style='text-align:center; color:red; grid-column: 1/-1;'>❌ Error: <code>data.js</code> not found.<br>Please run <code>python build_website.py</code> first.</p>";
+                return;
+            }
+            populateCategories();
+            renderCards();
+        };
+
+        // Event Listeners
+        langSelect.addEventListener('change', (e) => {
+            currentLang = e.target.value;
+            renderCards();
+        });
+
+        catFilter.addEventListener('change', () => {
+            renderCards();
+        });
+
+        // Helper: Get click count from local storage
+        function getClicks(id) {
+            return parseInt(localStorage.getItem(STORAGE_KEY_PREFIX + id) || '0');
+        }
+
+        // Helper: Increment click count
+        function addClick(id) {
+            const current = getClicks(id);
+            const newCount = current + 1;
+            localStorage.setItem(STORAGE_KEY_PREFIX + id, newCount);
+            return newCount;
+        }
+
+        // Helper: Determine Level Class
+        function getLevelClass(clicks) {
+            if (clicks >= 30) return 'level-5';
+            if (clicks >= 20) return 'level-4';
+            if (clicks >= 10) return 'level-3';
+            if (clicks >= 3) return 'level-2';
+            if (clicks >= 1) return 'level-1';
+            return 'level-0';
+        }
+
+        // Populate Categories
+        function populateCategories() {
+            const categories = [...new Set(vocabData.map(item => item.category))];
+            categories.forEach(cat => {
+                if(cat) {
+                    const opt = document.createElement('option');
+                    opt.value = cat;
+                    opt.innerText = cat;
+                    catFilter.appendChild(opt);
+                }
+            });
+        }
+
+        // Main Render Function
+        function renderCards() {
+            container.innerHTML = '';
+            const selectedCat = catFilter.value;
+            const isChineseMode = (currentLang === 'CN_ZH');
+
+            vocabData.forEach(item => {
+                // 1. Category Filter
+                if (selectedCat !== 'all' && item.category !== selectedCat) return;
+
+                // 2. Data Check for target language
+                const targetData = item[currentLang];
+                if (!targetData) return;
+
+                // 3. Smart Filtering (Chinese Mode Rules)
+                if (isChineseMode) {
+                    const catName = (item.category || "").toLowerCase();
+                    const subCatName = (item.subcategory || "").toLowerCase();
+                    if (catName.includes('字母') || catName.includes('五十音') || 
+                        subCatName.includes('alphabet') || subCatName.includes('letter')) {
+                        return;
+                    }
+                }
+
+                // Prepare Content
+                const clicks = getClicks(item.id);
+                const levelClass = getLevelClass(clicks);
+                
+                let mainText = targetData.word;
+                let subText = targetData.phonetic || "";
+                let footerHtml = "";
+
+                if (isChineseMode) {
+                    // Chinese Mode: Show 5 specific languages
+                    const langsToShow = [
+                        {code: 'CN_ENG', flag: '🇺🇸'},
+                        {code: 'CN_VN', flag: '🇻🇳'},
+                        {code: 'CN_JP', flag: '🇯🇵'},
+                        {code: 'CN_TH', flag: '🇹🇭'},
+                        {code: 'CN_ID', flag: '🇮🇩'}
+                    ];
+                    
+                    let footerParts = [];
+                    langsToShow.forEach(l => {
+                        if (item[l.code] && item[l.code].word) {
+                            let w = item[l.code].word.replace(/[\(（].*?[\)）]/, '').trim(); 
+                            footerParts.push(`<span class="footer-flag">${l.flag}</span> ${w}`);
+                        }
+                    });
+                    footerHtml = footerParts.join('<br>');
+
+                } else {
+                    // Standard Mode
+                    const cnWord = item.cn;
+                    const engWord = item['CN_ENG'] ? item['CN_ENG'].word : '';
+                    
+                    footerHtml = `🇹🇼 ${cnWord}`;
+                    
+                    if (currentLang !== 'CN_ENG' && engWord) {
+                        let cleanEng = engWord.replace(/[\(（].*?[\)）]/, '').trim();
+                        footerHtml += `<br>🇺🇸 ${cleanEng}`;
+                    }
+                }
+
+                // Create Card Element
+                const card = document.createElement('div');
+                card.className = `card ${levelClass}`;
+                card.id = `card-${item.id}`;
+
+                card.innerHTML = `
+                    <div class="card-header">
+                        <span>${item.category}</span>
+                        <span class="click-counter">${clicks}</span>
+                    </div>
+                    <div>
+                        <div class="main-word">${mainText}</div>
+                        <div class="phonetic">${subText}</div>
+                    </div>
+                    <div class="footer-translation">
+                        ${footerHtml}
+                    </div>
+                `;
+
+                // Click to play audio
+                card.addEventListener('click', () => {
+                    const audioPath = `${targetData.folder}/${targetData.audio}`;
+                    const audio = new Audio(audioPath);
+                    audio.play().catch(e => console.log("Audio error:", e));
+
+                    const newCount = addClick(item.id);
+                    card.className = `card ${getLevelClass(newCount)}`;
+                    card.querySelector('.click-counter').innerText = newCount;
+                });
+
+                container.appendChild(card);
+            });
+        }
+    </script>
+</body>
+</html>
