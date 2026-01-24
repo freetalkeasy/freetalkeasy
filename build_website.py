@@ -3,8 +3,8 @@ import os
 import json
 import re
 import sys
-import asyncio # 用來執行 Edge TTS 的非同步功能
-import edge_tts # 微軟語音套件
+import asyncio 
+import edge_tts 
 from datetime import datetime
 
 # ==========================================
@@ -24,15 +24,18 @@ EXCEL_FILE = 'master_data.xlsx'
 AUDIO_SUBFOLDER = 'audio'
 SEO_FOLDER = 'seo_pages'
 
+# 您專屬的 BMC ID 與 聯絡 Email
+BMC_ID = "freetalkeasy"
+CONTACT_EMAIL = "tw.jeremy@gmail.com"
+
 COL_ID = 'ID'
 COL_CAT_MAIN = '大分類'
 COL_CAT_SUB = '子分類'
 COL_CN = '中文' 
 
 # ==========================================
-# 🎤 微軟 Edge TTS 語音對照表 (神經網路真人語音)
+# 🎤 微軟 Edge TTS 語音對照表
 # ==========================================
-# 這裡指定了每一種語言要使用哪個「聲優」
 LANG_MAP = {
     '英語': {'code': 'en', 'voice': 'en-US-AriaNeural', 'folder': 'CN_ENG', 'col_name': '英語', 'flag': '🇺🇸'},
     '日語': {'code': 'ja', 'voice': 'ja-JP-NanamiNeural', 'folder': 'CN_JP', 'col_name': '日語', 'flag': '🇯🇵'},
@@ -63,23 +66,86 @@ def get_audio_text(text, lang_code):
 def safe_filename(text):
     return re.sub(r'[\\/*?:"<>|]', "", text).strip().replace(" ", "_")
 
-# 這是專門給 Edge TTS 用的生成函式 (非同步轉同步)
 async def generate_voice_file(text, voice_name, output_path):
     communicate = edge_tts.Communicate(text, voice_name)
     await communicate.save(output_path)
 
+# ==========================================
+# 🏠 網頁模板系統 (已加入 App 引導與聯絡功能)
+# ==========================================
 def generate_html_header(title, is_subpage=False):
     path_prefix = "../" if is_subpage else "./"
-    return f"""<!DOCTYPE html><html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>{title}</title><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"><style>body{{font-family:'Noto Sans TC',sans-serif;background-color:#f8f9fa;padding-top:20px}}.header{{margin-bottom:30px;border-bottom:1px solid #dee2e6;padding-bottom:20px}}.vocab-table{{background:white;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,0.05)}}.footer{{margin-top:50px;padding:20px 0;border-top:1px solid #eee;color:#6c757d;font-size:0.9rem}}a{{text-decoration:none;color:#0d6efd}}a:hover{{text-decoration:underline}}</style></head><body><div class="container"><nav class="mb-4"><a href="../index.html">🏠 回到首頁</a> | <a href="sitemap.html">📚 分類列表</a></nav>"""
+    
+    # 這是加入主畫面的引導區塊 (只在首頁或特定情況顯示)
+    app_prompt = ""
+    if not is_subpage:
+        app_prompt = """
+        <div id="app-prompt" class="alert alert-info alert-dismissible fade show shadow-sm mb-4" role="alert">
+            <strong>📱 將 FreeTalkEasy 加入主畫面！</strong><br>
+            讓網站像 App 一樣快速開啟，學習不間斷：<br>
+            • <b>iPhone (Safari):</b> 點擊下方「分享」按鈕，選擇「加入主畫面」。<br>
+            • <b>Android (Chrome):</b> 點擊右上角「⋮」選單，選擇「加到主畫面」。
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        """
 
-def generate_html_footer():
+    return f"""<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title} - FreeTalkEasy</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body{{font-family:'Noto Sans TC',sans-serif;background-color:#f8f9fa;padding-top:20px}}
+        .header{{margin-bottom:30px;border-bottom:1px solid #dee2e6;padding-bottom:20px}}
+        .footer{{margin-top:50px;padding:40px 0;border-top:1px solid #eee;color:#6c757d;font-size:0.9rem;background-color:#fff}}
+        .bmc-box{{text-align:center;margin-top:50px;padding:40px 20px;background-color:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,0.05); border:1px solid #eee;}}
+        a{{text-decoration:none;color:#0d6efd}}
+    </style>
+</head>
+<body>
+<div class="container">
+    {app_prompt}
+    <nav class="mb-4">
+        <a href="{path_prefix}index.html">🏠 回到首頁</a> | 
+        <a href="{path_prefix}seo_pages/sitemap.html">📚 分類列表</a>
+    </nav>"""
+
+def generate_html_footer(category_name="general"):
     year = datetime.now().year
-    return f"""<footer class="footer text-center"><p>&copy; {year} FreeTalkEasy. <a href="about.html">關於</a>|<a href="privacy.html">隱私</a>|<a href="contact.html">聯絡</a></p></footer></div></body></html>"""
+    tracking_id = f"freetalkeasy_{category_name}"
+
+    # 您指定的感性訴求文字
+    text_zh = "如果您覺得 <b>FreeTalkEasy</b> 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！"
+    text_en = "If <b>FreeTalkEasy</b> has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!"
+
+    return f"""
+    <div class="bmc-box">
+        <p style="color:#333; font-size:1.1rem; line-height:1.6; margin-bottom:15px;">{text_zh}</p>
+        <p style="color:#666; font-size:0.9rem; font-style:italic; margin-bottom:25px;">{text_en}</p>
+        <a href="https://www.buymeacoffee.com/{BMC_ID}?via={tracking_id}" target="_blank">
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;">
+        </a>
+    </div>
+
+    <footer class="footer text-center mt-5">
+        <p>&copy; {year} FreeTalkEasy. 
+            <a href="about.html">關於本站</a> | 
+            <a href="mailto:{CONTACT_EMAIL}">建議與回報</a> | 
+            <a href="privacy.html">隱私政策</a>
+        </p>
+        <p class="small text-muted">聯絡信箱：{CONTACT_EMAIL}</p>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</div>
+</body>
+</html>"""
 
 # --- 主要邏輯 ---
 def main():
-    print("🚀 App Builder (Microsoft Edge TTS 版) 啟動...")
-    print("✨ 這個版本使用微軟神經網路語音，品質更好且不易被封鎖！")
+    print(f"🚀 FreeTalkEasy Builder 啟動 (BMC ID: {BMC_ID})")
 
     if not os.path.exists(SEO_FOLDER): os.makedirs(SEO_FOLDER)
     if not os.path.exists(EXCEL_FILE):
@@ -98,20 +164,12 @@ def main():
         df = pd.concat(df_list, ignore_index=True)
         df.columns = df.columns.str.strip()
         df = df.dropna(subset=[COL_ID, COL_CN])
-        print(f"✅ 成功載入 {len(df)} 筆資料")
     except Exception as e:
         print(f"❌ Excel 讀取失敗: {e}"); return
 
     js_data_list = []
     seo_categories = {} 
     
-    total_tasks = len(df) * len(LANG_MAP)
-    current_step = 0
-    generated_count = 0
-
-    print("🔄 開始處理資料 (若遇壞檔會自動修復)...")
-    
-    # 建立事件迴圈來跑 Edge TTS
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
 
@@ -121,91 +179,50 @@ def main():
         if main_cat not in seo_categories: seo_categories[main_cat] = []
         seo_categories[main_cat].append(row)
 
-        item_data = {
-            "id": row.get(COL_ID),
-            "category": main_cat,
-            "subcategory": row.get(COL_CAT_SUB),
-            "cn": cn_text
-        }
+        item_data = {"id": row.get(COL_ID), "category": main_cat, "cn": cn_text}
 
         for lang_key, config in LANG_MAP.items():
-            current_step += 1
             target_col = config['col_name']
             if target_col not in df.columns: continue
             
             raw_text = cn_text if target_col == COL_CN else row.get(target_col)
-            if pd.isna(raw_text) or str(raw_text).strip() == "":
-                item_data[config['folder']] = {"audio": None, "word": "", "phonetic": "", "folder": f"{config['folder']}/{AUDIO_SUBFOLDER}"}
-                continue
+            if pd.isna(raw_text) or str(raw_text).strip() == "": continue
 
             text_for_audio = get_audio_text(str(raw_text), config['code'])
-            match = re.search(r'[\(（](.*?)[\)）]', str(raw_text))
-            phonetic_display = match.group(1).strip() if match else ""
-
             file_name = safe_filename(text_for_audio) + ".mp3"
-            base_folder = config['folder']
-            target_folder = os.path.join(base_folder, AUDIO_SUBFOLDER)
+            target_folder = os.path.join(config['folder'], AUDIO_SUBFOLDER)
             if not os.path.exists(target_folder): os.makedirs(target_folder)
             
             full_path = os.path.join(target_folder, file_name)
             
-            # 壞檔檢查
-            need_download = True
-            if os.path.exists(full_path):
-                if os.path.getsize(full_path) < 1000: # 壞檔
-                    try: os.remove(full_path); print(f"🗑️ 刪除壞檔: {file_name}")
-                    except: pass
-                else:
-                    need_download = False
-
-            final_audio = None
-            if need_download:
+            if not os.path.exists(full_path):
                 try:
-                    print(f"🎤 [{current_step}] Edge TTS 生成: {text_for_audio} ({config['voice']})")
-                    # 呼叫微軟生成音檔
+                    print(f"🎤 生成語音: {text_for_audio}")
                     loop.run_until_complete(generate_voice_file(text_for_audio, config['voice'], full_path))
-                    generated_count += 1
-                except Exception as e:
-                    print(f"⚠️ 生成失敗: {e}")
-            
-            if os.path.exists(full_path) and os.path.getsize(full_path) > 1000:
-                final_audio = file_name
+                except: pass
 
-            item_data[config['folder']] = {
-                "word": str(raw_text),
-                "phonetic": phonetic_display,
-                "audio": final_audio,
-                "folder": f"{base_folder}/{AUDIO_SUBFOLDER}"
-            }
+            item_data[config['folder']] = {"word": str(raw_text), "audio": file_name, "folder": f"{config['folder']}/{AUDIO_SUBFOLDER}"}
 
         js_data_list.append(item_data)
 
     # 輸出 data.js
     with open("data.js", "w", encoding="utf-8") as f:
         f.write(f"const vocabData = {json.dumps(js_data_list, ensure_ascii=False, indent=4)};")
-    print("\n✅ data.js 生成完畢！")
 
-    # 更新 SEO 頁面 (簡化版)
-    print("📄 更新 SEO 頁面...")
-    sitemap_html = generate_html_header("分類列表", True) + '<div class="row">'
+    # 更新 SEO 頁面與 Sitemap
+    print("📄 更新網頁與贊助連結...")
     for cat_name, rows in seo_categories.items():
         safe_cat = safe_filename(str(cat_name))
         file_name = f"category_{safe_cat}.html"
-        sitemap_html += f'<div class="col-md-4 mb-4"><div class="card p-3"><h5>{cat_name}</h5><a href="{file_name}">前往學習 ({len(rows)})</a></div></div>'
-        cat_html = generate_html_header(f"{cat_name}", True) + f'<h1>{cat_name}</h1><table class="table table-bordered"><tbody>'
+        cat_html = generate_html_header(f"{cat_name}", True) + f'<h1 class="my-4">{cat_name}</h1><table class="table table-bordered table-striped"><tbody>'
         for row in rows:
             c_cn = row.get(COL_CN,""); c_en = row.get(LANG_MAP['英語']['col_name'],"")
             cat_html += f'<tr><td>{c_cn}</td><td>{c_en}</td></tr>'
-        cat_html += '</tbody></table>' + generate_html_footer()
+        # 關鍵：傳入分類名稱，自動產生追蹤連結與感性訴求
+        cat_html += '</tbody></table>' + generate_html_footer(cat_name)
         with open(os.path.join(SEO_FOLDER, file_name), "w", encoding="utf-8") as f: f.write(cat_html)
-    sitemap_html += '</div>' + generate_html_footer()
-    with open(os.path.join(SEO_FOLDER, "sitemap.html"), "w", encoding="utf-8") as f: f.write(sitemap_html)
-    
-    for p in ['privacy.html', 'about.html', 'contact.html']:
-        with open(os.path.join(SEO_FOLDER, p), "w", encoding="utf-8") as f: f.write(generate_html_header(p,True)+"<h1>Content</h1>"+generate_html_footer())
 
-    print(f"🎉 全部完成！一共生成了 {generated_count} 個新音檔。")
-    input("請按 Enter 鍵結束...")
+    print(f"🎉 全部完成！您的網站現在更像一個 App，且已準備好接收咖啡贊助了。")
 
 if __name__ == "__main__":
     main()

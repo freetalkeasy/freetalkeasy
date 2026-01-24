@@ -38,7 +38,7 @@
             align-items: center;
             justify-content: center;
             min-height: 100vh;
-            padding: 30px 20px;
+            padding: 40px 20px;
             background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
             z-index: 100;
         }
@@ -58,6 +58,7 @@
             gap: 12px;
             width: 100%;
             max-width: 400px;
+            margin-bottom: 40px; 
         }
 
         .lang-btn {
@@ -135,7 +136,7 @@
             margin-bottom: 15px;
         }
 
-        /* 下方懸浮控制列 (Sticky Bottom Bar) - 解決自動播放難以停止的問題 */
+        /* 下方懸浮控制列 */
         .sticky-controls {
             position: fixed;
             bottom: 0;
@@ -154,7 +155,7 @@
             max-width: 200px;
             padding: 12px 20px;
             font-size: 16px;
-            border-radius: 25px; /* 圓角按鈕 */
+            border-radius: 25px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
 
@@ -170,7 +171,6 @@
 
         select:disabled { background-color: #f0f0f0; color: #aaa; cursor: not-allowed; }
 
-        /* 自動播放按鈕樣式 */
         #btn-autoplay { background-color: var(--primary-color); color: white; border: none; font-weight: bold; }
         #btn-autoplay.playing { background-color: #f39c12; animation: pulse 1.5s infinite; }
         
@@ -182,10 +182,8 @@
 
         #btn-reset { background-color: white; color: var(--danger-color); border: 1px solid var(--danger-color); }
 
-        /* 卡片容器 - 修改為適應手機雙排 */
         #card-container {
             display: grid; 
-            /* 這裡設定最小寬度 140px，讓手機能塞進兩個 */
             grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); 
             gap: 10px; 
             width: 100%; 
@@ -193,10 +191,9 @@
             flex: 1;
         }
 
-        /* 手機版強制雙排優化 */
         @media (max-width: 400px) { 
             #card-container { grid-template-columns: 1fr 1fr; } 
-            .main-word { font-size: 18px !important; } /* 字稍微縮小以免爆掉 */
+            .main-word { font-size: 18px !important; }
         }
 
         .card {
@@ -216,10 +213,10 @@
         .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
         .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #eee; font-size: 13px; color: #555; }
 
-        /* --- 頁尾與免責聲明 --- */
+        /* --- 頁尾與支持區塊樣式 --- */
         .app-footer { 
             margin-top: 50px; 
-            padding: 20px 20px 80px 20px; /* 下方留白給懸浮按鈕 */
+            padding: 20px 20px 80px 20px;
             text-align: center; 
             color: #999; 
             font-size: 12px; 
@@ -228,8 +225,48 @@
             border-top: 1px solid #eee; 
             line-height: 1.6;
         }
+
+        /* 首頁底部的樣式 */
+        .landing-footer {
+            margin-top: 20px;
+            text-align: center;
+            color: rgba(255,255,255,0.8);
+            width: 100%;
+            max-width: 600px;
+        }
+
+        /* 贊助區塊文字樣式 */
+        .support-box {
+            background: rgba(0,0,0,0.03);
+            border-radius: 12px;
+            padding: 15px;
+            margin-bottom: 15px;
+            border: 1px solid rgba(0,0,0,0.05);
+        }
+        /* 首頁的贊助區塊背景 */
+        .landing-footer .support-box {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.1);
+            color: #eee;
+        }
+
+        .support-text {
+            font-size: 13px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+            text-align: justify;
+        }
+        .support-text-en {
+            font-size: 12px;
+            font-style: italic;
+            opacity: 0.8;
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
         .app-footer a { color: #aaa; text-decoration: none; margin: 0 5px; }
         
+        /* 內頁的免責聲明 */
         .legal-notice {
             margin-top: 15px;
             font-size: 11px;
@@ -237,22 +274,31 @@
             border-top: 1px solid #f0f0f0;
             padding-top: 10px;
         }
+        
+        /* 首頁的免責聲明 (深色背景用) */
+        .landing-legal-notice {
+            margin-top: 20px; 
+            font-size: 11px; 
+            color: rgba(255,255,255,0.5); 
+            border-top: 1px solid rgba(255,255,255,0.2); 
+            padding-top: 15px;
+        }
 
         /* Buy Me a Coffee 按鈕樣式 */
-        .bmc-btn-container { margin-top: 20px; }
         .bmc-btn {
             background-color: #FFDD00;
             color: #000000;
             font-family: 'Roboto', sans-serif;
             font-weight: bold;
             text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 8px;
+            padding: 10px 25px;
+            border-radius: 25px;
             display: inline-flex;
             align-items: center;
             gap: 8px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             transition: transform 0.2s;
+            font-size: 14px;
         }
         .bmc-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(0,0,0,0.15); }
 
@@ -302,9 +348,20 @@
             </div>
         </div>
 
-        <div style="margin-top: 30px; font-size: 11px; color: rgba(255,255,255,0.5); text-align: center;">
-            <p>※ 溫馨提醒：使用手機或平板時，請保持適當距離並適度休息，愛護您的眼睛。</p>
-            &copy; 2026 FreeTalkEasy Project. All rights reserved.
+        <div class="landing-footer">
+            <div class="support-box">
+                <p class="support-text">如果您覺得 FreeTalkEasy 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！</p>
+                <p class="support-text-en">If FreeTalkEasy has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!</p>
+                <a href="https://www.buymeacoffee.com/freetalkeasy" target="_blank" class="bmc-btn">
+                    <i class="fas fa-coffee"></i> Buy me a coffee
+                </a>
+            </div>
+
+            <div class="landing-legal-notice">
+                <p>免責聲明：本網站內容僅供語言學習參考，我們力求資訊準確，但對於因使用本網站內容而造成的任何直接或間接損失，本站不負任何法律責任。</p>
+                <p>※ 為了您的視力健康，請避免長時間盯著螢幕，建議每30分鐘休息一下。</p>
+                <p>&copy; 2026 FreeTalkEasy. All rights reserved.</p>
+            </div>
         </div>
     </div>
 
@@ -312,7 +369,7 @@
         
         <div class="top-nav">
             <button class="back-btn" onclick="goBackToHome()">
-                <span>⬅</span> 重選語言
+                <span>⬅</span> 回首頁 (Back)
             </button>
             <div class="current-lang-display" id="display-lang-name">🇺🇸 英語</div>
         </div>
@@ -330,16 +387,19 @@
 
         <footer class="app-footer">
             
-            <div class="bmc-btn-container">
-                <a href="#" target="_blank" class="bmc-btn">
+            <div class="support-box">
+                <p class="support-text">如果您覺得 FreeTalkEasy 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！</p>
+                <p class="support-text-en">If FreeTalkEasy has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!</p>
+                <a href="https://www.buymeacoffee.com/freetalkeasy" target="_blank" class="bmc-btn">
                     <i class="fas fa-coffee"></i> Buy me a coffee
                 </a>
             </div>
-            <br>
             
-            <a href="seo_pages/sitemap.html">單字列表</a> |
-            <a href="seo_pages/about.html">關於</a> | 
-            <a href="seo_pages/privacy.html">隱私</a>
+            <div style="margin-top:20px;">
+                <a href="seo_pages/sitemap.html">單字列表</a> |
+                <a href="seo_pages/about.html">關於</a> | 
+                <a href="seo_pages/privacy.html">隱私</a>
+            </div>
 
             <div class="legal-notice">
                 <p>免責聲明：本網站內容僅供語言學習參考，我們力求資訊準確，但對於因使用本網站內容而造成的任何直接或間接損失，本站不負任何法律責任。</p>
@@ -499,10 +559,7 @@
         function playNextCard() {
             if (!isAutoPlaying || autoPlayIndex >= visibleCards.length) { stopAutoPlay(); return; }
             const card = visibleCards[autoPlayIndex];
-            
-            // 優化捲動：捲動到螢幕中間，行為改為 smooth
             card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            
             card.click();
             autoPlayIndex++;
             autoPlayTimer = setTimeout(playNextCard, 3000);
