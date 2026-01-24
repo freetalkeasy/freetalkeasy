@@ -1,27 +1,31 @@
 @echo off
+chcp 65001
 echo ==========================================
-echo [STEP 1] Preparing to upload...
+echo [STEP 1] 準備上傳到 GitHub...
 echo ==========================================
 
 :: 1. 切換到正確目錄
 cd /d "%~dp0"
 
-:: 2. 加入檔案
-echo Adding files...
+:: 2. 加入檔案 (特別指定加入音檔資料夾！)
+echo 📦 正在加入所有檔案...
 git add .
+echo 🎵 正在強制加入音檔...
+git add audio/*
+git add mp3/*
 
 :: 3. 提交紀錄
-echo Committing changes...
-set /p commit_msg="Enter message (Press Enter for default): "
+echo 📝 正在建立提交紀錄...
+set /p commit_msg="請輸入備註 (直接按 Enter 則預設為 'Update content'): "
 if "%commit_msg%"=="" set commit_msg=Update content
 git commit -m "%commit_msg%"
 
 :: 4. 上傳
-echo Uploading to GitHub...
+echo ☁️ 正在上傳至 GitHub...
 git push
 
 echo ==========================================
-echo [SUCCESS] Upload Complete! 
-echo Please wait 1-2 minutes for the update.
+echo ✅ 上傳完成！
+echo 請等待 1-2 分鐘，然後用手機無痕模式查看。
 echo ==========================================
 pause

@@ -2,8 +2,9 @@
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>FreeTalkEasy Flashcards</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -27,6 +28,7 @@
             margin: 0;
             padding: 0;
             min-height: 100vh;
+            padding-bottom: 80px; /* 為了避開下方的懸浮控制列 */
         }
 
         /* --- 1. 首頁語言選擇區 (Landing Page) --- */
@@ -34,9 +36,9 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center; /* 垂直置中 */
+            justify-content: center;
             min-height: 100vh;
-            padding: 30px 20px; /* 增加一點內距 */
+            padding: 30px 20px;
             background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
             z-index: 100;
         }
@@ -50,27 +52,24 @@
             text-shadow: 0 2px 4px rgba(0,0,0,0.2);
         }
 
-        /* 修改點 1: 改為單欄垂直排列 */
         .lang-list {
             display: flex;
-            flex-direction: column; /* 從上到下 */
-            gap: 12px; /* 按鈕之間的間距 */
+            flex-direction: column;
+            gap: 12px;
             width: 100%;
-            max-width: 400px; /* 手機上看起來最舒服的寬度限制 */
+            max-width: 400px;
         }
 
-        /* 修改點 2: 按鈕樣式改為橫向佈局 (左圖右文) */
         .lang-btn {
             display: flex;
-            flex-direction: row; /* 橫向排列 */
-            align-items: center; /* 垂直置中 */
-            justify-content: flex-start; /* 內容靠左 */
-            
+            flex-direction: row;
+            align-items: center;
+            justify-content: flex-start;
             background: white;
             border: none;
             border-radius: 12px;
-            padding: 15px 20px; /* 內距調整 */
-            width: 100%; /* 寬度填滿 */
+            padding: 15px 20px;
+            width: 100%;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             cursor: pointer;
             transition: transform 0.2s, background-color 0.2s;
@@ -78,34 +77,28 @@
         }
 
         .lang-btn:hover {
-            transform: translateX(5px); /* 滑鼠移過去時，稍微往右動一點 */
+            transform: translateX(5px);
             background-color: #f0f7ff;
         }
 
-        /* 修改點 3: 國旗圖片樣式 */
         .lang-flag-img {
             width: 40px;  
             height: 30px; 
-            margin-right: 20px; /* 國旗跟文字的距離 */
-            margin-bottom: 0;   /* 取消下邊距 */
+            margin-right: 20px; 
             border-radius: 4px; 
             box-shadow: 0 1px 3px rgba(0,0,0,0.2); 
             object-fit: cover;
-            flex-shrink: 0; /* 防止國旗被擠扁 */
+            flex-shrink: 0;
         }
 
         .lang-name { 
             font-size: 16px; 
             color: #2a5298; 
             font-weight: bold;
-            flex-grow: 1; /* 讓文字佔據剩下空間 */
+            flex-grow: 1; 
         }
 
-        /* 加一個小箭頭讓它更有按鈕的感覺 */
-        .lang-arrow {
-            color: #ccc;
-            font-size: 14px;
-        }
+        .lang-arrow { color: #ccc; font-size: 14px; }
 
         /* --- 2. 主應用程式區 (Main App) --- */
         #app-screen {
@@ -132,17 +125,37 @@
         }
         .current-lang-display { font-weight: bold; color: var(--primary-color); font-size: 18px; }
 
-        .controls {
+        /* 上方篩選區 */
+        .filters {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 10px;
             width: 100%;
             max-width: 800px;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
 
-        @media (max-width: 600px) {
-            .controls { grid-template-columns: 1fr; } 
+        /* 下方懸浮控制列 (Sticky Bottom Bar) - 解決自動播放難以停止的問題 */
+        .sticky-controls {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: white;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            z-index: 1000;
+        }
+
+        .sticky-controls button {
+            max-width: 200px;
+            padding: 12px 20px;
+            font-size: 16px;
+            border-radius: 25px; /* 圓角按鈕 */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
 
         select, button {
@@ -157,29 +170,41 @@
 
         select:disabled { background-color: #f0f0f0; color: #aaa; cursor: not-allowed; }
 
+        /* 自動播放按鈕樣式 */
         #btn-autoplay { background-color: var(--primary-color); color: white; border: none; font-weight: bold; }
-        #btn-autoplay.playing { background-color: #f39c12; }
+        #btn-autoplay.playing { background-color: #f39c12; animation: pulse 1.5s infinite; }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
         #btn-reset { background-color: white; color: var(--danger-color); border: 1px solid var(--danger-color); }
 
-        .legend-container { width: 100%; max-width: 400px; margin-bottom: 25px; text-align: center; }
-        .legend-bar {
-            height: 10px; border-radius: 10px;
-            background: linear-gradient(90deg, var(--lvl-0-bg) 0%, var(--lvl-1-bg) 20%, var(--lvl-2-bg) 40%, var(--lvl-3-bg) 60%, var(--lvl-4-bg) 80%, var(--lvl-5-bg) 100%);
-            border: 1px solid #ddd;
-        }
-        .legend-labels { display: flex; justify-content: space-between; font-size: 12px; color: #888; margin-top: 5px; }
-
+        /* 卡片容器 - 修改為適應手機雙排 */
         #card-container {
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 15px; width: 100%; max-width: 1000px; flex: 1;
+            display: grid; 
+            /* 這裡設定最小寬度 140px，讓手機能塞進兩個 */
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); 
+            gap: 10px; 
+            width: 100%; 
+            max-width: 800px; 
+            flex: 1;
         }
-        @media (max-width: 600px) { #card-container { grid-template-columns: 1fr; } }
+
+        /* 手機版強制雙排優化 */
+        @media (max-width: 400px) { 
+            #card-container { grid-template-columns: 1fr 1fr; } 
+            .main-word { font-size: 18px !important; } /* 字稍微縮小以免爆掉 */
+        }
 
         .card {
-            background-color: var(--lvl-0-bg); border-radius: 12px; padding: 15px; box-shadow: var(--card-shadow); cursor: pointer; transition: transform 0.2s;
-            display: flex; flex-direction: column; justify-content: space-between; position: relative; min-height: 150px;
+            background-color: var(--lvl-0-bg); border-radius: 12px; padding: 12px; box-shadow: var(--card-shadow); cursor: pointer; transition: transform 0.2s;
+            display: flex; flex-direction: column; justify-content: space-between; position: relative; min-height: 140px;
             border: 2px solid transparent;
         }
-        .card.playing { border-color: #4a90e2 !important; transform: scale(1.02); }
+        .card.playing { border-color: #4a90e2 !important; transform: scale(1.05); z-index: 10; box-shadow: 0 0 15px rgba(74, 144, 226, 0.5); }
         .card.level-0 { background:var(--lvl-0-bg); border:1px solid #eee; }
         .card.level-1 { background:var(--lvl-1-bg); border-color:#90caf9; }
         .card.level-2 { background:var(--lvl-2-bg); border-color:#a5d6a7; }
@@ -187,13 +212,49 @@
         .card.level-4 { background:var(--lvl-4-bg); border-color:#ffcc80; }
         .card.level-5 { background:var(--lvl-5-bg); border-color:#ef9a9a; }
 
-        .main-word { font-size: 22px; font-weight: bold; color: #2c3e50; margin-bottom: 5px; }
-        .phonetic { font-size: 14px; color: #7f8c8d; margin-bottom: 15px; font-style: italic; }
-        .footer-translation { margin-top: auto; padding-top: 10px; border-top: 1px dashed #eee; font-size: 14px; color: #555; }
-        @media (max-width: 600px) { .footer-translation { font-size: 16px; font-weight: 500; color: #333; } .main-word { font-size: 26px; } }
+        .main-word { font-size: 20px; font-weight: bold; color: #2c3e50; margin-bottom: 2px; line-height: 1.2; }
+        .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
+        .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #eee; font-size: 13px; color: #555; }
 
-        .app-footer { margin-top: 50px; padding: 20px; text-align: center; color: #999; font-size: 12px; width: 100%; background: #fff; border-top: 1px solid #eee; }
+        /* --- 頁尾與免責聲明 --- */
+        .app-footer { 
+            margin-top: 50px; 
+            padding: 20px 20px 80px 20px; /* 下方留白給懸浮按鈕 */
+            text-align: center; 
+            color: #999; 
+            font-size: 12px; 
+            width: 100%; 
+            background: #fff; 
+            border-top: 1px solid #eee; 
+            line-height: 1.6;
+        }
         .app-footer a { color: #aaa; text-decoration: none; margin: 0 5px; }
+        
+        .legal-notice {
+            margin-top: 15px;
+            font-size: 11px;
+            color: #ccc;
+            border-top: 1px solid #f0f0f0;
+            padding-top: 10px;
+        }
+
+        /* Buy Me a Coffee 按鈕樣式 */
+        .bmc-btn-container { margin-top: 20px; }
+        .bmc-btn {
+            background-color: #FFDD00;
+            color: #000000;
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        .bmc-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(0,0,0,0.15); }
 
     </style>
 </head>
@@ -203,83 +264,47 @@
         <h1 class="landing-title">🌍 FreeTalkEasy<br><span style="font-size:16px; opacity:0.8; font-weight:normal;">請選擇學習語言 / Select Language</span></h1>
         
         <div class="lang-list">
-            
             <div class="lang-btn" onclick="selectLanguage('CN_ENG', '🇺🇸 英語')">
-                <img src="https://flagcdn.com/w80/us.png" class="lang-flag-img" alt="US">
-                <span class="lang-name">英語 (English)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/us.png" class="lang-flag-img" alt="US"><span class="lang-name">英語 (English)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_JP', '🇯🇵 日語')">
-                <img src="https://flagcdn.com/w80/jp.png" class="lang-flag-img" alt="JP">
-                <span class="lang-name">日語 (Japanese)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/jp.png" class="lang-flag-img" alt="JP"><span class="lang-name">日語 (Japanese)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_KR', '🇰🇷 韓語')">
-                <img src="https://flagcdn.com/w80/kr.png" class="lang-flag-img" alt="KR">
-                <span class="lang-name">韓語 (Korean)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/kr.png" class="lang-flag-img" alt="KR"><span class="lang-name">韓語 (Korean)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_VN', '🇻🇳 越語')">
-                <img src="https://flagcdn.com/w80/vn.png" class="lang-flag-img" alt="VN">
-                <span class="lang-name">越語 (Vietnamese)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/vn.png" class="lang-flag-img" alt="VN"><span class="lang-name">越語 (Vietnamese)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_TH', '🇹🇭 泰語')">
-                <img src="https://flagcdn.com/w80/th.png" class="lang-flag-img" alt="TH">
-                <span class="lang-name">泰語 (Thai)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/th.png" class="lang-flag-img" alt="TH"><span class="lang-name">泰語 (Thai)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_ID', '🇮🇩 印尼語')">
-                <img src="https://flagcdn.com/w80/id.png" class="lang-flag-img" alt="ID">
-                <span class="lang-name">印尼語 (Indonesia)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/id.png" class="lang-flag-img" alt="ID"><span class="lang-name">印尼語 (Indonesia)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_FR', '🇫🇷 法語')">
-                <img src="https://flagcdn.com/w80/fr.png" class="lang-flag-img" alt="FR">
-                <span class="lang-name">法語 (French)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/fr.png" class="lang-flag-img" alt="FR"><span class="lang-name">法語 (French)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_DE', '🇩🇪 德語')">
-                <img src="https://flagcdn.com/w80/de.png" class="lang-flag-img" alt="DE">
-                <span class="lang-name">德語 (German)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/de.png" class="lang-flag-img" alt="DE"><span class="lang-name">德語 (German)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_ES', '🇪🇸 西語')">
-                <img src="https://flagcdn.com/w80/es.png" class="lang-flag-img" alt="ES">
-                <span class="lang-name">西語 (Spanish)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/es.png" class="lang-flag-img" alt="ES"><span class="lang-name">西語 (Spanish)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_CON', '🇭🇰 廣東話')">
-                <img src="https://flagcdn.com/w80/hk.png" class="lang-flag-img" alt="HK">
-                <span class="lang-name">廣東話 (Cantonese)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/hk.png" class="lang-flag-img" alt="HK"><span class="lang-name">廣東話 (Cantonese)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_ZH', '🇹🇼 中文')">
-                <img src="https://flagcdn.com/w80/tw.png" class="lang-flag-img" alt="TW">
-                <span class="lang-name">中文 (Chinese Mode)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/tw.png" class="lang-flag-img" alt="TW"><span class="lang-name">中文 (Chinese Mode)</span><span class="lang-arrow">➜</span>
             </div>
-
             <div class="lang-btn" onclick="selectLanguage('CN_RU', '🇷🇺 俄語')">
-                <img src="https://flagcdn.com/w80/ru.png" class="lang-flag-img" alt="RU">
-                <span class="lang-name">俄語 (Russian)</span>
-                <span class="lang-arrow">➜</span>
+                <img src="https://flagcdn.com/w80/ru.png" class="lang-flag-img" alt="RU"><span class="lang-name">俄語 (Russian)</span><span class="lang-arrow">➜</span>
             </div>
-
         </div>
 
-        <div style="margin-top: 30px; font-size: 12px; color: rgba(255,255,255,0.6);">
-            &copy; 2024 FreeTalkEasy Project
+        <div style="margin-top: 30px; font-size: 11px; color: rgba(255,255,255,0.5); text-align: center;">
+            <p>※ 溫馨提醒：使用手機或平板時，請保持適當距離並適度休息，愛護您的眼睛。</p>
+            &copy; 2026 FreeTalkEasy Project. All rights reserved.
         </div>
     </div>
 
@@ -292,31 +317,41 @@
             <div class="current-lang-display" id="display-lang-name">🇺🇸 英語</div>
         </div>
 
-        <div class="controls">
+        <div class="filters">
             <select id="category-filter">
-                <option value="all">📚 所有主分類 (Category)</option>
+                <option value="all">📚 所有主分類</option>
             </select>
-
             <select id="sub-category-filter" disabled>
-                <option value="all">📌 所有次分類 (Subcategory)</option>
+                <option value="all">📌 所有次分類</option>
             </select>
-
-            <button id="btn-autoplay">▶ 自動播放</button>
-            <button id="btn-reset">🗑️ 清除學習紀錄</button>
-        </div>
-
-        <div class="legend-container">
-            <div class="legend-bar"></div>
-            <div class="legend-labels"><span>Start (0)</span><span>Master (30+)</span></div>
         </div>
 
         <div id="card-container">Loading...</div>
 
         <footer class="app-footer">
-            <a href="seo_pages/sitemap.html" style="color:#7faad9; font-weight:bold;">📚 查看單字列表</a> |
+            
+            <div class="bmc-btn-container">
+                <a href="#" target="_blank" class="bmc-btn">
+                    <i class="fas fa-coffee"></i> Buy me a coffee
+                </a>
+            </div>
+            <br>
+            
+            <a href="seo_pages/sitemap.html">單字列表</a> |
             <a href="seo_pages/about.html">關於</a> | 
             <a href="seo_pages/privacy.html">隱私</a>
+
+            <div class="legal-notice">
+                <p>免責聲明：本網站內容僅供語言學習參考，我們力求資訊準確，但對於因使用本網站內容而造成的任何直接或間接損失，本站不負任何法律責任。</p>
+                <p>※ 為了您的視力健康，請避免長時間盯著螢幕，建議每30分鐘休息一下。</p>
+                <p>&copy; 2026 FreeTalkEasy. All rights reserved.</p>
+            </div>
         </footer>
+
+        <div class="sticky-controls">
+            <button id="btn-autoplay">▶ 自動播放</button>
+            <button id="btn-reset">🗑️ 重置</button>
+        </div>
     </div>
 
     <script src="data.js"></script>
@@ -342,7 +377,7 @@
 
         window.onload = () => {
             if (typeof vocabData === 'undefined') {
-                alert("找不到 data.js，請先執行 Python 程式！");
+                alert("找不到 data.js，請確認是否已執行 Python 程式！");
                 return;
             }
             populateCategories();
@@ -404,7 +439,7 @@
         }
 
         function updateSubCategories(mainCat) {
-            subCatFilter.innerHTML = '<option value="all">📌 所有次分類 (Subcategory)</option>';
+            subCatFilter.innerHTML = '<option value="all">📌 所有次分類</option>';
             if (mainCat === 'all') {
                 subCatFilter.disabled = true;
                 return;
@@ -450,21 +485,24 @@
             visibleCards = Array.from(document.querySelectorAll('.card'));
             if (visibleCards.length === 0) return;
             isAutoPlaying = true;
-            btnAutoPlay.innerHTML = "⏹ 停止播放";
+            btnAutoPlay.innerHTML = '<i class="fas fa-stop"></i> 停止播放';
             btnAutoPlay.classList.add('playing');
             autoPlayIndex = 0;
             playNextCard();
         }
         function stopAutoPlay() {
             isAutoPlaying = false;
-            btnAutoPlay.innerHTML = "▶ 自動播放";
+            btnAutoPlay.innerHTML = '▶ 自動播放';
             btnAutoPlay.classList.remove('playing');
             clearTimeout(autoPlayTimer);
         }
         function playNextCard() {
             if (!isAutoPlaying || autoPlayIndex >= visibleCards.length) { stopAutoPlay(); return; }
             const card = visibleCards[autoPlayIndex];
+            
+            // 優化捲動：捲動到螢幕中間，行為改為 smooth
             card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            
             card.click();
             autoPlayIndex++;
             autoPlayTimer = setTimeout(playNextCard, 3000);
