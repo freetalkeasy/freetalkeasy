@@ -57,15 +57,42 @@
             z-index: 100;
         }
 
-        .landing-title {
-            font-size: 26px;
-            color: #ffffff;
-            margin-bottom: 30px;
+        /* --- 新增的 Logo 樣式 (取代原本的 landing-title) --- */
+        .logo-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
             text-align: center;
-            font-weight: bold;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
-            width: 100%;
+            margin-bottom: 30px; /* 保持與下方按鈕的距離 */
         }
+
+        .earth-logo {
+            width: 80px;  /* 地球大小 */
+            height: 80px;
+            color: #60A5FA; /* 亮藍色，在深色背景上很清楚 */
+            margin-bottom: 15px;
+            /* 增加一點藍色光暈，讓它看起來更有科技感 */
+            filter: drop-shadow(0 0 10px rgba(96, 165, 250, 0.6));
+        }
+
+        .site-title {
+            font-family: 'Roboto', sans-serif;
+            font-size: 32px;
+            color: #ffffff;
+            font-weight: 700;
+            margin: 0 0 8px 0;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            line-height: 1.2;
+        }
+
+        .site-subtitle {
+            font-size: 16px;
+            color: rgba(255, 255, 255, 0.8);
+            font-weight: normal;
+            margin: 0;
+        }
+        /* --- Logo 樣式結束 --- */
 
         .lang-list {
             display: flex;
@@ -326,7 +353,16 @@
 <body>
 
     <div id="landing-screen">
-        <h1 class="landing-title">🌍 FreeTalkEasy<br><span style="font-size:16px; opacity:0.8; font-weight:normal;">請選擇學習語言 / Select Language</span></h1>
+        
+        <div class="logo-container">
+            <svg class="earth-logo" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+                <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" stroke="currentColor" stroke-width="2"/>
+            </svg>
+            
+            <h1 class="site-title">FreeTalkEasy</h1>
+            <p class="site-subtitle">請選擇學習語言 / Select Language</p>
+        </div>
         
         <div class="lang-list">
             <div class="lang-btn" onclick="selectLanguage('CN_ENG', '🇺🇸 英語')">
