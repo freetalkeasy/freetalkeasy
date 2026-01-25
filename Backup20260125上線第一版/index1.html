@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>FreeTalkEasy Flashcards</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #4a90e2;
+            --danger-color: #e74c3c;
+            --bg-color: #f5f7fa;
+            --card-shadow: 0 2px 4px rgba(0,0,0,0.08);
+            
+            /* 5-Level Color System */
+            --lvl-0-bg: #ffffff;
+            --lvl-1-bg: #e3f2fd;
+            --lvl-2-bg: #e8f5e9;
+            --lvl-3-bg: #fff9c4;
+            --lvl-4-bg: #ffe0b2;
+            --lvl-5-bg: #ffebee;
+        }
+
+        body {
+            font-family: 'Noto Sans TC', 'Roboto', sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            padding-bottom: 80px; /* 為了避開下方的懸浮控制列 */
+        }
+
+        /* --- 1. 首頁語言選擇區 (Landing Page) --- */
+        #landing-screen {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 30px 20px;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            z-index: 100;
+        }
+
+        .landing-title {
+            font-size: 26px;
+            color: #ffffff;
+            margin-bottom: 30px;
+            text-align: center;
+            font-weight: bold;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .lang-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .lang-btn {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: flex-start;
+            background: white;
+            border: none;
+            border-radius: 12px;
+            padding: 15px 20px;
+            width: 100%;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.2s, background-color 0.2s;
+            position: relative;
+        }
+
+        .lang-btn:hover {
+            transform: translateX(5px);
+            background-color: #f0f7ff;
+        }
+
+        .lang-flag-img {
+            width: 40px;  
+            height: 30px; 
+            margin-right: 20px; 
+            border-radius: 4px; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2); 
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+
+        .lang-name { 
+            font-size: 16px; 
+            color: #2a5298; 
+            font-weight: bold;
+            flex-grow: 1; 
+        }
+
+        .lang-arrow { color: #ccc; font-size: 14px; }
+
+        /* --- 2. 主應用程式區 (Main App) --- */
+        #app-screen {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .top-nav {
+            width: 100%;
+            max-width: 800px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .back-btn {
+            background: none; border: none; font-size: 16px; color: #666; cursor: pointer; display: flex; align-items: center; gap: 5px;
+        }
+        .current-lang-display { font-weight: bold; color: var(--primary-color); font-size: 18px; }
+
+        /* 上方篩選區 */
+        .filters {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            width: 100%;
+            max-width: 800px;
+            margin-bottom: 15px;
+        }
+
+        /* 下方懸浮控制列 (Sticky Bottom Bar) - 解決自動播放難以停止的問題 */
+        .sticky-controls {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: white;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            z-index: 1000;
+        }
+
+        .sticky-controls button {
+            max-width: 200px;
+            padding: 12px 20px;
+            font-size: 16px;
+            border-radius: 25px; /* 圓角按鈕 */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        select, button {
+            padding: 12px;
+            font-size: 15px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            background-color: white;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        select:disabled { background-color: #f0f0f0; color: #aaa; cursor: not-allowed; }
+
+        /* 自動播放按鈕樣式 */
+        #btn-autoplay { background-color: var(--primary-color); color: white; border: none; font-weight: bold; }
+        #btn-autoplay.playing { background-color: #f39c12; animation: pulse 1.5s infinite; }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
+        #btn-reset { background-color: white; color: var(--danger-color); border: 1px solid var(--danger-color); }
+
+        /* 卡片容器 - 修改為適應手機雙排 */
+        #card-container {
+            display: grid; 
+            /* 這裡設定最小寬度 140px，讓手機能塞進兩個 */
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); 
+            gap: 10px; 
+            width: 100%; 
+            max-width: 800px; 
+            flex: 1;
+        }
+
+        /* 手機版強制雙排優化 */
+        @media (max-width: 400px) { 
+            #card-container { grid-template-columns: 1fr 1fr; } 
+            .main-word { font-size: 18px !important; } /* 字稍微縮小以免爆掉 */
+        }
+
+        .card {
+            background-color: var(--lvl-0-bg); border-radius: 12px; padding: 12px; box-shadow: var(--card-shadow); cursor: pointer; transition: transform 0.2s;
+            display: flex; flex-direction: column; justify-content: space-between; position: relative; min-height: 140px;
+            border: 2px solid transparent;
+        }
+        .card.playing { border-color: #4a90e2 !important; transform: scale(1.05); z-index: 10; box-shadow: 0 0 15px rgba(74, 144, 226, 0.5); }
+        .card.level-0 { background:var(--lvl-0-bg); border:1px solid #eee; }
+        .card.level-1 { background:var(--lvl-1-bg); border-color:#90caf9; }
+        .card.level-2 { background:var(--lvl-2-bg); border-color:#a5d6a7; }
+        .card.level-3 { background:var(--lvl-3-bg); border-color:#fff59d; }
+        .card.level-4 { background:var(--lvl-4-bg); border-color:#ffcc80; }
+        .card.level-5 { background:var(--lvl-5-bg); border-color:#ef9a9a; }
+
+        .main-word { font-size: 20px; font-weight: bold; color: #2c3e50; margin-bottom: 2px; line-height: 1.2; }
+        .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
+        .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #eee; font-size: 13px; color: #555; }
+
+        /* --- 頁尾與免責聲明 --- */
+        .app-footer { 
+            margin-top: 50px; 
+            padding: 20px 20px 80px 20px; /* 下方留白給懸浮按鈕 */
+            text-align: center; 
+            color: #999; 
+            font-size: 12px; 
+            width: 100%; 
+            background: #fff; 
+            border-top: 1px solid #eee; 
+            line-height: 1.6;
+        }
+        .app-footer a { color: #aaa; text-decoration: none; margin: 0 5px; }
+        
+        .legal-notice {
+            margin-top: 15px;
+            font-size: 11px;
+            color: #ccc;
+            border-top: 1px solid #f0f0f0;
+            padding-top: 10px;
+        }
+
+        /* Buy Me a Coffee 按鈕樣式 */
+        .bmc-btn-container { margin-top: 20px; }
+        .bmc-btn {
+            background-color: #FFDD00;
+            color: #000000;
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        .bmc-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(0,0,0,0.15); }
+
+    </style>
+</head>
+<body>
+
+    <div id="landing-screen">
+        <h1 class="landing-title">🌍 FreeTalkEasy<br><span style="font-size:16px; opacity:0.8; font-weight:normal;">請選擇學習語言 / Select Language</span></h1>
+        
+        <div class="lang-list">
+            <div class="lang-btn" onclick="selectLanguage('CN_ENG', '🇺🇸 英語')">
+                <img src="https://flagcdn.com/w80/us.png" class="lang-flag-img" alt="US"><span class="lang-name">英語 (English)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_JP', '🇯🇵 日語')">
+                <img src="https://flagcdn.com/w80/jp.png" class="lang-flag-img" alt="JP"><span class="lang-name">日語 (Japanese)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_KR', '🇰🇷 韓語')">
+                <img src="https://flagcdn.com/w80/kr.png" class="lang-flag-img" alt="KR"><span class="lang-name">韓語 (Korean)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_VN', '🇻🇳 越語')">
+                <img src="https://flagcdn.com/w80/vn.png" class="lang-flag-img" alt="VN"><span class="lang-name">越語 (Vietnamese)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_TH', '🇹🇭 泰語')">
+                <img src="https://flagcdn.com/w80/th.png" class="lang-flag-img" alt="TH"><span class="lang-name">泰語 (Thai)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_ID', '🇮🇩 印尼語')">
+                <img src="https://flagcdn.com/w80/id.png" class="lang-flag-img" alt="ID"><span class="lang-name">印尼語 (Indonesia)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_FR', '🇫🇷 法語')">
+                <img src="https://flagcdn.com/w80/fr.png" class="lang-flag-img" alt="FR"><span class="lang-name">法語 (French)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_DE', '🇩🇪 德語')">
+                <img src="https://flagcdn.com/w80/de.png" class="lang-flag-img" alt="DE"><span class="lang-name">德語 (German)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_ES', '🇪🇸 西語')">
+                <img src="https://flagcdn.com/w80/es.png" class="lang-flag-img" alt="ES"><span class="lang-name">西語 (Spanish)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_CON', '🇭🇰 廣東話')">
+                <img src="https://flagcdn.com/w80/hk.png" class="lang-flag-img" alt="HK"><span class="lang-name">廣東話 (Cantonese)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_ZH', '🇹🇼 中文')">
+                <img src="https://flagcdn.com/w80/tw.png" class="lang-flag-img" alt="TW"><span class="lang-name">中文 (Chinese Mode)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_RU', '🇷🇺 俄語')">
+                <img src="https://flagcdn.com/w80/ru.png" class="lang-flag-img" alt="RU"><span class="lang-name">俄語 (Russian)</span><span class="lang-arrow">➜</span>
+            </div>
+        </div>
+
+        <div style="margin-top: 30px; font-size: 11px; color: rgba(255,255,255,0.5); text-align: center;">
+            <p>※ 溫馨提醒：使用手機或平板時，請保持適當距離並適度休息，愛護您的眼睛。</p>
+            &copy; 2026 FreeTalkEasy Project. All rights reserved.
+        </div>
+    </div>
+
+    <div id="app-screen">
+        
+        <div class="top-nav">
+            <button class="back-btn" onclick="goBackToHome()">
+                <span>⬅</span> 重選語言
+            </button>
+            <div class="current-lang-display" id="display-lang-name">🇺🇸 英語</div>
+        </div>
+
+        <div class="filters">
+            <select id="category-filter">
+                <option value="all">📚 所有主分類</option>
+            </select>
+            <select id="sub-category-filter" disabled>
+                <option value="all">📌 所有次分類</option>
+            </select>
+        </div>
+
+        <div id="card-container">Loading...</div>
+
+        <footer class="app-footer">
+            
+            <div class="bmc-btn-container">
+                <a href="#" target="_blank" class="bmc-btn">
+                    <i class="fas fa-coffee"></i> Buy me a coffee
+                </a>
+            </div>
+            <br>
+            
+            <a href="seo_pages/sitemap.html">單字列表</a> |
+            <a href="seo_pages/about.html">關於</a> | 
+            <a href="seo_pages/privacy.html">隱私</a>
+
+            <div class="legal-notice">
+                <p>免責聲明：本網站內容僅供語言學習參考，我們力求資訊準確，但對於因使用本網站內容而造成的任何直接或間接損失，本站不負任何法律責任。</p>
+                <p>※ 為了您的視力健康，請避免長時間盯著螢幕，建議每30分鐘休息一下。</p>
+                <p>&copy; 2026 FreeTalkEasy. All rights reserved.</p>
+            </div>
+        </footer>
+
+        <div class="sticky-controls">
+            <button id="btn-autoplay">▶ 自動播放</button>
+            <button id="btn-reset">🗑️ 重置</button>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+
+    <script>
+        let currentLang = 'CN_ENG'; 
+        const STORAGE_KEY_PREFIX = 'fte_clicks_';
+        
+        const landingScreen = document.getElementById('landing-screen');
+        const appScreen = document.getElementById('app-screen');
+        const displayLangName = document.getElementById('display-lang-name');
+        
+        const container = document.getElementById('card-container');
+        const catFilter = document.getElementById('category-filter');
+        const subCatFilter = document.getElementById('sub-category-filter');
+        const btnAutoPlay = document.getElementById('btn-autoplay');
+        const btnReset = document.getElementById('btn-reset');
+
+        let isAutoPlaying = false;
+        let visibleCards = [];
+        let autoPlayTimer = null;
+        let autoPlayIndex = 0;
+
+        window.onload = () => {
+            if (typeof vocabData === 'undefined') {
+                alert("找不到 data.js，請確認是否已執行 Python 程式！");
+                return;
+            }
+            populateCategories();
+        };
+
+        function selectLanguage(code, name) {
+            currentLang = code;
+            displayLangName.innerText = name;
+            landingScreen.style.display = 'none';
+            appScreen.style.display = 'flex';
+            
+            catFilter.value = 'all';
+            updateSubCategories('all');
+            renderCards();
+            window.scrollTo(0, 0);
+        }
+
+        function goBackToHome() {
+            stopAutoPlay();
+            appScreen.style.display = 'none';
+            landingScreen.style.display = 'flex';
+        }
+
+        catFilter.addEventListener('change', () => {
+            stopAutoPlay();
+            updateSubCategories(catFilter.value);
+            renderCards();
+        });
+
+        subCatFilter.addEventListener('change', () => {
+            stopAutoPlay();
+            renderCards();
+        });
+
+        btnAutoPlay.addEventListener('click', () => {
+            if (!isAutoPlaying) startAutoPlay();
+            else stopAutoPlay();
+        });
+
+        btnReset.addEventListener('click', () => {
+            if(confirm("⚠️ 確定要清除所有學習紀錄嗎？\n(卡片等級將全部歸零)")) {
+                Object.keys(localStorage).forEach(key => {
+                    if(key.startsWith(STORAGE_KEY_PREFIX)) localStorage.removeItem(key);
+                });
+                renderCards();
+            }
+        });
+
+        function populateCategories() {
+            const categories = [...new Set(vocabData.map(item => item.category))];
+            categories.forEach(cat => {
+                if(cat) {
+                    const opt = document.createElement('option');
+                    opt.value = cat;
+                    opt.innerText = cat;
+                    catFilter.appendChild(opt);
+                }
+            });
+        }
+
+        function updateSubCategories(mainCat) {
+            subCatFilter.innerHTML = '<option value="all">📌 所有次分類</option>';
+            if (mainCat === 'all') {
+                subCatFilter.disabled = true;
+                return;
+            }
+            subCatFilter.disabled = false;
+            
+            const subCats = [...new Set(
+                vocabData.filter(item => item.category === mainCat)
+                .map(item => item.subcategory).filter(s => s)
+            )];
+
+            if (subCats.length > 0) {
+                subCats.forEach(sub => {
+                    const opt = document.createElement('option');
+                    opt.value = sub;
+                    opt.innerText = sub;
+                    subCatFilter.appendChild(opt);
+                });
+            } else {
+                const opt = document.createElement('option');
+                opt.innerText = "(無子分類)";
+                subCatFilter.appendChild(opt);
+                subCatFilter.disabled = true;
+            }
+        }
+
+        function getClicks(id) { return parseInt(localStorage.getItem(STORAGE_KEY_PREFIX + id) || '0'); }
+        function addClick(id) {
+            const n = getClicks(id) + 1;
+            localStorage.setItem(STORAGE_KEY_PREFIX + id, n);
+            return n;
+        }
+        function getLevelClass(n) {
+            if (n >= 30) return 'level-5';
+            if (n >= 20) return 'level-4';
+            if (n >= 10) return 'level-3';
+            if (n >= 3) return 'level-2';
+            if (n >= 1) return 'level-1';
+            return 'level-0';
+        }
+
+        function startAutoPlay() {
+            visibleCards = Array.from(document.querySelectorAll('.card'));
+            if (visibleCards.length === 0) return;
+            isAutoPlaying = true;
+            btnAutoPlay.innerHTML = '<i class="fas fa-stop"></i> 停止播放';
+            btnAutoPlay.classList.add('playing');
+            autoPlayIndex = 0;
+            playNextCard();
+        }
+        function stopAutoPlay() {
+            isAutoPlaying = false;
+            btnAutoPlay.innerHTML = '▶ 自動播放';
+            btnAutoPlay.classList.remove('playing');
+            clearTimeout(autoPlayTimer);
+        }
+        function playNextCard() {
+            if (!isAutoPlaying || autoPlayIndex >= visibleCards.length) { stopAutoPlay(); return; }
+            const card = visibleCards[autoPlayIndex];
+            
+            // 優化捲動：捲動到螢幕中間，行為改為 smooth
+            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            
+            card.click();
+            autoPlayIndex++;
+            autoPlayTimer = setTimeout(playNextCard, 3000);
+        }
+
+        function renderCards() {
+            container.innerHTML = '';
+            const sCat = catFilter.value;
+            const sSub = subCatFilter.value;
+            const isChineseMode = (currentLang === 'CN_ZH');
+
+            vocabData.forEach(item => {
+                if (sCat !== 'all' && item.category !== sCat) return;
+                if (sCat !== 'all' && sSub !== 'all' && item.subcategory !== sSub) return;
+
+                const targetData = item[currentLang];
+                if (!targetData) return;
+                if (isChineseMode) {
+                   const cName = (item.category||"").toLowerCase();
+                   if (cName.includes('字母')||cName.includes('五十音')) return;
+                }
+
+                const clicks = getClicks(item.id);
+                
+                let footerHtml = "";
+                if (isChineseMode) {
+                    const ls = [{c:'CN_ENG',f:'🇺🇸'}, {c:'CN_VN',f:'🇻🇳'}, {c:'CN_JP',f:'🇯🇵'}];
+                    footerHtml = ls.map(l => item[l.c]?.word ? `<span style="margin-right:5px;">${l.f}</span>${item[l.c].word.replace(/[\(（].*?[\)）]/,'').trim()}` : '').filter(Boolean).join('<br>');
+                } else {
+                    const en = item['CN_ENG']?.word?.replace(/[\(（].*?[\)）]/,'').trim() || "";
+                    footerHtml = `🇹🇼 ${item.cn}` + (currentLang!=='CN_ENG' && en ? `<br>🇺🇸 ${en}` : '');
+                }
+
+                const card = document.createElement('div');
+                card.className = `card ${getLevelClass(clicks)}`;
+                card.dataset.audio = targetData.audio ? `${targetData.folder}/${targetData.audio}` : '';
+                
+                let headerTxt = item.category;
+                if(item.subcategory && sCat === 'all') headerTxt += ` > ${item.subcategory}`;
+
+                card.innerHTML = `
+                    <div style="font-size:10px; color:#999; display:flex; justify-content:space-between;">
+                        <span>${headerTxt}</span>
+                        <span class="click-counter" style="background:#eee; padding:2px 6px; border-radius:10px;">${clicks}</span>
+                    </div>
+                    <div>
+                        <div class="main-word">${targetData.word}</div>
+                        <div class="phonetic">${targetData.phonetic || ""}</div>
+                    </div>
+                    <div class="footer-translation">${footerHtml}</div>
+                `;
+
+                card.onclick = () => {
+                    const src = card.dataset.audio;
+                    if(!src) return;
+                    new Audio(src).play()
+                    .then(() => {
+                        card.classList.add('playing');
+                        const n = addClick(item.id);
+                        card.className = `card playing ${getLevelClass(n)}`;
+                        card.querySelector('.click-counter').innerText = n;
+                        setTimeout(() => card.classList.remove('playing'), 1000);
+                    })
+                    .catch(e => console.error(e));
+                };
+
+                container.appendChild(card);
+            });
+        }
+    </script>
+</body>
+</html>

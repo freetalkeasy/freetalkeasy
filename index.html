@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        /* --- 全域盒模型設定 (手機版排版關鍵) --- */
+        /* --- 全域盒模型設定 --- */
         *, *::before, *::after {
             box-sizing: border-box;
         }
@@ -52,38 +52,45 @@
             align-items: center;
             justify-content: center;
             min-height: 100vh;
-            padding: 40px 15px; /* 手機版兩側留白優化 */
+            padding: 40px 15px;
             background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
             z-index: 100;
         }
 
-        /* --- 新增的 Logo 樣式 (取代原本的 landing-title) --- */
+        /* --- Logo 區塊樣式 (v9.9 巨大合體版) --- */
         .logo-container {
             display: flex;
-            flex-direction: column;
+            flex-direction: column; 
             align-items: center;
+            margin-bottom: 30px; 
+        }
+
+        .logo-title-wrapper {
+            display: flex;
+            flex-direction: row;    /* 橫向排列 */
+            align-items: center;    /* 垂直置中 */
             justify-content: center;
-            text-align: center;
-            margin-bottom: 30px; /* 保持與下方按鈕的距離 */
+            gap: 0px;               /* 🔴 改這裡：間隙歸零 */
+            margin-bottom: 5px;
         }
 
         .earth-logo {
-            width: 80px;  /* 地球大小 */
-            height: 80px;
-            color: #60A5FA; /* 亮藍色，在深色背景上很清楚 */
-            margin-bottom: 15px;
-            /* 增加一點藍色光暈，讓它看起來更有科技感 */
-            filter: drop-shadow(0 0 10px rgba(96, 165, 250, 0.6));
+            width: 130px;   /* 🔴 改這裡：放大到 130px */
+            height: 130px;
+            object-fit: contain;
+            border-radius: 50%;
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2));
+            /* 如果圖片本身還有留白，可以用負邊距強制拉近，例如：margin-right: -10px; */
         }
 
         .site-title {
             font-family: 'Roboto', sans-serif;
-            font-size: 32px;
+            font-size: 42px;    /* 標題字體再加大，與巨大 Logo 匹配 */
             color: #ffffff;
             font-weight: 700;
-            margin: 0 0 8px 0;
+            margin: 0;          
             text-shadow: 0 2px 4px rgba(0,0,0,0.3);
-            line-height: 1.2;
+            line-height: 1;     /* 縮小行高，讓字更緊湊 */
         }
 
         .site-subtitle {
@@ -355,12 +362,11 @@
     <div id="landing-screen">
         
         <div class="logo-container">
-            <svg class="earth-logo" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
-                <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" stroke="currentColor" stroke-width="2"/>
-            </svg>
+            <div class="logo-title-wrapper">
+                <img src="logo/logo.png" class="earth-logo" alt="FreeTalkEasy Logo">
+                <h1 class="site-title">FreeTalkEasy</h1>
+            </div>
             
-            <h1 class="site-title">FreeTalkEasy</h1>
             <p class="site-subtitle">請選擇學習語言 / Select Language</p>
         </div>
         
