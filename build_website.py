@@ -176,10 +176,21 @@ def main():
     for index, row in df.iterrows():
         cn_text = row.get(COL_CN, "").strip()
         main_cat = row.get(COL_CAT_MAIN, "Uncategorized")
+        
+        # 🔴 修正：加入讀取子分類的邏輯
+        sub_cat = str(row.get(COL_CAT_SUB, "")).strip()
+        if sub_cat == "nan": sub_cat = ""  # 處理空值
+
         if main_cat not in seo_categories: seo_categories[main_cat] = []
         seo_categories[main_cat].append(row)
 
-        item_data = {"id": row.get(COL_ID), "category": main_cat, "cn": cn_text}
+        # 🔴 修正：將 subcategory 加入資料字典中
+        item_data = {
+            "id": row.get(COL_ID), 
+            "category": main_cat, 
+            "subcategory": sub_cat, # 這裡加入子分類
+            "cn": cn_text
+        }
 
         for lang_key, config in LANG_MAP.items():
             target_col = config['col_name']
@@ -197,7 +208,8 @@ def main():
             
             if not os.path.exists(full_path):
                 try:
-                    print(f"🎤 生成語音: {text_for_audio}")
+                    # 註解掉 print 避免洗版
+                    # print(f"🎤 生成語音: {text_for_audio}")
                     loop.run_until_complete(generate_voice_file(text_for_audio, config['voice'], full_path))
                 except: pass
 

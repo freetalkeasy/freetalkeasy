@@ -9,25 +9,24 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-R7XMFE1GNF');
     </script>
+
     <title>FreeTalkEasy Flashcards</title>
+    
+    <link rel="icon" href="logo/logo.png" type="image/png">
+    <link rel="apple-touch-icon" href="logo/logo.png">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        /* --- 全域盒模型設定 --- */
-        *, *::before, *::after {
-            box-sizing: border-box;
-        }
+        *, *::before, *::after { box-sizing: border-box; }
 
         :root {
             --primary-color: #4a90e2;
             --danger-color: #e74c3c;
             --bg-color: #f5f7fa;
             --card-shadow: 0 2px 4px rgba(0,0,0,0.08);
-            
-            /* 5-Level Color System */
             --lvl-0-bg: #ffffff;
             --lvl-1-bg: #e3f2fd;
             --lvl-2-bg: #e8f5e9;
@@ -45,7 +44,7 @@
             padding-bottom: 80px;
         }
 
-        /* --- 1. 首頁語言選擇區 (Landing Page) --- */
+        /* --- Landing Page --- */
         #landing-screen {
             display: flex;
             flex-direction: column;
@@ -57,7 +56,7 @@
             z-index: 100;
         }
 
-        /* --- Logo 區塊樣式 (v9.9 巨大合體版) --- */
+        /* --- Logo --- */
         .logo-container {
             display: flex;
             flex-direction: column; 
@@ -67,30 +66,29 @@
 
         .logo-title-wrapper {
             display: flex;
-            flex-direction: row;    /* 橫向排列 */
-            align-items: center;    /* 垂直置中 */
+            flex-direction: row;
+            align-items: center;
             justify-content: center;
-            gap: 0px;               /* 🔴 改這裡：間隙歸零 */
+            gap: 0px; 
             margin-bottom: 5px;
         }
 
         .earth-logo {
-            width: 130px;   /* 🔴 改這裡：放大到 130px */
+            width: 130px;
             height: 130px;
             object-fit: contain;
             border-radius: 50%;
             filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2));
-            /* 如果圖片本身還有留白，可以用負邊距強制拉近，例如：margin-right: -10px; */
         }
 
         .site-title {
             font-family: 'Roboto', sans-serif;
-            font-size: 42px;    /* 標題字體再加大，與巨大 Logo 匹配 */
+            font-size: 42px;    
             color: #ffffff;
             font-weight: 700;
             margin: 0;          
             text-shadow: 0 2px 4px rgba(0,0,0,0.3);
-            line-height: 1;     /* 縮小行高，讓字更緊湊 */
+            line-height: 1;     
         }
 
         .site-subtitle {
@@ -99,8 +97,8 @@
             font-weight: normal;
             margin: 0;
         }
-        /* --- Logo 樣式結束 --- */
 
+        /* --- Language List --- */
         .lang-list {
             display: flex;
             flex-direction: column;
@@ -152,7 +150,7 @@
 
         .lang-arrow { color: #ccc; font-size: 14px; margin-left: 10px; }
 
-        /* --- 2. 主應用程式區 (Main App) --- */
+        /* --- App Screen --- */
         #app-screen {
             display: none;
             flex-direction: column;
@@ -174,8 +172,23 @@
 
         .back-btn {
             background: none; border: none; font-size: 16px; color: #666; cursor: pointer; display: flex; align-items: center; gap: 5px;
+            flex-shrink: 0; 
         }
-        .current-lang-display { font-weight: bold; color: var(--primary-color); font-size: 18px; }
+        
+        .current-lang-display { 
+            font-weight: bold; 
+            color: var(--primary-color); 
+            font-size: 18px; 
+            white-space: nowrap !important;
+            flex-shrink: 0;
+            text-align: right;   
+            margin-left: 10px;   
+        }
+
+        @media (max-width: 400px) {
+            .back-btn span.btn-text { display: none; }
+            .back-btn { font-size: 20px; }
+        }
 
         .filters {
             display: grid;
@@ -295,6 +308,27 @@
             color: #eee;
         }
 
+        /* 🔴 新增：首頁的「安裝 App 教學」區塊 */
+        .install-guide-box {
+            background: rgba(0,0,0,0.3); /* 深色半透明背景 */
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            padding: 15px;
+            margin-top: 20px;
+            text-align: left;
+            font-size: 13px;
+            color: #fff;
+        }
+        .install-guide-box h4 {
+            margin: 0 0 10px 0;
+            font-size: 14px;
+            color: #FFDD00; /* 黃色標題 */
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .install-guide-box ul { margin: 0; padding-left: 20px; opacity: 0.9; line-height: 1.6; }
+
         .support-text {
             font-size: 13px;
             line-height: 1.6;
@@ -311,7 +345,6 @@
 
         .app-footer a { color: #aaa; text-decoration: none; margin: 0 5px; }
         
-        /* 連結樣式優化 */
         .feedback-link {
             color: inherit;
             text-decoration: none;
@@ -360,13 +393,11 @@
 <body>
 
     <div id="landing-screen">
-        
         <div class="logo-container">
             <div class="logo-title-wrapper">
                 <img src="logo/logo.png" class="earth-logo" alt="FreeTalkEasy Logo">
                 <h1 class="site-title">FreeTalkEasy</h1>
             </div>
-            
             <p class="site-subtitle">請選擇學習語言 / Select Language</p>
         </div>
         
@@ -418,7 +449,19 @@
                 </a>
             </div>
 
-            <div style="margin-bottom: 10px;">
+            <div class="install-guide-box">
+                <h4><i class="fas fa-mobile-alt"></i> 如何像 App 一樣安裝？</h4>
+                <ul>
+                    <li style="margin-bottom:5px;">
+                        <i class="fab fa-apple"></i> <b>iPhone (Safari):</b> 點擊下方「分享」圖示 <i class="fas fa-share-square"></i> ➜ 選擇「加入主畫面」。
+                    </li>
+                    <li>
+                        <i class="fab fa-android"></i> <b>Android (Chrome):</b> 點擊右上角選單 <i class="fas fa-ellipsis-v"></i> ➜ 選擇「加到主畫面」或「安裝應用程式」。
+                    </li>
+                </ul>
+            </div>
+
+            <div style="margin: 15px 0 10px 0;">
                 <a href="mailto:tw.jeremy@gmail.com" class="feedback-link" style="color: rgba(255,255,255,0.9); font-size: 14px;">
                     <i class="fas fa-envelope"></i> 網站回饋信箱：tw.jeremy@gmail.com
                 </a>
@@ -433,10 +476,9 @@
     </div>
 
     <div id="app-screen">
-        
         <div class="top-nav">
             <button class="back-btn" onclick="goBackToHome()">
-                <span>⬅</span> 回首頁 (Back)
+                <span>⬅</span> <span class="btn-text">回首頁 (Back)</span>
             </button>
             <div class="current-lang-display" id="display-lang-name">🇺🇸 英語</div>
         </div>
@@ -453,7 +495,6 @@
         <div id="card-container">Loading...</div>
 
         <footer class="app-footer">
-            
             <div class="support-box">
                 <p class="support-text">如果您覺得 FreeTalkEasy 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！</p>
                 <p class="support-text-en">If FreeTalkEasy has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!</p>
@@ -491,7 +532,13 @@
 
     <script>
         let currentLang = 'CN_ENG'; 
+        
+        // --- 儲存設定用的 Keys ---
         const STORAGE_KEY_PREFIX = 'fte_clicks_';
+        const STORAGE_KEY_LAST_LANG = 'fte_last_lang';
+        const STORAGE_KEY_LAST_LANG_NAME = 'fte_last_lang_name';
+        const STORAGE_KEY_LAST_CAT = 'fte_last_cat';
+        const STORAGE_KEY_LAST_SUB = 'fte_last_sub';
         
         const landingScreen = document.getElementById('landing-screen');
         const appScreen = document.getElementById('app-screen');
@@ -508,40 +555,95 @@
         let autoPlayTimer = null;
         let autoPlayIndex = 0;
 
+        // 🟢 網頁載入時：檢查有沒有上次的紀錄
         window.onload = () => {
             if (typeof vocabData === 'undefined') {
                 alert("找不到 data.js，請確認是否已執行 Python 程式！");
                 return;
             }
-            populateCategories();
+            populateCategories(); // 先填入分類選單
+
+            // 檢查是否有儲存的語言
+            const lastLang = localStorage.getItem(STORAGE_KEY_LAST_LANG);
+            const lastLangName = localStorage.getItem(STORAGE_KEY_LAST_LANG_NAME);
+
+            if (lastLang && lastLangName) {
+                selectLanguage(lastLang, lastLangName, true);
+            }
         };
 
-        function selectLanguage(code, name) {
+        // 🟢 選擇語言
+        function selectLanguage(code, name, isAutoLoad = false) {
             currentLang = code;
             displayLangName.innerText = name;
             landingScreen.style.display = 'none';
             appScreen.style.display = 'flex';
             
-            catFilter.value = 'all';
-            updateSubCategories('all');
+            // 儲存這次選擇的語言
+            localStorage.setItem(STORAGE_KEY_LAST_LANG, code);
+            localStorage.setItem(STORAGE_KEY_LAST_LANG_NAME, name);
+            
+            // 設定分類選單
+            if (isAutoLoad) {
+                // 如果是自動載入，嘗試恢復上次的分類進度
+                const lastCat = localStorage.getItem(STORAGE_KEY_LAST_CAT);
+                if (lastCat) {
+                    catFilter.value = lastCat;
+                    updateSubCategories(lastCat); // 更新子分類選單
+                    
+                    const lastSub = localStorage.getItem(STORAGE_KEY_LAST_SUB);
+                    if (lastSub) {
+                        subCatFilter.value = lastSub;
+                    }
+                } else {
+                    catFilter.value = 'all';
+                    updateSubCategories('all');
+                }
+            } else {
+                // 如果是手動點選進入，為了符合「預設課程進度」需求，這裡也嘗試讀取分類
+                const lastCat = localStorage.getItem(STORAGE_KEY_LAST_CAT);
+                if (lastCat) {
+                    catFilter.value = lastCat;
+                    updateSubCategories(lastCat);
+                    const lastSub = localStorage.getItem(STORAGE_KEY_LAST_SUB);
+                    if (lastSub) subCatFilter.value = lastSub;
+                } else {
+                    catFilter.value = 'all';
+                    updateSubCategories('all');
+                }
+            }
+
             renderCards();
             window.scrollTo(0, 0);
         }
 
+        // 🟢 回首頁
         function goBackToHome() {
             stopAutoPlay();
             appScreen.style.display = 'none';
             landingScreen.style.display = 'flex';
         }
 
+        // 🟢 監聽：主分類改變時，儲存進度
         catFilter.addEventListener('change', () => {
             stopAutoPlay();
             updateSubCategories(catFilter.value);
+            
+            // 儲存主分類
+            localStorage.setItem(STORAGE_KEY_LAST_CAT, catFilter.value);
+            // 切換主分類時，子分類會變回 all，也要同步儲存
+            localStorage.setItem(STORAGE_KEY_LAST_SUB, 'all');
+
             renderCards();
         });
 
+        // 🟢 監聽：子分類改變時，儲存進度
         subCatFilter.addEventListener('change', () => {
             stopAutoPlay();
+            
+            // 儲存子分類
+            localStorage.setItem(STORAGE_KEY_LAST_SUB, subCatFilter.value);
+
             renderCards();
         });
 
