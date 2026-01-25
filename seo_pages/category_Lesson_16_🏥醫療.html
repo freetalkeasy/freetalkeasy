@@ -4,25 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lesson 16 🏥醫療 - FreeTalkEasy</title>
+    
+    <link rel="icon" href="../logo/logo.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="../logo/logo.png" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="../logo/logo.png">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body{font-family:'Noto Sans TC',sans-serif;background-color:#f8f9fa;padding-top:20px}
+        
+        /* 頁面寬度設定 (同步首頁 1200px) */
+        .container { max-width: 1200px; }
+        
         .header{margin-bottom:30px;border-bottom:1px solid #dee2e6;padding-bottom:20px}
         .footer{margin-top:50px;padding:40px 0;border-top:1px solid #eee;color:#6c757d;font-size:0.9rem;background-color:#fff}
-        .bmc-box{text-align:center;margin-top:50px;padding:40px 20px;background-color:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,0.05); border:1px solid #eee;}
+        
+        /* 贊助區塊置中與限寬 (修復文字太散) */
+        .bmc-box{
+            text-align:center;
+            margin: 50px auto; 
+            max-width: 600px;  
+            padding: 40px 20px;
+            background-color:#fff;
+            border-radius:12px;
+            box-shadow:0 2px 10px rgba(0,0,0,0.05); 
+            border:1px solid #eee;
+        }
+        
         a{text-decoration:none;color:#0d6efd}
+        
+        /* 讓表格與內容區塊更好看 */
+        .table-container, .content-box {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+        h1 { color: #2c3e50; font-weight: bold; margin-bottom: 20px; }
     </style>
 </head>
 <body>
 <div class="container">
     
     <nav class="mb-4">
-        <a href="../index.html">🏠 回到首頁</a> | 
+        <a href="../index.html">🏠 回到首頁 (Home)</a> | 
         <a href="../seo_pages/sitemap.html">📚 分類列表</a>
-    </nav><h1 class="my-4">Lesson 16 🏥醫療</h1><table class="table table-bordered table-striped"><tbody><tr><td>牙醫</td><td>Dentist</td></tr><tr><td>眼科</td><td>Ophthalmology</td></tr><tr><td>內科</td><td>Internal Medicine</td></tr><tr><td>外科</td><td>Surgery</td></tr><tr><td>救護車</td><td>Ambulance</td></tr><tr><td>急診室</td><td>Emergency Room</td></tr><tr><td>藥局</td><td>Pharmacy</td></tr><tr><td>嘔吐</td><td>Vomit</td></tr><tr><td>過敏</td><td>Allergy</td></tr><tr><td>頭暈</td><td>Dizzy</td></tr><tr><td>流血</td><td>Bleeding</td></tr><tr><td>受傷</td><td>Injured</td></tr><tr><td>拉肚子</td><td>Diarrhea</td></tr><tr><td>感冒</td><td>Cold</td></tr><tr><td>發燒</td><td>Fever</td></tr><tr><td>頭痛</td><td>Headache</td></tr><tr><td>肚子痛</td><td>Stomachache</td></tr><tr><td>咳嗽</td><td>Cough</td></tr><tr><td>喉嚨痛</td><td>Sore throat</td></tr><tr><td>流鼻水</td><td>Runny nose</td></tr></tbody></table>
+    </nav><h1 class="my-4">Lesson 16 🏥醫療</h1><div class="table-container"><table class="table table-bordered table-striped"><tbody><tr><td>牙醫</td><td>Dentist</td></tr><tr><td>眼科</td><td>Ophthalmology</td></tr><tr><td>內科</td><td>Internal Medicine</td></tr><tr><td>外科</td><td>Surgery</td></tr><tr><td>救護車</td><td>Ambulance</td></tr><tr><td>急診室</td><td>Emergency Room</td></tr><tr><td>藥局</td><td>Pharmacy</td></tr><tr><td>嘔吐</td><td>Vomit</td></tr><tr><td>過敏</td><td>Allergy</td></tr><tr><td>頭暈</td><td>Dizzy</td></tr><tr><td>流血</td><td>Bleeding</td></tr><tr><td>受傷</td><td>Injured</td></tr><tr><td>拉肚子</td><td>Diarrhea</td></tr><tr><td>感冒</td><td>Cold</td></tr><tr><td>發燒</td><td>Fever</td></tr><tr><td>頭痛</td><td>Headache</td></tr><tr><td>肚子痛</td><td>Stomachache</td></tr><tr><td>咳嗽</td><td>Cough</td></tr><tr><td>喉嚨痛</td><td>Sore throat</td></tr><tr><td>流鼻水</td><td>Runny nose</td></tr></tbody></table></div>
     <div class="bmc-box">
-        <p style="color:#333; font-size:1.1rem; line-height:1.6; margin-bottom:15px;">如果您覺得 <b>FreeTalkEasy</b> 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！</p>
-        <p style="color:#666; font-size:0.9rem; font-style:italic; margin-bottom:25px;">If <b>FreeTalkEasy</b> has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!</p>
+        <p style="color:#333; font-size:1.1rem; line-height:1.6; margin-bottom:15px;">如果您覺得 <b>FreeTalkEasy</b> 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。</p>
+        <p style="color:#666; font-size:0.9rem; font-style:italic; margin-bottom:25px;">If <b>FreeTalkEasy</b> has saved you valuable time, consider buying me a coffee! Your support fuels the continuous update of our database.</p>
         <a href="https://www.buymeacoffee.com/freetalkeasy?via=freetalkeasy_Lesson 16 🏥醫療" target="_blank">
             <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;">
         </a>

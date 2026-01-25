@@ -4,25 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lesson 04🔢 數字(numbs) - FreeTalkEasy</title>
+    
+    <link rel="icon" href="../logo/logo.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="../logo/logo.png" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="../logo/logo.png">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body{font-family:'Noto Sans TC',sans-serif;background-color:#f8f9fa;padding-top:20px}
+        
+        /* 頁面寬度設定 (同步首頁 1200px) */
+        .container { max-width: 1200px; }
+        
         .header{margin-bottom:30px;border-bottom:1px solid #dee2e6;padding-bottom:20px}
         .footer{margin-top:50px;padding:40px 0;border-top:1px solid #eee;color:#6c757d;font-size:0.9rem;background-color:#fff}
-        .bmc-box{text-align:center;margin-top:50px;padding:40px 20px;background-color:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,0.05); border:1px solid #eee;}
+        
+        /* 贊助區塊置中與限寬 (修復文字太散) */
+        .bmc-box{
+            text-align:center;
+            margin: 50px auto; 
+            max-width: 600px;  
+            padding: 40px 20px;
+            background-color:#fff;
+            border-radius:12px;
+            box-shadow:0 2px 10px rgba(0,0,0,0.05); 
+            border:1px solid #eee;
+        }
+        
         a{text-decoration:none;color:#0d6efd}
+        
+        /* 讓表格與內容區塊更好看 */
+        .table-container, .content-box {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+        h1 { color: #2c3e50; font-weight: bold; margin-bottom: 20px; }
     </style>
 </head>
 <body>
 <div class="container">
     
     <nav class="mb-4">
-        <a href="../index.html">🏠 回到首頁</a> | 
+        <a href="../index.html">🏠 回到首頁 (Home)</a> | 
         <a href="../seo_pages/sitemap.html">📚 分類列表</a>
-    </nav><h1 class="my-4">Lesson 04🔢 數字(numbs)</h1><table class="table table-bordered table-striped"><tbody><tr><td>零</td><td>Zero</td></tr><tr><td>一</td><td>One</td></tr><tr><td>二</td><td>Two</td></tr><tr><td>三</td><td>Three</td></tr><tr><td>四</td><td>Four</td></tr><tr><td>五</td><td>Five</td></tr><tr><td>六</td><td>Six</td></tr><tr><td>七</td><td>Seven</td></tr><tr><td>八</td><td>Eight</td></tr><tr><td>九</td><td>Nine</td></tr><tr><td>十</td><td>Ten</td></tr><tr><td>十一</td><td>Eleven</td></tr><tr><td>十二</td><td>Twelve</td></tr><tr><td>十三</td><td>Thirteen</td></tr><tr><td>十四</td><td>Fourteen</td></tr><tr><td>十五</td><td>Fifteen</td></tr><tr><td>十六</td><td>Sixteen</td></tr><tr><td>十七</td><td>Seventeen</td></tr><tr><td>十八</td><td>Eighteen</td></tr><tr><td>十九</td><td>Nineteen</td></tr><tr><td>二十</td><td>Twenty</td></tr><tr><td>三十</td><td>Thirty</td></tr><tr><td>四十</td><td>Forty</td></tr><tr><td>五十</td><td>Fifty</td></tr><tr><td>六十</td><td>Sixty</td></tr><tr><td>七十</td><td>Seventy</td></tr><tr><td>八十</td><td>Eighty</td></tr><tr><td>九十</td><td>Ninety</td></tr><tr><td>一百</td><td>One hundred</td></tr><tr><td>兩百</td><td>Two hundred</td></tr><tr><td>三百</td><td>Three hundred</td></tr><tr><td>五百</td><td>Five hundred</td></tr><tr><td>八百</td><td>Eight hundred</td></tr><tr><td>一千</td><td>One thousand</td></tr><tr><td>兩千</td><td>Two thousand</td></tr><tr><td>五千</td><td>Five thousand</td></tr><tr><td>八千</td><td>Eight thousand</td></tr><tr><td>一萬</td><td>Ten thousand</td></tr><tr><td>兩萬</td><td>Twenty thousand</td></tr><tr><td>五萬</td><td>Fifty thousand</td></tr><tr><td>八萬</td><td>Eighty thousand</td></tr><tr><td>十萬</td><td>One hundred thousand</td></tr><tr><td>二十萬</td><td>Two hundred thousand</td></tr><tr><td>五十萬</td><td>Five hundred thousand</td></tr><tr><td>一百萬</td><td>One million</td></tr><tr><td>一千萬</td><td>Ten million</td></tr><tr><td>一億</td><td>One hundred million</td></tr><tr><td>十億</td><td>One billion</td></tr><tr><td>全部</td><td>All</td></tr><tr><td>一半</td><td>Half</td></tr><tr><td>數學</td><td>Mathematics</td></tr><tr><td>加 (加上)</td><td>Plus / Add</td></tr><tr><td>減 (減去)</td><td>Minus / Subtract</td></tr><tr><td>乘 (乘以)</td><td>Multiply</td></tr><tr><td>除 (除以)</td><td>Divide</td></tr><tr><td>等於</td><td>Equals</td></tr><tr><td>總共</td><td>Total</td></tr><tr><td>分數</td><td>Fraction</td></tr><tr><td>百分比</td><td>Percentage</td></tr><tr><td>點 (小數點)</td><td>Point</td></tr><tr><td>計算機</td><td>Calculator</td></tr><tr><td>形狀</td><td>Shape</td></tr><tr><td>圓形</td><td>Circle</td></tr><tr><td>正方形</td><td>Square</td></tr><tr><td>三角形</td><td>Triangle</td></tr><tr><td>長方形</td><td>Rectangle</td></tr><tr><td>角度</td><td>Angle</td></tr><tr><td>直線</td><td>Line</td></tr><tr><td>寬度</td><td>Width</td></tr><tr><td>高度</td><td>Height</td></tr><tr><td>第一</td><td>First</td></tr><tr><td>第二</td><td>Second</td></tr><tr><td>第三</td><td>Third</td></tr><tr><td>最後</td><td>Last</td></tr><tr><td>數字</td><td>Number</td></tr><tr><td>數量</td><td>Quantity / Amount</td></tr><tr><td>一些</td><td>Some</td></tr><tr><td>很多</td><td>Many / Much</td></tr><tr><td>很少</td><td>Few / Little</td></tr><tr><td>每個</td><td>Each</td></tr><tr><td>幾 (多少)</td><td>How many / How much</td></tr><tr><td>計算</td><td>Calculate</td></tr><tr><td>總共</td><td>Total</td></tr><tr><td>個 (量詞)</td><td>Piece (generic counter)</td></tr><tr><td>位 (人)</td><td>Person (polite counter)</td></tr><tr><td>次 (回)</td><td>Time (frequency)</td></tr><tr><td>隻 (動物)</td><td>Counter for animals</td></tr><tr><td>本 (書)</td><td>Counter for books</td></tr><tr><td>雙 (對)</td><td>Pair</td></tr><tr><td>歲 (年齡)</td><td>Years old</td></tr><tr><td>錢</td><td>Money</td></tr><tr><td>價格</td><td>Price</td></tr><tr><td>便宜</td><td>Cheap</td></tr></tbody></table>
+    </nav><h1 class="my-4">Lesson 04🔢 數字(numbs)</h1><div class="table-container"><table class="table table-bordered table-striped"><tbody><tr><td>零</td><td>Zero</td></tr><tr><td>一</td><td>One</td></tr><tr><td>二</td><td>Two</td></tr><tr><td>三</td><td>Three</td></tr><tr><td>四</td><td>Four</td></tr><tr><td>五</td><td>Five</td></tr><tr><td>六</td><td>Six</td></tr><tr><td>七</td><td>Seven</td></tr><tr><td>八</td><td>Eight</td></tr><tr><td>九</td><td>Nine</td></tr><tr><td>十</td><td>Ten</td></tr><tr><td>十一</td><td>Eleven</td></tr><tr><td>十二</td><td>Twelve</td></tr><tr><td>十三</td><td>Thirteen</td></tr><tr><td>十四</td><td>Fourteen</td></tr><tr><td>十五</td><td>Fifteen</td></tr><tr><td>十六</td><td>Sixteen</td></tr><tr><td>十七</td><td>Seventeen</td></tr><tr><td>十八</td><td>Eighteen</td></tr><tr><td>十九</td><td>Nineteen</td></tr><tr><td>二十</td><td>Twenty</td></tr><tr><td>三十</td><td>Thirty</td></tr><tr><td>四十</td><td>Forty</td></tr><tr><td>五十</td><td>Fifty</td></tr><tr><td>六十</td><td>Sixty</td></tr><tr><td>七十</td><td>Seventy</td></tr><tr><td>八十</td><td>Eighty</td></tr><tr><td>九十</td><td>Ninety</td></tr><tr><td>一百</td><td>One hundred</td></tr><tr><td>兩百</td><td>Two hundred</td></tr><tr><td>三百</td><td>Three hundred</td></tr><tr><td>五百</td><td>Five hundred</td></tr><tr><td>八百</td><td>Eight hundred</td></tr><tr><td>一千</td><td>One thousand</td></tr><tr><td>兩千</td><td>Two thousand</td></tr><tr><td>五千</td><td>Five thousand</td></tr><tr><td>八千</td><td>Eight thousand</td></tr><tr><td>一萬</td><td>Ten thousand</td></tr><tr><td>兩萬</td><td>Twenty thousand</td></tr><tr><td>五萬</td><td>Fifty thousand</td></tr><tr><td>八萬</td><td>Eighty thousand</td></tr><tr><td>十萬</td><td>One hundred thousand</td></tr><tr><td>二十萬</td><td>Two hundred thousand</td></tr><tr><td>五十萬</td><td>Five hundred thousand</td></tr><tr><td>一百萬</td><td>One million</td></tr><tr><td>一千萬</td><td>Ten million</td></tr><tr><td>一億</td><td>One hundred million</td></tr><tr><td>十億</td><td>One billion</td></tr><tr><td>全部</td><td>All</td></tr><tr><td>一半</td><td>Half</td></tr><tr><td>數學</td><td>Mathematics</td></tr><tr><td>加 (加上)</td><td>Plus / Add</td></tr><tr><td>減 (減去)</td><td>Minus / Subtract</td></tr><tr><td>乘 (乘以)</td><td>Multiply</td></tr><tr><td>除 (除以)</td><td>Divide</td></tr><tr><td>等於</td><td>Equals</td></tr><tr><td>總共</td><td>Total</td></tr><tr><td>分數</td><td>Fraction</td></tr><tr><td>百分比</td><td>Percentage</td></tr><tr><td>點 (小數點)</td><td>Point</td></tr><tr><td>計算機</td><td>Calculator</td></tr><tr><td>形狀</td><td>Shape</td></tr><tr><td>圓形</td><td>Circle</td></tr><tr><td>正方形</td><td>Square</td></tr><tr><td>三角形</td><td>Triangle</td></tr><tr><td>長方形</td><td>Rectangle</td></tr><tr><td>角度</td><td>Angle</td></tr><tr><td>直線</td><td>Line</td></tr><tr><td>寬度</td><td>Width</td></tr><tr><td>高度</td><td>Height</td></tr><tr><td>第一</td><td>First</td></tr><tr><td>第二</td><td>Second</td></tr><tr><td>第三</td><td>Third</td></tr><tr><td>最後</td><td>Last</td></tr><tr><td>數字</td><td>Number</td></tr><tr><td>數量</td><td>Quantity / Amount</td></tr><tr><td>一些</td><td>Some</td></tr><tr><td>很多</td><td>Many / Much</td></tr><tr><td>很少</td><td>Few / Little</td></tr><tr><td>每個</td><td>Each</td></tr><tr><td>幾 (多少)</td><td>How many / How much</td></tr><tr><td>計算</td><td>Calculate</td></tr><tr><td>總共</td><td>Total</td></tr><tr><td>個 (量詞)</td><td>Piece (generic counter)</td></tr><tr><td>位 (人)</td><td>Person (polite counter)</td></tr><tr><td>次 (回)</td><td>Time (frequency)</td></tr><tr><td>隻 (動物)</td><td>Counter for animals</td></tr><tr><td>本 (書)</td><td>Counter for books</td></tr><tr><td>雙 (對)</td><td>Pair</td></tr><tr><td>歲 (年齡)</td><td>Years old</td></tr><tr><td>錢</td><td>Money</td></tr><tr><td>價格</td><td>Price</td></tr><tr><td>便宜</td><td>Cheap</td></tr></tbody></table></div>
     <div class="bmc-box">
-        <p style="color:#333; font-size:1.1rem; line-height:1.6; margin-bottom:15px;">如果您覺得 <b>FreeTalkEasy</b> 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！</p>
-        <p style="color:#666; font-size:0.9rem; font-style:italic; margin-bottom:25px;">If <b>FreeTalkEasy</b> has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!</p>
+        <p style="color:#333; font-size:1.1rem; line-height:1.6; margin-bottom:15px;">如果您覺得 <b>FreeTalkEasy</b> 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。</p>
+        <p style="color:#666; font-size:0.9rem; font-style:italic; margin-bottom:25px;">If <b>FreeTalkEasy</b> has saved you valuable time, consider buying me a coffee! Your support fuels the continuous update of our database.</p>
         <a href="https://www.buymeacoffee.com/freetalkeasy?via=freetalkeasy_Lesson 04🔢 數字(numbs)" target="_blank">
             <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;">
         </a>

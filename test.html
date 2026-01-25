@@ -45,7 +45,7 @@
             padding-bottom: 90px;
         }
 
-        /* --- Landing Page (首頁) --- */
+        /* --- Landing Page --- */
         #landing-screen {
             display: flex;
             flex-direction: column;
@@ -55,7 +55,6 @@
             padding: 40px 15px;
             background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
             z-index: 100;
-            width: 100%;
         }
 
         .logo-container {
@@ -63,7 +62,6 @@
             flex-direction: column; 
             align-items: center;
             margin-bottom: 30px; 
-            text-align: center;
         }
 
         .logo-title-wrapper {
@@ -123,7 +121,6 @@
             cursor: pointer;
             transition: transform 0.2s, background-color 0.2s;
             position: relative;
-            text-decoration: none;
         }
 
         .lang-btn:hover {
@@ -152,19 +149,18 @@
 
         .lang-arrow { color: #ccc; font-size: 14px; margin-left: 10px; }
 
-        /* --- App Screen (學習畫面) --- */
+        /* --- App Screen --- */
         #app-screen {
             display: none;
             flex-direction: column;
             align-items: center;
             padding: 20px;
             min-height: 100vh;
-            width: 100%;
         }
 
         .top-nav {
             width: 100%;
-            max-width: 1200px; 
+            max-width: 800px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -198,7 +194,7 @@
             grid-template-columns: 1fr 1fr;
             gap: 10px;
             width: 100%;
-            max-width: 1200px; 
+            max-width: 800px;
             margin-bottom: 15px;
         }
 
@@ -333,7 +329,7 @@
             grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); 
             gap: 10px; 
             width: 100%; 
-            max-width: 1200px; 
+            max-width: 800px; 
             flex: 1;
         }
 
@@ -355,18 +351,7 @@
         .card.level-4 { background:var(--lvl-4-bg); border-color:#ffcc80; }
         .card.level-5 { background:var(--lvl-5-bg); border-color:#ef9a9a; }
 
-        .main-word { 
-            font-size: 20px; 
-            font-weight: bold; 
-            color: #2c3e50; 
-            margin-bottom: 2px; 
-            line-height: 1.3; 
-            word-wrap: break-word;       
-            overflow-wrap: break-word;   
-            word-break: break-word;      
-            hyphens: auto;               
-        }
-        
+        .main-word { font-size: 20px; font-weight: bold; color: #2c3e50; margin-bottom: 2px; line-height: 1.2; }
         .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
         .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #eee; font-size: 13px; color: #555; }
 
@@ -394,9 +379,8 @@
             background: rgba(0,0,0,0.03);
             border-radius: 12px;
             padding: 15px;
+            margin-bottom: 15px;
             border: 1px solid rgba(0,0,0,0.05);
-            max-width: 600px; 
-            margin: 0 auto 15px auto; 
         }
         .landing-footer .support-box {
             background: rgba(255,255,255,0.1);
@@ -464,23 +448,6 @@
             color: rgba(255,255,255,0.5); 
             border-top: 1px solid rgba(255,255,255,0.2); 
             padding-top: 15px;
-        }
-        
-        /* 🔴 關鍵新增：首頁底部的連結樣式 */
-        .landing-links {
-            margin-top: 15px;
-            margin-bottom: 10px;
-            font-size: 13px;
-        }
-        .landing-links a {
-            color: rgba(255,255,255,0.8);
-            text-decoration: none;
-            margin: 0 8px;
-            transition: color 0.2s;
-        }
-        .landing-links a:hover {
-            color: #fff;
-            text-decoration: underline;
         }
 
         .bmc-btn {
@@ -573,16 +540,10 @@
                 </ul>
             </div>
 
-            <div style="margin: 15px 0 5px 0;">
+            <div style="margin: 15px 0 10px 0;">
                 <a href="mailto:tw.jeremy@gmail.com" class="feedback-link" style="color: rgba(255,255,255,0.9); font-size: 14px;">
                     <i class="fas fa-envelope"></i> 網站回饋信箱：tw.jeremy@gmail.com
                 </a>
-            </div>
-
-            <div class="landing-links">
-                <a href="seo_pages/sitemap.html">單字列表</a> |
-                <a href="seo_pages/about.html">關於本站</a> | 
-                <a href="seo_pages/privacy.html">隱私政策</a>
             </div>
 
             <div class="landing-legal-notice">
@@ -750,7 +711,6 @@
             }
             populateCategories(); 
 
-            // 載入設定
             const savedRepeat = localStorage.getItem(STORAGE_KEY_SETTING_REPEAT);
             if (savedRepeat) {
                 repeatCount = parseInt(savedRepeat);
@@ -924,7 +884,7 @@
             return 'level-0';
         }
 
-        // --- 🟢 自動播放邏輯 (外語 -> 母語) ---
+        // --- 🟢 自動播放邏輯 (外語循環 N 次 -> 母語解釋 1 次) ---
         function startAutoPlay() {
             visibleCards = Array.from(document.querySelectorAll('.card'));
             if (visibleCards.length === 0) return;
@@ -1010,7 +970,7 @@
                 });
             };
 
-            // 3. 結束卡片
+            // 3. 結束卡片，準備下一張
             const finishCard = () => {
                 if (!isAutoPlaying) return;
 

@@ -71,20 +71,17 @@ async def generate_voice_file(text, voice_name, output_path):
     await communicate.save(output_path)
 
 # ==========================================
-# 🏠 網頁模板系統 (已加入 App 引導與聯絡功能)
+# 🏠 網頁模板系統
 # ==========================================
 def generate_html_header(title, is_subpage=False):
     path_prefix = "../" if is_subpage else "./"
     
-    # 這是加入主畫面的引導區塊 (只在首頁或特定情況顯示)
     app_prompt = ""
     if not is_subpage:
         app_prompt = """
         <div id="app-prompt" class="alert alert-info alert-dismissible fade show shadow-sm mb-4" role="alert">
             <strong>📱 將 FreeTalkEasy 加入主畫面！</strong><br>
-            讓網站像 App 一樣快速開啟，學習不間斷：<br>
-            • <b>iPhone (Safari):</b> 點擊下方「分享」按鈕，選擇「加入主畫面」。<br>
-            • <b>Android (Chrome):</b> 點擊右上角「⋮」選單，選擇「加到主畫面」。
+            讓網站像 App 一樣快速開啟，學習不間斷。
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
         """
@@ -95,20 +92,51 @@ def generate_html_header(title, is_subpage=False):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title} - FreeTalkEasy</title>
+    
+    <link rel="icon" href="{path_prefix}logo/logo.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="{path_prefix}logo/logo.png" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="{path_prefix}logo/logo.png">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body{{font-family:'Noto Sans TC',sans-serif;background-color:#f8f9fa;padding-top:20px}}
+        
+        /* 頁面寬度設定 (同步首頁 1200px) */
+        .container {{ max-width: 1200px; }}
+        
         .header{{margin-bottom:30px;border-bottom:1px solid #dee2e6;padding-bottom:20px}}
         .footer{{margin-top:50px;padding:40px 0;border-top:1px solid #eee;color:#6c757d;font-size:0.9rem;background-color:#fff}}
-        .bmc-box{{text-align:center;margin-top:50px;padding:40px 20px;background-color:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,0.05); border:1px solid #eee;}}
+        
+        /* 贊助區塊置中與限寬 (修復文字太散) */
+        .bmc-box{{
+            text-align:center;
+            margin: 50px auto; 
+            max-width: 600px;  
+            padding: 40px 20px;
+            background-color:#fff;
+            border-radius:12px;
+            box-shadow:0 2px 10px rgba(0,0,0,0.05); 
+            border:1px solid #eee;
+        }}
+        
         a{{text-decoration:none;color:#0d6efd}}
+        
+        /* 讓表格與內容區塊更好看 */
+        .table-container, .content-box {{
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }}
+        h1 {{ color: #2c3e50; font-weight: bold; margin-bottom: 20px; }}
     </style>
 </head>
 <body>
 <div class="container">
     {app_prompt}
     <nav class="mb-4">
-        <a href="{path_prefix}index.html">🏠 回到首頁</a> | 
+        <a href="{path_prefix}index.html">🏠 回到首頁 (Home)</a> | 
         <a href="{path_prefix}seo_pages/sitemap.html">📚 分類列表</a>
     </nav>"""
 
@@ -116,9 +144,8 @@ def generate_html_footer(category_name="general"):
     year = datetime.now().year
     tracking_id = f"freetalkeasy_{category_name}"
 
-    # 您指定的感性訴求文字
-    text_zh = "如果您覺得 <b>FreeTalkEasy</b> 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！"
-    text_en = "If <b>FreeTalkEasy</b> has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!"
+    text_zh = "如果您覺得 <b>FreeTalkEasy</b> 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。"
+    text_en = "If <b>FreeTalkEasy</b> has saved you valuable time, consider buying me a coffee! Your support fuels the continuous update of our database."
 
     return f"""
     <div class="bmc-box">
@@ -176,19 +203,16 @@ def main():
     for index, row in df.iterrows():
         cn_text = row.get(COL_CN, "").strip()
         main_cat = row.get(COL_CAT_MAIN, "Uncategorized")
-        
-        # 🔴 修正：加入讀取子分類的邏輯
         sub_cat = str(row.get(COL_CAT_SUB, "")).strip()
-        if sub_cat == "nan": sub_cat = ""  # 處理空值
+        if sub_cat == "nan": sub_cat = ""
 
         if main_cat not in seo_categories: seo_categories[main_cat] = []
         seo_categories[main_cat].append(row)
 
-        # 🔴 修正：將 subcategory 加入資料字典中
         item_data = {
             "id": row.get(COL_ID), 
             "category": main_cat, 
-            "subcategory": sub_cat, # 這裡加入子分類
+            "subcategory": sub_cat,
             "cn": cn_text
         }
 
@@ -208,7 +232,6 @@ def main():
             
             if not os.path.exists(full_path):
                 try:
-                    # 註解掉 print 避免洗版
                     # print(f"🎤 生成語音: {text_for_audio}")
                     loop.run_until_complete(generate_voice_file(text_for_audio, config['voice'], full_path))
                 except: pass
@@ -221,20 +244,81 @@ def main():
     with open("data.js", "w", encoding="utf-8") as f:
         f.write(f"const vocabData = {json.dumps(js_data_list, ensure_ascii=False, indent=4)};")
 
-    # 更新 SEO 頁面與 Sitemap
-    print("📄 更新網頁與贊助連結...")
+    # 1. 更新 SEO 分類頁面
+    print("📄 更新分類頁面...")
     for cat_name, rows in seo_categories.items():
         safe_cat = safe_filename(str(cat_name))
         file_name = f"category_{safe_cat}.html"
-        cat_html = generate_html_header(f"{cat_name}", True) + f'<h1 class="my-4">{cat_name}</h1><table class="table table-bordered table-striped"><tbody>'
+        
+        cat_html = generate_html_header(f"{cat_name}", True)
+        cat_html += f'<h1 class="my-4">{cat_name}</h1>'
+        cat_html += '<div class="table-container"><table class="table table-bordered table-striped"><tbody>'
         for row in rows:
             c_cn = row.get(COL_CN,""); c_en = row.get(LANG_MAP['英語']['col_name'],"")
             cat_html += f'<tr><td>{c_cn}</td><td>{c_en}</td></tr>'
-        # 關鍵：傳入分類名稱，自動產生追蹤連結與感性訴求
-        cat_html += '</tbody></table>' + generate_html_footer(cat_name)
+        cat_html += '</tbody></table></div>'
+        cat_html += generate_html_footer(cat_name)
+        
         with open(os.path.join(SEO_FOLDER, file_name), "w", encoding="utf-8") as f: f.write(cat_html)
 
-    print(f"🎉 全部完成！您的網站現在更像一個 App，且已準備好接收咖啡贊助了。")
+    # 2. 生成 Sitemap (目錄頁)
+    print("🗺️ 正在建立 Sitemap (目錄頁)...")
+    sitemap_html = generate_html_header("網站地圖", True)
+    sitemap_html += '<div class="content-box" style="max-width:800px; margin:0 auto;">'
+    sitemap_html += '<h1 class="my-4 text-center">📚 所有分類列表</h1>'
+    sitemap_html += '<div class="list-group">'
+    for cat_name in seo_categories.keys():
+        safe_cat = safe_filename(str(cat_name))
+        file_name = f"category_{safe_cat}.html"
+        count = len(seo_categories[cat_name])
+        sitemap_html += f'<a href="{file_name}" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">{cat_name} <span class="badge bg-primary rounded-pill">{count}</span></a>'
+    sitemap_html += '</div></div>'
+    sitemap_html += generate_html_footer("sitemap")
+    with open(os.path.join(SEO_FOLDER, "sitemap.html"), "w", encoding="utf-8") as f: f.write(sitemap_html)
+
+    # 3. 🔴 關鍵新增：生成 About (關於) 頁面 (AdSense 審核加分項)
+    print("ℹ️ 正在建立 About 頁面...")
+    about_html = generate_html_header("關於本站", True)
+    about_html += """
+    <div class="content-box">
+        <h1>關於 FreeTalkEasy</h1>
+        <p class="lead">讓語言學習變得簡單、直覺、無負擔。</p>
+        <hr>
+        <p>FreeTalkEasy 是一個專注於提供高品質、免費語言學習資源的平台。我們相信語言是連結世界的橋樑，每個人都應該有機會輕鬆學習外語。</p>
+        <h3>我們的特色</h3>
+        <ul>
+            <li>✨ <b>完全免費</b>：所有內容免費開放。</li>
+            <li>🎧 <b>真人發音</b>：採用高品質 AI 語音技術。</li>
+            <li>📱 <b>跨平台</b>：支援手機、平板與電腦。</li>
+        </ul>
+        <br>
+        <p>如果您有任何建議或合作提案，歡迎隨時聯繫我們！</p>
+    </div>
+    """
+    about_html += generate_html_footer("about")
+    with open(os.path.join(SEO_FOLDER, "about.html"), "w", encoding="utf-8") as f: f.write(about_html)
+
+    # 4. 🔴 關鍵新增：生成 Privacy (隱私) 頁面 (AdSense 強制要求)
+    print("🔒 正在建立 Privacy 頁面...")
+    privacy_html = generate_html_header("隱私權政策", True)
+    privacy_html += """
+    <div class="content-box">
+        <h1>隱私權政策 (Privacy Policy)</h1>
+        <p>最後更新日期：2026/01/26</p>
+        <hr>
+        <p>非常歡迎您光臨「FreeTalkEasy」（以下簡稱本網站），為了讓您能夠安心使用本網站的各項服務與資訊，特此向您說明本網站的隱私權保護政策：</p>
+        <h3>1. 資料之收集與使用</h3>
+        <p>本網站使用 Google Analytics (GA4) 與本機儲存 (Local Storage) 來紀錄您的學習進度與偏好設定（如播放次數、母語選擇）。這些資料僅存於您的裝置中，我們不會將您的個人資料提供給第三方。</p>
+        <h3>2. Cookie 之使用</h3>
+        <p>為了提供您最佳的服務，本網站可能會在您的電腦中放置並取用我們的 Cookie，若您不願接受 Cookie 的寫入，您可在您使用的瀏覽器功能項中設定隱私權等級為高，即可拒絕 Cookie 的寫入，但可能會導致網站某些功能無法正常執行。</p>
+        <h3>3. 政策之修訂</h3>
+        <p>本網站隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於網站上。</p>
+    </div>
+    """
+    privacy_html += generate_html_footer("privacy")
+    with open(os.path.join(SEO_FOLDER, "privacy.html"), "w", encoding="utf-8") as f: f.write(privacy_html)
+
+    print(f"🎉 全部完成！已生成 data.js 以及所有靜態頁面 (Sitemap, About, Privacy)。")
 
 if __name__ == "__main__":
     main()
