@@ -45,7 +45,7 @@
             padding-bottom: 90px;
         }
 
-        /* --- Landing Page (首頁) --- */
+        /* --- Landing Page --- */
         #landing-screen {
             display: flex;
             flex-direction: column;
@@ -152,7 +152,7 @@
 
         .lang-arrow { color: #ccc; font-size: 14px; margin-left: 10px; }
 
-        /* --- App Screen (學習畫面) --- */
+        /* --- App Screen --- */
         #app-screen {
             display: none;
             flex-direction: column;
@@ -337,6 +337,28 @@
             flex: 1;
         }
 
+        /* 🔴 新增：分類分隔線樣式 */
+        .category-header {
+            grid-column: 1 / -1; /* 強制橫跨所有格 */
+            padding: 15px 0 5px 0;
+            margin-top: 10px;
+            color: #2a5298;
+            font-weight: bold;
+            font-size: 1.1em;
+            border-bottom: 2px solid #e0e0e0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .category-header .badge {
+            background: #e3f2fd;
+            color: #4a90e2;
+            font-size: 0.8em;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-weight: normal;
+        }
+
         @media (max-width: 400px) { 
             #card-container { grid-template-columns: 1fr 1fr; } 
             .main-word { font-size: 18px !important; }
@@ -466,7 +488,6 @@
             padding-top: 15px;
         }
         
-        /* 🔴 關鍵新增：首頁底部的連結樣式 */
         .landing-links {
             margin-top: 15px;
             margin-bottom: 10px;
@@ -503,6 +524,8 @@
     </style>
 </head>
 <body>
+    
+    <audio id="global-audio-player" preload="auto" style="display:none;"></audio>
 
     <div id="landing-screen">
         <div class="logo-container">
@@ -732,12 +755,14 @@
         const repeatSelect = document.getElementById('repeat-count-select');
         const motherTongueSelect = document.getElementById('mother-tongue-select');
         const ttsToggle = document.getElementById('tts-toggle');
+        
+        // 🔴 全域播放器 (Mobile Fix)
+        const globalPlayer = document.getElementById('global-audio-player');
 
         let isAutoPlaying = false;
         let visibleCards = [];
         let autoPlayTimer = null;
         let autoPlayIndex = 0;
-        let currentAudio = null; 
         
         let repeatCount = 1; 
         let enableTTS = true; 
@@ -924,7 +949,7 @@
             return 'level-0';
         }
 
-        // --- 🟢 自動播放邏輯 (外語 -> 母語) ---
+        // --- 🟢 自動播放邏輯 (使用全域播放器，解決手機問題) ---
         function startAutoPlay() {
             visibleCards = Array.from(document.querySelectorAll('.card'));
             if (visibleCards.length === 0) return;
@@ -941,7 +966,7 @@
             btnAutoPlay.innerHTML = '▶ 自動播放';
             btnAutoPlay.classList.remove('playing');
             clearTimeout(autoPlayTimer);
-            if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+            globalPlayer.pause(); // 使用全域播放器暫停
             document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
         }
 
@@ -954,7 +979,7 @@
 
             let currentRepeat = 0;
 
-            // 1. 播放外語 (遞迴函數)
+            // 1. 播放外語 (遞迴)
             const playForeignLoop = () => {
                 if (!isAutoPlaying) return;
 
@@ -963,11 +988,16 @@
                 const playTarget = new Promise((resolve) => {
                     if (!audioSrc) { resolve(); return; }
                     
-                    if (currentAudio) { currentAudio.pause(); }
-                    currentAudio = new Audio(audioSrc);
-                    currentAudio.onended = resolve;
-                    currentAudio.onerror = resolve; 
-                    currentAudio.play().catch(resolve);
+                    // 🔴 改用全域播放器
+                    globalPlayer.src = audioSrc;
+                    globalPlayer.onended = resolve;
+                    globalPlayer.onerror = resolve;
+                    
+                    // 必須 catch 錯誤 (手機版可能需要使用者互動)
+                    globalPlayer.play().catch(e => {
+                        console.log("Auto-play blocked or failed:", e);
+                        resolve(); 
+                    });
                 });
 
                 playTarget.then(() => {
@@ -975,9 +1005,9 @@
                     
                     currentRepeat++;
                     if (currentRepeat < repeatCount) {
-                        setTimeout(playForeignLoop, 800); 
+                        setTimeout(playForeignLoop, 500); // 縮短間隔
                     } else {
-                        setTimeout(playExplanationOnce, 800); 
+                        setTimeout(playExplanationOnce, 500); 
                     }
                 });
             };
@@ -995,11 +1025,11 @@
                     if (itemData && itemData[explanationLang] && itemData[explanationLang].audio) {
                         const explSrc = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
                         
-                        if (currentAudio) { currentAudio.pause(); }
-                        currentAudio = new Audio(explSrc);
-                        currentAudio.onended = resolve;
-                        currentAudio.onerror = resolve;
-                        currentAudio.play().catch(resolve);
+                        // 🔴 改用全域播放器
+                        globalPlayer.src = explSrc;
+                        globalPlayer.onended = resolve;
+                        globalPlayer.onerror = resolve;
+                        globalPlayer.play().catch(resolve);
                     } else {
                         resolve(); 
                     }
@@ -1020,7 +1050,7 @@
 
                 autoPlayIndex++;
                 if (autoPlayIndex < visibleCards.length) {
-                    setTimeout(() => playCardSequence(visibleCards[autoPlayIndex]), 1000);
+                    setTimeout(() => playCardSequence(visibleCards[autoPlayIndex]), 800);
                 } else {
                     stopAutoPlay(); 
                 }
@@ -1035,7 +1065,11 @@
             const sSub = subCatFilter.value;
             const isChineseMode = (currentLang === 'CN_ZH');
 
-            vocabData.forEach(item => {
+            // 🔴 新增：追蹤分類變化的變數
+            let lastCat = "";
+            let lastSub = "";
+
+            vocabData.forEach((item, index) => {
                 if (sCat !== 'all' && item.category !== sCat) return;
                 if (sCat !== 'all' && sSub !== 'all' && item.subcategory !== sSub) return;
 
@@ -1044,6 +1078,27 @@
                 if (isChineseMode) {
                    const cName = (item.category||"").toLowerCase();
                    if (cName.includes('字母')||cName.includes('五十音')) return;
+                }
+
+                // 🔴 插入分類標題 (主分類或次分類改變時)
+                const currentCat = item.category || "未分類";
+                const currentSub = item.subcategory || "";
+                
+                // 如果分類變了，插入標題
+                if (currentCat !== lastCat || (currentSub !== lastSub && currentSub !== "")) {
+                    const separator = document.createElement('div');
+                    separator.className = 'category-header';
+                    
+                    let headerText = currentCat;
+                    if (currentSub) {
+                        headerText += ` <i class="fas fa-angle-right" style="font-size:0.8em; color:#999;"></i> ${currentSub}`;
+                    }
+                    
+                    separator.innerHTML = `${headerText}`;
+                    container.appendChild(separator);
+                    
+                    lastCat = currentCat;
+                    lastSub = currentSub;
                 }
 
                 const clicks = getClicks(item.id);
@@ -1081,17 +1136,17 @@
                     const src = card.dataset.audio;
                     if(!src) return;
                     
-                    if (isAutoPlaying && currentAudio) currentAudio.pause();
+                    if (isAutoPlaying) stopAutoPlay(); // 手動點擊時，停止自動播放
 
-                    new Audio(src).play()
-                    .then(() => {
+                    // 🔴 改用全域播放器
+                    globalPlayer.src = src;
+                    globalPlayer.play().then(() => {
                         card.classList.add('playing');
                         const n = addClick(item.id);
                         card.className = `card playing ${getLevelClass(n)}`;
                         card.querySelector('.click-counter').innerText = n;
                         setTimeout(() => card.classList.remove('playing'), 1000);
-                    })
-                    .catch(e => console.error(e));
+                    }).catch(e => console.error("Manual play failed:", e));
                 };
 
                 container.appendChild(card);
