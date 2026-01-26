@@ -24,7 +24,6 @@ EXCEL_FILE = 'master_data.xlsx'
 AUDIO_SUBFOLDER = 'audio'
 SEO_FOLDER = 'seo_pages'
 
-# 您專屬的 BMC ID 與 聯絡 Email
 BMC_ID = "freetalkeasy"
 CONTACT_EMAIL = "tw.jeremy@gmail.com"
 
@@ -67,8 +66,11 @@ def safe_filename(text):
     return re.sub(r'[\\/*?:"<>|]', "", text).strip().replace(" ", "_")
 
 async def generate_voice_file(text, voice_name, output_path):
-    communicate = edge_tts.Communicate(text, voice_name)
-    await communicate.save(output_path)
+    try:
+        communicate = edge_tts.Communicate(text, voice_name)
+        await communicate.save(output_path)
+    except Exception as e:
+        print(f"   ⚠️ 下載失敗 (請檢查網路): {text} -> {e}")
 
 # ==========================================
 # 🏠 網頁模板系統
@@ -100,14 +102,10 @@ def generate_html_header(title, is_subpage=False):
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body{{font-family:'Noto Sans TC',sans-serif;background-color:#f8f9fa;padding-top:20px}}
-        
-        /* 頁面寬度設定 (同步首頁 1200px) */
         .container {{ max-width: 1200px; }}
-        
         .header{{margin-bottom:30px;border-bottom:1px solid #dee2e6;padding-bottom:20px}}
         .footer{{margin-top:50px;padding:40px 0;border-top:1px solid #eee;color:#6c757d;font-size:0.9rem;background-color:#fff}}
         
-        /* 贊助區塊置中與限寬 (修復文字太散) */
         .bmc-box{{
             text-align:center;
             margin: 50px auto; 
@@ -121,7 +119,6 @@ def generate_html_header(title, is_subpage=False):
         
         a{{text-decoration:none;color:#0d6efd}}
         
-        /* 讓表格與內容區塊更好看 */
         .table-container, .content-box {{
             background: white;
             padding: 30px;
@@ -178,21 +175,28 @@ def main():
     if not os.path.exists(EXCEL_FILE):
         print(f"❌ 找不到 {EXCEL_FILE}"); return
 
-    print(f"📂 讀取 Excel 中...")
+    print(f"📂 正在讀取 Excel，請稍候...")
     try:
         all_sheets = pd.read_excel(EXCEL_FILE, sheet_name=None, dtype=str)
         df_list = []
         for sheet_name, sheet_df in all_sheets.items():
             sheet_df.columns = sheet_df.columns.str.strip()
+            # 自動過濾掉沒有 ID 的空行
             if COL_ID in sheet_df.columns and COL_CN in sheet_df.columns:
                 df_list.append(sheet_df)
         
         if not df_list: print("❌ Excel 檔沒有有效資料"); return
         df = pd.concat(df_list, ignore_index=True)
         df.columns = df.columns.str.strip()
+        # 強制過濾空行
         df = df.dropna(subset=[COL_ID, COL_CN])
+        
+        # 顯示總數
+        total_items = len(df)
+        print(f"✅ 成功讀取資料，共發現 {total_items} 個單字。")
+        
     except Exception as e:
-        print(f"❌ Excel 讀取失敗: {e}"); return
+        print(f"❌ Excel 讀取失敗，請確認檔案是否已關閉: {e}"); return
 
     js_data_list = []
     seo_categories = {} 
@@ -200,11 +204,18 @@ def main():
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
 
+    print("🔄 開始處理資料與生成音檔 (如單字量大請耐心等待)...")
+
+    # 遍歷每一行 (加入計數器)
     for index, row in df.iterrows():
         cn_text = row.get(COL_CN, "").strip()
         main_cat = row.get(COL_CAT_MAIN, "Uncategorized")
         sub_cat = str(row.get(COL_CAT_SUB, "")).strip()
         if sub_cat == "nan": sub_cat = ""
+
+        # 顯示進度
+        if index % 5 == 0:
+            print(f"   ⏳ 正在處理第 {index + 1}/{total_items} 筆: {cn_text} ...")
 
         if main_cat not in seo_categories: seo_categories[main_cat] = []
         seo_categories[main_cat].append(row)
@@ -216,6 +227,7 @@ def main():
             "cn": cn_text
         }
 
+        # 處理多國語言音檔
         for lang_key, config in LANG_MAP.items():
             target_col = config['col_name']
             if target_col not in df.columns: continue
@@ -230,21 +242,24 @@ def main():
             
             full_path = os.path.join(target_folder, file_name)
             
+            # 只有當檔案不存在時才生成 (避免重複下載)
             if not os.path.exists(full_path):
                 try:
-                    # print(f"🎤 生成語音: {text_for_audio}")
+                    print(f"      🎙️ [新] 正在生成 {lang_key} 音檔: {text_for_audio}")
                     loop.run_until_complete(generate_voice_file(text_for_audio, config['voice'], full_path))
-                except: pass
+                except Exception as e:
+                    print(f"      ❌ {lang_key} 生成失敗: {e}")
 
             item_data[config['folder']] = {"word": str(raw_text), "audio": file_name, "folder": f"{config['folder']}/{AUDIO_SUBFOLDER}"}
 
         js_data_list.append(item_data)
 
     # 輸出 data.js
+    print(f"💾 正在儲存 data.js ...")
     with open("data.js", "w", encoding="utf-8") as f:
         f.write(f"const vocabData = {json.dumps(js_data_list, ensure_ascii=False, indent=4)};")
 
-    # 1. 更新 SEO 分類頁面
+    # 更新 SEO 分類頁面
     print("📄 更新分類頁面...")
     for cat_name, rows in seo_categories.items():
         safe_cat = safe_filename(str(cat_name))
@@ -258,10 +273,9 @@ def main():
             cat_html += f'<tr><td>{c_cn}</td><td>{c_en}</td></tr>'
         cat_html += '</tbody></table></div>'
         cat_html += generate_html_footer(cat_name)
-        
         with open(os.path.join(SEO_FOLDER, file_name), "w", encoding="utf-8") as f: f.write(cat_html)
 
-    # 2. 生成 Sitemap (目錄頁)
+    # 生成 Sitemap
     print("🗺️ 正在建立 Sitemap (目錄頁)...")
     sitemap_html = generate_html_header("網站地圖", True)
     sitemap_html += '<div class="content-box" style="max-width:800px; margin:0 auto;">'
@@ -276,7 +290,7 @@ def main():
     sitemap_html += generate_html_footer("sitemap")
     with open(os.path.join(SEO_FOLDER, "sitemap.html"), "w", encoding="utf-8") as f: f.write(sitemap_html)
 
-    # 3. 🔴 關鍵新增：生成 About (關於) 頁面 (AdSense 審核加分項)
+    # 生成 About
     print("ℹ️ 正在建立 About 頁面...")
     about_html = generate_html_header("關於本站", True)
     about_html += """
@@ -284,41 +298,27 @@ def main():
         <h1>關於 FreeTalkEasy</h1>
         <p class="lead">讓語言學習變得簡單、直覺、無負擔。</p>
         <hr>
-        <p>FreeTalkEasy 是一個專注於提供高品質、免費語言學習資源的平台。我們相信語言是連結世界的橋樑，每個人都應該有機會輕鬆學習外語。</p>
+        <p>FreeTalkEasy 是一個專注於提供高品質、免費語言學習資源的平台。</p>
         <h3>我們的特色</h3>
-        <ul>
-            <li>✨ <b>完全免費</b>：所有內容免費開放。</li>
-            <li>🎧 <b>真人發音</b>：採用高品質 AI 語音技術。</li>
-            <li>📱 <b>跨平台</b>：支援手機、平板與電腦。</li>
-        </ul>
-        <br>
-        <p>如果您有任何建議或合作提案，歡迎隨時聯繫我們！</p>
+        <ul><li>✨ 完全免費</li><li>🎧 真人發音</li><li>📱 跨平台支援</li></ul>
     </div>
     """
     about_html += generate_html_footer("about")
     with open(os.path.join(SEO_FOLDER, "about.html"), "w", encoding="utf-8") as f: f.write(about_html)
 
-    # 4. 🔴 關鍵新增：生成 Privacy (隱私) 頁面 (AdSense 強制要求)
+    # 生成 Privacy
     print("🔒 正在建立 Privacy 頁面...")
     privacy_html = generate_html_header("隱私權政策", True)
     privacy_html += """
     <div class="content-box">
         <h1>隱私權政策 (Privacy Policy)</h1>
-        <p>最後更新日期：2026/01/26</p>
-        <hr>
-        <p>非常歡迎您光臨「FreeTalkEasy」（以下簡稱本網站），為了讓您能夠安心使用本網站的各項服務與資訊，特此向您說明本網站的隱私權保護政策：</p>
-        <h3>1. 資料之收集與使用</h3>
-        <p>本網站使用 Google Analytics (GA4) 與本機儲存 (Local Storage) 來紀錄您的學習進度與偏好設定（如播放次數、母語選擇）。這些資料僅存於您的裝置中，我們不會將您的個人資料提供給第三方。</p>
-        <h3>2. Cookie 之使用</h3>
-        <p>為了提供您最佳的服務，本網站可能會在您的電腦中放置並取用我們的 Cookie，若您不願接受 Cookie 的寫入，您可在您使用的瀏覽器功能項中設定隱私權等級為高，即可拒絕 Cookie 的寫入，但可能會導致網站某些功能無法正常執行。</p>
-        <h3>3. 政策之修訂</h3>
-        <p>本網站隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於網站上。</p>
+        <p>我們重視您的隱私，本網站使用 Google Analytics 與 Cookie 來優化學習體驗。</p>
     </div>
     """
     privacy_html += generate_html_footer("privacy")
     with open(os.path.join(SEO_FOLDER, "privacy.html"), "w", encoding="utf-8") as f: f.write(privacy_html)
 
-    print(f"🎉 全部完成！已生成 data.js 以及所有靜態頁面 (Sitemap, About, Privacy)。")
+    print(f"🎉 全部完成！請執行 update_site.bat 上傳更新。")
 
 if __name__ == "__main__":
     main()
