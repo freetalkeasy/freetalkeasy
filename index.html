@@ -337,9 +337,8 @@
             flex: 1;
         }
 
-        /* 🔴 新增：分類分隔線樣式 */
         .category-header {
-            grid-column: 1 / -1; /* 強制橫跨所有格 */
+            grid-column: 1 / -1; 
             padding: 15px 0 5px 0;
             margin-top: 10px;
             color: #2a5298;
@@ -684,6 +683,20 @@
 
             <div class="setting-row">
                 <div class="setting-label">
+                    <span>⚡ 播放速度</span>
+                    <span class="en">Playback Speed</span>
+                </div>
+                <select id="speed-select">
+                    <option value="0.5">0.5x (慢速)</option>
+                    <option value="0.75">0.75x (稍慢)</option>
+                    <option value="1.0" selected>1.0x (正常)</option>
+                    <option value="1.25">1.25x (稍快)</option>
+                    <option value="1.5">1.5x (快速)</option>
+                </select>
+            </div>
+
+            <div class="setting-row">
+                <div class="setting-label">
                     <span>🗣️ 解釋語言 (母語)</span>
                     <span class="en">Mother Tongue</span>
                 </div>
@@ -740,6 +753,7 @@
         const STORAGE_KEY_SETTING_REPEAT = 'fte_setting_repeat';
         const STORAGE_KEY_SETTING_TTS = 'fte_setting_tts';
         const STORAGE_KEY_SETTING_MOTHER_TONGUE = 'fte_setting_mt';
+        const STORAGE_KEY_SETTING_SPEED = 'fte_setting_speed';
         
         const landingScreen = document.getElementById('landing-screen');
         const appScreen = document.getElementById('app-screen');
@@ -755,8 +769,8 @@
         const repeatSelect = document.getElementById('repeat-count-select');
         const motherTongueSelect = document.getElementById('mother-tongue-select');
         const ttsToggle = document.getElementById('tts-toggle');
+        const speedSelect = document.getElementById('speed-select'); // 🔴 取得速度選單
         
-        // 🔴 全域播放器 (Mobile Fix)
         const globalPlayer = document.getElementById('global-audio-player');
 
         let isAutoPlaying = false;
@@ -767,6 +781,7 @@
         let repeatCount = 1; 
         let enableTTS = true; 
         let explanationLang = 'CN_ZH'; 
+        let playbackSpeed = 1.0; // 🔴 預設速度
 
         window.onload = () => {
             if (typeof vocabData === 'undefined') {
@@ -796,6 +811,13 @@
             }
             ttsToggle.checked = enableTTS; 
 
+            // 🔴 載入速度設定
+            const savedSpeed = localStorage.getItem(STORAGE_KEY_SETTING_SPEED);
+            if (savedSpeed) {
+                playbackSpeed = parseFloat(savedSpeed);
+                speedSelect.value = playbackSpeed;
+            }
+
             const lastLang = localStorage.getItem(STORAGE_KEY_LAST_LANG);
             const lastLangName = localStorage.getItem(STORAGE_KEY_LAST_LANG_NAME);
 
@@ -821,6 +843,12 @@
         ttsToggle.addEventListener('change', () => { 
             enableTTS = ttsToggle.checked; 
             localStorage.setItem(STORAGE_KEY_SETTING_TTS, enableTTS);
+        });
+
+        // 🔴 監聽速度變化
+        speedSelect.addEventListener('change', () => {
+            playbackSpeed = parseFloat(speedSelect.value);
+            localStorage.setItem(STORAGE_KEY_SETTING_SPEED, playbackSpeed);
         });
 
         function selectLanguage(code, name, isAutoLoad = false) {
@@ -949,7 +977,6 @@
             return 'level-0';
         }
 
-        // --- 🟢 自動播放邏輯 (使用全域播放器，解決手機問題) ---
         function startAutoPlay() {
             visibleCards = Array.from(document.querySelectorAll('.card'));
             if (visibleCards.length === 0) return;
@@ -966,7 +993,7 @@
             btnAutoPlay.innerHTML = '▶ 自動播放';
             btnAutoPlay.classList.remove('playing');
             clearTimeout(autoPlayTimer);
-            globalPlayer.pause(); // 使用全域播放器暫停
+            globalPlayer.pause();
             document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
         }
 
@@ -979,7 +1006,6 @@
 
             let currentRepeat = 0;
 
-            // 1. 播放外語 (遞迴)
             const playForeignLoop = () => {
                 if (!isAutoPlaying) return;
 
@@ -988,12 +1014,11 @@
                 const playTarget = new Promise((resolve) => {
                     if (!audioSrc) { resolve(); return; }
                     
-                    // 🔴 改用全域播放器
                     globalPlayer.src = audioSrc;
+                    globalPlayer.playbackRate = playbackSpeed; // 🔴 應用速度
                     globalPlayer.onended = resolve;
                     globalPlayer.onerror = resolve;
                     
-                    // 必須 catch 錯誤 (手機版可能需要使用者互動)
                     globalPlayer.play().catch(e => {
                         console.log("Auto-play blocked or failed:", e);
                         resolve(); 
@@ -1005,14 +1030,13 @@
                     
                     currentRepeat++;
                     if (currentRepeat < repeatCount) {
-                        setTimeout(playForeignLoop, 500); // 縮短間隔
+                        setTimeout(playForeignLoop, 500);
                     } else {
                         setTimeout(playExplanationOnce, 500); 
                     }
                 });
             };
 
-            // 2. 播放母語解釋
             const playExplanationOnce = () => {
                 if (!isAutoPlaying) return;
 
@@ -1025,8 +1049,8 @@
                     if (itemData && itemData[explanationLang] && itemData[explanationLang].audio) {
                         const explSrc = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
                         
-                        // 🔴 改用全域播放器
                         globalPlayer.src = explSrc;
+                        globalPlayer.playbackRate = 1.25; // 🔴 解釋語速固定稍微快一點點，聽感較好，或可改為 playbackSpeed
                         globalPlayer.onended = resolve;
                         globalPlayer.onerror = resolve;
                         globalPlayer.play().catch(resolve);
@@ -1040,7 +1064,6 @@
                 });
             };
 
-            // 3. 結束卡片
             const finishCard = () => {
                 if (!isAutoPlaying) return;
 
@@ -1065,7 +1088,6 @@
             const sSub = subCatFilter.value;
             const isChineseMode = (currentLang === 'CN_ZH');
 
-            // 🔴 新增：追蹤分類變化的變數
             let lastCat = "";
             let lastSub = "";
 
@@ -1080,11 +1102,9 @@
                    if (cName.includes('字母')||cName.includes('五十音')) return;
                 }
 
-                // 🔴 插入分類標題 (主分類或次分類改變時)
                 const currentCat = item.category || "未分類";
                 const currentSub = item.subcategory || "";
                 
-                // 如果分類變了，插入標題
                 if (currentCat !== lastCat || (currentSub !== lastSub && currentSub !== "")) {
                     const separator = document.createElement('div');
                     separator.className = 'category-header';
@@ -1136,10 +1156,10 @@
                     const src = card.dataset.audio;
                     if(!src) return;
                     
-                    if (isAutoPlaying) stopAutoPlay(); // 手動點擊時，停止自動播放
+                    if (isAutoPlaying) stopAutoPlay(); 
 
-                    // 🔴 改用全域播放器
                     globalPlayer.src = src;
+                    globalPlayer.playbackRate = playbackSpeed; // 🔴 手動點擊也應用速度
                     globalPlayer.play().then(() => {
                         card.classList.add('playing');
                         const n = addClick(item.id);
