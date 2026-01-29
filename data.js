@@ -32228,8 +32228,8 @@ const vocabData = [
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
-            "word": "Thịt cừu",
-            "audio": "Thịt_cừu.mp3",
+            "word": "Thịt dê",
+            "audio": "Thịt_dê.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -173154,6 +173154,9906 @@ const vocabData = [
         }
     },
     {
+        "id": "adv301",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "極度地",
+        "CN_ENG": {
+            "word": "Excessively",
+            "audio": "Excessively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "過度に (kado)",
+            "audio": "kado.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "과도하게 (gwa-do)",
+            "audio": "과도하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quá mức",
+            "audio": "Quá_mức.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "過度",
+            "audio": "過度.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Excessivement",
+            "audio": "Excessivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Übermäßig",
+            "audio": "Übermäßig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Excesivamente",
+            "audio": "Excesivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Чрезмерно",
+            "audio": "Чрезмерно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มากเกินไป",
+            "audio": "มากเกินไป.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berlebihan",
+            "audio": "Berlebihan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "極度地",
+            "audio": "極度地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv302",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "適度地",
+        "CN_ENG": {
+            "word": "Moderately",
+            "audio": "Moderately.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "適度に (tekido)",
+            "audio": "tekido.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "적당히 (jeok-dang)",
+            "audio": "적당히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vừa phải",
+            "audio": "Vừa_phải.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "適度",
+            "audio": "適度.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Modérément",
+            "audio": "Modérément.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Mäßig",
+            "audio": "Mäßig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Moderadamente",
+            "audio": "Moderadamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Умеренно",
+            "audio": "Умеренно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พอประมาณ",
+            "audio": "พอประมาณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cukup / Sedang",
+            "audio": "Cukup__Sedang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "適度地",
+            "audio": "適度地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv303",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "顯著地",
+        "CN_ENG": {
+            "word": "Significantly",
+            "audio": "Significantly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "著しく",
+            "audio": "著しく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상당히 (sang-dang)",
+            "audio": "상당히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đáng kể",
+            "audio": "Đáng_kể.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "顯著",
+            "audio": "顯著.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Significativement",
+            "audio": "Significativement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bedeutend",
+            "audio": "Bedeutend.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Significativamente",
+            "audio": "Significativamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Значительно",
+            "audio": "Значительно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมีนัยสำคัญ",
+            "audio": "อย่างมีนัยสำคัญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara signifikan",
+            "audio": "Secara_signifikan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "顯著地",
+            "audio": "顯著地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv304",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "徹底地",
+        "CN_ENG": {
+            "word": "Thoroughly",
+            "audio": "Thoroughly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "徹底的に",
+            "audio": "徹底的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "철저히 (cheol-jeo)",
+            "audio": "철저히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Triệt để",
+            "audio": "Triệt_để.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "徹底",
+            "audio": "徹底.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Minutieusement",
+            "audio": "Minutieusement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gründlich",
+            "audio": "Gründlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "A fondo",
+            "audio": "A_fondo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Тщательно",
+            "audio": "Тщательно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างละเอียด",
+            "audio": "อย่างละเอียด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sepenuhnya",
+            "audio": "Sepenuhnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "徹底地",
+            "audio": "徹底地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv305",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "幾乎",
+        "CN_ENG": {
+            "word": "Virtually",
+            "audio": "Virtually.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "事実上 (jijitsujou)",
+            "audio": "jijitsujou.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "사실상 (sa-sil-sang)",
+            "audio": "사실상.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hầu như",
+            "audio": "Hầu_như.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "幾乎",
+            "audio": "幾乎.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Virtuellement",
+            "audio": "Virtuellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Praktisch",
+            "audio": "Praktisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Virtualmente",
+            "audio": "Virtualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Фактически",
+            "audio": "Фактически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แทบจะ",
+            "audio": "แทบจะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Hampir",
+            "audio": "Hampir.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "幾乎",
+            "audio": "幾乎.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv306",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "完全 (全然)",
+        "CN_ENG": {
+            "word": "Utterly",
+            "audio": "Utterly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "全く (mattaku)",
+            "audio": "mattaku.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "완전히 (wan-jeon)",
+            "audio": "완전히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hoàn toàn",
+            "audio": "Hoàn_toàn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "全然",
+            "audio": "全然.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tout à fait",
+            "audio": "Tout_à_fait.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Völlig",
+            "audio": "Völlig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Totalmente",
+            "audio": "Totalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Совершенно",
+            "audio": "Совершенно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างสิ้นเชิง",
+            "audio": "อย่างสิ้นเชิง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sama sekali",
+            "audio": "Sama_sekali.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "完全 (全然)",
+            "audio": "完全.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv307",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "極其 (無比)",
+        "CN_ENG": {
+            "word": "Immensely",
+            "audio": "Immensely.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "計り知れないほど",
+            "audio": "計り知れないほど.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "엄청나게 (eom-cheong)",
+            "audio": "엄청나게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vô cùng",
+            "audio": "Vô_cùng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "無比",
+            "audio": "無比.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Immensément",
+            "audio": "Immensément.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unermesslich",
+            "audio": "Unermesslich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Inmensamente",
+            "audio": "Inmensamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Безмерно",
+            "audio": "Безмерно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมหาศาล",
+            "audio": "อย่างมหาศาล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sangat besar",
+            "audio": "Sangat_besar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "極其 (無比)",
+            "audio": "極其.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv308",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "稍微地",
+        "CN_ENG": {
+            "word": "Slightly",
+            "audio": "Slightly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "わずかに",
+            "audio": "わずかに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "약간 (yak-gan)",
+            "audio": "약간.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hơi",
+            "audio": "Hơi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "少少",
+            "audio": "少少.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Légèrement",
+            "audio": "Légèrement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Leicht",
+            "audio": "Leicht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ligeramente",
+            "audio": "Ligeramente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Слегка",
+            "audio": "Слегка.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เล็กน้อย",
+            "audio": "เล็กน้อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sedikit",
+            "audio": "Sedikit.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "稍微地",
+            "audio": "稍微地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv309",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "勉強",
+        "CN_ENG": {
+            "word": "Barely",
+            "audio": "Barely.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "かろうじて",
+            "audio": "かろうじて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "간신히 (gan-sin)",
+            "audio": "간신히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vừa đủ",
+            "audio": "Vừa_đủ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "勉強",
+            "audio": "勉強.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À peine",
+            "audio": "À_peine.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kaum",
+            "audio": "Kaum.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Apenas",
+            "audio": "Apenas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Едва",
+            "audio": "Едва.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แทบจะไม่",
+            "audio": "แทบจะไม่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Nyaris",
+            "audio": "Nyaris.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "勉強",
+            "audio": "勉強.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv310",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "相對地",
+        "CN_ENG": {
+            "word": "Relatively",
+            "audio": "Relatively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "比較的 (hikaku)",
+            "audio": "hikaku.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비교적 (bi-gyo)",
+            "audio": "비교적.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tương đối",
+            "audio": "Tương_đối.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "相對",
+            "audio": "相對.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Relativement",
+            "audio": "Relativement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Relativ",
+            "audio": "Relativ.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Relativamente",
+            "audio": "Relativamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Относительно",
+            "audio": "Относительно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ค่อนข้าง",
+            "audio": "ค่อนข้าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Relatif",
+            "audio": "Relatif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "相對地",
+            "audio": "相對地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv311",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "無處不在",
+        "CN_ENG": {
+            "word": "Ubiquitously",
+            "audio": "Ubiquitously.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "至る所に",
+            "audio": "至る所に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "어디에나 (eo-di-e-na)",
+            "audio": "어디에나.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khắp nơi",
+            "audio": "Khắp_nơi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "無處不在",
+            "audio": "無處不在.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Partout",
+            "audio": "Partout.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Überall",
+            "audio": "Überall.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ubicuamente",
+            "audio": "Ubicuamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вездесуще",
+            "audio": "Вездесуще.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีอยู่ทั่วไป",
+            "audio": "มีอยู่ทั่วไป.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana-mana",
+            "audio": "Di_mana-mana.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "無處不在",
+            "audio": "無處不在.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv312",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向北",
+        "CN_ENG": {
+            "word": "Northward",
+            "audio": "Northward.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "北へ",
+            "audio": "北へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "북쪽으로",
+            "audio": "북쪽으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về phía bắc",
+            "audio": "Về_phía_bắc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向北",
+            "audio": "向北.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers le nord",
+            "audio": "Vers_le_nord.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nordwärts",
+            "audio": "Nordwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia el norte",
+            "audio": "Hacia_el_norte.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На север",
+            "audio": "На_север.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไปทางเหนือ",
+            "audio": "ไปทางเหนือ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke utara",
+            "audio": "Ke_utara.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向北",
+            "audio": "向北.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv313",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向南",
+        "CN_ENG": {
+            "word": "Southward",
+            "audio": "Southward.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "南へ",
+            "audio": "南へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "남쪽으로",
+            "audio": "남쪽으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về phía nam",
+            "audio": "Về_phía_nam.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向南",
+            "audio": "向南.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers le sud",
+            "audio": "Vers_le_sud.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Südwärts",
+            "audio": "Südwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia el sur",
+            "audio": "Hacia_el_sur.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На юг",
+            "audio": "На_юг.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไปทางใต้",
+            "audio": "ไปทางใต้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke selatan",
+            "audio": "Ke_selatan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向南",
+            "audio": "向南.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv314",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向東",
+        "CN_ENG": {
+            "word": "Eastward",
+            "audio": "Eastward.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "東へ",
+            "audio": "東へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "동쪽으로",
+            "audio": "동쪽으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về phía đông",
+            "audio": "Về_phía_đông.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向東",
+            "audio": "向東.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers l'est",
+            "audio": "Vers_l'est.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ostwärts",
+            "audio": "Ostwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia el este",
+            "audio": "Hacia_el_este.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На восток",
+            "audio": "На_восток.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไปทางตะวันออก",
+            "audio": "ไปทางตะวันออก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke timur",
+            "audio": "Ke_timur.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向東",
+            "audio": "向東.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv315",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向西",
+        "CN_ENG": {
+            "word": "Westward",
+            "audio": "Westward.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "西へ",
+            "audio": "西へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "서쪽으로",
+            "audio": "서쪽으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về phía tây",
+            "audio": "Về_phía_tây.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向西",
+            "audio": "向西.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers l'ouest",
+            "audio": "Vers_l'ouest.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Westwärts",
+            "audio": "Westwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia el oeste",
+            "audio": "Hacia_el_oeste.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На запад",
+            "audio": "На_запад.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไปทางตะวันตก",
+            "audio": "ไปทางตะวันตก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke barat",
+            "audio": "Ke_barat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向西",
+            "audio": "向西.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv316",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向內",
+        "CN_ENG": {
+            "word": "Inwards",
+            "audio": "Inwards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "内側へ",
+            "audio": "内側へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안으로",
+            "audio": "안으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vào trong",
+            "audio": "Vào_trong.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向內",
+            "audio": "向內.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers l'intérieur",
+            "audio": "Vers_l'intérieur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einwärts",
+            "audio": "Einwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia adentro",
+            "audio": "Hacia_adentro.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Внутрь",
+            "audio": "Внутрь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เข้าข้างใน",
+            "audio": "เข้าข้างใน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke dalam",
+            "audio": "Ke_dalam.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向內",
+            "audio": "向內.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv317",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向外",
+        "CN_ENG": {
+            "word": "Outwards",
+            "audio": "Outwards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "外側へ",
+            "audio": "外側へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "밖으로",
+            "audio": "밖으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ra ngoài",
+            "audio": "Ra_ngoài.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向外",
+            "audio": "向外.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers l'extérieur",
+            "audio": "Vers_l'extérieur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Auswärts",
+            "audio": "Auswärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia afuera",
+            "audio": "Hacia_afuera.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Наружу",
+            "audio": "Наружу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ออกข้างนอก",
+            "audio": "ออกข้างนอก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke luar",
+            "audio": "Ke_luar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向外",
+            "audio": "向外.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv318",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向後",
+        "CN_ENG": {
+            "word": "Backwards",
+            "audio": "Backwards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "後ろへ",
+            "audio": "後ろへ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "뒤로",
+            "audio": "뒤로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về phía sau",
+            "audio": "Về_phía_sau.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向後",
+            "audio": "向後.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "En arrière",
+            "audio": "En_arrière.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Rückwärts",
+            "audio": "Rückwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia atrás",
+            "audio": "Hacia_atrás.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Назад",
+            "audio": "Назад.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถอยหลัง",
+            "audio": "ถอยหลัง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mundur",
+            "audio": "Mundur.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向後",
+            "audio": "向後.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv319",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向前",
+        "CN_ENG": {
+            "word": "Forwards",
+            "audio": "Forwards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "前へ",
+            "audio": "前へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "앞으로",
+            "audio": "앞으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về phía trước",
+            "audio": "Về_phía_trước.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向前",
+            "audio": "向前.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "En avant",
+            "audio": "En_avant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vorwärts",
+            "audio": "Vorwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia adelante",
+            "audio": "Hacia_adelante.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вперед",
+            "audio": "Вперед.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไปข้างหน้า",
+            "audio": "ไปข้างหน้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Maju",
+            "audio": "Maju.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向前",
+            "audio": "向前.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv320",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向上",
+        "CN_ENG": {
+            "word": "Upwards",
+            "audio": "Upwards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "上へ",
+            "audio": "上へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "위로",
+            "audio": "위로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lên trên",
+            "audio": "Lên_trên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向上",
+            "audio": "向上.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers le haut",
+            "audio": "Vers_le_haut.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Aufwärts",
+            "audio": "Aufwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia arriba",
+            "audio": "Hacia_arriba.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вверх",
+            "audio": "Вверх.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขึ้นไป",
+            "audio": "ขึ้นไป.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke atas",
+            "audio": "Ke_atas.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向上",
+            "audio": "向上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv321",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "向下",
+        "CN_ENG": {
+            "word": "Downwards",
+            "audio": "Downwards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "下へ",
+            "audio": "下へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "아래로",
+            "audio": "아래로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xuống dưới",
+            "audio": "Xuống_dưới.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "向下",
+            "audio": "向下.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers le bas",
+            "audio": "Vers_le_bas.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Abwärts",
+            "audio": "Abwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia abajo",
+            "audio": "Hacia_abajo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вниз",
+            "audio": "Вниз.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลงไป",
+            "audio": "ลงไป.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke bawah",
+            "audio": "Ke_bawah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "向下",
+            "audio": "向下.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv322",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "側向",
+        "CN_ENG": {
+            "word": "Sideways",
+            "audio": "Sideways.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "横へ",
+            "audio": "横へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "옆으로",
+            "audio": "옆으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sang bên",
+            "audio": "Sang_bên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "側邊",
+            "audio": "側邊.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De côté",
+            "audio": "De_côté.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Seitwärts",
+            "audio": "Seitwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "De lado",
+            "audio": "De_lado.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вбок",
+            "audio": "Вбок.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ด้านข้าง",
+            "audio": "ด้านข้าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyamping",
+            "audio": "Menyamping.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "側向",
+            "audio": "側向.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv323",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "縱向",
+        "CN_ENG": {
+            "word": "Lengthwise",
+            "audio": "Lengthwise.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "縦に (tate)",
+            "audio": "tate.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "세로로 (se-ro)",
+            "audio": "세로로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Theo chiều dọc",
+            "audio": "Theo_chiều_dọc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "直紋",
+            "audio": "直紋.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Dans le sens de la longueur",
+            "audio": "Dans_le_sens_de_la_longueur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Der Länge nach",
+            "audio": "Der_Länge_nach.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "A lo largo",
+            "audio": "A_lo_largo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вдоль",
+            "audio": "Вдоль.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตามยาว",
+            "audio": "ตามยาว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memanjang",
+            "audio": "Memanjang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "縱向",
+            "audio": "縱向.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv324",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "對角線地",
+        "CN_ENG": {
+            "word": "Diagonally",
+            "audio": "Diagonally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "斜めに (naname)",
+            "audio": "naname.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "대각선으로 (dae-gak)",
+            "audio": "대각선으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Theo đường chéo",
+            "audio": "Theo_đường_chéo.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "對角",
+            "audio": "對角.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "En diagonale",
+            "audio": "En_diagonale.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Diagonal",
+            "audio": "Diagonal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Diagonalmente",
+            "audio": "Diagonalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "По диагонали",
+            "audio": "По_диагонали.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทแยงมุม",
+            "audio": "ทแยงมุม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara diagonal",
+            "audio": "Secara_diagonal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "對角線地",
+            "audio": "對角線地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv325",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "垂直地",
+        "CN_ENG": {
+            "word": "Vertically",
+            "audio": "Vertically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "垂直に",
+            "audio": "垂直に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수직으로",
+            "audio": "수직으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thẳng đứng",
+            "audio": "Thẳng_đứng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "垂直",
+            "audio": "垂直.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Verticalement",
+            "audio": "Verticalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vertikal",
+            "audio": "Vertikal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Verticalmente",
+            "audio": "Verticalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вертикально",
+            "audio": "Вертикально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แนวตั้ง",
+            "audio": "แนวตั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara vertikal",
+            "audio": "Secara_vertikal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "垂直地",
+            "audio": "垂直地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv326",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "水平地",
+        "CN_ENG": {
+            "word": "Horizontally",
+            "audio": "Horizontally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "水平に",
+            "audio": "水平に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수평으로",
+            "audio": "수평으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nằm ngang",
+            "audio": "Nằm_ngang.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "水平",
+            "audio": "水平.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Horizontalement",
+            "audio": "Horizontalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Horizontal",
+            "audio": "Horizontal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Horizontalmente",
+            "audio": "Horizontalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Горизонтально",
+            "audio": "Горизонтально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แนวนอน",
+            "audio": "แนวนอน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara horizontal",
+            "audio": "Secara_horizontal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "水平地",
+            "audio": "水平地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv327",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "順時針",
+        "CN_ENG": {
+            "word": "Clockwise",
+            "audio": "Clockwise.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "時計回りに",
+            "audio": "時計回りに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "시계 방향으로",
+            "audio": "시계_방향으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thuận chiều kim đồng hồ",
+            "audio": "Thuận_chiều_kim_đồng_hồ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "順時針",
+            "audio": "順時針.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Dans le sens des aiguilles",
+            "audio": "Dans_le_sens_des_aiguilles.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Im Uhrzeigersinn",
+            "audio": "Im_Uhrzeigersinn.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "En el sentido de las agujas",
+            "audio": "En_el_sentido_de_las_agujas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "По часовой стрелке",
+            "audio": "По_часовой_стрелке.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตามเข็มนาฬิกา",
+            "audio": "ตามเข็มนาฬิกา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Searah jarum jam",
+            "audio": "Searah_jarum_jam.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "順時針",
+            "audio": "順時針.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv328",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "逆時針",
+        "CN_ENG": {
+            "word": "Counterclockwise",
+            "audio": "Counterclockwise.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "反時計回りに",
+            "audio": "反時計回りに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "반시계 방향으로",
+            "audio": "반시계_방향으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngược chiều kim đồng hồ",
+            "audio": "Ngược_chiều_kim_đồng_hồ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "逆時針",
+            "audio": "逆時針.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Dans le sens inverse",
+            "audio": "Dans_le_sens_inverse.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gegen den Uhrzeigersinn",
+            "audio": "Gegen_den_Uhrzeigersinn.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "En sentido contrario",
+            "audio": "En_sentido_contrario.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Против часовой стрелки",
+            "audio": "Против_часовой_стрелки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทวนเข็มนาฬิกา",
+            "audio": "ทวนเข็มนาฬิกา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berlawanan jarum jam",
+            "audio": "Berlawanan_jarum_jam.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "逆時針",
+            "audio": "逆時針.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv329",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "家裡",
+        "CN_ENG": {
+            "word": "Homewards",
+            "audio": "Homewards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "家路へ",
+            "audio": "家路へ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "집으로",
+            "audio": "집으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về nhà",
+            "audio": "Về_nhà.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "返屋企",
+            "audio": "返屋企.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vers la maison",
+            "audio": "Vers_la_maison.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Heimwärts",
+            "audio": "Heimwärts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacia casa",
+            "audio": "Hacia_casa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Домой",
+            "audio": "Домой.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กลับบ้าน",
+            "audio": "กลับบ้าน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ke arah rumah",
+            "audio": "Ke_arah_rumah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "家裡",
+            "audio": "家裡.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv330",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 地點與方向",
+        "cn": "全球地",
+        "CN_ENG": {
+            "word": "Globally",
+            "audio": "Globally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "地球規模で",
+            "audio": "地球規模で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "전 세계적으로",
+            "audio": "전_세계적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Toàn cầu",
+            "audio": "Toàn_cầu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "全球",
+            "audio": "全球.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Globalement",
+            "audio": "Globalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Global",
+            "audio": "Global.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Globalmente",
+            "audio": "Globalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Глобально",
+            "audio": "Глобально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทั่วโลก",
+            "audio": "ทั่วโลก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara global",
+            "audio": "Secara_global.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "全球地",
+            "audio": "全球地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv331",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "秘密地",
+        "CN_ENG": {
+            "word": "Secretly",
+            "audio": "Secretly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "こっそりと",
+            "audio": "こっそりと.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "몰래 (mol-lae)",
+            "audio": "몰래.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bí mật",
+            "audio": "Bí_mật.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "靜雞雞",
+            "audio": "靜雞雞.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Secrètement",
+            "audio": "Secrètement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Heimlich",
+            "audio": "Heimlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Secretamente",
+            "audio": "Secretamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Тайно",
+            "audio": "Тайно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างลับๆ",
+            "audio": "อย่างลับๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara rahasia",
+            "audio": "Secara_rahasia.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "秘密地",
+            "audio": "秘密地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv332",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "公然地",
+        "CN_ENG": {
+            "word": "Openly",
+            "audio": "Openly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "公然と",
+            "audio": "公然と.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "공개적으로",
+            "audio": "공개적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Công khai",
+            "audio": "Công_khai.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "公然",
+            "audio": "公然.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ouvertement",
+            "audio": "Ouvertement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Offen",
+            "audio": "Offen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Abiertamente",
+            "audio": "Abiertamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Открыто",
+            "audio": "Открыто.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเปิดเผย",
+            "audio": "อย่างเปิดเผย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara terbuka",
+            "audio": "Secara_terbuka.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "公然地",
+            "audio": "公然地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv333",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "瘋狂地",
+        "CN_ENG": {
+            "word": "Frantically",
+            "audio": "Frantically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "狂ったように",
+            "audio": "狂ったように.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "미친 듯이",
+            "audio": "미친_듯이.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Điên cuồng",
+            "audio": "Điên_cuồng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "癲咗",
+            "audio": "癲咗.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Frénétiquement",
+            "audio": "Frénétiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hektisch",
+            "audio": "Hektisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Frenéticamente",
+            "audio": "Frenéticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Лихорадочно",
+            "audio": "Лихорадочно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างบ้าคลั่ง",
+            "audio": "อย่างบ้าคลั่ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan panik",
+            "audio": "Dengan_panik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "瘋狂地",
+            "audio": "瘋狂地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv334",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "溫柔地",
+        "CN_ENG": {
+            "word": "Tenderly",
+            "audio": "Tenderly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "優しく",
+            "audio": "優しく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상냥하게",
+            "audio": "상냥하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dịu dàng",
+            "audio": "Dịu_dàng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "溫柔",
+            "audio": "溫柔.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tendrement",
+            "audio": "Tendrement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zärtlich",
+            "audio": "Zärtlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tiernamente",
+            "audio": "Tiernamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нежно",
+            "audio": "Нежно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างอ่อนโยน",
+            "audio": "อย่างอ่อนโยน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan lembut",
+            "audio": "Dengan_lembut.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "溫柔地",
+            "audio": "溫柔地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv335",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "嚴厲地",
+        "CN_ENG": {
+            "word": "Harshly",
+            "audio": "Harshly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "厳しく",
+            "audio": "厳しく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가혹하게",
+            "audio": "가혹하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gay gắt",
+            "audio": "Gay_gắt.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "嚴厲",
+            "audio": "嚴厲.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Durement",
+            "audio": "Durement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Harsch",
+            "audio": "Harsch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Duramente",
+            "audio": "Duramente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Грубо",
+            "audio": "Грубо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างรุนแรง",
+            "audio": "อย่างรุนแรง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan keras",
+            "audio": "Dengan_keras.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "嚴厲地",
+            "audio": "嚴厲地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv336",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "隨意地",
+        "CN_ENG": {
+            "word": "Casually",
+            "audio": "Casually.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "何気なく",
+            "audio": "何気なく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무심코 (mu-sim)",
+            "audio": "무심코.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tình cờ",
+            "audio": "Tình_cờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "隨意",
+            "audio": "隨意.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avec désinvolture",
+            "audio": "Avec_désinvolture.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lässig",
+            "audio": "Lässig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Casualmente",
+            "audio": "Casualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Небрежно",
+            "audio": "Небрежно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สบายๆ",
+            "audio": "สบายๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan santai",
+            "audio": "Dengan_santai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "隨意地",
+            "audio": "隨意地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv337",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "諷刺地",
+        "CN_ENG": {
+            "word": "Sarcastically",
+            "audio": "Sarcastically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "皮肉っぽく",
+            "audio": "皮肉っぽく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비꼬며 (bi-kko)",
+            "audio": "비꼬며.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mỉa mai",
+            "audio": "Mỉa_mai.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "諷刺",
+            "audio": "諷刺.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sarcastiquement",
+            "audio": "Sarcastiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sarkastisch",
+            "audio": "Sarkastisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sarcásticamente",
+            "audio": "Sarcásticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Саркастически",
+            "audio": "Саркастически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างประชดประชัน",
+            "audio": "อย่างประชดประชัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan sinis",
+            "audio": "Dengan_sinis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "諷刺地",
+            "audio": "諷刺地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv338",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "難以置信地",
+        "CN_ENG": {
+            "word": "Incredibly",
+            "audio": "Incredibly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "信じられないほど",
+            "audio": "信じられないほど.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "믿을 수 없을 만큼",
+            "audio": "믿을_수_없을_만큼.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khó tin",
+            "audio": "Khó_tin.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "難以置信",
+            "audio": "難以置信.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Incroyablement",
+            "audio": "Incroyablement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unglaublich",
+            "audio": "Unglaublich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Increíblemente",
+            "audio": "Increíblemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Невероятно",
+            "audio": "Невероятно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่น่าเชื่อ",
+            "audio": "อย่างไม่น่าเชื่อ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Luar biasa",
+            "audio": "Luar_biasa.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "難以置信地",
+            "audio": "難以置信地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv339",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "不知不覺地",
+        "CN_ENG": {
+            "word": "Unknowingly",
+            "audio": "Unknowingly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "知らずに",
+            "audio": "知らずに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "자신도 모르게",
+            "audio": "자신도_모르게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vô tình",
+            "audio": "Vô_tình.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "不知不覺",
+            "audio": "不知不覺.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À son insu",
+            "audio": "À_son_insu.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unwissentlich",
+            "audio": "Unwissentlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sin saberlo",
+            "audio": "Sin_saberlo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Неосознанно",
+            "audio": "Неосознанно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยไม่รู้ตัว",
+            "audio": "โดยไม่รู้ตัว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tanpa sadar",
+            "audio": "Tanpa_sadar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不知不覺地",
+            "audio": "不知不覺地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv340",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏃 方式與態度",
+        "cn": "有意地",
+        "CN_ENG": {
+            "word": "Knowingly",
+            "audio": "Knowingly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "知っていて",
+            "audio": "知っていて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "고의로",
+            "audio": "고의로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có chủ ý",
+            "audio": "Có_chủ_ý.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "有意",
+            "audio": "有意.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sciemment",
+            "audio": "Sciemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wissentlich",
+            "audio": "Wissentlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "A sabiendas",
+            "audio": "A_sabiendas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сознательно",
+            "audio": "Сознательно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยรู้เท่าทัน",
+            "audio": "โดยรู้เท่าทัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan sadar",
+            "audio": "Dengan_sadar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "有意地",
+            "audio": "有意地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv341",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "反之",
+        "CN_ENG": {
+            "word": "Conversely",
+            "audio": "Conversely.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "逆に",
+            "audio": "逆に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정반대로",
+            "audio": "정반대로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngược lại",
+            "audio": "Ngược_lại.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "反之",
+            "audio": "反之.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Inversement",
+            "audio": "Inversement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Umgekehrt",
+            "audio": "Umgekehrt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "A la inversa",
+            "audio": "A_la_inversa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Наоборот",
+            "audio": "Наоборот.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ในทางกลับกัน",
+            "audio": "ในทางกลับกัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sebaliknya",
+            "audio": "Sebaliknya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "反之",
+            "audio": "反之.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv342",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "同樣",
+        "CN_ENG": {
+            "word": "Likewise",
+            "audio": "Likewise.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "同様に",
+            "audio": "同様に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "마찬가지로",
+            "audio": "마찬가지로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tương tự",
+            "audio": "Tương_tự.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "同樣",
+            "audio": "同樣.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De même",
+            "audio": "De_même.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ebenso",
+            "audio": "Ebenso.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Igualmente",
+            "audio": "Igualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Также",
+            "audio": "Также.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เช่นเดียวกัน",
+            "audio": "เช่นเดียวกัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Demikian pula",
+            "audio": "Demikian_pula.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "同樣",
+            "audio": "同樣.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv343",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "否則",
+        "CN_ENG": {
+            "word": "Otherwise",
+            "audio": "Otherwise.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "さもなければ",
+            "audio": "さもなければ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그렇지 않으면",
+            "audio": "그렇지_않으면.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nếu không",
+            "audio": "Nếu_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔係嘅話",
+            "audio": "唔係嘅話.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sinon",
+            "audio": "Sinon.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Andernfalls",
+            "audio": "Andernfalls.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "De lo contrario",
+            "audio": "De_lo_contrario.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Иначе",
+            "audio": "Иначе.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มิฉะนั้น",
+            "audio": "มิฉะนั้น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jika tidak",
+            "audio": "Jika_tidak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "否則",
+            "audio": "否則.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv344",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "無論如何",
+        "CN_ENG": {
+            "word": "Regardless",
+            "audio": "Regardless.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "にかかわらず",
+            "audio": "にかかわらず.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상관없이",
+            "audio": "상관없이.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bất kể",
+            "audio": "Bất_kể.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "無論點",
+            "audio": "無論點.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Indépendamment",
+            "audio": "Indépendamment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ungeachtet",
+            "audio": "Ungeachtet.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Independientemente",
+            "audio": "Independientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Независимо",
+            "audio": "Независимо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยไม่คำนึงถึง",
+            "audio": "โดยไม่คำนึงถึง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terlepas dari",
+            "audio": "Terlepas_dari.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "無論如何",
+            "audio": "無論如何.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv345",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "此外",
+        "CN_ENG": {
+            "word": "Furthermore",
+            "audio": "Furthermore.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "さらに",
+            "audio": "さらに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "게다가",
+            "audio": "게다가.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hơn nữa",
+            "audio": "Hơn_nữa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "仲有",
+            "audio": "仲有.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "En outre",
+            "audio": "En_outre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ferner",
+            "audio": "Ferner.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Además",
+            "audio": "Además.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Более того",
+            "audio": "Более_того.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยิ่งไปกว่านั้น",
+            "audio": "ยิ่งไปกว่านั้น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selanjutnya",
+            "audio": "Selanjutnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "此外",
+            "audio": "此外.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv346",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "而且",
+        "CN_ENG": {
+            "word": "Moreover",
+            "audio": "Moreover.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "その上",
+            "audio": "その上.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "더욱이",
+            "audio": "더욱이.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hơn nữa",
+            "audio": "Hơn_nữa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "而且",
+            "audio": "而且.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De plus",
+            "audio": "De_plus.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zudem",
+            "audio": "Zudem.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Además",
+            "audio": "Además.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Более того",
+            "audio": "Более_того.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นอกจากนี้",
+            "audio": "นอกจากนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terlebih lagi",
+            "audio": "Terlebih_lagi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "而且",
+            "audio": "而且.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv347",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "不過",
+        "CN_ENG": {
+            "word": "However",
+            "audio": "However.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "しかし",
+            "audio": "しかし.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그러나",
+            "audio": "그러나.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tuy nhiên",
+            "audio": "Tuy_nhiên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "不過",
+            "audio": "不過.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cependant",
+            "audio": "Cependant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Jedoch",
+            "audio": "Jedoch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sin embargo",
+            "audio": "Sin_embargo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Однако",
+            "audio": "Однако.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไรก็ตาม",
+            "audio": "อย่างไรก็ตาม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Namun",
+            "audio": "Namun.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不過",
+            "audio": "不過.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv348",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "因此",
+        "CN_ENG": {
+            "word": "Therefore",
+            "audio": "Therefore.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "したがって",
+            "audio": "したがって.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그러므로",
+            "audio": "그러므로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vì vậy",
+            "audio": "Vì_vậy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "所以",
+            "audio": "所以.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donc",
+            "audio": "Donc.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Deshalb",
+            "audio": "Deshalb.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por lo tanto",
+            "audio": "Por_lo_tanto.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Поэтому",
+            "audio": "Поэтому.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดังนั้น",
+            "audio": "ดังนั้น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Oleh karena itu",
+            "audio": "Oleh_karena_itu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "因此",
+            "audio": "因此.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv349",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "結果",
+        "CN_ENG": {
+            "word": "Consequently",
+            "audio": "Consequently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "その結果",
+            "audio": "その結果.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "결과적으로",
+            "audio": "결과적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kết quả là",
+            "audio": "Kết_quả_là.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "結果",
+            "audio": "結果.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Par conséquent",
+            "audio": "Par_conséquent.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Folglich",
+            "audio": "Folglich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Consecuentemente",
+            "audio": "Consecuentemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вследствие этого",
+            "audio": "Вследствие_этого.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ผลที่ตามมา",
+            "audio": "ผลที่ตามมา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Akibatnya",
+            "audio": "Akibatnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "結果",
+            "audio": "結果.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv350",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與連接",
+        "cn": "相反",
+        "CN_ENG": {
+            "word": "Instead",
+            "audio": "Instead.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "代わりに",
+            "audio": "代わりに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "대신에",
+            "audio": "대신에.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thay vào đó",
+            "audio": "Thay_vào_đó.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "相反",
+            "audio": "相反.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Au lieu de",
+            "audio": "Au_lieu_de.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Stattdessen",
+            "audio": "Stattdessen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "En cambio",
+            "audio": "En_cambio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вместо",
+            "audio": "Вместо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แทน",
+            "audio": "แทน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Malah",
+            "audio": "Malah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "相反",
+            "audio": "相反.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv351",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🔗 順序與系統",
+        "cn": "分別地",
+        "CN_ENG": {
+            "word": "Respectively",
+            "audio": "Respectively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それぞれ (sorezore)",
+            "audio": "sorezore.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "각각 (gak-gak)",
+            "audio": "각각.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tương ứng",
+            "audio": "Tương_ứng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "分別",
+            "audio": "分別.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Respectivement",
+            "audio": "Respectivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Respektive",
+            "audio": "Respektive.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Respectivamente",
+            "audio": "Respectivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Соответственно",
+            "audio": "Соответственно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตามลำดับ",
+            "audio": "ตามลำดับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Masing-masing",
+            "audio": "Masing-masing.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "分別地",
+            "audio": "分別地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv352",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🔗 順序與系統",
+        "cn": "按時間順序",
+        "CN_ENG": {
+            "word": "Chronologically",
+            "audio": "Chronologically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "年代順に",
+            "audio": "年代順に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "연대순으로",
+            "audio": "연대순으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Theo thời gian",
+            "audio": "Theo_thời_gian.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "按時間",
+            "audio": "按時間.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Chronologiquement",
+            "audio": "Chronologiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Chronologisch",
+            "audio": "Chronologisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cronológicamente",
+            "audio": "Cronológicamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хронологически",
+            "audio": "Хронологически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตามลำดับเวลา",
+            "audio": "ตามลำดับเวลา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara kronologis",
+            "audio": "Secara_kronologis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "按時間順序",
+            "audio": "按時間順序.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv353",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🔗 順序與系統",
+        "cn": "按字母順序",
+        "CN_ENG": {
+            "word": "Alphabetically",
+            "audio": "Alphabetically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "アルファベット順に",
+            "audio": "アルファベット順に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "알파벳순으로",
+            "audio": "알파벳순으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Theo bảng chữ cái",
+            "audio": "Theo_bảng_chữ_cái.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "按字母",
+            "audio": "按字母.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Alphabétiquement",
+            "audio": "Alphabétiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Alphabetisch",
+            "audio": "Alphabetisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Alfabéticamente",
+            "audio": "Alfabéticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В алфавитном порядке",
+            "audio": "В_алфавитном_порядке.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตามตัวอักษร",
+            "audio": "ตามตัวอักษร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Abjad",
+            "audio": "Abjad.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "按字母順序",
+            "audio": "按字母順序.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv354",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🔗 順序與系統",
+        "cn": "隨機地",
+        "CN_ENG": {
+            "word": "Randomly",
+            "audio": "Randomly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ランダムに",
+            "audio": "ランダムに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무작위로 (mu-jak-wi)",
+            "audio": "무작위로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngẫu nhiên",
+            "audio": "Ngẫu_nhiên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "隨機",
+            "audio": "隨機.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Aléatoirement",
+            "audio": "Aléatoirement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zufällig",
+            "audio": "Zufällig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aleatoriamente",
+            "audio": "Aleatoriamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Случайно",
+            "audio": "Случайно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สุ่ม (sum)",
+            "audio": "สุ่ม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara acak",
+            "audio": "Secara_acak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "隨機地",
+            "audio": "隨機地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv355",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🔗 順序與系統",
+        "cn": "系統地",
+        "CN_ENG": {
+            "word": "Systematically",
+            "audio": "Systematically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "体系的に",
+            "audio": "体系的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "체계적으로 (che-gye)",
+            "audio": "체계적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có hệ thống",
+            "audio": "Có_hệ_thống.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "系統性",
+            "audio": "系統性.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Systématiquement",
+            "audio": "Systématiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Systematisch",
+            "audio": "Systematisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sistemáticamente",
+            "audio": "Sistemáticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Систематически",
+            "audio": "Систематически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเป็นระบบ",
+            "audio": "อย่างเป็นระบบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara sistematis",
+            "audio": "Secara_sistematis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "系統地",
+            "audio": "系統地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv356",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "自發地",
+        "CN_ENG": {
+            "word": "Spontaneously",
+            "audio": "Spontaneously.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "自発的に",
+            "audio": "自発的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "자발적으로 (ja-bal)",
+            "audio": "자발적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tự phát",
+            "audio": "Tự_phát.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "自發",
+            "audio": "自發.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Spontanément",
+            "audio": "Spontanément.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Spontan",
+            "audio": "Spontan.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Espontáneamente",
+            "audio": "Espontáneamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спонтанно",
+            "audio": "Спонтанно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยธรรมชาติ",
+            "audio": "โดยธรรมชาติ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara spontan",
+            "audio": "Secara_spontan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "自發地",
+            "audio": "自發地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv357",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "同時發生地",
+        "CN_ENG": {
+            "word": "Concurrently",
+            "audio": "Concurrently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "同時に",
+            "audio": "同時に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "동시에 (dong-si)",
+            "audio": "동시에.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đồng thời",
+            "audio": "Đồng_thời.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "同時",
+            "audio": "同時.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Simultanément",
+            "audio": "Simultanément.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gleichzeitig",
+            "audio": "Gleichzeitig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Concurrentemente",
+            "audio": "Concurrentemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Одновременно",
+            "audio": "Одновременно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พร้อมกัน",
+            "audio": "พร้อมกัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bersamaan",
+            "audio": "Bersamaan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "同時發生地",
+            "audio": "同時發生地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv358",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "全體一致地",
+        "CN_ENG": {
+            "word": "Unanimously",
+            "audio": "Unanimously.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "満場一致で",
+            "audio": "満場一致で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "만장일치로",
+            "audio": "만장일치로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhất trí",
+            "audio": "Nhất_trí.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "全體一致",
+            "audio": "全體一致.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Unanimement",
+            "audio": "Unanimement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einstimmig",
+            "audio": "Einstimmig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Unánimemente",
+            "audio": "Unánimemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Единогласно",
+            "audio": "Единогласно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เป็นเอกฉันท์",
+            "audio": "เป็นเอกฉันท์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara bulat",
+            "audio": "Secara_bulat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "全體一致地",
+            "audio": "全體一致地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv359",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "個別地",
+        "CN_ENG": {
+            "word": "Individually",
+            "audio": "Individually.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "個別に",
+            "audio": "個別に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "개별적으로 (gae-byeol)",
+            "audio": "개별적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cá nhân",
+            "audio": "Cá_nhân.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "個別",
+            "audio": "個別.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Individuellement",
+            "audio": "Individuellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Individuell",
+            "audio": "Individuell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Individualmente",
+            "audio": "Individualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Индивидуально",
+            "audio": "Индивидуально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รายบุคคล",
+            "audio": "รายบุคคล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara individu",
+            "audio": "Secara_individu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "個別地",
+            "audio": "個別地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv360",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "集體地",
+        "CN_ENG": {
+            "word": "Collectively",
+            "audio": "Collectively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "集団で",
+            "audio": "集団で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "집단적으로 (jip-dan)",
+            "audio": "집단적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tập thể",
+            "audio": "Tập_thể.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "集體",
+            "audio": "集體.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Collectivement",
+            "audio": "Collectivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kollektiv",
+            "audio": "Kollektiv.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Colectivamente",
+            "audio": "Colectivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Коллективно",
+            "audio": "Коллективно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยรวม",
+            "audio": "โดยรวม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara kolektif",
+            "audio": "Secara_kolektif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "集體地",
+            "audio": "集體地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv361",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "耐心地",
+        "CN_ENG": {
+            "word": "Patiently",
+            "audio": "Patiently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "忍耐強く",
+            "audio": "忍耐強く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "인내심 있게",
+            "audio": "인내심_있게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kiên nhẫn",
+            "audio": "Kiên_nhẫn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "耐心",
+            "audio": "耐心.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Patiemment",
+            "audio": "Patiemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Geduldig",
+            "audio": "Geduldig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pacientemente",
+            "audio": "Pacientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Терпеливо",
+            "audio": "Терпеливо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างอดทน",
+            "audio": "อย่างอดทน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan sabar",
+            "audio": "Dengan_sabar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "耐心地",
+            "audio": "耐心地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv362",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "不耐煩地",
+        "CN_ENG": {
+            "word": "Impatiently",
+            "audio": "Impatiently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "焦って",
+            "audio": "焦って.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조급하게 (jo-geup)",
+            "audio": "조급하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mất kiên nhẫn",
+            "audio": "Mất_kiên_nhẫn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔耐煩",
+            "audio": "唔耐煩.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Impatiemment",
+            "audio": "Impatiemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ungeduldig",
+            "audio": "Ungeduldig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Impacientemente",
+            "audio": "Impacientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нетерпеливо",
+            "audio": "Нетерпеливо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างใจร้อน",
+            "audio": "อย่างใจร้อน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan tidak sabar",
+            "audio": "Dengan_tidak_sabar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不耐煩地",
+            "audio": "不耐煩地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv363",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "自私地",
+        "CN_ENG": {
+            "word": "Selfishly",
+            "audio": "Selfishly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "利己的に",
+            "audio": "利己的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이기적으로 (i-gi)",
+            "audio": "이기적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ích kỷ",
+            "audio": "Ích_kỷ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "自私",
+            "audio": "自私.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Égoïstement",
+            "audio": "Égoïstement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Selbstsüchtig",
+            "audio": "Selbstsüchtig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Egoístamente",
+            "audio": "Egoístamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эгоистично",
+            "audio": "Эгоистично.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเห็นแก่ตัว",
+            "audio": "อย่างเห็นแก่ตัว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara egois",
+            "audio": "Secara_egois.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "自私地",
+            "audio": "自私地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv364",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "無私地",
+        "CN_ENG": {
+            "word": "Altruistically",
+            "audio": "Altruistically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "利他的に",
+            "audio": "利他的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이타적으로 (i-ta)",
+            "audio": "이타적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vị tha",
+            "audio": "Vị_tha.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "無私",
+            "audio": "無私.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De manière altruiste",
+            "audio": "De_manière_altruiste.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Altruistisch",
+            "audio": "Altruistisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Altruistamente",
+            "audio": "Altruistamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Альтруистично",
+            "audio": "Альтруистично.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่เห็นแก่ตัว",
+            "audio": "อย่างไม่เห็นแก่ตัว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara altruistik",
+            "audio": "Secara_altruistik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "無私地",
+            "audio": "無私地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv365",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "樂觀地",
+        "CN_ENG": {
+            "word": "Optimistically",
+            "audio": "Optimistically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "楽観的に",
+            "audio": "楽観的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "낙관적으로 (nak-gwan)",
+            "audio": "낙관적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lạc quan",
+            "audio": "Lạc_quan.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "樂觀",
+            "audio": "樂觀.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De façon optimiste",
+            "audio": "De_façon_optimiste.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Optimistisch",
+            "audio": "Optimistisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Optimistamente",
+            "audio": "Optimistamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Оптимистично",
+            "audio": "Оптимистично.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมองโลกในแง่ดี",
+            "audio": "อย่างมองโลกในแง่ดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara optimis",
+            "audio": "Secara_optimis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "樂觀地",
+            "audio": "樂觀地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv366",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "悲觀地",
+        "CN_ENG": {
+            "word": "Pessimistically",
+            "audio": "Pessimistically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "悲観的に",
+            "audio": "悲観的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비관적으로 (bi-gwan)",
+            "audio": "비관적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bi quan",
+            "audio": "Bi_quan.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "悲觀",
+            "audio": "悲觀.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De façon pessimiste",
+            "audio": "De_façon_pessimiste.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Pessimistisch",
+            "audio": "Pessimistisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pesimistamente",
+            "audio": "Pesimistamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пессимистично",
+            "audio": "Пессимистично.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมองโลกในแง่ร้าย",
+            "audio": "อย่างมองโลกในแง่ร้าย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara pesimis",
+            "audio": "Secara_pesimis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "悲觀地",
+            "audio": "悲觀地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv367",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "憤世嫉俗地",
+        "CN_ENG": {
+            "word": "Cynically",
+            "audio": "Cynically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "冷笑的に",
+            "audio": "冷笑的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "냉소적으로 (naeng-so)",
+            "audio": "냉소적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hoài nghi",
+            "audio": "Hoài_nghi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "憤世嫉俗",
+            "audio": "憤世嫉俗.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cyniquement",
+            "audio": "Cyniquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zynisch",
+            "audio": "Zynisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cínicamente",
+            "audio": "Cínicamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Цинично",
+            "audio": "Цинично.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างดูถูก",
+            "audio": "อย่างดูถูก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara sinis",
+            "audio": "Secara_sinis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "憤世嫉俗地",
+            "audio": "憤世嫉俗地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv368",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "批判性地",
+        "CN_ENG": {
+            "word": "Critically",
+            "audio": "Critically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "批判的に",
+            "audio": "批判的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비판적으로 (bi-pan)",
+            "audio": "비판적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phê bình",
+            "audio": "Phê_bình.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "批判性",
+            "audio": "批判性.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Critiquement",
+            "audio": "Critiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kritisch",
+            "audio": "Kritisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Críticamente",
+            "audio": "Críticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Критически",
+            "audio": "Критически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมีวิจารณญาณ",
+            "audio": "อย่างมีวิจารณญาณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara kritis",
+            "audio": "Secara_kritis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "批判性地",
+            "audio": "批判性地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv369",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "客觀地",
+        "CN_ENG": {
+            "word": "Objectively",
+            "audio": "Objectively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "客観的に",
+            "audio": "客観的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "객관적으로 (gaek-gwan)",
+            "audio": "객관적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khách quan",
+            "audio": "Khách_quan.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "客觀",
+            "audio": "客觀.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Objectivement",
+            "audio": "Objectivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Objektiv",
+            "audio": "Objektiv.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Objetivamente",
+            "audio": "Objetivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Объективно",
+            "audio": "Объективно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเป็นกลาง",
+            "audio": "อย่างเป็นกลาง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara objektif",
+            "audio": "Secara_objektif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "客觀地",
+            "audio": "客觀地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv370",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 態度與方式",
+        "cn": "主觀地",
+        "CN_ENG": {
+            "word": "Subjectively",
+            "audio": "Subjectively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "主観的に",
+            "audio": "主観的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주관적으로 (ju-gwan)",
+            "audio": "주관적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chủ quan",
+            "audio": "Chủ_quan.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "主觀",
+            "audio": "主觀.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Subjectivement",
+            "audio": "Subjectivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Subjektiv",
+            "audio": "Subjektiv.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Subjetivamente",
+            "audio": "Subjetivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Субъективно",
+            "audio": "Субъективно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเป็นอัตวิสัย",
+            "audio": "อย่างเป็นอัตวิสัย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara subjektif",
+            "audio": "Secara_subjektif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "主觀地",
+            "audio": "主觀地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv371",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "足夠地 (充分)",
+        "CN_ENG": {
+            "word": "Sufficiently",
+            "audio": "Sufficiently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "十分に",
+            "audio": "十分に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "충분히 (chung-bun)",
+            "audio": "충분히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đủ",
+            "audio": "Đủ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "足夠",
+            "audio": "足夠.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Suffisamment",
+            "audio": "Suffisamment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ausreichend",
+            "audio": "Ausreichend.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Suficientemente",
+            "audio": "Suficientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Достаточно",
+            "audio": "Достаточно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเพียงพอ",
+            "audio": "อย่างเพียงพอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cukup",
+            "audio": "Cukup.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "足夠地 (充分)",
+            "audio": "足夠地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv372",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "不足地",
+        "CN_ENG": {
+            "word": "Insufficiently",
+            "audio": "Insufficiently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "不十分に",
+            "audio": "不十分に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "불충분하게",
+            "audio": "불충분하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không đủ",
+            "audio": "Không_đủ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔夠",
+            "audio": "唔夠.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Insuffisamment",
+            "audio": "Insuffisamment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unzureichend",
+            "audio": "Unzureichend.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Insuficientemente",
+            "audio": "Insuficientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Недостаточно",
+            "audio": "Недостаточно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่เพียงพอ",
+            "audio": "อย่างไม่เพียงพอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak cukup",
+            "audio": "Tidak_cukup.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不足地",
+            "audio": "不足地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv373",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "適當地 (恰當)",
+        "CN_ENG": {
+            "word": "Adequately",
+            "audio": "Adequately.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "適切に",
+            "audio": "適切に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "적절하게 (jeok-jeol)",
+            "audio": "적절하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thích đáng",
+            "audio": "Thích_đáng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "適當",
+            "audio": "適當.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Adéquatement",
+            "audio": "Adéquatement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Angemessen",
+            "audio": "Angemessen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Adecuadamente",
+            "audio": "Adecuadamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Адекватно",
+            "audio": "Адекватно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเหมาะสม",
+            "audio": "อย่างเหมาะสม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memadai",
+            "audio": "Memadai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "適當地 (恰當)",
+            "audio": "適當地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv374",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "不適當地",
+        "CN_ENG": {
+            "word": "Inadequately",
+            "audio": "Inadequately.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "不適切に",
+            "audio": "不適切に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "부적절하게",
+            "audio": "부적절하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không thích đáng",
+            "audio": "Không_thích_đáng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔適當",
+            "audio": "唔適當.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Inadéquatement",
+            "audio": "Inadéquatement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unangemessen",
+            "audio": "Unangemessen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Inadecuadamente",
+            "audio": "Inadecuadamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Неадекватно",
+            "audio": "Неадекватно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่เหมาะสม",
+            "audio": "อย่างไม่เหมาะสม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak memadai",
+            "audio": "Tidak_memadai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不適當地",
+            "audio": "不適當地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv375",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "廣泛地 (大規模)",
+        "CN_ENG": {
+            "word": "Extensively",
+            "audio": "Extensively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "広範囲に",
+            "audio": "広範囲に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "광범위하게 (gwang-beom)",
+            "audio": "광범위하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rộng rãi",
+            "audio": "Rộng_rãi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "廣泛",
+            "audio": "廣泛.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Extensivement",
+            "audio": "Extensivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ausgiebig",
+            "audio": "Ausgiebig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Extensamente",
+            "audio": "Extensamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обширно",
+            "audio": "Обширно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างกว้างขวาง",
+            "audio": "อย่างกว้างขวาง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara ekstensif",
+            "audio": "Secara_ekstensif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "廣泛地 (大規模)",
+            "audio": "廣泛地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv376",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "密集地 (集中)",
+        "CN_ENG": {
+            "word": "Intensively",
+            "audio": "Intensively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "集中的に",
+            "audio": "集中的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "집중적으로 (jip-jung)",
+            "audio": "집중적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chuyên sâu",
+            "audio": "Chuyên_sâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "密集",
+            "audio": "密集.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Intensivement",
+            "audio": "Intensivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Intensiv",
+            "audio": "Intensiv.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Intensivamente",
+            "audio": "Intensivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Интенсивно",
+            "audio": "Интенсивно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเข้มข้น",
+            "audio": "อย่างเข้มข้น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara intensif",
+            "audio": "Secara_intensif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "密集地 (集中)",
+            "audio": "密集地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv377",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "完全地 (整體)",
+        "CN_ENG": {
+            "word": "Wholly",
+            "audio": "Wholly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "完全に",
+            "audio": "完全に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "전적으로 (jeon-jeok)",
+            "audio": "전적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Toàn bộ",
+            "audio": "Toàn_bộ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "完全",
+            "audio": "完全.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Entièrement",
+            "audio": "Entièrement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gänzlich",
+            "audio": "Gänzlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Totalmente",
+            "audio": "Totalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Полностью",
+            "audio": "Полностью.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทั้งหมด",
+            "audio": "ทั้งหมด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sepenuhnya",
+            "audio": "Sepenuhnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "完全地 (整體)",
+            "audio": "完全地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv378",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "單獨地 (唯一)",
+        "CN_ENG": {
+            "word": "Solely",
+            "audio": "Solely.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "単独で",
+            "audio": "単独で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오로지 (o-ro-ji)",
+            "audio": "오로지.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Duy nhất",
+            "audio": "Duy_nhất.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唯獨",
+            "audio": "唯獨.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Uniquement",
+            "audio": "Uniquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einzig",
+            "audio": "Einzig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Solamente",
+            "audio": "Solamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Исключительно",
+            "audio": "Исключительно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เพียงผู้เดียว",
+            "audio": "เพียงผู้เดียว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semata-mata",
+            "audio": "Semata-mata.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "單獨地 (唯一)",
+            "audio": "單獨地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv379",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "獨家地",
+        "CN_ENG": {
+            "word": "Exclusively",
+            "audio": "Exclusively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "独占的に",
+            "audio": "独占的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "독점적으로 (dok-jeom)",
+            "audio": "독점적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Độc quyền",
+            "audio": "Độc_quyền.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "獨家",
+            "audio": "獨家.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Exclusivement",
+            "audio": "Exclusivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Exklusiv",
+            "audio": "Exklusiv.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Exclusivamente",
+            "audio": "Exclusivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эксклюзивно",
+            "audio": "Эксклюзивно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยเฉพาะ",
+            "audio": "โดยเฉพาะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara eksklusif",
+            "audio": "Secara_eksklusif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "獨家地",
+            "audio": "獨家地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv380",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "占主導地位地",
+        "CN_ENG": {
+            "word": "Predominantly",
+            "audio": "Predominantly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "圧倒的に",
+            "audio": "圧倒的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "대개 (dae-gae)",
+            "audio": "대개.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chủ yếu",
+            "audio": "Chủ_yếu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "佔多數",
+            "audio": "佔多數.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Principalement",
+            "audio": "Principalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vorwiegend",
+            "audio": "Vorwiegend.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Predominantemente",
+            "audio": "Predominantemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Преимущественно",
+            "audio": "Преимущественно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ส่วนใหญ่",
+            "audio": "ส่วนใหญ่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terutama",
+            "audio": "Terutama.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "占主導地位地",
+            "audio": "占主導地位地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv381",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "倫理上",
+        "CN_ENG": {
+            "word": "Ethically",
+            "audio": "Ethically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "倫理的に",
+            "audio": "倫理的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "윤리적으로 (yun-li)",
+            "audio": "윤리적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về đạo đức",
+            "audio": "Về_đạo_đức.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "倫理",
+            "audio": "倫理.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Éthiquement",
+            "audio": "Éthiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ethisch",
+            "audio": "Ethisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Éticamente",
+            "audio": "Éticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этически",
+            "audio": "Этически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางจริยธรรม",
+            "audio": "ทางจริยธรรม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara etis",
+            "audio": "Secara_etis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "倫理上",
+            "audio": "倫理上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv382",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "道德上",
+        "CN_ENG": {
+            "word": "Morally",
+            "audio": "Morally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "道徳的に",
+            "audio": "道徳的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "도덕적으로 (do-deok)",
+            "audio": "도덕적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về đạo đức",
+            "audio": "Về_đạo_đức.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "道德",
+            "audio": "道德.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Moralement",
+            "audio": "Moralement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Moralisch",
+            "audio": "Moralisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Moralmente",
+            "audio": "Moralmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Морально",
+            "audio": "Морально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางศีลธรรม",
+            "audio": "ทางศีลธรรม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara moral",
+            "audio": "Secara_moral.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "道德上",
+            "audio": "道德上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv383",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "邏輯上",
+        "CN_ENG": {
+            "word": "Logically",
+            "audio": "Logically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "論理的に",
+            "audio": "論理的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "논리적으로 (non-li)",
+            "audio": "논리적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về logic",
+            "audio": "Về_logic.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "邏輯",
+            "audio": "邏輯.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Logiquement",
+            "audio": "Logiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Logisch",
+            "audio": "Logisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Lógicamente",
+            "audio": "Lógicamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Логически",
+            "audio": "Логически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางตรรกะ",
+            "audio": "ทางตรรกะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara logis",
+            "audio": "Secara_logis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "邏輯上",
+            "audio": "邏輯上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv384",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "理性地",
+        "CN_ENG": {
+            "word": "Rationally",
+            "audio": "Rationally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "合理的に",
+            "audio": "合理的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이성적으로 (i-seong)",
+            "audio": "이성적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lý trí",
+            "audio": "Lý_trí.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "理性",
+            "audio": "理性.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Rationnellement",
+            "audio": "Rationnellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Rational",
+            "audio": "Rational.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Racionalmente",
+            "audio": "Racionalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рационально",
+            "audio": "Рационально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมีเหตุผล",
+            "audio": "อย่างมีเหตุผล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara rasional",
+            "audio": "Secara_rasional.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "理性地",
+            "audio": "理性地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv385",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "智力上",
+        "CN_ENG": {
+            "word": "Intellectually",
+            "audio": "Intellectually.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "知的に",
+            "audio": "知的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지적으로 (ji-jeok)",
+            "audio": "지적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về trí tuệ",
+            "audio": "Về_trí_tuệ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "智力",
+            "audio": "智力.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Intellectuellement",
+            "audio": "Intellectuellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Intellektuell",
+            "audio": "Intellektuell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Intelectualmente",
+            "audio": "Intelectualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Интеллектуально",
+            "audio": "Интеллектуально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางปัญญา",
+            "audio": "ทางปัญญา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara intelektual",
+            "audio": "Secara_intelektual.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "智力上",
+            "audio": "智力上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv386",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "學術上",
+        "CN_ENG": {
+            "word": "Academically",
+            "audio": "Academically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "学術的に",
+            "audio": "学術的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "학문적으로 (hak-mun)",
+            "audio": "학문적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về học thuật",
+            "audio": "Về_học_thuật.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "學術",
+            "audio": "學術.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Académiquement",
+            "audio": "Académiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Akademisch",
+            "audio": "Akademisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Académicamente",
+            "audio": "Académicamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Академически",
+            "audio": "Академически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางวิชาการ",
+            "audio": "ทางวิชาการ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara akademis",
+            "audio": "Secara_akademis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "學術上",
+            "audio": "學術上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv387",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "藝術上",
+        "CN_ENG": {
+            "word": "Artistically",
+            "audio": "Artistically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "芸術的に",
+            "audio": "芸術的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "예술적으로 (ye-sul)",
+            "audio": "예술적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về nghệ thuật",
+            "audio": "Về_nghệ_thuật.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "藝術",
+            "audio": "藝術.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Artistiquement",
+            "audio": "Artistiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Künstlerisch",
+            "audio": "Künstlerisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Artísticamente",
+            "audio": "Artísticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Художественно",
+            "audio": "Художественно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางศิลปะ",
+            "audio": "ทางศิลปะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara artistik",
+            "audio": "Secara_artistik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "藝術上",
+            "audio": "藝術上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv388",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "音樂上",
+        "CN_ENG": {
+            "word": "Musically",
+            "audio": "Musically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "音楽的に",
+            "audio": "音楽的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "음악적으로 (eum-ak)",
+            "audio": "음악적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về âm nhạc",
+            "audio": "Về_âm_nhạc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "音樂",
+            "audio": "音樂.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Musicalement",
+            "audio": "Musicalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Musikalisch",
+            "audio": "Musikalisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Musicalmente",
+            "audio": "Musicalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Музыкально",
+            "audio": "Музыкально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางดนตรี",
+            "audio": "ทางดนตรี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara musikal",
+            "audio": "Secara_musikal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "音樂上",
+            "audio": "音樂上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv389",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "環境上",
+        "CN_ENG": {
+            "word": "Environmentally",
+            "audio": "Environmentally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "環境的に",
+            "audio": "環境的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "환경적으로 (hwan-gyeong)",
+            "audio": "환경적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về môi trường",
+            "audio": "Về_môi_trường.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "環境",
+            "audio": "環境.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Écologiquement",
+            "audio": "Écologiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Umwelttechnisch",
+            "audio": "Umwelttechnisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ambientalmente",
+            "audio": "Ambientalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Экологически",
+            "audio": "Экологически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางสิ่งแวดล้อม",
+            "audio": "ทางสิ่งแวดล้อม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara lingkungan",
+            "audio": "Secara_lingkungan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "環境上",
+            "audio": "環境上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv390",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "區域性地",
+        "CN_ENG": {
+            "word": "Regionally",
+            "audio": "Regionally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "地域的に",
+            "audio": "地域的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지역적으로 (ji-yeok)",
+            "audio": "지역적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về khu vực",
+            "audio": "Về_khu_vực.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "區域性",
+            "audio": "區域性.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Régionalement",
+            "audio": "Régionalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Regional",
+            "audio": "Regional.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Regionalmente",
+            "audio": "Regionalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Регионально",
+            "audio": "Регионально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ในระดับภูมิภาค",
+            "audio": "ในระดับภูมิภาค.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara regional",
+            "audio": "Secara_regional.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "區域性地",
+            "audio": "區域性地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv391",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "潛在地",
+        "CN_ENG": {
+            "word": "Potentially",
+            "audio": "Potentially.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "潜在的に",
+            "audio": "潜在的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "잠재적으로 (jam-jae)",
+            "audio": "잠재적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tiềm năng",
+            "audio": "Tiềm_năng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "潛在",
+            "audio": "潛在.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Potentiellement",
+            "audio": "Potentiellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Potenziell",
+            "audio": "Potenziell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Potencialmente",
+            "audio": "Potencialmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Потенциально",
+            "audio": "Потенциально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาจจะ",
+            "audio": "อาจจะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berpotensi",
+            "audio": "Berpotensi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "潛在地",
+            "audio": "潛在地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv392",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "可以想像地",
+        "CN_ENG": {
+            "word": "Conceivably",
+            "audio": "Conceivably.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "考えられる限り",
+            "audio": "考えられる限り.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상상컨대 (sang-sang)",
+            "audio": "상상컨대.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể hình dung",
+            "audio": "Có_thể_hình_dung.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "想像中",
+            "audio": "想像中.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vraisemblablement",
+            "audio": "Vraisemblablement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Denkbar",
+            "audio": "Denkbar.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Concebiblemente",
+            "audio": "Concebiblemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Возможно",
+            "audio": "Возможно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ที่พอจะนึกออก",
+            "audio": "ที่พอจะนึกออก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisa dibayangkan",
+            "audio": "Bisa_dibayangkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以想像地",
+            "audio": "可以想像地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv393",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "毫無疑問地",
+        "CN_ENG": {
+            "word": "Unquestionably",
+            "audio": "Unquestionably.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "疑いようもなく",
+            "audio": "疑いようもなく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "의심할 여지 없이",
+            "audio": "의심할_여지_없이.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không thể chối cãi",
+            "audio": "Không_thể_chối_cãi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "毫無疑問",
+            "audio": "毫無疑問.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Incontestablement",
+            "audio": "Incontestablement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Fraglos",
+            "audio": "Fraglos.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Incuestionablemente",
+            "audio": "Incuestionablemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Бесспорно",
+            "audio": "Бесспорно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่ต้องสงสัย",
+            "audio": "อย่างไม่ต้องสงสัย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tak diragukan lagi",
+            "audio": "Tak_diragukan_lagi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "毫無疑問地",
+            "audio": "毫無疑問地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv394",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "顯然 (表面上)",
+        "CN_ENG": {
+            "word": "Apparently",
+            "audio": "Apparently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "見たところ",
+            "audio": "見たところ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "보기에 (bo-gi-e)",
+            "audio": "보기에.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rõ ràng là",
+            "audio": "Rõ_ràng_là.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "睇落",
+            "audio": "睇落.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Apparemment",
+            "audio": "Apparemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Anscheinend",
+            "audio": "Anscheinend.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aparentemente",
+            "audio": "Aparentemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "По-видимому",
+            "audio": "По-видимому.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดูเหมือน",
+            "audio": "ดูเหมือน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Rupanya",
+            "audio": "Rupanya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "顯然 (表面上)",
+            "audio": "顯然.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv395",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "名副其實地",
+        "CN_ENG": {
+            "word": "Veritably",
+            "audio": "Veritably.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "まぎれもなく",
+            "audio": "まぎれもなく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "진실로 (jin-sil)",
+            "audio": "진실로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thực sự",
+            "audio": "Thực_sự.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "名副其實",
+            "audio": "名副其實.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Véritablement",
+            "audio": "Véritablement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wahrhaftig",
+            "audio": "Wahrhaftig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Verdaderamente",
+            "audio": "Verdaderamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Истинно",
+            "audio": "Истинно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างแท้จริง",
+            "audio": "อย่างแท้จริง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Benar-benar",
+            "audio": "Benar-benar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "名副其實地",
+            "audio": "名副其實地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv396",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "錯誤地 (虛假)",
+        "CN_ENG": {
+            "word": "Falsely",
+            "audio": "Falsely.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "誤って",
+            "audio": "誤って.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "거짓으로 (geo-jit)",
+            "audio": "거짓으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sai lầm",
+            "audio": "Sai_lầm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "錯誤",
+            "audio": "錯誤.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faussement",
+            "audio": "Faussement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Fälschlicherweise",
+            "audio": "Fälschlicherweise.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Falsamente",
+            "audio": "Falsamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ложно",
+            "audio": "Ложно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเท็จ",
+            "audio": "อย่างเท็จ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara salah",
+            "audio": "Secara_salah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "錯誤地 (虛假)",
+            "audio": "錯誤地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv397",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "正當地 (權利)",
+        "CN_ENG": {
+            "word": "Rightly",
+            "audio": "Rightly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "正当に",
+            "audio": "正当に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당연히 (dang-yeon)",
+            "audio": "당연히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đúng đắn",
+            "audio": "Đúng_đắn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "正當",
+            "audio": "正當.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À juste titre",
+            "audio": "À_juste_titre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zu Recht",
+            "audio": "Zu_Recht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Con razón",
+            "audio": "Con_razón.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Справедливо",
+            "audio": "Справедливо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างถูกต้อง",
+            "audio": "อย่างถูกต้อง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan benar",
+            "audio": "Dengan_benar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "正當地 (權利)",
+            "audio": "正當地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv398",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "錯誤地 (不公)",
+        "CN_ENG": {
+            "word": "Wrongly",
+            "audio": "Wrongly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "不当に",
+            "audio": "不当に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "부당하게 (bu-dang)",
+            "audio": "부당하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sai trái",
+            "audio": "Sai_trái.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "冤枉",
+            "audio": "冤枉.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À tort",
+            "audio": "À_tort.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zu Unrecht",
+            "audio": "Zu_Unrecht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Erróneamente",
+            "audio": "Erróneamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Неправильно",
+            "audio": "Неправильно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างผิดๆ",
+            "audio": "อย่างผิดๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara keliru",
+            "audio": "Secara_keliru.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "錯誤地 (不公)",
+            "audio": "錯誤地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv399",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "公正地",
+        "CN_ENG": {
+            "word": "Justly",
+            "audio": "Justly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "公正に",
+            "audio": "公正に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "공정하게 (gong-jeong)",
+            "audio": "공정하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Công bằng",
+            "audio": "Công_bằng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "公道",
+            "audio": "公道.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Justement",
+            "audio": "Justement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gerecht",
+            "audio": "Gerecht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Justamente",
+            "audio": "Justamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Справедливо",
+            "audio": "Справедливо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างยุติธรรม",
+            "audio": "อย่างยุติธรรม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan adil",
+            "audio": "Dengan_adil.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "公正地",
+            "audio": "公正地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv400",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 邏輯與機率",
+        "cn": "不公正地",
+        "CN_ENG": {
+            "word": "Unjustly",
+            "audio": "Unjustly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "不当に",
+            "audio": "不当に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "불공정하게",
+            "audio": "불공정하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không công bằng",
+            "audio": "Không_công_bằng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔公道",
+            "audio": "唔公道.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Injustement",
+            "audio": "Injustement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ungerecht",
+            "audio": "Ungerecht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Injustamente",
+            "audio": "Injustamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Несправедливо",
+            "audio": "Несправедливо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่ยุติธรรม",
+            "audio": "อย่างไม่ยุติธรรม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara tidak adil",
+            "audio": "Secara_tidak_adil.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不公正地",
+            "audio": "不公正地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv401",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "陡峭地",
+        "CN_ENG": {
+            "word": "Steeply",
+            "audio": "Steeply.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "急に (kyuu)",
+            "audio": "kyuu.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가파르게 (ga-pa-reu)",
+            "audio": "가파르게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dốc đứng",
+            "audio": "Dốc_đứng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "陡峭",
+            "audio": "陡峭.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Abruptement",
+            "audio": "Abruptement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Steil",
+            "audio": "Steil.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Escarpadamente",
+            "audio": "Escarpadamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Круто",
+            "audio": "Круто.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างชัน",
+            "audio": "อย่างชัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Curam",
+            "audio": "Curam.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "陡峭地",
+            "audio": "陡峭地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv402",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "淺淺地",
+        "CN_ENG": {
+            "word": "Shallowly",
+            "audio": "Shallowly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "浅く",
+            "audio": "浅く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "얕게 (yat-ge)",
+            "audio": "얕게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nông",
+            "audio": "Nông.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "淺",
+            "audio": "淺.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Superficiellement",
+            "audio": "Superficiellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Flach",
+            "audio": "Flach.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Superficialmente",
+            "audio": "Superficialmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мелко",
+            "audio": "Мелко.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตื้นๆ",
+            "audio": "ตื้นๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dangkal",
+            "audio": "Dangkal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "淺淺地",
+            "audio": "淺淺地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv403",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "深刻地 (深奧)",
+        "CN_ENG": {
+            "word": "Profoundly",
+            "audio": "Profoundly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "深く",
+            "audio": "深く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "깊이 (gip-i)",
+            "audio": "깊이.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sâu sắc",
+            "audio": "Sâu_sắc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "深刻",
+            "audio": "深刻.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Profondément",
+            "audio": "Profondément.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zutiefst",
+            "audio": "Zutiefst.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Profundamente",
+            "audio": "Profundamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Глубоко",
+            "audio": "Глубоко.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างลึกซึ้ง",
+            "audio": "อย่างลึกซึ้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara mendalam",
+            "audio": "Secara_mendalam.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "深刻地 (深奧)",
+            "audio": "深刻地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv404",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "厚厚地",
+        "CN_ENG": {
+            "word": "Thickly",
+            "audio": "Thickly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "厚く",
+            "audio": "厚く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "두껍게 (du-kkeop)",
+            "audio": "두껍게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dày",
+            "audio": "Dày.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "厚",
+            "audio": "厚.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Épaissement",
+            "audio": "Épaissement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dick",
+            "audio": "Dick.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gruesamente",
+            "audio": "Gruesamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Густо",
+            "audio": "Густо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หนาๆ",
+            "audio": "หนาๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tebal",
+            "audio": "Tebal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "厚厚地",
+            "audio": "厚厚地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv405",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "薄薄地",
+        "CN_ENG": {
+            "word": "Thinly",
+            "audio": "Thinly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "薄く",
+            "audio": "薄く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "얇게 (yalp-ge)",
+            "audio": "얇게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mỏng",
+            "audio": "Mỏng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "薄",
+            "audio": "薄.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Finement",
+            "audio": "Finement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dünn",
+            "audio": "Dünn.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Finamente",
+            "audio": "Finamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Тонко",
+            "audio": "Тонко.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "บางๆ",
+            "audio": "บางๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tipis",
+            "audio": "Tipis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "薄薄地",
+            "audio": "薄薄地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv406",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "均勻地",
+        "CN_ENG": {
+            "word": "Evenly",
+            "audio": "Evenly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "均等に",
+            "audio": "均等に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "고르게 (go-reu-ge)",
+            "audio": "고르게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đều",
+            "audio": "Đều.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "均勻",
+            "audio": "均勻.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Uniformément",
+            "audio": "Uniformément.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gleichmäßig",
+            "audio": "Gleichmäßig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Uniformemente",
+            "audio": "Uniformemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Равномерно",
+            "audio": "Равномерно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างสม่ำเสมอ",
+            "audio": "อย่างสม่ำเสมอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Merata",
+            "audio": "Merata.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "均勻地",
+            "audio": "均勻地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv407",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "不均勻地",
+        "CN_ENG": {
+            "word": "Unevenly",
+            "audio": "Unevenly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "不均等に",
+            "audio": "不均等に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "고르지 않게",
+            "audio": "고르지_않게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không đều",
+            "audio": "Không_đều.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔均勻",
+            "audio": "唔均勻.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Inégalement",
+            "audio": "Inégalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ungleichmäßig",
+            "audio": "Ungleichmäßig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Desigualmente",
+            "audio": "Desigualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Неравномерно",
+            "audio": "Неравномерно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่สม่ำเสมอ",
+            "audio": "อย่างไม่สม่ำเสมอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak merata",
+            "audio": "Tidak_merata.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不均勻地",
+            "audio": "不均勻地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv408",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "順利地",
+        "CN_ENG": {
+            "word": "Smoothly",
+            "audio": "Smoothly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "スムーズに",
+            "audio": "スムーズに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "원활하게 (won-hwal)",
+            "audio": "원활하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trôi chảy",
+            "audio": "Trôi_chảy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "順利",
+            "audio": "順利.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Doucement",
+            "audio": "Doucement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Reibungslos",
+            "audio": "Reibungslos.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Suavemente",
+            "audio": "Suavemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Гладко",
+            "audio": "Гладко.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างราบรื่น",
+            "audio": "อย่างราบรื่น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan lancar",
+            "audio": "Dengan_lancar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "順利地",
+            "audio": "順利地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv409",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "粗糙地",
+        "CN_ENG": {
+            "word": "Coarsely",
+            "audio": "Coarsely.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "粗く",
+            "audio": "粗く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "거칠게 (geo-chil)",
+            "audio": "거칠게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thô ráp",
+            "audio": "Thô_ráp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "粗糙",
+            "audio": "粗糙.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Grossièrement",
+            "audio": "Grossièrement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Grob",
+            "audio": "Grob.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Bastiamente",
+            "audio": "Bastiamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Грубо",
+            "audio": "Грубо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หยาบๆ",
+            "audio": "หยาบๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kasar",
+            "audio": "Kasar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "粗糙地",
+            "audio": "粗糙地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv410",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📍 方向與物理",
+        "cn": "斷然地 (平淡)",
+        "CN_ENG": {
+            "word": "Flatly",
+            "audio": "Flatly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "きっぱりと",
+            "audio": "きっぱりと.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "단호히 (dan-ho)",
+            "audio": "단호히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dứt khoát",
+            "audio": "Dứt_khoát.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "斷然",
+            "audio": "斷然.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Catégoriquement",
+            "audio": "Catégoriquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Flach",
+            "audio": "Flach.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Rotundamente",
+            "audio": "Rotundamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Категорически",
+            "audio": "Категорически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างราบเรียบ",
+            "audio": "อย่างราบเรียบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Datar",
+            "audio": "Datar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "斷然地 (平淡)",
+            "audio": "斷然地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv411",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "從前",
+        "CN_ENG": {
+            "word": "Formerly",
+            "audio": "Formerly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "かつて",
+            "audio": "かつて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이전에 (i-jeon)",
+            "audio": "이전에.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trước đây",
+            "audio": "Trước_đây.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "從前",
+            "audio": "從前.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Autrefois",
+            "audio": "Autrefois.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ehemals",
+            "audio": "Ehemals.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Anteriormente",
+            "audio": "Anteriormente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ранее",
+            "audio": "Ранее.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ก่อนหน้านี้",
+            "audio": "ก่อนหน้านี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dahulu",
+            "audio": "Dahulu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "從前",
+            "audio": "從前.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv412",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "目前",
+        "CN_ENG": {
+            "word": "Currently",
+            "audio": "Currently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "現在 (genzai)",
+            "audio": "genzai.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "현재 (hyeon-jae)",
+            "audio": "현재.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hiện tại",
+            "audio": "Hiện_tại.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "目前",
+            "audio": "目前.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Actuellement",
+            "audio": "Actuellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Aktuell",
+            "audio": "Aktuell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Actualmente",
+            "audio": "Actualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В настоящее время",
+            "audio": "В_настоящее_время.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปัจจุบัน",
+            "audio": "ปัจจุบัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saat ini",
+            "audio": "Saat_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "目前",
+            "audio": "目前.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv413",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "不久 (目前)",
+        "CN_ENG": {
+            "word": "Presently",
+            "audio": "Presently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "まもなく",
+            "audio": "まもなく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "곧 (got)",
+            "audio": "곧.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chẳng mấy chốc",
+            "audio": "Chẳng_mấy_chốc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "不久",
+            "audio": "不久.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Actuellement",
+            "audio": "Actuellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gegenwärtig",
+            "audio": "Gegenwärtig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Actualmente",
+            "audio": "Actualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В настоящее время",
+            "audio": "В_настоящее_время.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ในปัจจุบัน",
+            "audio": "ในปัจจุบัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saat ini",
+            "audio": "Saat_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不久 (目前)",
+            "audio": "不久.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv414",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "現今",
+        "CN_ENG": {
+            "word": "Nowadays",
+            "audio": "Nowadays.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "近頃 (chikagoro)",
+            "audio": "chikagoro.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "요즘 (yo-jeum)",
+            "audio": "요즘.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngày nay",
+            "audio": "Ngày_nay.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "現今",
+            "audio": "現今.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De nos jours",
+            "audio": "De_nos_jours.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Heutzutage",
+            "audio": "Heutzutage.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hoy en día",
+            "audio": "Hoy_en_día.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В наши дни",
+            "audio": "В_наши_дни.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทุกวันนี้",
+            "audio": "ทุกวันนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Zaman sekarang",
+            "audio": "Zaman_sekarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "現今",
+            "audio": "現今.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv415",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "不頻繁地",
+        "CN_ENG": {
+            "word": "Infrequently",
+            "audio": "Infrequently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "稀に",
+            "audio": "稀に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "드물게 (deu-mul)",
+            "audio": "드물게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không thường xuyên",
+            "audio": "Không_thường_xuyên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "罕見",
+            "audio": "罕見.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Rarement",
+            "audio": "Rarement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Selten",
+            "audio": "Selten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Infrecuentemente",
+            "audio": "Infrecuentemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Редко",
+            "audio": "Редко.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นานๆ ครั้ง",
+            "audio": "นานๆ_ครั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jarang",
+            "audio": "Jarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不頻繁地",
+            "audio": "不頻繁地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv416",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "季節性地",
+        "CN_ENG": {
+            "word": "Seasonally",
+            "audio": "Seasonally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "季節ごとに",
+            "audio": "季節ごとに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "계절에 따라",
+            "audio": "계절에_따라.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Theo mùa",
+            "audio": "Theo_mùa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "季節性",
+            "audio": "季節性.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Saisonnièrement",
+            "audio": "Saisonnièrement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Saisonal",
+            "audio": "Saisonal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estacionalmente",
+            "audio": "Estacionalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сезонно",
+            "audio": "Сезонно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตามฤดูกาล",
+            "audio": "ตามฤดูกาล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Musiman",
+            "audio": "Musiman.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "季節性地",
+            "audio": "季節性地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv417",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "半年一次",
+        "CN_ENG": {
+            "word": "Biannually",
+            "audio": "Biannually.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "年2回",
+            "audio": "年2回.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "반년마다",
+            "audio": "반년마다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nửa năm một lần",
+            "audio": "Nửa_năm_một_lần.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "半年一次",
+            "audio": "半年一次.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Semestriellement",
+            "audio": "Semestriellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Halbjährlich",
+            "audio": "Halbjährlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Bianualmente",
+            "audio": "Bianualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Дважды в год",
+            "audio": "Дважды_в_год.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปีละสองครั้ง",
+            "audio": "ปีละสองครั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dua kali setahun",
+            "audio": "Dua_kali_setahun.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "半年一次",
+            "audio": "半年一次.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv418",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "無限期地",
+        "CN_ENG": {
+            "word": "Indefinitely",
+            "audio": "Indefinitely.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "無期限に",
+            "audio": "無期限に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무기한으로 (mu-gi-han)",
+            "audio": "무기한으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vô thời hạn",
+            "audio": "Vô_thời_hạn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "無限期",
+            "audio": "無限期.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Indéfiniment",
+            "audio": "Indéfiniment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Auf unbestimmte Zeit",
+            "audio": "Auf_unbestimmte_Zeit.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Indefinidamente",
+            "audio": "Indefinidamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Бессрочно",
+            "audio": "Бессрочно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่มีกำหนด",
+            "audio": "อย่างไม่มีกำหนด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tanpa batas waktu",
+            "audio": "Tanpa_batas_waktu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "無限期地",
+            "audio": "無限期地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv419",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "片刻地",
+        "CN_ENG": {
+            "word": "Momentarily",
+            "audio": "Momentarily.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "瞬間的に",
+            "audio": "瞬間的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "순간적으로",
+            "audio": "순간적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trong chốc lát",
+            "audio": "Trong_chốc_lát.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "片刻",
+            "audio": "片刻.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Momentanément",
+            "audio": "Momentanément.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Momentan",
+            "audio": "Momentan.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Momentáneamente",
+            "audio": "Momentáneamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мгновенно",
+            "audio": "Мгновенно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ชั่วครู่",
+            "audio": "ชั่วครู่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sebentar",
+            "audio": "Sebentar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "片刻地",
+            "audio": "片刻地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv420",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "⏳ 時間與頻率",
+        "cn": "迅速地 (敏捷)",
+        "CN_ENG": {
+            "word": "Swiftly",
+            "audio": "Swiftly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "素早く",
+            "audio": "素早く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "신속하게 (sin-sok)",
+            "audio": "신속하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhanh chóng",
+            "audio": "Nhanh_chóng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "敏捷",
+            "audio": "敏捷.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Rapidement",
+            "audio": "Rapidement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schnell",
+            "audio": "Schnell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Velozmente",
+            "audio": "Velozmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Стремительно",
+            "audio": "Стремительно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างรวดเร็ว",
+            "audio": "อย่างรวดเร็ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dengan cepat",
+            "audio": "Dengan_cepat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "迅速地 (敏捷)",
+            "audio": "迅速地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv421",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "專業地",
+        "CN_ENG": {
+            "word": "Professionally",
+            "audio": "Professionally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "専門的に",
+            "audio": "専門的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "전문적으로 (jeon-mun)",
+            "audio": "전문적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chuyên nghiệp",
+            "audio": "Chuyên_nghiệp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "專業",
+            "audio": "專業.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Professionnellement",
+            "audio": "Professionnellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Professionell",
+            "audio": "Professionell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Profesionalmente",
+            "audio": "Profesionalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Профессионально",
+            "audio": "Профессионально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมืออาชีพ",
+            "audio": "อย่างมืออาชีพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara profesional",
+            "audio": "Secara_profesional.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "專業地",
+            "audio": "專業地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv422",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "機密地",
+        "CN_ENG": {
+            "word": "Confidentially",
+            "audio": "Confidentially.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "内密に",
+            "audio": "内密に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비밀리에 (bi-mil)",
+            "audio": "비밀리에.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bí mật",
+            "audio": "Bí_mật.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "機密",
+            "audio": "機密.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Confidentiellement",
+            "audio": "Confidentiellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vertraulich",
+            "audio": "Vertraulich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Confidencialmente",
+            "audio": "Confidencialmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Конфиденциально",
+            "audio": "Конфиденциально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเป็นความลับ",
+            "audio": "อย่างเป็นความลับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara rahasia",
+            "audio": "Secara_rahasia.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "機密地",
+            "audio": "機密地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv423",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "公然地 (明顯)",
+        "CN_ENG": {
+            "word": "Overtly",
+            "audio": "Overtly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "公然と",
+            "audio": "公然と.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "명백하게 (myeong-baek)",
+            "audio": "명백하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Công khai",
+            "audio": "Công_khai.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "公然",
+            "audio": "公然.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ouvertement",
+            "audio": "Ouvertement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Offenkundig",
+            "audio": "Offenkundig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Abiertamente",
+            "audio": "Abiertamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Открыто",
+            "audio": "Открыто.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างชัดแจ้ง",
+            "audio": "อย่างชัดแจ้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara terang-terangan",
+            "audio": "Secara_terang-terangan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "公然地 (明顯)",
+            "audio": "公然地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv424",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🏫 領域與範疇",
+        "cn": "隱蔽地",
+        "CN_ENG": {
+            "word": "Covertly",
+            "audio": "Covertly.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "密かに",
+            "audio": "密かに.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "은밀하게 (eun-mil)",
+            "audio": "은밀하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lén lút",
+            "audio": "Lén_lút.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "隱蔽",
+            "audio": "隱蔽.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Secrètement",
+            "audio": "Secrètement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Heimlich",
+            "audio": "Heimlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Clandestinamente",
+            "audio": "Clandestinamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Скрытно",
+            "audio": "Скрытно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างลับๆ",
+            "audio": "อย่างลับๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara terselubung",
+            "audio": "Secara_terselubung.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "隱蔽地",
+            "audio": "隱蔽地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv425",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🗣️ 溝通與媒介",
+        "cn": "口頭上",
+        "CN_ENG": {
+            "word": "Verbally",
+            "audio": "Verbally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "口頭で",
+            "audio": "口頭で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "말로 (mal-lo)",
+            "audio": "말로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bằng lời",
+            "audio": "Bằng_lời.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "口頭",
+            "audio": "口頭.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Verbalement",
+            "audio": "Verbalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verbally",
+            "audio": "Verbally.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Verbalmente",
+            "audio": "Verbalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Устно",
+            "audio": "Устно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางวาจา",
+            "audio": "ทางวาจา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara lisan",
+            "audio": "Secara_lisan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "口頭上",
+            "audio": "口頭上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv426",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🗣️ 溝通與媒介",
+        "cn": "非語言地",
+        "CN_ENG": {
+            "word": "Non-verbally",
+            "audio": "Non-verbally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "非言語的に",
+            "audio": "非言語的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비언어적으로",
+            "audio": "비언어적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phi ngôn ngữ",
+            "audio": "Phi_ngôn_ngữ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "非語言",
+            "audio": "非語言.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Non verbalement",
+            "audio": "Non_verbalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nonverbal",
+            "audio": "Nonverbal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No verbalmente",
+            "audio": "No_verbalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Невербально",
+            "audio": "Невербально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยไม่ใช้คำพูด",
+            "audio": "โดยไม่ใช้คำพูด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara non-verbal",
+            "audio": "Secara_non-verbal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "非語言地",
+            "audio": "非語言地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv427",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🗣️ 溝通與媒介",
+        "cn": "視覺上",
+        "CN_ENG": {
+            "word": "Visually",
+            "audio": "Visually.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "視覚的に",
+            "audio": "視覚的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "시각적으로 (si-gak)",
+            "audio": "시각적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bằng thị giác",
+            "audio": "Bằng_thị_giác.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "視覺",
+            "audio": "視覺.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Visuellement",
+            "audio": "Visuellement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Visuell",
+            "audio": "Visuell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Visualmente",
+            "audio": "Visualmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Визуально",
+            "audio": "Визуально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางสายตา",
+            "audio": "ทางสายตา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara visual",
+            "audio": "Secara_visual.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "視覺上",
+            "audio": "視覺上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv428",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🗣️ 溝通與媒介",
+        "cn": "口述地",
+        "CN_ENG": {
+            "word": "Orally",
+            "audio": "Orally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "口頭で",
+            "audio": "口頭で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "구두로 (gu-du)",
+            "audio": "구두로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bằng miệng",
+            "audio": "Bằng_miệng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "口述",
+            "audio": "口述.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Oralement",
+            "audio": "Oralement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Mündlich",
+            "audio": "Mündlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Oralmente",
+            "audio": "Oralmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Устно",
+            "audio": "Устно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางปาก",
+            "audio": "ทางปาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara lisan",
+            "audio": "Secara_lisan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "口述地",
+            "audio": "口述地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv429",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🗣️ 溝通與媒介",
+        "cn": "數位地",
+        "CN_ENG": {
+            "word": "Digitally",
+            "audio": "Digitally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "デジタルで",
+            "audio": "デジタルで.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "디지털로",
+            "audio": "디지털로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kỹ thuật số",
+            "audio": "Kỹ_thuật_số.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "數碼",
+            "audio": "數碼.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Numériquement",
+            "audio": "Numériquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Digital",
+            "audio": "Digital.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Digitalmente",
+            "audio": "Digitalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В цифровом виде",
+            "audio": "В_цифровом_виде.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แบบดิจิทัล",
+            "audio": "แบบดิจิทัล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara digital",
+            "audio": "Secara_digital.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "數位地",
+            "audio": "數位地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv430",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🗣️ 溝通與媒介",
+        "cn": "電子地",
+        "CN_ENG": {
+            "word": "Electronically",
+            "audio": "Electronically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "電子的に",
+            "audio": "電子的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "전자적으로",
+            "audio": "전자적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Điện tử",
+            "audio": "Điện_tử.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "電子",
+            "audio": "電子.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Électroniquement",
+            "audio": "Électroniquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Elektronisch",
+            "audio": "Elektronisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Electrónicamente",
+            "audio": "Electrónicamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Электронно",
+            "audio": "Электронно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางอิเล็กทรอนิกส์",
+            "audio": "ทางอิเล็กทรอนิกส์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara elektronik",
+            "audio": "Secara_elektronik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "電子地",
+            "audio": "電子地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv431",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "劇烈地",
+        "CN_ENG": {
+            "word": "Drastically",
+            "audio": "Drastically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "劇的に",
+            "audio": "劇的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "급격하게 (geup-gyeok)",
+            "audio": "급격하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quyết liệt",
+            "audio": "Quyết_liệt.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "劇烈",
+            "audio": "劇烈.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Drastiquement",
+            "audio": "Drastiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Drastisch",
+            "audio": "Drastisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Drásticamente",
+            "audio": "Drásticamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Радикально",
+            "audio": "Радикально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างรุนแรง",
+            "audio": "อย่างรุนแรง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara drastis",
+            "audio": "Secara_drastis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "劇烈地",
+            "audio": "劇烈地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv432",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "根本地 (激進)",
+        "CN_ENG": {
+            "word": "Radically",
+            "audio": "Radically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "根本的に",
+            "audio": "根本的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "근본적으로 (geun-bon)",
+            "audio": "근본적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Căn bản",
+            "audio": "Căn_bản.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "根本",
+            "audio": "根本.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Radicalement",
+            "audio": "Radicalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Radikal",
+            "audio": "Radikal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Radicalmente",
+            "audio": "Radicalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Радикально",
+            "audio": "Радикально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างถอนรากถอนโคน",
+            "audio": "อย่างถอนรากถอนโคน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara radikal",
+            "audio": "Secara_radikal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "根本地 (激進)",
+            "audio": "根本地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv433",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "最低限度地",
+        "CN_ENG": {
+            "word": "Minimally",
+            "audio": "Minimally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "最小限に",
+            "audio": "最小限に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "최소한으로",
+            "audio": "최소한으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tối thiểu",
+            "audio": "Tối_thiểu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "最低限度",
+            "audio": "最低限度.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Minimalement",
+            "audio": "Minimalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Minimal",
+            "audio": "Minimal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Mínimamente",
+            "audio": "Mínimamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Минимально",
+            "audio": "Минимально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างน้อยที่สุด",
+            "audio": "อย่างน้อยที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara minimal",
+            "audio": "Secara_minimal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "最低限度地",
+            "audio": "最低限度地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv434",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "最大程度地",
+        "CN_ENG": {
+            "word": "Maximally",
+            "audio": "Maximally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "最大限に",
+            "audio": "最大限に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "최대한으로",
+            "audio": "최대한으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tối đa",
+            "audio": "Tối_đa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "最大程度",
+            "audio": "最大程度.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Maximalement",
+            "audio": "Maximalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Maximal",
+            "audio": "Maximal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Máximamente",
+            "audio": "Máximamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Максимально",
+            "audio": "Максимально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมากที่สุด",
+            "audio": "อย่างมากที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara maksimal",
+            "audio": "Secara_maksimal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "最大程度地",
+            "audio": "最大程度地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv435",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "最佳地",
+        "CN_ENG": {
+            "word": "Optimally",
+            "audio": "Optimally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "最適に",
+            "audio": "最適に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "최적으로 (choe-jeok)",
+            "audio": "최적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tối ưu",
+            "audio": "Tối_ưu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "最佳",
+            "audio": "最佳.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De manière optimale",
+            "audio": "De_manière_optimale.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Optimal",
+            "audio": "Optimal.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Óptimamente",
+            "audio": "Óptimamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Оптимально",
+            "audio": "Оптимально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างเหมาะสมที่สุด",
+            "audio": "อย่างเหมาะสมที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara optimal",
+            "audio": "Secara_optimal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "最佳地",
+            "audio": "最佳地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv436",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "名義上",
+        "CN_ENG": {
+            "word": "Nominally",
+            "audio": "Nominally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "名目上",
+            "audio": "名目上.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "명목상 (myeong-mok)",
+            "audio": "명목상.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Danh nghĩa",
+            "audio": "Danh_nghĩa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "名義上",
+            "audio": "名義上.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nominalement",
+            "audio": "Nominalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nominell",
+            "audio": "Nominell.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Nominalmente",
+            "audio": "Nominalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Номинально",
+            "audio": "Номинально.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ในนาม",
+            "audio": "ในนาม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara nominal",
+            "audio": "Secara_nominal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "名義上",
+            "audio": "名義上.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv437",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "有效地 (實際)",
+        "CN_ENG": {
+            "word": "Effectively",
+            "audio": "Effectively.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "事実上",
+            "audio": "事実上.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "효과적으로 (hyo-gwa)",
+            "audio": "효과적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có hiệu quả",
+            "audio": "Có_hiệu_quả.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "有效",
+            "audio": "有效.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Effectivement",
+            "audio": "Effectivement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Effektiv",
+            "audio": "Effektiv.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Efectivamente",
+            "audio": "Efectivamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эффективно",
+            "audio": "Эффективно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมีประสิทธิภาพ",
+            "audio": "อย่างมีประสิทธิภาพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara efektif",
+            "audio": "Secara_efektif.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "有效地 (實際)",
+            "audio": "有效地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv438",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "有效率地",
+        "CN_ENG": {
+            "word": "Efficiently",
+            "audio": "Efficiently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "効率的に",
+            "audio": "効率的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "효율적으로 (hyo-yul)",
+            "audio": "효율적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Năng suất",
+            "audio": "Năng_suất.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "有效率",
+            "audio": "有效率.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Efficacement",
+            "audio": "Efficacement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Effizient",
+            "audio": "Effizient.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Eficientemente",
+            "audio": "Eficientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эффективно",
+            "audio": "Эффективно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมีประสิทธิภาพ",
+            "audio": "อย่างมีประสิทธิภาพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara efisien",
+            "audio": "Secara_efisien.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "有效率地",
+            "audio": "有效率地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv439",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "📈 程度與範圍",
+        "cn": "無效率地",
+        "CN_ENG": {
+            "word": "Inefficiently",
+            "audio": "Inefficiently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "非効率に",
+            "audio": "非効率に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비효율적으로",
+            "audio": "비효율적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kém hiệu quả",
+            "audio": "Kém_hiệu_quả.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "冇效率",
+            "audio": "冇效率.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Inefficacement",
+            "audio": "Inefficacement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ineffizient",
+            "audio": "Ineffizient.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ineficientemente",
+            "audio": "Ineficientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Неэффективно",
+            "audio": "Неэффективно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไม่มีประสิทธิภาพ",
+            "audio": "อย่างไม่มีประสิทธิภาพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara tidak efisien",
+            "audio": "Secara_tidak_efisien.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "無效率地",
+            "audio": "無效率地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv440",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "熟練地",
+        "CN_ENG": {
+            "word": "Proficiently",
+            "audio": "Proficiently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "熟練して",
+            "audio": "熟練して.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "능숙하게 (neung-suk)",
+            "audio": "능숙하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thành thạo",
+            "audio": "Thành_thạo.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "熟練",
+            "audio": "熟練.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Compétemment",
+            "audio": "Compétemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kompetent",
+            "audio": "Kompetent.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Proficientemente",
+            "audio": "Proficientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Умело",
+            "audio": "Умело.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างชำนาญ",
+            "audio": "อย่างชำนาญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara mahir",
+            "audio": "Secara_mahir.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "熟練地",
+            "audio": "熟練地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv441",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "勝任地",
+        "CN_ENG": {
+            "word": "Competently",
+            "audio": "Competently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "有能に",
+            "audio": "有能に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "유능하게 (yu-neung)",
+            "audio": "유능하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có năng lực",
+            "audio": "Có_năng_lực.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "勝任",
+            "audio": "勝任.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Compétemment",
+            "audio": "Compétemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kompetent",
+            "audio": "Kompetent.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Competentemente",
+            "audio": "Competentemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Компетентно",
+            "audio": "Компетентно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมีความสามารถ",
+            "audio": "อย่างมีความสามารถ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara kompeten",
+            "audio": "Secara_kompeten.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "勝任地",
+            "audio": "勝任地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv442",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "不稱職地",
+        "CN_ENG": {
+            "word": "Incompetently",
+            "audio": "Incompetently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "無能に",
+            "audio": "無能に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무능하게",
+            "audio": "무능하게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không đủ năng lực",
+            "audio": "Không_đủ_năng_lực.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔稱職",
+            "audio": "唔稱職.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Incompétemment",
+            "audio": "Incompétemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Inkompetent",
+            "audio": "Inkompetent.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Incompetentemente",
+            "audio": "Incompetentemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Некомпетентно",
+            "audio": "Некомпетентно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างไร้ความสามารถ",
+            "audio": "อย่างไร้ความสามารถ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara tidak kompeten",
+            "audio": "Secara_tidak_kompeten.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不稱職地",
+            "audio": "不稱職地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv443",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "有意識地",
+        "CN_ENG": {
+            "word": "Consciously",
+            "audio": "Consciously.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "意識的に",
+            "audio": "意識的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "의식적으로 (ui-sik)",
+            "audio": "의식적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có ý thức",
+            "audio": "Có_ý_thức.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "有意識",
+            "audio": "有意識.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Consciemment",
+            "audio": "Consciemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bewusst",
+            "audio": "Bewusst.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Conscientemente",
+            "audio": "Conscientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сознательно",
+            "audio": "Сознательно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างมีสติ",
+            "audio": "อย่างมีสติ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara sadar",
+            "audio": "Secara_sadar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "有意識地",
+            "audio": "有意識地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv444",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "潛意識地",
+        "CN_ENG": {
+            "word": "Subconsciously",
+            "audio": "Subconsciously.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "潜在意識で",
+            "audio": "潜在意識で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "잠재의식적으로",
+            "audio": "잠재의식적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tiềm thức",
+            "audio": "Tiềm_thức.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "潛意識",
+            "audio": "潛意識.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Subconsciemment",
+            "audio": "Subconsciemment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unterbewusst",
+            "audio": "Unterbewusst.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Subconscientemente",
+            "audio": "Subconscientemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подсознательно",
+            "audio": "Подсознательно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยจิตใต้สำนึก",
+            "audio": "โดยจิตใต้สำนึก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di bawah sadar",
+            "audio": "Di_bawah_sadar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "潛意識地",
+            "audio": "潛意識地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv445",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "自願地",
+        "CN_ENG": {
+            "word": "Voluntarily",
+            "audio": "Voluntarily.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "自発的に",
+            "audio": "自発的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "자발적으로 (ja-bal)",
+            "audio": "자발적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tự nguyện",
+            "audio": "Tự_nguyện.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "自願",
+            "audio": "自願.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Volontairement",
+            "audio": "Volontairement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Freiwillig",
+            "audio": "Freiwillig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Voluntariamente",
+            "audio": "Voluntariamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Добровольно",
+            "audio": "Добровольно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยสมัครใจ",
+            "audio": "โดยสมัครใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara sukarela",
+            "audio": "Secara_sukarela.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "自願地",
+            "audio": "自願地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv446",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "非自願地",
+        "CN_ENG": {
+            "word": "Involuntarily",
+            "audio": "Involuntarily.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "不本意に",
+            "audio": "不本意に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "본의 아니게",
+            "audio": "본의_아니게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không tự nguyện",
+            "audio": "Không_tự_nguyện.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "非自願",
+            "audio": "非自願.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Involontairement",
+            "audio": "Involontairement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unfreiwillig",
+            "audio": "Unfreiwillig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Involuntariamente",
+            "audio": "Involuntariamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Невольно",
+            "audio": "Невольно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยไม่ตั้งใจ",
+            "audio": "โดยไม่ตั้งใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara tidak sukarela",
+            "audio": "Secara_tidak_sukarela.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "非自願地",
+            "audio": "非自願地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv447",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "不經意地",
+        "CN_ENG": {
+            "word": "Inadvertently",
+            "audio": "Inadvertently.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "うっかり",
+            "audio": "うっかり.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무심코 (mu-sim)",
+            "audio": "무심코.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vô tình",
+            "audio": "Vô_tình.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔覺意",
+            "audio": "唔覺意.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Par inadvertance",
+            "audio": "Par_inadvertance.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Versehentlich",
+            "audio": "Versehentlich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Inadvertidamente",
+            "audio": "Inadvertidamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нечаянно",
+            "audio": "Нечаянно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยไม่ได้ตั้งใจ",
+            "audio": "โดยไม่ได้ตั้งใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tanpa sengaja",
+            "audio": "Tanpa_sengaja.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不經意地",
+            "audio": "不經意地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv448",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "巧合地",
+        "CN_ENG": {
+            "word": "Coincidentally",
+            "audio": "Coincidentally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "偶然に",
+            "audio": "偶然に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "우연히 (u-yeon)",
+            "audio": "우연히.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trùng hợp",
+            "audio": "Trùng_hợp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "巧合",
+            "audio": "巧合.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Par coïncidence",
+            "audio": "Par_coïncidence.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zufällig",
+            "audio": "Zufällig.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Coincidentemente",
+            "audio": "Coincidentemente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Случайно",
+            "audio": "Случайно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยบังเอิญ",
+            "audio": "โดยบังเอิญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara kebetulan",
+            "audio": "Secara_kebetulan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "巧合地",
+            "audio": "巧合地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv449",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "偶然地 (幸運)",
+        "CN_ENG": {
+            "word": "Fortuitously",
+            "audio": "Fortuitously.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "運良く",
+            "audio": "運良く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "운 좋게 (un jo-ke)",
+            "audio": "운_좋게.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tình cờ",
+            "audio": "Tình_cờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "偶然",
+            "audio": "偶然.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Fortuitement",
+            "audio": "Fortuitement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Glücklicherweise",
+            "audio": "Glücklicherweise.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Fortuitamente",
+            "audio": "Fortuitamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Случайно",
+            "audio": "Случайно.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โดยบังเอิญ",
+            "audio": "โดยบังเอิญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara kebetulan",
+            "audio": "Secara_kebetulan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "偶然地 (幸運)",
+            "audio": "偶然地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "adv450",
+        "category": "Lesson 26 🚀 副詞(Adverb)",
+        "subcategory": "🧠 認知與能力",
+        "cn": "悲劇地",
+        "CN_ENG": {
+            "word": "Tragically",
+            "audio": "Tragically.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "悲劇的に",
+            "audio": "悲劇的に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비극적으로 (bi-geuk)",
+            "audio": "비극적으로.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bi thảm",
+            "audio": "Bi_thảm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "悲劇",
+            "audio": "悲劇.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tragiquement",
+            "audio": "Tragiquement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tragisch",
+            "audio": "Tragisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Trágicamente",
+            "audio": "Trágicamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Трагически",
+            "audio": "Трагически.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่างน่าเศร้า",
+            "audio": "อย่างน่าเศร้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Secara tragis",
+            "audio": "Secara_tragis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "悲劇地",
+            "audio": "悲劇地.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
         "id": "cnj001",
         "category": "Lesson 35 🔗 連接詞(Conjuctive)",
         "subcategory": "➕ 並列與添加",
@@ -202850,6 +212750,13206 @@ const vocabData = [
         "CN_ZH": {
             "word": "做瑜珈",
             "audio": "做瑜珈.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo201",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "訂機票",
+        "CN_ENG": {
+            "word": "Book a flight",
+            "audio": "Book_a_flight.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "航空券を予約する",
+            "audio": "航空券を予約する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비행기 표를 예매하다",
+            "audio": "비행기_표를_예매하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đặt vé máy bay",
+            "audio": "Đặt_vé_máy_bay.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "訂機票",
+            "audio": "訂機票.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Réserver un vol",
+            "audio": "Réserver_un_vol.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Flug buchen",
+            "audio": "Einen_Flug_buchen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Reservar un vuelo",
+            "audio": "Reservar_un_vuelo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Забронировать рейс",
+            "audio": "Забронировать_рейс.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จองตั๋วเครื่องบิน",
+            "audio": "จองตั๋วเครื่องบิน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memesan tiket pesawat",
+            "audio": "Memesan_tiket_pesawat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "訂機票",
+            "audio": "訂機票.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo202",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "辦理登機",
+        "CN_ENG": {
+            "word": "Check in",
+            "audio": "Check_in.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "チェックインする",
+            "audio": "チェックインする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "체크인하다",
+            "audio": "체크인하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm thủ tục",
+            "audio": "Làm_thủ_tục.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "Check-in",
+            "audio": "Check-in.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'enregistrer",
+            "audio": "S'enregistrer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einchecken",
+            "audio": "Einchecken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Facturar",
+            "audio": "Facturar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Регистрация",
+            "audio": "Регистрация.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เช็คอิน",
+            "audio": "เช็คอิน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Check-in",
+            "audio": "Check-in.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "辦理登機",
+            "audio": "辦理登機.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo203",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "過海關",
+        "CN_ENG": {
+            "word": "Go through customs",
+            "audio": "Go_through_customs.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "税関を通る",
+            "audio": "税関を通る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "세관을 통과하다",
+            "audio": "세관을_통과하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Qua hải quan",
+            "audio": "Qua_hải_quan.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "過海關",
+            "audio": "過海關.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Passer la douane",
+            "audio": "Passer_la_douane.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Durch den Zoll gehen",
+            "audio": "Durch_den_Zoll_gehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pasar la aduana",
+            "audio": "Pasar_la_aduana.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Проходить таможню",
+            "audio": "Проходить_таможню.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ผ่านศุลกากร",
+            "audio": "ผ่านศุลกากร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melewati bea cukai",
+            "audio": "Melewati_bea_cukai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "過海關",
+            "audio": "過海關.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo204",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "打包行李",
+        "CN_ENG": {
+            "word": "Pack luggage",
+            "audio": "Pack_luggage.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "荷造りをする",
+            "audio": "荷造りをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "짐을 싸다",
+            "audio": "짐을_싸다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đóng gói hành lý",
+            "audio": "Đóng_gói_hành_lý.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "執行李",
+            "audio": "執行李.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire ses valises",
+            "audio": "Faire_ses_valises.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Koffer packen",
+            "audio": "Koffer_packen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacer la maleta",
+            "audio": "Hacer_la_maleta.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Собирать багаж",
+            "audio": "Собирать_багаж.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จัดกระเป๋า",
+            "audio": "จัดกระเป๋า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengemas barang",
+            "audio": "Mengemas_barang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "打包行李",
+            "audio": "打包行李.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo205",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "租車",
+        "CN_ENG": {
+            "word": "Rent a car",
+            "audio": "Rent_a_car.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "車を借りる",
+            "audio": "車を借りる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "차를 렌트하다",
+            "audio": "차를_렌트하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thuê xe",
+            "audio": "Thuê_xe.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "租車",
+            "audio": "租車.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Louer une voiture",
+            "audio": "Louer_une_voiture.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Auto mieten",
+            "audio": "Ein_Auto_mieten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Alquilar un coche",
+            "audio": "Alquilar_un_coche.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Арендовать машину",
+            "audio": "Арендовать_машину.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เช่ารถ",
+            "audio": "เช่ารถ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyewa mobil",
+            "audio": "Menyewa_mobil.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "租車",
+            "audio": "租車.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo206",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "問路",
+        "CN_ENG": {
+            "word": "Ask for directions",
+            "audio": "Ask_for_directions.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "道を聞く",
+            "audio": "道を聞く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "길을 묻다",
+            "audio": "길을_묻다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hỏi đường",
+            "audio": "Hỏi_đường.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "問路",
+            "audio": "問路.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Demander son chemin",
+            "audio": "Demander_son_chemin.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nach dem Weg fragen",
+            "audio": "Nach_dem_Weg_fragen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Preguntar direcciones",
+            "audio": "Preguntar_direcciones.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спросить дорогу",
+            "audio": "Спросить_дорогу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถามทาง",
+            "audio": "ถามทาง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menanyakan arah",
+            "audio": "Menanyakan_arah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "問路",
+            "audio": "問路.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo207",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "迷路",
+        "CN_ENG": {
+            "word": "Get lost",
+            "audio": "Get_lost.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "道に迷う",
+            "audio": "道に迷う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "길을 잃다",
+            "audio": "길을_잃다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lạc đường",
+            "audio": "Lạc_đường.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "迷路",
+            "audio": "迷路.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se perdre",
+            "audio": "Se_perdre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich verlaufen",
+            "audio": "Sich_verlaufen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Perderse",
+            "audio": "Perderse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Заблудиться",
+            "audio": "Заблудиться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หลงทาง",
+            "audio": "หลงทาง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tersesat",
+            "audio": "Tersesat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "迷路",
+            "audio": "迷路.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo208",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "趕火車",
+        "CN_ENG": {
+            "word": "Catch a train",
+            "audio": "Catch_a_train.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "電車に乗る",
+            "audio": "電車に乗る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기차를 타다",
+            "audio": "기차를_타다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bắt tàu",
+            "audio": "Bắt_tàu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "趕火車",
+            "audio": "趕火車.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Prendre le train",
+            "audio": "Prendre_le_train.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Den Zug nehmen",
+            "audio": "Den_Zug_nehmen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tomar el tren",
+            "audio": "Tomar_el_tren.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сесть на поезд",
+            "audio": "Сесть_на_поезд.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขึ้นรถไฟ",
+            "audio": "ขึ้นรถไฟ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengejar kereta",
+            "audio": "Mengejar_kereta.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "趕火車",
+            "audio": "趕火車.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo209",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "換乘",
+        "CN_ENG": {
+            "word": "Transfer (train/bus)",
+            "audio": "Transfer.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "乗り換える",
+            "audio": "乗り換える.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "환승하다",
+            "audio": "환승하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chuyển xe/tàu",
+            "audio": "Chuyển_xetàu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "轉車",
+            "audio": "轉車.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire une correspondance",
+            "audio": "Faire_une_correspondance.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Umsteigen",
+            "audio": "Umsteigen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacer trasbordo",
+            "audio": "Hacer_trasbordo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Делать пересадку",
+            "audio": "Делать_пересадку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เปลี่ยนขบวน",
+            "audio": "เปลี่ยนขบวน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Transfer",
+            "audio": "Transfer.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "換乘",
+            "audio": "換乘.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo210",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "申請簽證",
+        "CN_ENG": {
+            "word": "Apply for a visa",
+            "audio": "Apply_for_a_visa.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ビザを申請する",
+            "audio": "ビザを申請する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비자를 신청하다",
+            "audio": "비자를_신청하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin visa",
+            "audio": "Xin_visa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "申請簽證",
+            "audio": "申請簽證.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Demander un visa",
+            "audio": "Demander_un_visa.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Visum beantragen",
+            "audio": "Ein_Visum_beantragen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Solicitar un visado",
+            "audio": "Solicitar_un_visado.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подать на визу",
+            "audio": "Подать_на_визу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอวีซ่า",
+            "audio": "ขอวีซ่า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengajukan visa",
+            "audio": "Mengajukan_visa.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "申請簽證",
+            "audio": "申請簽證.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo211",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "兌換貨幣",
+        "CN_ENG": {
+            "word": "Exchange currency",
+            "audio": "Exchange_currency.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "両替する",
+            "audio": "両替する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "환전하다",
+            "audio": "환전하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đổi tiền",
+            "audio": "Đổi_tiền.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唱錢",
+            "audio": "唱錢.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Changer de devise",
+            "audio": "Changer_de_devise.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Währung tauschen",
+            "audio": "Währung_tauschen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cambiar moneda",
+            "audio": "Cambiar_moneda.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обменять валюту",
+            "audio": "Обменять_валюту.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แลกเปลี่ยนเงินตรา",
+            "audio": "แลกเปลี่ยนเงินตรา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menukar mata uang",
+            "audio": "Menukar_mata_uang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "兌換貨幣",
+            "audio": "兌換貨幣.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo212",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "參觀博物館",
+        "CN_ENG": {
+            "word": "Visit a museum",
+            "audio": "Visit_a_museum.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "博物館を訪れる",
+            "audio": "博物館を訪れる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "박물관을 방문하다",
+            "audio": "박물관을_방문하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tham quan bảo tàng",
+            "audio": "Tham_quan_bảo_tàng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "參觀博物館",
+            "audio": "參觀博物館.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Visiter un musée",
+            "audio": "Visiter_un_musée.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Museum besuchen",
+            "audio": "Ein_Museum_besuchen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Visitar un museo",
+            "audio": "Visitar_un_museo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Посетить музей",
+            "audio": "Посетить_музей.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เยี่ยมชมพิพิธภัณฑ์",
+            "audio": "เยี่ยมชมพิพิธภัณฑ์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengunjungi museum",
+            "audio": "Mengunjungi_museum.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "參觀博物館",
+            "audio": "參觀博物館.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo213",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "拍照留念",
+        "CN_ENG": {
+            "word": "Take a souvenir photo",
+            "audio": "Take_a_souvenir_photo.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "記念写真を撮る",
+            "audio": "記念写真を撮る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기념사진을 찍다",
+            "audio": "기념사진을_찍다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chụp ảnh kỷ niệm",
+            "audio": "Chụp_ảnh_kỷ_niệm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "影相留念",
+            "audio": "影相留念.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Prendre une photo souvenir",
+            "audio": "Prendre_une_photo_souvenir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Erinnerungsfoto machen",
+            "audio": "Ein_Erinnerungsfoto_machen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tomar una foto de recuerdo",
+            "audio": "Tomar_una_foto_de_recuerdo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сделать фото на память",
+            "audio": "Сделать_фото_на_память.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถ่ายรูปที่ระลึก",
+            "audio": "ถ่ายรูปที่ระลึก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berfoto kenang-kenangan",
+            "audio": "Berfoto_kenang-kenangan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拍照留念",
+            "audio": "拍照留念.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo214",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "買紀念品",
+        "CN_ENG": {
+            "word": "Buy souvenirs",
+            "audio": "Buy_souvenirs.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お土産を買う",
+            "audio": "お土産を買う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기념품을 사다",
+            "audio": "기념품을_사다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mua quà lưu niệm",
+            "audio": "Mua_quà_lưu_niệm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "買手信",
+            "audio": "買手信.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Acheter des souvenirs",
+            "audio": "Acheter_des_souvenirs.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Souvenirs kaufen",
+            "audio": "Souvenirs_kaufen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Comprar recuerdos",
+            "audio": "Comprar_recuerdos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Покупать сувениры",
+            "audio": "Покупать_сувениры.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ซื้อของที่ระลึก",
+            "audio": "ซื้อของที่ระลึก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membeli oleh-oleh",
+            "audio": "Membeli_oleh-oleh.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "買紀念品",
+            "audio": "買紀念品.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo215",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "取消預訂",
+        "CN_ENG": {
+            "word": "Cancel a reservation",
+            "audio": "Cancel_a_reservation.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "予約をキャンセルする",
+            "audio": "予約をキャンセルする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "예약을 취소하다",
+            "audio": "예약을_취소하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hủy đặt chỗ",
+            "audio": "Hủy_đặt_chỗ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "取消預約",
+            "audio": "取消預約.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Annuler une réservation",
+            "audio": "Annuler_une_réservation.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Eine Reservierung stornieren",
+            "audio": "Eine_Reservierung_stornieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cancelar una reserva",
+            "audio": "Cancelar_una_reserva.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Отменить бронирование",
+            "audio": "Отменить_бронирование.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยกเลิกการจอง",
+            "audio": "ยกเลิกการจอง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membatalkan reservasi",
+            "audio": "Membatalkan_reservasi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "取消預訂",
+            "audio": "取消預訂.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo216",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "延誤",
+        "CN_ENG": {
+            "word": "Be delayed",
+            "audio": "Be_delayed.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "遅れる",
+            "audio": "遅れる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지연되다",
+            "audio": "지연되다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bị trễ",
+            "audio": "Bị_trễ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "延遲",
+            "audio": "延遲.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Être retardé",
+            "audio": "Être_retardé.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verspätet sein",
+            "audio": "Verspätet_sein.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Retrasarse",
+            "audio": "Retrasarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Задерживаться",
+            "audio": "Задерживаться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ล่าช้า",
+            "audio": "ล่าช้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tertunda",
+            "audio": "Tertunda.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "延誤",
+            "audio": "延誤.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo217",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "繫安全帶",
+        "CN_ENG": {
+            "word": "Fasten seatbelt",
+            "audio": "Fasten_seatbelt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "シートベルトを締める",
+            "audio": "シートベルトを締める.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안전벨트를 매다",
+            "audio": "안전벨트를_매다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thắt dây an toàn",
+            "audio": "Thắt_dây_an_toàn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "扣安全帶",
+            "audio": "扣安全帶.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Attacher la ceinture",
+            "audio": "Attacher_la_ceinture.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Den Sicherheitsgurt anlegen",
+            "audio": "Den_Sicherheitsgurt_anlegen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Abrocharse el cinturón",
+            "audio": "Abrocharse_el_cinturón.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пристегнуть ремень",
+            "audio": "Пристегнуть_ремень.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คาดเข็มขัดนิรภัย",
+            "audio": "คาดเข็มขัดนิรภัย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengencangkan sabuk pengaman",
+            "audio": "Mengencangkan_sabuk_pengaman.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "繫安全帶",
+            "audio": "繫安全帶.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo218",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "起飛",
+        "CN_ENG": {
+            "word": "Take off",
+            "audio": "Take_off.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "離陸する",
+            "audio": "離陸する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이륙하다",
+            "audio": "이륙하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cất cánh",
+            "audio": "Cất_cánh.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "起飛",
+            "audio": "起飛.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Décoller",
+            "audio": "Décoller.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Abheben",
+            "audio": "Abheben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Despegar",
+            "audio": "Despegar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Взлетать",
+            "audio": "Взлетать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องออก",
+            "audio": "เครื่องออก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Lepas landas",
+            "audio": "Lepas_landas.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "起飛",
+            "audio": "起飛.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo219",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "降落",
+        "CN_ENG": {
+            "word": "Land",
+            "audio": "Land.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "着陸する",
+            "audio": "着陸する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "착륙하다",
+            "audio": "착륙하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hạ cánh",
+            "audio": "Hạ_cánh.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "降落",
+            "audio": "降落.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Atterrir",
+            "audio": "Atterrir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Landen",
+            "audio": "Landen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aterrizar",
+            "audio": "Aterrizar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Приземляться",
+            "audio": "Приземляться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องลง",
+            "audio": "เครื่องลง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mendarat",
+            "audio": "Mendarat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "降落",
+            "audio": "降落.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo220",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "✈️ 旅遊與交通",
+        "cn": "穿越馬路",
+        "CN_ENG": {
+            "word": "Cross the road",
+            "audio": "Cross_the_road.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "道を渡る",
+            "audio": "道を渡る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "길을 건너다",
+            "audio": "길을_건너다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Qua đường",
+            "audio": "Qua_đường.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "過馬路",
+            "audio": "過馬路.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Traverser la route",
+            "audio": "Traverser_la_route.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Straße überqueren",
+            "audio": "Die_Straße_überqueren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cruzar la calle",
+            "audio": "Cruzar_la_calle.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Переходить дорогу",
+            "audio": "Переходить_дорогу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ข้ามถนน",
+            "audio": "ข้ามถนน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyeberang jalan",
+            "audio": "Menyeberang_jalan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "穿越馬路",
+            "audio": "穿越馬路.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo221",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "愛上某人",
+        "CN_ENG": {
+            "word": "Fall in love with someone",
+            "audio": "Fall_in_love_with_someone.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "恋に落ちる",
+            "audio": "恋に落ちる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "사랑에 빠지다",
+            "audio": "사랑에_빠지다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Yêu ai đó",
+            "audio": "Yêu_ai_đó.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "愛上某人",
+            "audio": "愛上某人.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tomber amoureux",
+            "audio": "Tomber_amoureux.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich verlieben",
+            "audio": "Sich_verlieben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Enamorarse",
+            "audio": "Enamorarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Влюбиться",
+            "audio": "Влюбиться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตกหลุมรัก",
+            "audio": "ตกหลุมรัก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jatuh cinta",
+            "audio": "Jatuh_cinta.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "愛上某人",
+            "audio": "愛上某人.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo222",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "分手",
+        "CN_ENG": {
+            "word": "Break up",
+            "audio": "Break_up.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "別れる",
+            "audio": "別れる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "헤어지다",
+            "audio": "헤어지다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chia tay",
+            "audio": "Chia_tay.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "分手",
+            "audio": "分手.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Rompre",
+            "audio": "Rompre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schluss machen",
+            "audio": "Schluss_machen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Romper",
+            "audio": "Romper.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Расстаться",
+            "audio": "Расстаться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เลิกกัน",
+            "audio": "เลิกกัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Putus",
+            "audio": "Putus.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "分手",
+            "audio": "分手.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo223",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "約會",
+        "CN_ENG": {
+            "word": "Go on a date",
+            "audio": "Go_on_a_date.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "デートする",
+            "audio": "デートする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "데이트하다",
+            "audio": "데이트하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hẹn hò",
+            "audio": "Hẹn_hò.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "拍拖",
+            "audio": "拍拖.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avoir un rendez-vous",
+            "audio": "Avoir_un_rendez-vous.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Date haben",
+            "audio": "Ein_Date_haben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tener una cita",
+            "audio": "Tener_una_cita.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Идти на свидание",
+            "audio": "Идти_на_свидание.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ออกเดท",
+            "audio": "ออกเดท.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kencan",
+            "audio": "Kencan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "約會",
+            "audio": "約會.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo224",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "求婚",
+        "CN_ENG": {
+            "word": "Propose",
+            "audio": "Propose.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "プロポーズする",
+            "audio": "プロポーズする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "프러포즈하다",
+            "audio": "프러포즈하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cầu hôn",
+            "audio": "Cầu_hôn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "求婚",
+            "audio": "求婚.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Demander en mariage",
+            "audio": "Demander_en_mariage.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Heiratsantrag machen",
+            "audio": "Einen_Heiratsantrag_machen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Proponer matrimonio",
+            "audio": "Proponer_matrimonio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сделать предложение",
+            "audio": "Сделать_предложение.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอแต่งงาน",
+            "audio": "ขอแต่งงาน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melamar",
+            "audio": "Melamar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "求婚",
+            "audio": "求婚.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo225",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "結婚",
+        "CN_ENG": {
+            "word": "Get married",
+            "audio": "Get_married.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "結婚する",
+            "audio": "結婚する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "결혼하다",
+            "audio": "결혼하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kết hôn",
+            "audio": "Kết_hôn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "結婚",
+            "audio": "結婚.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se marier",
+            "audio": "Se_marier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Heiraten",
+            "audio": "Heiraten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Casarse",
+            "audio": "Casarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Жениться",
+            "audio": "Жениться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แต่งงาน",
+            "audio": "แต่งงาน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menikah",
+            "audio": "Menikah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "結婚",
+            "audio": "結婚.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo226",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "離婚",
+        "CN_ENG": {
+            "word": "Get divorced",
+            "audio": "Get_divorced.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "離婚する",
+            "audio": "離婚する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이혼하다",
+            "audio": "이혼하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ly hôn",
+            "audio": "Ly_hôn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "離婚",
+            "audio": "離婚.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Divorcer",
+            "audio": "Divorcer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich scheiden lassen",
+            "audio": "Sich_scheiden_lassen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Divorciarse",
+            "audio": "Divorciarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Развестись",
+            "audio": "Развестись.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หย่า",
+            "audio": "หย่า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bercerai",
+            "audio": "Bercerai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "離婚",
+            "audio": "離婚.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo227",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "吵架",
+        "CN_ENG": {
+            "word": "Have a fight",
+            "audio": "Have_a_fight.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "喧嘩する",
+            "audio": "喧嘩する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "싸우다",
+            "audio": "싸우다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cãi nhau",
+            "audio": "Cãi_nhau.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "嗌交",
+            "audio": "嗌交.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se disputer",
+            "audio": "Se_disputer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Streiten",
+            "audio": "Streiten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pelear",
+            "audio": "Pelear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ссориться",
+            "audio": "Ссориться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทะเลาะ",
+            "audio": "ทะเลาะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bertengkar",
+            "audio": "Bertengkar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "吵架",
+            "audio": "吵架.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo228",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "和好",
+        "CN_ENG": {
+            "word": "Make up",
+            "audio": "Make_up.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "仲直りする",
+            "audio": "仲直りする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "화해하다",
+            "audio": "화해하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm hòa",
+            "audio": "Làm_hòa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "和好",
+            "audio": "和好.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se réconcilier",
+            "audio": "Se_réconcilier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich versöhnen",
+            "audio": "Sich_versöhnen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Reconciliarse",
+            "audio": "Reconciliarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Помириться",
+            "audio": "Помириться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คืนดี",
+            "audio": "คืนดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berbaikan",
+            "audio": "Berbaikan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "和好",
+            "audio": "和好.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo229",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "想念某人",
+        "CN_ENG": {
+            "word": "Miss someone",
+            "audio": "Miss_someone.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "会いたい",
+            "audio": "会いたい.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "보고 싶다",
+            "audio": "보고_싶다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhớ ai đó",
+            "audio": "Nhớ_ai_đó.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "掛住某人",
+            "audio": "掛住某人.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Manquer à quelqu'un",
+            "audio": "Manquer_à_quelqu'un.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Jemanden vermissen",
+            "audio": "Jemanden_vermissen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Extrañar a alguien",
+            "audio": "Extrañar_a_alguien.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Скучать по кому-то",
+            "audio": "Скучать_по_кому-то.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คิดถึง",
+            "audio": "คิดถึง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Merindukan seseorang",
+            "audio": "Merindukan_seseorang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "想念某人",
+            "audio": "想念某人.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo230",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "擁抱",
+        "CN_ENG": {
+            "word": "Hug",
+            "audio": "Hug.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "抱きしめる",
+            "audio": "抱きしめる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안아주다",
+            "audio": "안아주다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ôm",
+            "audio": "Ôm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "攬",
+            "audio": "攬.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Étreindre",
+            "audio": "Étreindre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Umarmen",
+            "audio": "Umarmen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Abrazar",
+            "audio": "Abrazar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обнимать",
+            "audio": "Обнимать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กอด",
+            "audio": "กอด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memeluk",
+            "audio": "Memeluk.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "擁抱",
+            "audio": "擁抱.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo231",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "親吻",
+        "CN_ENG": {
+            "word": "Kiss",
+            "audio": "Kiss.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "キスする",
+            "audio": "キスする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "키스하다",
+            "audio": "키스하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôn",
+            "audio": "Hôn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "錫",
+            "audio": "錫.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Embrasser",
+            "audio": "Embrasser.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Küssen",
+            "audio": "Küssen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Besar",
+            "audio": "Besar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Целовать",
+            "audio": "Целовать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จูบ",
+            "audio": "จูบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencium",
+            "audio": "Mencium.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "親吻",
+            "audio": "親吻.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo232",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "牽手",
+        "CN_ENG": {
+            "word": "Hold hands",
+            "audio": "Hold_hands.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "手をつなぐ",
+            "audio": "手をつなぐ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "손을 잡다",
+            "audio": "손을_잡다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nắm tay",
+            "audio": "Nắm_tay.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "拖手",
+            "audio": "拖手.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se tenir la main",
+            "audio": "Se_tenir_la_main.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Händchen halten",
+            "audio": "Händchen_halten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cogerse de la mano",
+            "audio": "Cogerse_de_la_mano.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Держаться за руки",
+            "audio": "Держаться_за_руки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จับมือ",
+            "audio": "จับมือ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bergandengan tangan",
+            "audio": "Bergandengan_tangan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "牽手",
+            "audio": "牽手.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo233",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "安慰",
+        "CN_ENG": {
+            "word": "Comfort",
+            "audio": "Comfort.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "慰める",
+            "audio": "慰める.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "위로하다",
+            "audio": "위로하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "An ủi",
+            "audio": "An_ủi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "安慰",
+            "audio": "安慰.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Réconforter",
+            "audio": "Réconforter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Trösten",
+            "audio": "Trösten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Consolar",
+            "audio": "Consolar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Утешать",
+            "audio": "Утешать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปลอบโยน",
+            "audio": "ปลอบโยน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menghibur",
+            "audio": "Menghibur.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "安慰",
+            "audio": "安慰.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo234",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "信任",
+        "CN_ENG": {
+            "word": "Trust",
+            "audio": "Trust.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "信頼する",
+            "audio": "信頼する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "믿다",
+            "audio": "믿다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tin tưởng",
+            "audio": "Tin_tưởng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "信",
+            "audio": "信.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire confiance",
+            "audio": "Faire_confiance.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vertrauen",
+            "audio": "Vertrauen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Confiar",
+            "audio": "Confiar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Доверять",
+            "audio": "Доверять.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เชื่อใจ",
+            "audio": "เชื่อใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Percaya",
+            "audio": "Percaya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "信任",
+            "audio": "信任.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo235",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "懷疑",
+        "CN_ENG": {
+            "word": "Suspect / Doubt",
+            "audio": "Suspect__Doubt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "疑う",
+            "audio": "疑う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "의심하다",
+            "audio": "의심하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nghi ngờ",
+            "audio": "Nghi_ngờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "懷疑",
+            "audio": "懷疑.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Suspecter",
+            "audio": "Suspecter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verdächtigen",
+            "audio": "Verdächtigen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sospechar",
+            "audio": "Sospechar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подозревать",
+            "audio": "Подозревать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สงสัย",
+            "audio": "สงสัย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencurigai",
+            "audio": "Mencurigai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "懷疑",
+            "audio": "懷疑.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo236",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "背叛",
+        "CN_ENG": {
+            "word": "Betray",
+            "audio": "Betray.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "裏切る",
+            "audio": "裏切る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "배신하다",
+            "audio": "배신하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phản bội",
+            "audio": "Phản_bội.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "背叛",
+            "audio": "背叛.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Trahir",
+            "audio": "Trahir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verraten",
+            "audio": "Verraten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Traicionar",
+            "audio": "Traicionar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Предавать",
+            "audio": "Предавать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทรยศ",
+            "audio": "ทรยศ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengkhianati",
+            "audio": "Mengkhianati.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "背叛",
+            "audio": "背叛.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo237",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "撒謊",
+        "CN_ENG": {
+            "word": "Lie",
+            "audio": "Lie.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "嘘をつく",
+            "audio": "嘘をつく.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "거짓말하다",
+            "audio": "거짓말하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nói dối",
+            "audio": "Nói_dối.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "講大話",
+            "audio": "講大話.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mentir",
+            "audio": "Mentir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lügen",
+            "audio": "Lügen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Mentir",
+            "audio": "Mentir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Лгать",
+            "audio": "Лгать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โกหก",
+            "audio": "โกหก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berbohong",
+            "audio": "Berbohong.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "撒謊",
+            "audio": "撒謊.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo238",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "承認錯誤",
+        "CN_ENG": {
+            "word": "Admit a mistake",
+            "audio": "Admit_a_mistake.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "間違いを認める",
+            "audio": "間違いを認める.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "실수를 인정하다",
+            "audio": "실수를_인정하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thừa nhận lỗi",
+            "audio": "Thừa_nhận_lỗi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "認錯",
+            "audio": "認錯.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Admettre une erreur",
+            "audio": "Admettre_une_erreur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Fehler zugeben",
+            "audio": "Einen_Fehler_zugeben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Admitir un error",
+            "audio": "Admitir_un_error.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Признать ошибку",
+            "audio": "Признать_ошибку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยอมรับผิด",
+            "audio": "ยอมรับผิด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengakui kesalahan",
+            "audio": "Mengakui_kesalahan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "承認錯誤",
+            "audio": "承認錯誤.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo239",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "尊重",
+        "CN_ENG": {
+            "word": "Respect",
+            "audio": "Respect.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "尊敬する",
+            "audio": "尊敬する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "존중하다",
+            "audio": "존중하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôn trọng",
+            "audio": "Tôn_trọng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "尊重",
+            "audio": "尊重.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Respecter",
+            "audio": "Respecter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Respektieren",
+            "audio": "Respektieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Respetar",
+            "audio": "Respetar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Уважать",
+            "audio": "Уважать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เคารพ",
+            "audio": "เคารพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menghormati",
+            "audio": "Menghormati.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "尊重",
+            "audio": "尊重.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo240",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "❤️ 感情與人際",
+        "cn": "忽視",
+        "CN_ENG": {
+            "word": "Ignore",
+            "audio": "Ignore.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "無視する",
+            "audio": "無視する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무시하다",
+            "audio": "무시하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phớt lờ",
+            "audio": "Phớt_lờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "忽視",
+            "audio": "忽視.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ignorer",
+            "audio": "Ignorer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ignorieren",
+            "audio": "Ignorieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ignorar",
+            "audio": "Ignorar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Игнорировать",
+            "audio": "Игнорировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เพิกเฉย",
+            "audio": "เพิกเฉย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengabaikan",
+            "audio": "Mengabaikan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "忽視",
+            "audio": "忽視.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo241",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "報警",
+        "CN_ENG": {
+            "word": "Call the police",
+            "audio": "Call_the_police.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "警察を呼ぶ",
+            "audio": "警察を呼ぶ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "경찰을 부르다",
+            "audio": "경찰을_부르다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gọi cảnh sát",
+            "audio": "Gọi_cảnh_sát.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "報警",
+            "audio": "報警.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Appeler la police",
+            "audio": "Appeler_la_police.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Polizei rufen",
+            "audio": "Die_Polizei_rufen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Llamar a la policía",
+            "audio": "Llamar_a_la_policía.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вызвать полицию",
+            "audio": "Вызвать_полицию.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แจ้งตำรวจ",
+            "audio": "แจ้งตำรวจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memanggil polisi",
+            "audio": "Memanggil_polisi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "報警",
+            "audio": "報警.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo242",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "違反法律",
+        "CN_ENG": {
+            "word": "Break the law",
+            "audio": "Break_the_law.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "法律を破る",
+            "audio": "法律を破る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "법을 어기다",
+            "audio": "법을_어기다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vi phạm pháp luật",
+            "audio": "Vi_phạm_pháp_luật.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "犯法",
+            "audio": "犯法.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Enfreindre la loi",
+            "audio": "Enfreindre_la_loi.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das Gesetz brechen",
+            "audio": "Das_Gesetz_brechen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Infringir la ley",
+            "audio": "Infringir_la_ley.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нарушать закон",
+            "audio": "Нарушать_закон.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ผิดกฎหมาย",
+            "audio": "ผิดกฎหมาย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melanggar hukum",
+            "audio": "Melanggar_hukum.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "違反法律",
+            "audio": "違反法律.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo243",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "遵守規則",
+        "CN_ENG": {
+            "word": "Follow the rules",
+            "audio": "Follow_the_rules.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "規則を守る",
+            "audio": "規則を守る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "규칙을 따르다",
+            "audio": "규칙을_따르다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tuân thủ quy tắc",
+            "audio": "Tuân_thủ_quy_tắc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "守規矩",
+            "audio": "守規矩.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Suivre les règles",
+            "audio": "Suivre_les_règles.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Regeln befolgen",
+            "audio": "Die_Regeln_befolgen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Seguir las reglas",
+            "audio": "Seguir_las_reglas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Соблюдать правила",
+            "audio": "Соблюдать_правила.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปฏิบัติตามกฎ",
+            "audio": "ปฏิบัติตามกฎ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mematuhi aturan",
+            "audio": "Mematuhi_aturan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "遵守規則",
+            "audio": "遵守規則.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo244",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "逮捕",
+        "CN_ENG": {
+            "word": "Arrest",
+            "audio": "Arrest.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "逮捕する",
+            "audio": "逮捕する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "체포하다",
+            "audio": "체포하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bắt giữ",
+            "audio": "Bắt_giữ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "逮捕",
+            "audio": "逮捕.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Arrêter",
+            "audio": "Arrêter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verhaften",
+            "audio": "Verhaften.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Arrestar",
+            "audio": "Arrestar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Арестовать",
+            "audio": "Арестовать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จับกุม",
+            "audio": "จับกุม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menangkap",
+            "audio": "Menangkap.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "逮捕",
+            "audio": "逮捕.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo245",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "起訴",
+        "CN_ENG": {
+            "word": "Sue",
+            "audio": "Sue.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "訴える",
+            "audio": "訴える.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "고소하다",
+            "audio": "고소하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kiện",
+            "audio": "Kiện.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "起訴",
+            "audio": "起訴.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Poursuivre en justice",
+            "audio": "Poursuivre_en_justice.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verklagen",
+            "audio": "Verklagen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Demandar",
+            "audio": "Demandar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подать в суд",
+            "audio": "Подать_в_суд.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฟ้องร้อง",
+            "audio": "ฟ้องร้อง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menuntut",
+            "audio": "Menuntut.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "起訴",
+            "audio": "起訴.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo246",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "判決",
+        "CN_ENG": {
+            "word": "Sentence / Judge",
+            "audio": "Sentence__Judge.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "判決を下す",
+            "audio": "判決を下す.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "판결하다",
+            "audio": "판결하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tuyên án",
+            "audio": "Tuyên_án.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "判決",
+            "audio": "判決.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Juger",
+            "audio": "Juger.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verurteilen",
+            "audio": "Verurteilen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sentenciar",
+            "audio": "Sentenciar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Приговорить",
+            "audio": "Приговорить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตัดสิน",
+            "audio": "ตัดสิน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menghukum",
+            "audio": "Menghukum.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "判決",
+            "audio": "判決.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo247",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "繳稅",
+        "CN_ENG": {
+            "word": "Pay taxes",
+            "audio": "Pay_taxes.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "税金を払う",
+            "audio": "税金を払う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "세금을 내다",
+            "audio": "세금을_내다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nộp thuế",
+            "audio": "Nộp_thuế.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "交稅",
+            "audio": "交稅.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Payer des impôts",
+            "audio": "Payer_des_impôts.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Steuern zahlen",
+            "audio": "Steuern_zahlen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pagar impuestos",
+            "audio": "Pagar_impuestos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Платить налоги",
+            "audio": "Платить_налоги.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จ่ายภาษี",
+            "audio": "จ่ายภาษี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membayar pajak",
+            "audio": "Membayar_pajak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "繳稅",
+            "audio": "繳稅.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo248",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "投票",
+        "CN_ENG": {
+            "word": "Vote",
+            "audio": "Vote.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "投票する",
+            "audio": "投票する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "투표하다",
+            "audio": "투표하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bỏ phiếu",
+            "audio": "Bỏ_phiếu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "投票",
+            "audio": "投票.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Voter",
+            "audio": "Voter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wählen",
+            "audio": "Wählen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Votar",
+            "audio": "Votar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Голосовать",
+            "audio": "Голосовать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลงคะแนน",
+            "audio": "ลงคะแนน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memilih (suara)",
+            "audio": "Memilih.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "投票",
+            "audio": "投票.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo249",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "競選",
+        "CN_ENG": {
+            "word": "Run for office",
+            "audio": "Run_for_office.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "立候補する",
+            "audio": "立候補する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "출마하다",
+            "audio": "출마하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tranh cử",
+            "audio": "Tranh_cử.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "競選",
+            "audio": "競選.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se présenter",
+            "audio": "Se_présenter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kandidieren",
+            "audio": "Kandidieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Postularse",
+            "audio": "Postularse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Баллотироваться",
+            "audio": "Баллотироваться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลงสมัครรับเลือกตั้ง",
+            "audio": "ลงสมัครรับเลือกตั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencalonkan diri",
+            "audio": "Mencalonkan_diri.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "競選",
+            "audio": "競選.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo250",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "⚖️ 法律與權利",
+        "cn": "簽名",
+        "CN_ENG": {
+            "word": "Sign name",
+            "audio": "Sign_name.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "署名する",
+            "audio": "署名する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "서명하다",
+            "audio": "서명하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ký tên",
+            "audio": "Ký_tên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "簽名",
+            "audio": "簽名.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Signer",
+            "audio": "Signer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unterschreiben",
+            "audio": "Unterschreiben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Firmar",
+            "audio": "Firmar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подписать",
+            "audio": "Подписать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เซ็นชื่อ",
+            "audio": "เซ็นชื่อ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menandatangani",
+            "audio": "Menandatangani.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "簽名",
+            "audio": "簽名.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo251",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "決定",
+        "CN_ENG": {
+            "word": "Decide",
+            "audio": "Decide.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "決める",
+            "audio": "決める.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "결정하다",
+            "audio": "결정하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quyết định",
+            "audio": "Quyết_định.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "決定",
+            "audio": "決定.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Décider",
+            "audio": "Décider.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Entscheiden",
+            "audio": "Entscheiden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Decidir",
+            "audio": "Decidir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Решить",
+            "audio": "Решить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตัดสินใจ",
+            "audio": "ตัดสินใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memutuskan",
+            "audio": "Memutuskan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "決定",
+            "audio": "決定.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo252",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "考慮",
+        "CN_ENG": {
+            "word": "Consider",
+            "audio": "Consider.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "検討する",
+            "audio": "検討する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "고려하다",
+            "audio": "고려하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xem xét",
+            "audio": "Xem_xét.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "考慮",
+            "audio": "考慮.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Considérer",
+            "audio": "Considérer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "In Betracht ziehen",
+            "audio": "In_Betracht_ziehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Considerar",
+            "audio": "Considerar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рассматривать",
+            "audio": "Рассматривать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พิจารณา",
+            "audio": "พิจารณา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mempertimbangkan",
+            "audio": "Mempertimbangkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "考慮",
+            "audio": "考慮.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo253",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "猜測",
+        "CN_ENG": {
+            "word": "Guess",
+            "audio": "Guess.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "推測する",
+            "audio": "推測する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추측하다",
+            "audio": "추측하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đoán",
+            "audio": "Đoán.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "估/猜",
+            "audio": "估猜.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Deviner",
+            "audio": "Deviner.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Raten",
+            "audio": "Raten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Adivinar",
+            "audio": "Adivinar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Угадать",
+            "audio": "Угадать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดา",
+            "audio": "เดา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menebak",
+            "audio": "Menebak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "猜測",
+            "audio": "猜測.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo254",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "記得",
+        "CN_ENG": {
+            "word": "Remember",
+            "audio": "Remember.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "覚えている",
+            "audio": "覚えている.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기억하다",
+            "audio": "기억하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhớ",
+            "audio": "Nhớ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "記得",
+            "audio": "記得.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se souvenir",
+            "audio": "Se_souvenir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich erinnern",
+            "audio": "Sich_erinnern.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Recordar",
+            "audio": "Recordar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Помнить",
+            "audio": "Помнить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จำได้",
+            "audio": "จำได้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengingat",
+            "audio": "Mengingat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "記得",
+            "audio": "記得.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo255",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "忘記",
+        "CN_ENG": {
+            "word": "Forget",
+            "audio": "Forget.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "忘れる",
+            "audio": "忘れる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "잊다",
+            "audio": "잊다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quên",
+            "audio": "Quên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔記得",
+            "audio": "唔記得.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Oublier",
+            "audio": "Oublier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vergessen",
+            "audio": "Vergessen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Olvidar",
+            "audio": "Olvidar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Забыть",
+            "audio": "Забыть.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลืม",
+            "audio": "ลืม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Lupa",
+            "audio": "Lupa.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "忘記",
+            "audio": "忘記.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo256",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "提醒",
+        "CN_ENG": {
+            "word": "Remind",
+            "audio": "Remind.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "思い出させる",
+            "audio": "思い出させる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상기시키다",
+            "audio": "상기시키다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhắc nhở",
+            "audio": "Nhắc_nhở.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "提醒",
+            "audio": "提醒.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Rappeler",
+            "audio": "Rappeler.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Erinnern",
+            "audio": "Erinnern.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Recordar",
+            "audio": "Recordar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Напоминать",
+            "audio": "Напоминать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เตือน",
+            "audio": "เตือน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengingatkan",
+            "audio": "Mengingatkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "提醒",
+            "audio": "提醒.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo257",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "想像",
+        "CN_ENG": {
+            "word": "Imagine",
+            "audio": "Imagine.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "想像する",
+            "audio": "想像する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상상하다",
+            "audio": "상상하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tưởng tượng",
+            "audio": "Tưởng_tượng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "想像",
+            "audio": "想像.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Imaginer",
+            "audio": "Imaginer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vorstellen",
+            "audio": "Vorstellen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Imaginar",
+            "audio": "Imaginar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Воображать",
+            "audio": "Воображать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จินตนาการ",
+            "audio": "จินตนาการ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membayangkan",
+            "audio": "Membayangkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "想像",
+            "audio": "想像.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo258",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "相信",
+        "CN_ENG": {
+            "word": "Believe",
+            "audio": "Believe.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "信じる",
+            "audio": "信じる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "믿다",
+            "audio": "믿다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tin",
+            "audio": "Tin.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "信",
+            "audio": "信.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Croire",
+            "audio": "Croire.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Glauben",
+            "audio": "Glauben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Creer",
+            "audio": "Creer.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Верить",
+            "audio": "Верить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เชื่อ",
+            "audio": "เชื่อ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Percaya",
+            "audio": "Percaya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "相信",
+            "audio": "相信.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo259",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "懷疑",
+        "CN_ENG": {
+            "word": "Doubt",
+            "audio": "Doubt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "疑う",
+            "audio": "疑う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "의심하다",
+            "audio": "의심하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nghi ngờ",
+            "audio": "Nghi_ngờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "懷疑",
+            "audio": "懷疑.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Douter",
+            "audio": "Douter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zweifeln",
+            "audio": "Zweifeln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Dudar",
+            "audio": "Dudar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сомневаться",
+            "audio": "Сомневаться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สงสัย",
+            "audio": "สงสัย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Meragukan",
+            "audio": "Meragukan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "懷疑",
+            "audio": "懷疑.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo260",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "了解 (明白)",
+        "CN_ENG": {
+            "word": "Understand",
+            "audio": "Understand.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "理解する",
+            "audio": "理解する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이해하다",
+            "audio": "이해하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hiểu",
+            "audio": "Hiểu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "明白",
+            "audio": "明白.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comprendre",
+            "audio": "Comprendre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verstehen",
+            "audio": "Verstehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Entender",
+            "audio": "Entender.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Понимать",
+            "audio": "Понимать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เข้าใจ",
+            "audio": "เข้าใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengerti",
+            "audio": "Mengerti.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "了解 (明白)",
+            "audio": "了解.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo261",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "學習",
+        "CN_ENG": {
+            "word": "Learn",
+            "audio": "Learn.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "学ぶ",
+            "audio": "学ぶ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "배우다",
+            "audio": "배우다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Học",
+            "audio": "Học.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "學",
+            "audio": "學.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Apprendre",
+            "audio": "Apprendre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lernen",
+            "audio": "Lernen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aprender",
+            "audio": "Aprender.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Учить",
+            "audio": "Учить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เรียนรู้",
+            "audio": "เรียนรู้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Belajar",
+            "audio": "Belajar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "學習",
+            "audio": "學習.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo262",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "教導",
+        "CN_ENG": {
+            "word": "Teach",
+            "audio": "Teach.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "教える",
+            "audio": "教える.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가르치다",
+            "audio": "가르치다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dạy",
+            "audio": "Dạy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "教",
+            "audio": "教.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Enseigner",
+            "audio": "Enseigner.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lehren",
+            "audio": "Lehren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Enseñar",
+            "audio": "Enseñar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Учить (кого-то)",
+            "audio": "Учить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สอน",
+            "audio": "สอน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengajar",
+            "audio": "Mengajar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "教導",
+            "audio": "教導.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo263",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "分析",
+        "CN_ENG": {
+            "word": "Analyze",
+            "audio": "Analyze.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "分析する",
+            "audio": "分析する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "분석하다",
+            "audio": "분석하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phân tích",
+            "audio": "Phân_tích.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "分析",
+            "audio": "分析.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Analyser",
+            "audio": "Analyser.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Analysieren",
+            "audio": "Analysieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Analizar",
+            "audio": "Analizar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Анализировать",
+            "audio": "Анализировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วิเคราะห์",
+            "audio": "วิเคราะห์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menganalisis",
+            "audio": "Menganalisis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "分析",
+            "audio": "分析.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo264",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "比較",
+        "CN_ENG": {
+            "word": "Compare",
+            "audio": "Compare.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "比較する",
+            "audio": "比較する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비교하다",
+            "audio": "비교하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "So sánh",
+            "audio": "So_sánh.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "比較",
+            "audio": "比較.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comparer",
+            "audio": "Comparer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vergleichen",
+            "audio": "Vergleichen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Comparar",
+            "audio": "Comparar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сравнивать",
+            "audio": "Сравнивать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เปรียบเทียบ",
+            "audio": "เปรียบเทียบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membandingkan",
+            "audio": "Membandingkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "比較",
+            "audio": "比較.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo265",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "選擇",
+        "CN_ENG": {
+            "word": "Choose",
+            "audio": "Choose.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "選ぶ",
+            "audio": "選ぶ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "선택하다",
+            "audio": "선택하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chọn",
+            "audio": "Chọn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "揀",
+            "audio": "揀.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Choisir",
+            "audio": "Choisir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wählen",
+            "audio": "Wählen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Elegir",
+            "audio": "Elegir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Выбирать",
+            "audio": "Выбирать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เลือก",
+            "audio": "เลือก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memilih",
+            "audio": "Memilih.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "選擇",
+            "audio": "選擇.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo266",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "計劃",
+        "CN_ENG": {
+            "word": "Plan",
+            "audio": "Plan.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "計画する",
+            "audio": "計画する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "계획하다",
+            "audio": "계획하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lên kế hoạch",
+            "audio": "Lên_kế_hoạch.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "計劃",
+            "audio": "計劃.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Planifier",
+            "audio": "Planifier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Planen",
+            "audio": "Planen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Planear",
+            "audio": "Planear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Планировать",
+            "audio": "Планировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วางแผน",
+            "audio": "วางแผน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Merencanakan",
+            "audio": "Merencanakan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "計劃",
+            "audio": "計劃.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo267",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "組織",
+        "CN_ENG": {
+            "word": "Organize",
+            "audio": "Organize.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "組織する",
+            "audio": "組織する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조직하다",
+            "audio": "조직하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tổ chức",
+            "audio": "Tổ_chức.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "組織",
+            "audio": "組織.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Organiser",
+            "audio": "Organiser.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Organisieren",
+            "audio": "Organisieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Organizar",
+            "audio": "Organizar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Организовать",
+            "audio": "Организовать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จัดระเบียบ",
+            "audio": "จัดระเบียบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengorganisir",
+            "audio": "Mengorganisir.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "組織",
+            "audio": "組織.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo268",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "發明",
+        "CN_ENG": {
+            "word": "Invent",
+            "audio": "Invent.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "発明する",
+            "audio": "発明する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "발명하다",
+            "audio": "발명하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phát minh",
+            "audio": "Phát_minh.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "發明",
+            "audio": "發明.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Inventer",
+            "audio": "Inventer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Erfinden",
+            "audio": "Erfinden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Inventar",
+            "audio": "Inventar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Изобретать",
+            "audio": "Изобретать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ประดิษฐ์",
+            "audio": "ประดิษฐ์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menemukan (cipta)",
+            "audio": "Menemukan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "發明",
+            "audio": "發明.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo269",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "發現",
+        "CN_ENG": {
+            "word": "Discover",
+            "audio": "Discover.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "発見する",
+            "audio": "発見する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "발견하다",
+            "audio": "발견하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khám phá",
+            "audio": "Khám_phá.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "發現",
+            "audio": "發現.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Découvrir",
+            "audio": "Découvrir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Entdecken",
+            "audio": "Entdecken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Descubrir",
+            "audio": "Descubrir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обнаруживать",
+            "audio": "Обнаруживать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ค้นพบ",
+            "audio": "ค้นพบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menemukan",
+            "audio": "Menemukan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "發現",
+            "audio": "發現.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo270",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 思考與決定",
+        "cn": "解決",
+        "CN_ENG": {
+            "word": "Resolve / Solve",
+            "audio": "Resolve__Solve.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "解決する",
+            "audio": "解決する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "해결하다",
+            "audio": "해결하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giải quyết",
+            "audio": "Giải_quyết.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "解決",
+            "audio": "解決.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Résoudre",
+            "audio": "Résoudre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lösen",
+            "audio": "Lösen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Resolver",
+            "audio": "Resolver.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Решать",
+            "audio": "Решать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แก้ไข",
+            "audio": "แก้ไข.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyelesaikan",
+            "audio": "Menyelesaikan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "解決",
+            "audio": "解決.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo271",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "跑步",
+        "CN_ENG": {
+            "word": "Run",
+            "audio": "Run.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "走る",
+            "audio": "走る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "달리다",
+            "audio": "달리다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chạy",
+            "audio": "Chạy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "跑步",
+            "audio": "跑步.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Courir",
+            "audio": "Courir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Rennen",
+            "audio": "Rennen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Correr",
+            "audio": "Correr.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Бежать",
+            "audio": "Бежать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วิ่ง",
+            "audio": "วิ่ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berlari",
+            "audio": "Berlari.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "跑步",
+            "audio": "跑步.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo272",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "跳",
+        "CN_ENG": {
+            "word": "Jump",
+            "audio": "Jump.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ジャンプする",
+            "audio": "ジャンプする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "점프하다",
+            "audio": "점프하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhảy",
+            "audio": "Nhảy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "跳",
+            "audio": "跳.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sauter",
+            "audio": "Sauter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Springen",
+            "audio": "Springen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Saltar",
+            "audio": "Saltar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Прыгать",
+            "audio": "Прыгать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระโดด",
+            "audio": "กระโดด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melompat",
+            "audio": "Melompat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "跳",
+            "audio": "跳.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo273",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "坐下",
+        "CN_ENG": {
+            "word": "Sit down",
+            "audio": "Sit_down.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "座る",
+            "audio": "座る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "앉다",
+            "audio": "앉다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngồi xuống",
+            "audio": "Ngồi_xuống.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "坐低",
+            "audio": "坐低.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'asseoir",
+            "audio": "S'asseoir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hinsetzen",
+            "audio": "Hinsetzen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sentarse",
+            "audio": "Sentarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Садиться",
+            "audio": "Садиться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นั่งลง",
+            "audio": "นั่งลง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Duduk",
+            "audio": "Duduk.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "坐下",
+            "audio": "坐下.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo274",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "站起來",
+        "CN_ENG": {
+            "word": "Stand up",
+            "audio": "Stand_up.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "立つ",
+            "audio": "立つ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "일어서다",
+            "audio": "일어서다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đứng lên",
+            "audio": "Đứng_lên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "起身",
+            "audio": "起身.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se lever",
+            "audio": "Se_lever.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Aufstehen",
+            "audio": "Aufstehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Levantarse",
+            "audio": "Levantarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вставать",
+            "audio": "Вставать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยืนขึ้น",
+            "audio": "ยืนขึ้น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berdiri",
+            "audio": "Berdiri.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "站起來",
+            "audio": "站起來.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo275",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "躺下",
+        "CN_ENG": {
+            "word": "Lie down",
+            "audio": "Lie_down.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "横になる",
+            "audio": "横になる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "눕다",
+            "audio": "눕다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nằm xuống",
+            "audio": "Nằm_xuống.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "瞓低",
+            "audio": "瞓低.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'allonger",
+            "audio": "S'allonger.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hinlegen",
+            "audio": "Hinlegen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tumbarse",
+            "audio": "Tumbarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ложиться",
+            "audio": "Ложиться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นอนลง",
+            "audio": "นอนลง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berbaring",
+            "audio": "Berbaring.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "躺下",
+            "audio": "躺下.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo276",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "走路",
+        "CN_ENG": {
+            "word": "Walk",
+            "audio": "Walk.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "歩く",
+            "audio": "歩く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "걷다",
+            "audio": "걷다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đi bộ",
+            "audio": "Đi_bộ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "行路",
+            "audio": "行路.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Marcher",
+            "audio": "Marcher.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gehen",
+            "audio": "Gehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Caminar",
+            "audio": "Caminar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Идти",
+            "audio": "Идти.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดิน",
+            "audio": "เดิน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berjalan",
+            "audio": "Berjalan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "走路",
+            "audio": "走路.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo277",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "爬",
+        "CN_ENG": {
+            "word": "Climb / Crawl",
+            "audio": "Climb__Crawl.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "登る / 這う",
+            "audio": "登る__這う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오르다 / 기어가다",
+            "audio": "오르다__기어가다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Leo / Bò",
+            "audio": "Leo__Bò.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "爬",
+            "audio": "爬.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Grimper / Ramper",
+            "audio": "Grimper__Ramper.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Klettern / Krabbeln",
+            "audio": "Klettern__Krabbeln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Trepar / Gatear",
+            "audio": "Trepar__Gatear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ползти",
+            "audio": "Ползти.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปีน / คลาน",
+            "audio": "ปีน__คลาน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memanjat / Merangkak",
+            "audio": "Memanjat__Merangkak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "爬",
+            "audio": "爬.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo278",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "推",
+        "CN_ENG": {
+            "word": "Push",
+            "audio": "Push.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "押す",
+            "audio": "押す.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "밀다",
+            "audio": "밀다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đẩy",
+            "audio": "Đẩy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "推",
+            "audio": "推.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pousser",
+            "audio": "Pousser.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Drücken",
+            "audio": "Drücken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Empujar",
+            "audio": "Empujar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Толкать",
+            "audio": "Толкать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ผลัก",
+            "audio": "ผลัก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mendorong",
+            "audio": "Mendorong.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "推",
+            "audio": "推.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo279",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "拉",
+        "CN_ENG": {
+            "word": "Pull",
+            "audio": "Pull.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "引く",
+            "audio": "引く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당기다",
+            "audio": "당기다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kéo",
+            "audio": "Kéo.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "拉",
+            "audio": "拉.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tirer",
+            "audio": "Tirer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ziehen",
+            "audio": "Ziehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tirar",
+            "audio": "Tirar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Тянуть",
+            "audio": "Тянуть.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดึง",
+            "audio": "ดึง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menarik",
+            "audio": "Menarik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拉",
+            "audio": "拉.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo280",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "舉起",
+        "CN_ENG": {
+            "word": "Lift",
+            "audio": "Lift.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "持ち上げる",
+            "audio": "持ち上げる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "들어 올리다",
+            "audio": "들어_올리다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nâng",
+            "audio": "Nâng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "舉起",
+            "audio": "舉起.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Soulever",
+            "audio": "Soulever.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Heben",
+            "audio": "Heben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Levantar",
+            "audio": "Levantar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Поднимать",
+            "audio": "Поднимать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยก",
+            "audio": "ยก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengangkat",
+            "audio": "Mengangkat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "舉起",
+            "audio": "舉起.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo281",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "丟 (扔)",
+        "CN_ENG": {
+            "word": "Throw",
+            "audio": "Throw.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "投げる",
+            "audio": "投げる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "던지다",
+            "audio": "던지다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ném",
+            "audio": "Ném.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "揼/扔",
+            "audio": "揼扔.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Jeter",
+            "audio": "Jeter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Werfen",
+            "audio": "Werfen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tirar",
+            "audio": "Tirar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Бросать",
+            "audio": "Бросать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขว้าง",
+            "audio": "ขว้าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melempar",
+            "audio": "Melempar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "丟 (扔)",
+            "audio": "丟.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo282",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "接住",
+        "CN_ENG": {
+            "word": "Catch",
+            "audio": "Catch.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "捕まえる",
+            "audio": "捕まえる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "잡다",
+            "audio": "잡다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bắt",
+            "audio": "Bắt.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "接住",
+            "audio": "接住.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Attraper",
+            "audio": "Attraper.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Fangen",
+            "audio": "Fangen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Atrapar",
+            "audio": "Atrapar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ловить",
+            "audio": "Ловить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รับ",
+            "audio": "รับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menangkap",
+            "audio": "Menangkap.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "接住",
+            "audio": "接住.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo283",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "踢",
+        "CN_ENG": {
+            "word": "Kick",
+            "audio": "Kick.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "蹴る",
+            "audio": "蹴る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "차다",
+            "audio": "차다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đá",
+            "audio": "Đá.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "踢",
+            "audio": "踢.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donner un coup de pied",
+            "audio": "Donner_un_coup_de_pied.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Treten",
+            "audio": "Treten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Patear",
+            "audio": "Patear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пинать",
+            "audio": "Пинать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เตะ",
+            "audio": "เตะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menendang",
+            "audio": "Menendang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "踢",
+            "audio": "踢.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo284",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "打 (擊)",
+        "CN_ENG": {
+            "word": "Hit",
+            "audio": "Hit.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "打つ",
+            "audio": "打つ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "때리다",
+            "audio": "때리다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đánh",
+            "audio": "Đánh.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "打",
+            "audio": "打.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Frapper",
+            "audio": "Frapper.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schlagen",
+            "audio": "Schlagen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Golpear",
+            "audio": "Golpear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ударить",
+            "audio": "Ударить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตี",
+            "audio": "ตี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memukul",
+            "audio": "Memukul.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "打 (擊)",
+            "audio": "打.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo285",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "拍手",
+        "CN_ENG": {
+            "word": "Clap",
+            "audio": "Clap.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "拍手する",
+            "audio": "拍手する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "박수치다",
+            "audio": "박수치다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vỗ tay",
+            "audio": "Vỗ_tay.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "拍手",
+            "audio": "拍手.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Applaudir",
+            "audio": "Applaudir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Klatschen",
+            "audio": "Klatschen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aplaudir",
+            "audio": "Aplaudir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хлопать",
+            "audio": "Хлопать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปรบมือ",
+            "audio": "ปรบมือ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tepuk tangan",
+            "audio": "Tepuk_tangan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拍手",
+            "audio": "拍手.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo286",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "點頭",
+        "CN_ENG": {
+            "word": "Nod",
+            "audio": "Nod.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "頷く",
+            "audio": "頷く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "끄덕이다",
+            "audio": "끄덕이다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gật đầu",
+            "audio": "Gật_đầu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "點頭",
+            "audio": "點頭.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Hocher la tête",
+            "audio": "Hocher_la_tête.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nicken",
+            "audio": "Nicken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Asentir",
+            "audio": "Asentir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кивать",
+            "audio": "Кивать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พยักหน้า",
+            "audio": "พยักหน้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengangguk",
+            "audio": "Mengangguk.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "點頭",
+            "audio": "點頭.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo287",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "搖頭",
+        "CN_ENG": {
+            "word": "Shake head",
+            "audio": "Shake_head.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "首を横に振る",
+            "audio": "首を横に振る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "고개를 젓다",
+            "audio": "고개를_젓다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lắc đầu",
+            "audio": "Lắc_đầu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "搖頭",
+            "audio": "搖頭.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Secouer la tête",
+            "audio": "Secouer_la_tête.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Den Kopf schütteln",
+            "audio": "Den_Kopf_schütteln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Negar con la cabeza",
+            "audio": "Negar_con_la_cabeza.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Качать головой",
+            "audio": "Качать_головой.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ส่ายหน้า",
+            "audio": "ส่ายหน้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menggeleng",
+            "audio": "Menggeleng.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "搖頭",
+            "audio": "搖頭.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo288",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "微笑",
+        "CN_ENG": {
+            "word": "Smile",
+            "audio": "Smile.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "微笑む",
+            "audio": "微笑む.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "미소 짓다",
+            "audio": "미소_짓다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mỉm cười",
+            "audio": "Mỉm_cười.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "微笑",
+            "audio": "微笑.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sourire",
+            "audio": "Sourire.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lächeln",
+            "audio": "Lächeln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sonreír",
+            "audio": "Sonreír.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Улыбаться",
+            "audio": "Улыбаться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยิ้ม",
+            "audio": "ยิ้ม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tersenyum",
+            "audio": "Tersenyum.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "微笑",
+            "audio": "微笑.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo289",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "大笑",
+        "CN_ENG": {
+            "word": "Laugh",
+            "audio": "Laugh.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "笑う",
+            "audio": "笑う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "웃다",
+            "audio": "웃다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cười lớn",
+            "audio": "Cười_lớn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "大笑",
+            "audio": "大笑.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Rire",
+            "audio": "Rire.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lachen",
+            "audio": "Lachen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Reír",
+            "audio": "Reír.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Смеяться",
+            "audio": "Смеяться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หัวเราะ",
+            "audio": "หัวเราะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tertawa",
+            "audio": "Tertawa.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "大笑",
+            "audio": "大笑.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo290",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "哭",
+        "CN_ENG": {
+            "word": "Cry",
+            "audio": "Cry.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "泣く",
+            "audio": "泣く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "울다",
+            "audio": "울다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khóc",
+            "audio": "Khóc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "喊",
+            "audio": "喊.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pleurer",
+            "audio": "Pleurer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Weinen",
+            "audio": "Weinen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Llorar",
+            "audio": "Llorar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Плакать",
+            "audio": "Плакать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ร้องไห้",
+            "audio": "ร้องไห้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menangis",
+            "audio": "Menangis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "哭",
+            "audio": "哭.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo291",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "喊叫",
+        "CN_ENG": {
+            "word": "Shout",
+            "audio": "Shout.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "叫ぶ",
+            "audio": "叫ぶ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "소리치다",
+            "audio": "소리치다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hét",
+            "audio": "Hét.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "嗌",
+            "audio": "嗌.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Crier",
+            "audio": "Crier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schreien",
+            "audio": "Schreien.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gritar",
+            "audio": "Gritar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кричать",
+            "audio": "Кричать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตะโกน",
+            "audio": "ตะโกน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berteriak",
+            "audio": "Berteriak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "喊叫",
+            "audio": "喊叫.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo292",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "低語 (竊竊私語)",
+        "CN_ENG": {
+            "word": "Whisper",
+            "audio": "Whisper.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "囁く",
+            "audio": "囁く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "속삭이다",
+            "audio": "속삭이다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thì thầm",
+            "audio": "Thì_thầm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "講耳語",
+            "audio": "講耳語.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Chuchoter",
+            "audio": "Chuchoter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Flüstern",
+            "audio": "Flüstern.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Susurrar",
+            "audio": "Susurrar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Шептать",
+            "audio": "Шептать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระซิบ",
+            "audio": "กระซิบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berbisik",
+            "audio": "Berbisik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "低語 (竊竊私語)",
+            "audio": "低語.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo293",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "呼吸",
+        "CN_ENG": {
+            "word": "Breathe",
+            "audio": "Breathe.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "呼吸する",
+            "audio": "呼吸する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "숨쉬다",
+            "audio": "숨쉬다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thở",
+            "audio": "Thở.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呼吸",
+            "audio": "呼吸.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Respirer",
+            "audio": "Respirer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Atmen",
+            "audio": "Atmen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Respirar",
+            "audio": "Respirar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Дышать",
+            "audio": "Дышать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หายใจ",
+            "audio": "หายใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bernapas",
+            "audio": "Bernapas.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "呼吸",
+            "audio": "呼吸.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo294",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "咳嗽",
+        "CN_ENG": {
+            "word": "Cough",
+            "audio": "Cough.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "咳をする",
+            "audio": "咳をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기침하다",
+            "audio": "기침하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ho",
+            "audio": "Ho.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "咳",
+            "audio": "咳.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tousser",
+            "audio": "Tousser.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Husten",
+            "audio": "Husten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Toser",
+            "audio": "Toser.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кашлять",
+            "audio": "Кашлять.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไอ",
+            "audio": "ไอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Batuk",
+            "audio": "Batuk.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "咳嗽",
+            "audio": "咳嗽.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo295",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "打噴嚏",
+        "CN_ENG": {
+            "word": "Sneeze",
+            "audio": "Sneeze.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "くしゃみをする",
+            "audio": "くしゃみをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "재채기하다",
+            "audio": "재채기하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hắt hơi",
+            "audio": "Hắt_hơi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "打乞嚏",
+            "audio": "打乞嚏.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Éternuer",
+            "audio": "Éternuer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Niesen",
+            "audio": "Niesen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estornudar",
+            "audio": "Estornudar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Чихать",
+            "audio": "Чихать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จาม",
+            "audio": "จาม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bersin",
+            "audio": "Bersin.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "打噴嚏",
+            "audio": "打噴嚏.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo296",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "吞嚥",
+        "CN_ENG": {
+            "word": "Swallow",
+            "audio": "Swallow.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "飲み込む",
+            "audio": "飲み込む.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "삼키다",
+            "audio": "삼키다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nuốt",
+            "audio": "Nuốt.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "吞",
+            "audio": "吞.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avaler",
+            "audio": "Avaler.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schlucken",
+            "audio": "Schlucken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tragar",
+            "audio": "Tragar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Глотать",
+            "audio": "Глотать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กลืน",
+            "audio": "กลืน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menelan",
+            "audio": "Menelan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "吞嚥",
+            "audio": "吞嚥.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo297",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "咬",
+        "CN_ENG": {
+            "word": "Bite",
+            "audio": "Bite.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "噛む",
+            "audio": "噛む.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "물다",
+            "audio": "물다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cắn",
+            "audio": "Cắn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "咬",
+            "audio": "咬.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mordre",
+            "audio": "Mordre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Beißen",
+            "audio": "Beißen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Morder",
+            "audio": "Morder.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кусать",
+            "audio": "Кусать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กัด",
+            "audio": "กัด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengigit",
+            "audio": "Mengigit.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "咬",
+            "audio": "咬.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo298",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "咀嚼",
+        "CN_ENG": {
+            "word": "Chew",
+            "audio": "Chew.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "噛む",
+            "audio": "噛む.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "씹다",
+            "audio": "씹다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhai",
+            "audio": "Nhai.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "𡁻",
+            "audio": "𡁻.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mâcher",
+            "audio": "Mâcher.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kauen",
+            "audio": "Kauen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Masticar",
+            "audio": "Masticar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Жевать",
+            "audio": "Жевать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เคี้ยว",
+            "audio": "เคี้ยว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengunyah",
+            "audio": "Mengunyah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "咀嚼",
+            "audio": "咀嚼.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo299",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "聞",
+        "CN_ENG": {
+            "word": "Smell",
+            "audio": "Smell.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "匂いを嗅ぐ",
+            "audio": "匂いを嗅ぐ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "냄새 맡다",
+            "audio": "냄새_맡다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngửi",
+            "audio": "Ngửi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "聞",
+            "audio": "聞.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sentir",
+            "audio": "Sentir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Riechen",
+            "audio": "Riechen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Oler",
+            "audio": "Oler.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нюхать",
+            "audio": "Нюхать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดม",
+            "audio": "ดม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencium (bau)",
+            "audio": "Mencium.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "聞",
+            "audio": "聞.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo300",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏃 身體動作",
+        "cn": "觸摸",
+        "CN_ENG": {
+            "word": "Touch",
+            "audio": "Touch.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "触る",
+            "audio": "触る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "만지다",
+            "audio": "만지다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chạm",
+            "audio": "Chạm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "摸",
+            "audio": "摸.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Toucher",
+            "audio": "Toucher.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Berühren",
+            "audio": "Berühren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tocar",
+            "audio": "Tocar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Трогать",
+            "audio": "Трогать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สัมผัส",
+            "audio": "สัมผัส.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyentuh",
+            "audio": "Menyentuh.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "觸摸",
+            "audio": "觸摸.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo301",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "種樹",
+        "CN_ENG": {
+            "word": "Plant a tree",
+            "audio": "Plant_a_tree.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "木を植える",
+            "audio": "木を植える.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "나무를 심다",
+            "audio": "나무를_심다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trồng cây",
+            "audio": "Trồng_cây.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "種樹",
+            "audio": "種樹.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Planter un arbre",
+            "audio": "Planter_un_arbre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Baum pflanzen",
+            "audio": "Einen_Baum_pflanzen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Plantar un árbol",
+            "audio": "Plantar_un_árbol.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сажать дерево",
+            "audio": "Сажать_дерево.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปลูกต้นไม้",
+            "audio": "ปลูกต้นไม้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menanam pohon",
+            "audio": "Menanam_pohon.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "種樹",
+            "audio": "種樹.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo302",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "摘花",
+        "CN_ENG": {
+            "word": "Pick flowers",
+            "audio": "Pick_flowers.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "花を摘む",
+            "audio": "花を摘む.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "꽃을 꺾다",
+            "audio": "꽃을_꺾다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hái hoa",
+            "audio": "Hái_hoa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "摘花",
+            "audio": "摘花.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cueillir des fleurs",
+            "audio": "Cueillir_des_fleurs.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Blumen pflücken",
+            "audio": "Blumen_pflücken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Recoger flores",
+            "audio": "Recoger_flores.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рвать цветы",
+            "audio": "Рвать_цветы.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เด็ดดอกไม้",
+            "audio": "เด็ดดอกไม้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memetik bunga",
+            "audio": "Memetik_bunga.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "摘花",
+            "audio": "摘花.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo303",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "釣魚",
+        "CN_ENG": {
+            "word": "Catch fish",
+            "audio": "Catch_fish.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "魚を釣る",
+            "audio": "魚を釣る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "물고기를 잡다",
+            "audio": "물고기를_잡다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bắt cá",
+            "audio": "Bắt_cá.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "捉魚",
+            "audio": "捉魚.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Attraper du poisson",
+            "audio": "Attraper_du_poisson.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Fische fangen",
+            "audio": "Fische_fangen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pescar",
+            "audio": "Pescar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ловить рыбу",
+            "audio": "Ловить_рыбу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จับปลา",
+            "audio": "จับปลา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menangkap ikan",
+            "audio": "Menangkap_ikan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "釣魚",
+            "audio": "釣魚.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo304",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "爬樹",
+        "CN_ENG": {
+            "word": "Climb a tree",
+            "audio": "Climb_a_tree.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "木に登る",
+            "audio": "木に登る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "나무에 오르다",
+            "audio": "나무에_오르다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Leo cây",
+            "audio": "Leo_cây.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "爬樹",
+            "audio": "爬樹.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Grimper à un arbre",
+            "audio": "Grimper_à_un_arbre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Auf einen Baum klettern",
+            "audio": "Auf_einen_Baum_klettern.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Trepar un árbol",
+            "audio": "Trepar_un_árbol.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Лазить по деревьям",
+            "audio": "Лазить_по_деревьям.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปีนต้นไม้",
+            "audio": "ปีนต้นไม้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memanjat pohon",
+            "audio": "Memanjat_pohon.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "爬樹",
+            "audio": "爬樹.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo305",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "露營",
+        "CN_ENG": {
+            "word": "Go camping",
+            "audio": "Go_camping.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "キャンプに行く",
+            "audio": "キャンプに行く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "캠핑하다",
+            "audio": "캠핑하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cắm trại",
+            "audio": "Cắm_trại.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "去露營",
+            "audio": "去露營.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire du camping",
+            "audio": "Faire_du_camping.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Campen gehen",
+            "audio": "Campen_gehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ir de camping",
+            "audio": "Ir_de_camping.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Идти в поход",
+            "audio": "Идти_в_поход.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตั้งแคมป์",
+            "audio": "ตั้งแคมป์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berkemah",
+            "audio": "Berkemah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "露營",
+            "audio": "露營.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo306",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "生火",
+        "CN_ENG": {
+            "word": "Build a fire",
+            "audio": "Build_a_fire.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "火を起こす",
+            "audio": "火を起こす.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "불을 피우다",
+            "audio": "불을_피우다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhóm lửa",
+            "audio": "Nhóm_lửa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "生火",
+            "audio": "生火.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire du feu",
+            "audio": "Faire_du_feu.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Feuer machen",
+            "audio": "Ein_Feuer_machen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacer fuego",
+            "audio": "Hacer_fuego.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Разжечь огонь",
+            "audio": "Разжечь_огонь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ก่อไฟ",
+            "audio": "ก่อไฟ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membuat api",
+            "audio": "Membuat_api.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "生火",
+            "audio": "生火.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo307",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "滅火",
+        "CN_ENG": {
+            "word": "Extinguish a fire",
+            "audio": "Extinguish_a_fire.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "火を消す",
+            "audio": "火を消す.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "불을 끄다",
+            "audio": "불을_끄다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dập lửa",
+            "audio": "Dập_lửa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "救火",
+            "audio": "救火.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Éteindre un feu",
+            "audio": "Éteindre_un_feu.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Feuer löschen",
+            "audio": "Ein_Feuer_löschen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Apagar un fuego",
+            "audio": "Apagar_un_fuego.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Тушить огонь",
+            "audio": "Тушить_огонь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดับไฟ",
+            "audio": "ดับไฟ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memadamkan api",
+            "audio": "Memadamkan_api.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "滅火",
+            "audio": "滅火.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo308",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "看星星",
+        "CN_ENG": {
+            "word": "Watch the stars",
+            "audio": "Watch_the_stars.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "星を見る",
+            "audio": "星を見る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "별을 보다",
+            "audio": "별을_보다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngắm sao",
+            "audio": "Ngắm_sao.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "睇星星",
+            "audio": "睇星星.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Regarder les étoiles",
+            "audio": "Regarder_les_étoiles.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sterne beobachten",
+            "audio": "Sterne_beobachten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Mirar las estrellas",
+            "audio": "Mirar_las_estrellas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Смотреть на звезды",
+            "audio": "Смотреть_на_звезды.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดูดาว",
+            "audio": "ดูดาว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melihat bintang",
+            "audio": "Melihat_bintang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "看星星",
+            "audio": "看星星.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo309",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "曬太陽",
+        "CN_ENG": {
+            "word": "Sunbathe",
+            "audio": "Sunbathe.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "日光浴をする",
+            "audio": "日光浴をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "일광욕하다",
+            "audio": "일광욕하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tắm nắng",
+            "audio": "Tắm_nắng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "曬太陽",
+            "audio": "曬太陽.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bronzer",
+            "audio": "Bronzer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich sonnen",
+            "audio": "Sich_sonnen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tomar el sol",
+            "audio": "Tomar_el_sol.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Загорать",
+            "audio": "Загорать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาบแดด",
+            "audio": "อาบแดด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berjemur",
+            "audio": "Berjemur.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "曬太陽",
+            "audio": "曬太陽.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo310",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🌿 自然與環境",
+        "cn": "躲雨",
+        "CN_ENG": {
+            "word": "Shelter from rain",
+            "audio": "Shelter_from_rain.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "雨宿りする",
+            "audio": "雨宿りする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비를 피하다",
+            "audio": "비를_피하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trú mưa",
+            "audio": "Trú_mưa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "避雨",
+            "audio": "避雨.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'abriter de la pluie",
+            "audio": "S'abriter_de_la_pluie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich vor Regen schützen",
+            "audio": "Sich_vor_Regen_schützen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Refugiarse de la lluvia",
+            "audio": "Refugiarse_de_la_lluvia.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Укрыться от дождя",
+            "audio": "Укрыться_от_дождя.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หลบฝน",
+            "audio": "หลบฝน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berteduh dari hujan",
+            "audio": "Berteduh_dari_hujan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "躲雨",
+            "audio": "躲雨.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo311",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "刷油漆",
+        "CN_ENG": {
+            "word": "Paint (a wall)",
+            "audio": "Paint.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ペンキを塗る",
+            "audio": "ペンキを塗る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "페인트를 칠하다",
+            "audio": "페인트를_칠하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sơn (tường)",
+            "audio": "Sơn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "油油",
+            "audio": "油油.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Peindre",
+            "audio": "Peindre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Streichen",
+            "audio": "Streichen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pintar",
+            "audio": "Pintar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Красить",
+            "audio": "Красить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทาสี",
+            "audio": "ทาสี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengecat",
+            "audio": "Mengecat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "刷油漆",
+            "audio": "刷油漆.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo312",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "釘釘子",
+        "CN_ENG": {
+            "word": "Hammer a nail",
+            "audio": "Hammer_a_nail.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "釘を打つ",
+            "audio": "釘を打つ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "못을 박다",
+            "audio": "못을_박다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đóng đinh",
+            "audio": "Đóng_đinh.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "揼釘",
+            "audio": "揼釘.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Planter un clou",
+            "audio": "Planter_un_clou.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Nagel einschlagen",
+            "audio": "Einen_Nagel_einschlagen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Clavar un clavo",
+            "audio": "Clavar_un_clavo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Забивать гвоздь",
+            "audio": "Забивать_гвоздь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอกตะปู",
+            "audio": "ตอกตะปู.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memalu paku",
+            "audio": "Memalu_paku.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "釘釘子",
+            "audio": "釘釘子.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo313",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "鑽孔",
+        "CN_ENG": {
+            "word": "Drill a hole",
+            "audio": "Drill_a_hole.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "穴を開ける",
+            "audio": "穴を開ける.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "구멍을 뚫다",
+            "audio": "구멍을_뚫다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khoan lỗ",
+            "audio": "Khoan_lỗ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "鑽窿",
+            "audio": "鑽窿.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Percer un trou",
+            "audio": "Percer_un_trou.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Loch bohren",
+            "audio": "Ein_Loch_bohren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Taladrar un agujero",
+            "audio": "Taladrar_un_agujero.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сверлить дырку",
+            "audio": "Сверлить_дырку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เจาะรู",
+            "audio": "เจาะรู.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengebor lubang",
+            "audio": "Mengebor_lubang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "鑽孔",
+            "audio": "鑽孔.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo314",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "轉螺絲",
+        "CN_ENG": {
+            "word": "Turn a screw",
+            "audio": "Turn_a_screw.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ネジを回す",
+            "audio": "ネジを回す.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "나사를 돌리다",
+            "audio": "나사를_돌리다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vặn ốc",
+            "audio": "Vặn_ốc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "扭螺絲",
+            "audio": "扭螺絲.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tourner une vis",
+            "audio": "Tourner_une_vis.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Eine Schraube drehen",
+            "audio": "Eine_Schraube_drehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Girar un tornillo",
+            "audio": "Girar_un_tornillo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Крутить винт",
+            "audio": "Крутить_винт.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขันสกรู",
+            "audio": "ขันสกรู.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memutar sekrup",
+            "audio": "Memutar_sekrup.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "轉螺絲",
+            "audio": "轉螺絲.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo315",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "測量長度",
+        "CN_ENG": {
+            "word": "Measure length",
+            "audio": "Measure_length.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "長さを測る",
+            "audio": "長さを測る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "길이를 재다",
+            "audio": "길이를_재다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đo chiều dài",
+            "audio": "Đo_chiều_dài.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "度長度",
+            "audio": "度長度.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mesurer la longueur",
+            "audio": "Mesurer_la_longueur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Länge messen",
+            "audio": "Länge_messen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Medir la longitud",
+            "audio": "Medir_la_longitud.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Измерять длину",
+            "audio": "Измерять_длину.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วัดความยาว",
+            "audio": "วัดความยาว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengukur panjang",
+            "audio": "Mengukur_panjang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "測量長度",
+            "audio": "測量長度.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo316",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "鋸木頭",
+        "CN_ENG": {
+            "word": "Saw wood",
+            "audio": "Saw_wood.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "木を切る",
+            "audio": "木を切る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "나무를 톱질하다",
+            "audio": "나무를_톱질하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cưa gỗ",
+            "audio": "Cưa_gỗ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "鋸木",
+            "audio": "鋸木.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Scier du bois",
+            "audio": "Scier_du_bois.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Holz sägen",
+            "audio": "Holz_sägen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Serrar madera",
+            "audio": "Serrar_madera.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пилить дерево",
+            "audio": "Пилить_дерево.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เลื่อยไม้",
+            "audio": "เลื่อยไม้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menggergaji kayu",
+            "audio": "Menggergaji_kayu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "鋸木頭",
+            "audio": "鋸木頭.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo317",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "貼壁紙",
+        "CN_ENG": {
+            "word": "Put up wallpaper",
+            "audio": "Put_up_wallpaper.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "壁紙を貼る",
+            "audio": "壁紙を貼る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "벽지를 바르다",
+            "audio": "벽지를_바르다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dán giấy tường",
+            "audio": "Dán_giấy_tường.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "貼牆紙",
+            "audio": "貼牆紙.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Poser du papier peint",
+            "audio": "Poser_du_papier_peint.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tapezieren",
+            "audio": "Tapezieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Empapelar",
+            "audio": "Empapelar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Kleit oboi",
+            "audio": "Kleit_oboi.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ติดวอลเปเปอร์",
+            "audio": "ติดวอลเปเปอร์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memasang wallpaper",
+            "audio": "Memasang_wallpaper.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "貼壁紙",
+            "audio": "貼壁紙.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo318",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "鋪地毯",
+        "CN_ENG": {
+            "word": "Lay carpet",
+            "audio": "Lay_carpet.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "カーペットを敷く",
+            "audio": "カーペットを敷く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "카펫을 깔다",
+            "audio": "카펫을_깔다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trải thảm",
+            "audio": "Trải_thảm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "鋪地氈",
+            "audio": "鋪地氈.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Poser de la moquette",
+            "audio": "Poser_de_la_moquette.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Teppich verlegen",
+            "audio": "Teppich_verlegen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Poner alfombra",
+            "audio": "Poner_alfombra.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Класть ковер",
+            "audio": "Класть_ковер.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปูพรม",
+            "audio": "ปูพรม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memasang karpet",
+            "audio": "Memasang_karpet.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "鋪地毯",
+            "audio": "鋪地毯.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo319",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "組裝家具",
+        "CN_ENG": {
+            "word": "Assemble furniture",
+            "audio": "Assemble_furniture.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "家具を組み立てる",
+            "audio": "家具を組み立てる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가구를 조립하다",
+            "audio": "가구를_조립하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lắp ráp nội thất",
+            "audio": "Lắp_ráp_nội_thất.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "砌傢俬",
+            "audio": "砌傢俬.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Assembler des meubles",
+            "audio": "Assembler_des_meubles.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Möbel zusammenbauen",
+            "audio": "Möbel_zusammenbauen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Montar muebles",
+            "audio": "Montar_muebles.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Собирать мебель",
+            "audio": "Собирать_мебель.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ประกอบเฟอร์นิเจอร์",
+            "audio": "ประกอบเฟอร์นิเจอร์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Merakit furnitur",
+            "audio": "Merakit_furnitur.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "組裝家具",
+            "audio": "組裝家具.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo320",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏠 居家維修",
+        "cn": "疏通水管",
+        "CN_ENG": {
+            "word": "Unclog a drain",
+            "audio": "Unclog_a_drain.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "排水溝を掃除する",
+            "audio": "排水溝を掃除する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "배수구를 뚫다",
+            "audio": "배수구를_뚫다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thông cống",
+            "audio": "Thông_cống.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "通渠",
+            "audio": "通渠.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Déboucher un drain",
+            "audio": "Déboucher_un_drain.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Abfluss reinigen",
+            "audio": "Einen_Abfluss_reinigen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Destapar un desagüe",
+            "audio": "Destapar_un_desagüe.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Prochishchat' stok",
+            "audio": "Prochishchat'_stok.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทะลวงท่อ",
+            "audio": "ทะลวงท่อ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melancarkan saluran",
+            "audio": "Melancarkan_saluran.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "疏通水管",
+            "audio": "疏通水管.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo321",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "交換名片",
+        "CN_ENG": {
+            "word": "Exchange business cards",
+            "audio": "Exchange_business_cards.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "名刺交換をする",
+            "audio": "名刺交換をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "명함을 교환하다",
+            "audio": "명함을_교환하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trao đổi danh thiếp",
+            "audio": "Trao_đổi_danh_thiếp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "交換卡片",
+            "audio": "交換卡片.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Échanger des cartes",
+            "audio": "Échanger_des_cartes.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Visitenkarten austauschen",
+            "audio": "Visitenkarten_austauschen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Intercambiar tarjetas",
+            "audio": "Intercambiar_tarjetas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обмениваться визитками",
+            "audio": "Обмениваться_визитками.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แลกนามบัตร",
+            "audio": "แลกนามบัตร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bertukar kartu nama",
+            "audio": "Bertukar_kartu_nama.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "交換名片",
+            "audio": "交換名片.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo322",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "敬酒",
+        "CN_ENG": {
+            "word": "Make a toast",
+            "audio": "Make_a_toast.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "乾杯する",
+            "audio": "乾杯する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "건배하다",
+            "audio": "건배하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nâng ly",
+            "audio": "Nâng_ly.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "敬酒",
+            "audio": "敬酒.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Porter un toast",
+            "audio": "Porter_un_toast.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Toast aussprechen",
+            "audio": "Einen_Toast_aussprechen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Brindar",
+            "audio": "Brindar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Произносить тост",
+            "audio": "Произносить_тост.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ชนแก้ว",
+            "audio": "ชนแก้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bersulang",
+            "audio": "Bersulang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "敬酒",
+            "audio": "敬酒.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo323",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "送禮",
+        "CN_ENG": {
+            "word": "Give a gift",
+            "audio": "Give_a_gift.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "贈り物をする",
+            "audio": "贈り物をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "선물을 주다",
+            "audio": "선물을_주다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tặng quà",
+            "audio": "Tặng_quà.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "送禮",
+            "audio": "送禮.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Offrir un cadeau",
+            "audio": "Offrir_un_cadeau.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Geschenk geben",
+            "audio": "Ein_Geschenk_geben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Dar un regalo",
+            "audio": "Dar_un_regalo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Darit' podarok",
+            "audio": "Darit'_podarok.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ให้ของขวัญ",
+            "audio": "ให้ของขวัญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memberi hadiah",
+            "audio": "Memberi_hadiah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "送禮",
+            "audio": "送禮.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo324",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "收禮",
+        "CN_ENG": {
+            "word": "Receive a gift",
+            "audio": "Receive_a_gift.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "贈り物を受け取る",
+            "audio": "贈り物を受け取る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "선물을 받다",
+            "audio": "선물을_받다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhận quà",
+            "audio": "Nhận_quà.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "收禮",
+            "audio": "收禮.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Recevoir un cadeau",
+            "audio": "Recevoir_un_cadeau.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Geschenk erhalten",
+            "audio": "Ein_Geschenk_erhalten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Recibir un regalo",
+            "audio": "Recibir_un_regalo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Poluchat' podarok",
+            "audio": "Poluchat'_podarok.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รับของขวัญ",
+            "audio": "รับของขวัญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menerima hadiah",
+            "audio": "Menerima_hadiah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "收禮",
+            "audio": "收禮.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo325",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "介紹某人",
+        "CN_ENG": {
+            "word": "Introduce someone",
+            "audio": "Introduce_someone.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "紹介する",
+            "audio": "紹介する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "소개하다",
+            "audio": "소개하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giới thiệu ai đó",
+            "audio": "Giới_thiệu_ai_đó.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "介紹人",
+            "audio": "介紹人.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Présenter quelqu'un",
+            "audio": "Présenter_quelqu'un.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Jemanden vorstellen",
+            "audio": "Jemanden_vorstellen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Presentar a alguien",
+            "audio": "Presentar_a_alguien.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Представлять кого-то",
+            "audio": "Представлять_кого-то.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แนะนำให้รู้จัก",
+            "audio": "แนะนำให้รู้จัก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memperkenalkan seseorang",
+            "audio": "Memperkenalkan_seseorang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "介紹某人",
+            "audio": "介紹某人.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo326",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "鞠躬",
+        "CN_ENG": {
+            "word": "Bow",
+            "audio": "Bow.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お辞儀をする",
+            "audio": "お辞儀をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "절하다",
+            "audio": "절하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cúi chào",
+            "audio": "Cúi_chào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "鞠躬",
+            "audio": "鞠躬.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'incliner",
+            "audio": "S'incliner.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich verbeugen",
+            "audio": "Sich_verbeugen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Inclinarse",
+            "audio": "Inclinarse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кланяться",
+            "audio": "Кланяться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โค้งคำนับ",
+            "audio": "โค้งคำนับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membungkuk",
+            "audio": "Membungkuk.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "鞠躬",
+            "audio": "鞠躬.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo327",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "揮手",
+        "CN_ENG": {
+            "word": "Wave hand",
+            "audio": "Wave_hand.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "手を振る",
+            "audio": "手を振る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "손을 흔들다",
+            "audio": "손을_흔들다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vẫy tay",
+            "audio": "Vẫy_tay.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "揮手",
+            "audio": "揮手.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire signe de la main",
+            "audio": "Faire_signe_de_la_main.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Winken",
+            "audio": "Winken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Saludar con la mano",
+            "audio": "Saludar_con_la_mano.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Махать рукой",
+            "audio": "Махать_рукой.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โบกมือ",
+            "audio": "โบกมือ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melambaikan tangan",
+            "audio": "Melambaikan_tangan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "揮手",
+            "audio": "揮手.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo328",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "點頭示意",
+        "CN_ENG": {
+            "word": "Nod in greeting",
+            "audio": "Nod_in_greeting.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "会釈する",
+            "audio": "会釈する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "목례하다",
+            "audio": "목례하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gật đầu chào",
+            "audio": "Gật_đầu_chào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "點頭招呼",
+            "audio": "點頭招呼.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire un signe de tête",
+            "audio": "Faire_un_signe_de_tête.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nicken (Begrüßung)",
+            "audio": "Nicken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Saludar con la cabeza",
+            "audio": "Saludar_con_la_cabeza.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кивнуть",
+            "audio": "Кивнуть.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พยักหน้าทักทาย",
+            "audio": "พยักหน้าทักทาย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengangguk sapa",
+            "audio": "Mengangguk_sapa.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "點頭示意",
+            "audio": "點頭示意.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo329",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "鼓掌",
+        "CN_ENG": {
+            "word": "Applaud",
+            "audio": "Applaud.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "拍手する",
+            "audio": "拍手する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "박수치다",
+            "audio": "박수치다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vỗ tay",
+            "audio": "Vỗ_tay.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "拍手",
+            "audio": "拍手.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Applaudir",
+            "audio": "Applaudir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Applaudieren",
+            "audio": "Applaudieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aplaudir",
+            "audio": "Aplaudir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Аплодировать",
+            "audio": "Аплодировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปรบมือ",
+            "audio": "ปรบมือ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bertepuk tangan",
+            "audio": "Bertepuk_tangan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "鼓掌",
+            "audio": "鼓掌.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo330",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "👔 社交禮儀",
+        "cn": "讓座",
+        "CN_ENG": {
+            "word": "Give up seat",
+            "audio": "Give_up_seat.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "席を譲る",
+            "audio": "席を譲る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "자리를 양보하다",
+            "audio": "자리를_양보하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhường chỗ",
+            "audio": "Nhường_chỗ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "讓座",
+            "audio": "讓座.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Céder sa place",
+            "audio": "Céder_sa_place.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Platz anbieten",
+            "audio": "Einen_Platz_anbieten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ceder el asiento",
+            "audio": "Ceder_el_asiento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Уступить место",
+            "audio": "Уступить_место.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สละที่นั่ง",
+            "audio": "สละที่นั่ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memberikan tempat duduk",
+            "audio": "Memberikan_tempat_duduk.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "讓座",
+            "audio": "讓座.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo331",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "寫詩",
+        "CN_ENG": {
+            "word": "Write a poem",
+            "audio": "Write_a_poem.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "詩を書く",
+            "audio": "詩を書く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "시를 쓰다",
+            "audio": "시를_쓰다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm thơ",
+            "audio": "Làm_thơ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "寫詩",
+            "audio": "寫詩.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Écrire un poème",
+            "audio": "Écrire_un_poème.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Gedicht schreiben",
+            "audio": "Ein_Gedicht_schreiben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Escribir un poema",
+            "audio": "Escribir_un_poema.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Писать стихи",
+            "audio": "Писать_стихи.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แต่งกลอน",
+            "audio": "แต่งกลอน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menulis puisi",
+            "audio": "Menulis_puisi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "寫詩",
+            "audio": "寫詩.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo332",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "作曲",
+        "CN_ENG": {
+            "word": "Compose music",
+            "audio": "Compose_music.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "作曲する",
+            "audio": "作曲する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "작곡하다",
+            "audio": "작곡하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sáng tác nhạc",
+            "audio": "Sáng_tác_nhạc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "作曲",
+            "audio": "作曲.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Composer de la musique",
+            "audio": "Composer_de_la_musique.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Musik komponieren",
+            "audio": "Musik_komponieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Componer música",
+            "audio": "Componer_música.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сочинять музыку",
+            "audio": "Сочинять_музыку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แต่งเพลง",
+            "audio": "แต่งเพลง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengarang musik",
+            "audio": "Mengarang_musik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "作曲",
+            "audio": "作曲.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo333",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "雕刻",
+        "CN_ENG": {
+            "word": "Carve / Sculpt",
+            "audio": "Carve__Sculpt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "彫刻する",
+            "audio": "彫刻する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조각하다",
+            "audio": "조각하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Điêu khắc",
+            "audio": "Điêu_khắc.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "雕刻",
+            "audio": "雕刻.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sculpter",
+            "audio": "Sculpter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schnitzen",
+            "audio": "Schnitzen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esculpir",
+            "audio": "Esculpir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вырезать",
+            "audio": "Вырезать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แกะสลัก",
+            "audio": "แกะสลัก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengukir",
+            "audio": "Mengukir.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "雕刻",
+            "audio": "雕刻.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo334",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "演戲",
+        "CN_ENG": {
+            "word": "Act (in a play)",
+            "audio": "Act.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "演技する",
+            "audio": "演技する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "연기하다",
+            "audio": "연기하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Diễn xuất",
+            "audio": "Diễn_xuất.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "做戲",
+            "audio": "做戲.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Jouer la comédie",
+            "audio": "Jouer_la_comédie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schauspielern",
+            "audio": "Schauspielern.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Actuar",
+            "audio": "Actuar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Играть (на сцене)",
+            "audio": "Играть.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แสดงละคร",
+            "audio": "แสดงละคร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berakting",
+            "audio": "Berakting.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "演戲",
+            "audio": "演戲.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo335",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "導演",
+        "CN_ENG": {
+            "word": "Direct (a movie)",
+            "audio": "Direct.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "監督する",
+            "audio": "監督する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "감독하다",
+            "audio": "감독하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đạo diễn",
+            "audio": "Đạo_diễn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "導演",
+            "audio": "導演.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Réaliser",
+            "audio": "Réaliser.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Regie führen",
+            "audio": "Regie_führen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Dirigir",
+            "audio": "Dirigir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Режиссировать",
+            "audio": "Режиссировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กำกับ",
+            "audio": "กำกับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyutradarai",
+            "audio": "Menyutradarai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "導演",
+            "audio": "導演.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo336",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "設計標誌",
+        "CN_ENG": {
+            "word": "Design a logo",
+            "audio": "Design_a_logo.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ロゴをデザインする",
+            "audio": "ロゴをデザインする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "로고를 디자인하다",
+            "audio": "로고를_디자인하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thiết kế logo",
+            "audio": "Thiết_kế_logo.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "設計Logo",
+            "audio": "設計Logo.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Concevoir un logo",
+            "audio": "Concevoir_un_logo.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Logo entwerfen",
+            "audio": "Ein_Logo_entwerfen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Diseñar un logotipo",
+            "audio": "Diseñar_un_logotipo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Разрабатывать логотип",
+            "audio": "Разрабатывать_логотип.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ออกแบบโลโก้",
+            "audio": "ออกแบบโลโก้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mendesain logo",
+            "audio": "Mendesain_logo.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "設計標誌",
+            "audio": "設計標誌.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo337",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "編輯影片",
+        "CN_ENG": {
+            "word": "Edit a video",
+            "audio": "Edit_a_video.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "動画を編集する",
+            "audio": "動画を編集する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "영상을 편집하다",
+            "audio": "영상을_편집하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chỉnh sửa video",
+            "audio": "Chỉnh_sửa_video.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "剪片",
+            "audio": "剪片.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Monter une vidéo",
+            "audio": "Monter_une_vidéo.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Video bearbeiten",
+            "audio": "Ein_Video_bearbeiten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Editar un video",
+            "audio": "Editar_un_video.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Монтировать видео",
+            "audio": "Монтировать_видео.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตัดต่อวิดีโอ",
+            "audio": "ตัดต่อวิดีโอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengedit video",
+            "audio": "Mengedit_video.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "編輯影片",
+            "audio": "編輯影片.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo338",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "出版書",
+        "CN_ENG": {
+            "word": "Publish a book",
+            "audio": "Publish_a_book.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本を出版する",
+            "audio": "本を出版する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "책을 출판하다",
+            "audio": "책을_출판하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xuất bản sách",
+            "audio": "Xuất_bản_sách.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "出書",
+            "audio": "出書.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Publier un livre",
+            "audio": "Publier_un_livre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Buch veröffentlichen",
+            "audio": "Ein_Buch_veröffentlichen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Publicar un libro",
+            "audio": "Publicar_un_libro.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Издавать книгу",
+            "audio": "Издавать_книгу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตีพิมพ์หนังสือ",
+            "audio": "ตีพิมพ์หนังสือ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menerbitkan buku",
+            "audio": "Menerbitkan_buku.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "出版書",
+            "audio": "出版書.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo339",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "展出作品",
+        "CN_ENG": {
+            "word": "Exhibit work",
+            "audio": "Exhibit_work.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "作品を展示する",
+            "audio": "作品を展示する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "작품을 전시하다",
+            "audio": "작품을_전시하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Triển lãm",
+            "audio": "Triển_lãm.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "展出",
+            "audio": "展出.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Exposer des œuvres",
+            "audio": "Exposer_des_œuvres.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Werke ausstellen",
+            "audio": "Werke_ausstellen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Exponer obras",
+            "audio": "Exponer_obras.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Выставлять работы",
+            "audio": "Выставлять_работы.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จัดแสดงผลงาน",
+            "audio": "จัดแสดงผลงาน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memamerkan karya",
+            "audio": "Memamerkan_karya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "展出作品",
+            "audio": "展出作品.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo340",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🎨 藝術與創作",
+        "cn": "評論電影",
+        "CN_ENG": {
+            "word": "Review a movie",
+            "audio": "Review_a_movie.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "映画を批評する",
+            "audio": "映画を批評する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "영화를 비평하다",
+            "audio": "영화를_비평하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bình luận phim",
+            "audio": "Bình_luận_phim.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "評戲",
+            "audio": "評戲.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Critiquer un film",
+            "audio": "Critiquer_un_film.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Film rezensieren",
+            "audio": "Einen_Film_rezensieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Reseñar una película",
+            "audio": "Reseñar_una_película.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рецензировать фильм",
+            "audio": "Рецензировать_фильм.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วิจารณ์หนัง",
+            "audio": "วิจารณ์หนัง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengulas film",
+            "audio": "Mengulas_film.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "評論電影",
+            "audio": "評論電影.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo341",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "鎖門",
+        "CN_ENG": {
+            "word": "Lock the door",
+            "audio": "Lock_the_door.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "鍵をかける",
+            "audio": "鍵をかける.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "문을 잠그다",
+            "audio": "문을_잠그다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khóa cửa",
+            "audio": "Khóa_cửa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "鎖門",
+            "audio": "鎖門.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Verrouiller la porte",
+            "audio": "Verrouiller_la_porte.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Tür abschließen",
+            "audio": "Die_Tür_abschließen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cerrar la puerta con llave",
+            "audio": "Cerrar_la_puerta_con_llave.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Запереть дверь",
+            "audio": "Запереть_дверь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ล็อคประตู",
+            "audio": "ล็อคประตู.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengunci pintu",
+            "audio": "Mengunci_pintu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "鎖門",
+            "audio": "鎖門.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo342",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "解鎖",
+        "CN_ENG": {
+            "word": "Unlock",
+            "audio": "Unlock.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "鍵を開ける",
+            "audio": "鍵を開ける.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "잠금을 해제하다",
+            "audio": "잠금을_해제하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mở khóa",
+            "audio": "Mở_khóa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "解鎖",
+            "audio": "解鎖.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Déverrouiller",
+            "audio": "Déverrouiller.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Aufschließen",
+            "audio": "Aufschließen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Desbloquear",
+            "audio": "Desbloquear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Отпереть",
+            "audio": "Отпереть.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปลดล็อค",
+            "audio": "ปลดล็อค.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membuka kunci",
+            "audio": "Membuka_kunci.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "解鎖",
+            "audio": "解鎖.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo343",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "設定密碼",
+        "CN_ENG": {
+            "word": "Set a password",
+            "audio": "Set_a_password.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "パスワードを設定する",
+            "audio": "パスワードを設定する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비밀번호를 설정하다",
+            "audio": "비밀번호를_설정하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cài mật khẩu",
+            "audio": "Cài_mật_khẩu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "設密碼",
+            "audio": "設密碼.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Définir un mot de passe",
+            "audio": "Définir_un_mot_de_passe.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Passwort festlegen",
+            "audio": "Ein_Passwort_festlegen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Establecer una contraseña",
+            "audio": "Establecer_una_contraseña.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Установить пароль",
+            "audio": "Установить_пароль.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตั้งรหัสผ่าน",
+            "audio": "ตั้งรหัสผ่าน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengatur kata sandi",
+            "audio": "Mengatur_kata_sandi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "設定密碼",
+            "audio": "設定密碼.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo344",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "備份資料",
+        "CN_ENG": {
+            "word": "Backup data",
+            "audio": "Backup_data.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "データをバックアップする",
+            "audio": "データをバックアップする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "데이터를 백업하다",
+            "audio": "데이터를_백업하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sao lưu dữ liệu",
+            "audio": "Sao_lưu_dữ_liệu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "備份",
+            "audio": "備份.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sauvegarder les données",
+            "audio": "Sauvegarder_les_données.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Daten sichern",
+            "audio": "Daten_sichern.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Copia de seguridad",
+            "audio": "Copia_de_seguridad.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Резервное копирование",
+            "audio": "Резервное_копирование.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สำรองข้อมูล",
+            "audio": "สำรองข้อมูล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencadangkan data",
+            "audio": "Mencadangkan_data.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "備份資料",
+            "audio": "備份資料.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo345",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "報火警",
+        "CN_ENG": {
+            "word": "Report a fire",
+            "audio": "Report_a_fire.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "火事を通報する",
+            "audio": "火事を通報する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "화재를 신고하다",
+            "audio": "화재를_신고하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Báo cháy",
+            "audio": "Báo_cháy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "報火燭",
+            "audio": "報火燭.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Signaler un incendie",
+            "audio": "Signaler_un_incendie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ein Feuer melden",
+            "audio": "Ein_Feuer_melden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Reportar un incendio",
+            "audio": "Reportar_un_incendio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сообщить о пожаре",
+            "audio": "Сообщить_о_пожаре.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แจ้งเหตุไฟไหม้",
+            "audio": "แจ้งเหตุไฟไหม้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melaporkan kebakaran",
+            "audio": "Melaporkan_kebakaran.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "報火警",
+            "audio": "報火警.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo346",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "逃生",
+        "CN_ENG": {
+            "word": "Escape",
+            "audio": "Escape.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "逃げる",
+            "audio": "逃げる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "탈출하다",
+            "audio": "탈출하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trốn thoát",
+            "audio": "Trốn_thoát.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "走佬/逃生",
+            "audio": "走佬逃生.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'échapper",
+            "audio": "S'échapper.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Fliehen",
+            "audio": "Fliehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Escapar",
+            "audio": "Escapar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сбежать",
+            "audio": "Сбежать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หนี",
+            "audio": "หนี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melarikan diri",
+            "audio": "Melarikan_diri.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "逃生",
+            "audio": "逃生.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo347",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "躲藏",
+        "CN_ENG": {
+            "word": "Hide",
+            "audio": "Hide.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "隠れる",
+            "audio": "隠れる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "숨다",
+            "audio": "숨다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trốn",
+            "audio": "Trốn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "匿埋",
+            "audio": "匿埋.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se cacher",
+            "audio": "Se_cacher.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verstecken",
+            "audio": "Verstecken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esconderse",
+            "audio": "Esconderse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Прятаться",
+            "audio": "Прятаться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ซ่อนตัว",
+            "audio": "ซ่อนตัว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bersembunyi",
+            "audio": "Bersembunyi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "躲藏",
+            "audio": "躲藏.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo348",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "攻擊",
+        "CN_ENG": {
+            "word": "Attack",
+            "audio": "Attack.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "攻撃する",
+            "audio": "攻撃する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "공격하다",
+            "audio": "공격하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tấn công",
+            "audio": "Tấn_công.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "攻擊",
+            "audio": "攻擊.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Attaquer",
+            "audio": "Attaquer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Angreifen",
+            "audio": "Angreifen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Atacar",
+            "audio": "Atacar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Атаковать",
+            "audio": "Атаковать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โจมตี",
+            "audio": "โจมตี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyerang",
+            "audio": "Menyerang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "攻擊",
+            "audio": "攻擊.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo349",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "防守",
+        "CN_ENG": {
+            "word": "Defend",
+            "audio": "Defend.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "防御する",
+            "audio": "防御する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방어하다",
+            "audio": "방어하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phòng thủ",
+            "audio": "Phòng_thủ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "防守",
+            "audio": "防守.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Défendre",
+            "audio": "Défendre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verteidigen",
+            "audio": "Verteidigen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Defender",
+            "audio": "Defender.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Защищать",
+            "audio": "Защищать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ป้องกัน",
+            "audio": "ป้องกัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bertahan",
+            "audio": "Bertahan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "防守",
+            "audio": "防守.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo350",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🔒 安全與保護",
+        "cn": "拯救",
+        "CN_ENG": {
+            "word": "Save / Rescue",
+            "audio": "Save__Rescue.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "助ける",
+            "audio": "助ける.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "구하다",
+            "audio": "구하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cứu",
+            "audio": "Cứu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "救",
+            "audio": "救.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sauver",
+            "audio": "Sauver.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Retten",
+            "audio": "Retten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Salvar",
+            "audio": "Salvar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасать",
+            "audio": "Спасать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยชีวิต",
+            "audio": "ช่วยชีวิต.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyelamatkan",
+            "audio": "Menyelamatkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拯救",
+            "audio": "拯救.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo351",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "發動引擎",
+        "CN_ENG": {
+            "word": "Start the engine",
+            "audio": "Start_the_engine.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "エンジンをかける",
+            "audio": "エンジンをかける.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "시동을 걸다",
+            "audio": "시동을_걸다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khởi động máy",
+            "audio": "Khởi_động_máy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "撻車",
+            "audio": "撻車.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Démarrer le moteur",
+            "audio": "Démarrer_le_moteur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Den Motor starten",
+            "audio": "Den_Motor_starten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Arrancar el motor",
+            "audio": "Arrancar_el_motor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Завести двигатель",
+            "audio": "Завести_двигатель.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สตาร์ทเครื่อง",
+            "audio": "สตาร์ทเครื่อง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyalakan mesin",
+            "audio": "Menyalakan_mesin.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "發動引擎",
+            "audio": "發動引擎.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo352",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "踩剎車",
+        "CN_ENG": {
+            "word": "Step on the brake",
+            "audio": "Step_on_the_brake.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ブレーキを踏む",
+            "audio": "ブレーキを踏む.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "브레이크를 밟다",
+            "audio": "브레이크를_밟다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đạp phanh",
+            "audio": "Đạp_phanh.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "踩Brake",
+            "audio": "踩Brake.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Appuyer sur le frein",
+            "audio": "Appuyer_sur_le_frein.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bremsen",
+            "audio": "Bremsen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pisar el freno",
+            "audio": "Pisar_el_freno.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нажать на тормоз",
+            "audio": "Нажать_на_тормоз.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เหยียบเบรก",
+            "audio": "เหยียบเบรก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menginjak rem",
+            "audio": "Menginjak_rem.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "踩剎車",
+            "audio": "踩剎車.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo353",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "加油 (添油)",
+        "CN_ENG": {
+            "word": "Refuel",
+            "audio": "Refuel.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "給油する",
+            "audio": "給油する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주유하다",
+            "audio": "주유하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đổ xăng",
+            "audio": "Đổ_xăng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "入油",
+            "audio": "入油.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire le plein",
+            "audio": "Faire_le_plein.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tanken",
+            "audio": "Tanken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Repostar",
+            "audio": "Repostar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Заправляться",
+            "audio": "Заправляться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เติมน้ำมัน",
+            "audio": "เติมน้ำมัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengisi bensin",
+            "audio": "Mengisi_bensin.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "加油 (添油)",
+            "audio": "加油.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo354",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "換輪胎",
+        "CN_ENG": {
+            "word": "Change a tire",
+            "audio": "Change_a_tire.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "タイヤを交換する",
+            "audio": "タイヤを交換する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "타이어를 갈다",
+            "audio": "타이어를_갈다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thay lốp",
+            "audio": "Thay_lốp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "換呔",
+            "audio": "換呔.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Changer un pneu",
+            "audio": "Changer_un_pneu.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Reifen wechseln",
+            "audio": "Einen_Reifen_wechseln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cambiar una rueda",
+            "audio": "Cambiar_una_rueda.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Менять колесо",
+            "audio": "Менять_колесо.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เปลี่ยนยาง",
+            "audio": "เปลี่ยนยาง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengganti ban",
+            "audio": "Mengganti_ban.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "換輪胎",
+            "audio": "換輪胎.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo355",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "停車",
+        "CN_ENG": {
+            "word": "Park the car",
+            "audio": "Park_the_car.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "駐車する",
+            "audio": "駐車する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주차하다",
+            "audio": "주차하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đậu xe",
+            "audio": "Đậu_xe.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "泊車",
+            "audio": "泊車.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Garer la voiture",
+            "audio": "Garer_la_voiture.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das Auto parken",
+            "audio": "Das_Auto_parken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aparcar el coche",
+            "audio": "Aparcar_el_coche.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Парковать машину",
+            "audio": "Парковать_машину.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จอดรถ",
+            "audio": "จอดรถ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memarkir mobil",
+            "audio": "Memarkir_mobil.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "停車",
+            "audio": "停車.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo356",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "違規停車",
+        "CN_ENG": {
+            "word": "Park illegally",
+            "audio": "Park_illegally.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "違法駐車する",
+            "audio": "違法駐車する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "불법 주차하다",
+            "audio": "불법_주차하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đậu xe trái phép",
+            "audio": "Đậu_xe_trái_phép.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "違泊",
+            "audio": "違泊.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Se garer illégalement",
+            "audio": "Se_garer_illégalement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Falsch parken",
+            "audio": "Falsch_parken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aparcar ilegalmente",
+            "audio": "Aparcar_ilegalmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Парковаться в неположенном месте",
+            "audio": "Парковаться_в_неположенном_месте.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จอดรถผิดกฎหมาย",
+            "audio": "จอดรถผิดกฎหมาย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Parkir liar",
+            "audio": "Parkir_liar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "違規停車",
+            "audio": "違規停車.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo357",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "超速",
+        "CN_ENG": {
+            "word": "Speed",
+            "audio": "Speed.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "スピード違反をする",
+            "audio": "スピード違反をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "과속하다",
+            "audio": "과속하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chạy quá tốc độ",
+            "audio": "Chạy_quá_tốc_độ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "超速",
+            "audio": "超速.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire un excès de vitesse",
+            "audio": "Faire_un_excès_de_vitesse.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zu schnell fahren",
+            "audio": "Zu_schnell_fahren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Exceder la velocidad",
+            "audio": "Exceder_la_velocidad.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Превышать скорость",
+            "audio": "Превышать_скорость.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขับรถเร็วเกินกำหนด",
+            "audio": "ขับรถเร็วเกินกำหนด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ngebut",
+            "audio": "Ngebut.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "超速",
+            "audio": "超速.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo358",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "闖紅燈",
+        "CN_ENG": {
+            "word": "Run a red light",
+            "audio": "Run_a_red_light.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "赤信号無視をする",
+            "audio": "赤信号無視をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "신호를 위반하다",
+            "audio": "신호를_위반하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vượt đèn đỏ",
+            "audio": "Vượt_đèn_đỏ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "衝紅燈",
+            "audio": "衝紅燈.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Brûler un feu rouge",
+            "audio": "Brûler_un_feu_rouge.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Eine rote Ampel überfahren",
+            "audio": "Eine_rote_Ampel_überfahren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Saltarse un semáforo",
+            "audio": "Saltarse_un_semáforo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Проехать на красный",
+            "audio": "Проехать_на_красный.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฝ่าไฟแดง",
+            "audio": "ฝ่าไฟแดง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menerobos lampu merah",
+            "audio": "Menerobos_lampu_merah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "闖紅燈",
+            "audio": "闖紅燈.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo359",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "繫安全帶",
+        "CN_ENG": {
+            "word": "Fasten seatbelt",
+            "audio": "Fasten_seatbelt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "シートベルトを締める",
+            "audio": "シートベルトを締める.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안전벨트를 매다",
+            "audio": "안전벨트를_매다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thắt dây an toàn",
+            "audio": "Thắt_dây_an_toàn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "扣安全帶",
+            "audio": "扣安全帶.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Attacher la ceinture",
+            "audio": "Attacher_la_ceinture.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Anschnallen",
+            "audio": "Anschnallen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Abrocharse el cinturón",
+            "audio": "Abrocharse_el_cinturón.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пристегнуться",
+            "audio": "Пристегнуться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คาดเข็มขัด",
+            "audio": "คาดเข็มขัด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memakai sabuk pengaman",
+            "audio": "Memakai_sabuk_pengaman.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "繫安全帶",
+            "audio": "繫安全帶.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo360",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🚗 駕駛與維護",
+        "cn": "開雨刷",
+        "CN_ENG": {
+            "word": "Turn on wipers",
+            "audio": "Turn_on_wipers.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ワイパーを動かす",
+            "audio": "ワイパーを動かす.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "와이퍼를 켜다",
+            "audio": "와이퍼를_켜다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bật gạt nước",
+            "audio": "Bật_gạt_nước.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "開水撥",
+            "audio": "開水撥.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Allumer les essuie-glaces",
+            "audio": "Allumer_les_essuie-glaces.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Scheibenwischer anmachen",
+            "audio": "Scheibenwischer_anmachen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Encender los limpiaparabrisas",
+            "audio": "Encender_los_limpiaparabrisas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Включить дворники",
+            "audio": "Включить_дворники.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เปิดที่ปัดน้ำฝน",
+            "audio": "เปิดที่ปัดน้ำฝน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyalakan wiper",
+            "audio": "Menyalakan_wiper.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "開雨刷",
+            "audio": "開雨刷.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo361",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "量血壓",
+        "CN_ENG": {
+            "word": "Measure blood pressure",
+            "audio": "Measure_blood_pressure.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "血圧を測る",
+            "audio": "血圧を測る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "혈압을 재다",
+            "audio": "혈압을_재다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đo huyết áp",
+            "audio": "Đo_huyết_áp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "量血壓",
+            "audio": "量血壓.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mesurer la tension",
+            "audio": "Mesurer_la_tension.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Blutdruck messen",
+            "audio": "Blutdruck_messen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Medir la presión",
+            "audio": "Medir_la_presión.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Измерять давление",
+            "audio": "Измерять_давление.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วัดความดัน",
+            "audio": "วัดความดัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengukur tekanan darah",
+            "audio": "Mengukur_tekanan_darah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "量血壓",
+            "audio": "量血壓.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo362",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "抽血",
+        "CN_ENG": {
+            "word": "Draw blood",
+            "audio": "Draw_blood.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "採血する",
+            "audio": "採血する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "피를 뽑다",
+            "audio": "피를_뽑다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lấy máu",
+            "audio": "Lấy_máu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "抽血",
+            "audio": "抽血.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire une prise de sang",
+            "audio": "Faire_une_prise_de_sang.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Blut abnehmen",
+            "audio": "Blut_abnehmen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sacar sangre",
+            "audio": "Sacar_sangre.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Брать кровь",
+            "audio": "Брать_кровь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เจาะเลือด",
+            "audio": "เจาะเลือด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengambil darah",
+            "audio": "Mengambil_darah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "抽血",
+            "audio": "抽血.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo363",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "照X光",
+        "CN_ENG": {
+            "word": "Take an X-ray",
+            "audio": "Take_an_X-ray.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "レントゲンを撮る",
+            "audio": "レントゲンを撮る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "엑스레이를 찍다",
+            "audio": "엑스레이를_찍다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chụp X-quang",
+            "audio": "Chụp_X-quang.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "照X光",
+            "audio": "照X光.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Passer une radio",
+            "audio": "Passer_une_radio.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Röntgen",
+            "audio": "Röntgen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacer una radiografía",
+            "audio": "Hacer_una_radiografía.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Делать рентген",
+            "audio": "Делать_рентген.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เอกซเรย์",
+            "audio": "เอกซเรย์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Rontgen",
+            "audio": "Rontgen.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "照X光",
+            "audio": "照X光.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo364",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "開處方",
+        "CN_ENG": {
+            "word": "Prescribe medicine",
+            "audio": "Prescribe_medicine.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "処方箋を書く",
+            "audio": "処方箋を書く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "처방하다",
+            "audio": "처방하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kê đơn",
+            "audio": "Kê_đơn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "開藥",
+            "audio": "開藥.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Prescrire des médicaments",
+            "audio": "Prescrire_des_médicaments.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verschreiben",
+            "audio": "Verschreiben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Recetar medicamentos",
+            "audio": "Recetar_medicamentos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Выписывать рецепт",
+            "audio": "Выписывать_рецепт.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สั่งยา",
+            "audio": "สั่งยา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Meresepkan obat",
+            "audio": "Meresepkan_obat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "開處方",
+            "audio": "開處方.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo365",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "動手術",
+        "CN_ENG": {
+            "word": "Perform surgery",
+            "audio": "Perform_surgery.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "手術をする",
+            "audio": "手術をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수술하다",
+            "audio": "수술하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phẫu thuật",
+            "audio": "Phẫu_thuật.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "做手術",
+            "audio": "做手術.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Opérer",
+            "audio": "Opérer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Operieren",
+            "audio": "Operieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Operar",
+            "audio": "Operar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Оперировать",
+            "audio": "Оперировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ผ่าตัด",
+            "audio": "ผ่าตัด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melakukan operasi",
+            "audio": "Melakukan_operasi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "動手術",
+            "audio": "動手術.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo366",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "包紮傷口",
+        "CN_ENG": {
+            "word": "Bandage a wound",
+            "audio": "Bandage_a_wound.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "傷の手当てをする",
+            "audio": "傷の手当てをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상처를 싸매다",
+            "audio": "상처를_싸매다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Băng bó",
+            "audio": "Băng_bó.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "包紮",
+            "audio": "包紮.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Panser une plaie",
+            "audio": "Panser_une_plaie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Eine Wunde verbinden",
+            "audio": "Eine_Wunde_verbinden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vendar una herida",
+            "audio": "Vendar_una_herida.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Перевязать рану",
+            "audio": "Перевязать_рану.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทำแผล",
+            "audio": "ทำแผล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membalut luka",
+            "audio": "Membalut_luka.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "包紮傷口",
+            "audio": "包紮傷口.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo367",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "拔牙",
+        "CN_ENG": {
+            "word": "Extract a tooth",
+            "audio": "Extract_a_tooth.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "歯を抜く",
+            "audio": "歯を抜く.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이를 뽑다",
+            "audio": "이를_뽑다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhổ răng",
+            "audio": "Nhổ_răng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "剝牙",
+            "audio": "剝牙.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Arracher une dent",
+            "audio": "Arracher_une_dent.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Zahn ziehen",
+            "audio": "Einen_Zahn_ziehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sacar un diente",
+            "audio": "Sacar_un_diente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вырвать зуб",
+            "audio": "Вырвать_зуб.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถอนฟัน",
+            "audio": "ถอนฟัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencabut gigi",
+            "audio": "Mencabut_gigi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拔牙",
+            "audio": "拔牙.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo368",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "補牙",
+        "CN_ENG": {
+            "word": "Fill a tooth",
+            "audio": "Fill_a_tooth.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "歯を詰める",
+            "audio": "歯を詰める.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이를 때우다",
+            "audio": "이를_때우다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trám răng",
+            "audio": "Trám_răng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "補牙",
+            "audio": "補牙.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Plomber une dent",
+            "audio": "Plomber_une_dent.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen Zahn füllen",
+            "audio": "Einen_Zahn_füllen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Empastar un diente",
+            "audio": "Empastar_un_diente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пломбировать зуб",
+            "audio": "Пломбировать_зуб.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อุดฟัน",
+            "audio": "อุดฟัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menambal gigi",
+            "audio": "Menambal_gigi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "補牙",
+            "audio": "補牙.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo369",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "住院",
+        "CN_ENG": {
+            "word": "Be hospitalized",
+            "audio": "Be_hospitalized.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "入院する",
+            "audio": "入院する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "입원하다",
+            "audio": "입원하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhập viện",
+            "audio": "Nhập_viện.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "住院",
+            "audio": "住院.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Être hospitalisé",
+            "audio": "Être_hospitalisé.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Im Krankenhaus liegen",
+            "audio": "Im_Krankenhaus_liegen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ser hospitalizado",
+            "audio": "Ser_hospitalizado.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Лечь в больницу",
+            "audio": "Лечь_в_больницу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เข้าโรงพยาบาล",
+            "audio": "เข้าโรงพยาบาล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dirawat di rumah sakit",
+            "audio": "Dirawat_di_rumah_sakit.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "住院",
+            "audio": "住院.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo370",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏥 醫療護理",
+        "cn": "出院",
+        "CN_ENG": {
+            "word": "Be discharged",
+            "audio": "Be_discharged.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "退院する",
+            "audio": "退院する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "퇴원하다",
+            "audio": "퇴원하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xuất viện",
+            "audio": "Xuất_viện.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "出院",
+            "audio": "出院.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sortir de l'hôpital",
+            "audio": "Sortir_de_l'hôpital.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Aus dem Krankenhaus entlassen",
+            "audio": "Aus_dem_Krankenhaus_entlassen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ser dado de alta",
+            "audio": "Ser_dado_de_alta.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Выписаться из больницы",
+            "audio": "Выписаться_из_больницы.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ออกจากโรงพยาบาล",
+            "audio": "ออกจากโรงพยาบาล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Keluar dari rumah sakit",
+            "audio": "Keluar_dari_rumah_sakit.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "出院",
+            "audio": "出院.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo371",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "做伏地挺身",
+        "CN_ENG": {
+            "word": "Do push-ups",
+            "audio": "Do_push-ups.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "腕立て伏せをする",
+            "audio": "腕立て伏せをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "팔굽혀펴기하다",
+            "audio": "팔굽혀펴기하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hít đất",
+            "audio": "Hít_đất.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "做掌上壓",
+            "audio": "做掌上壓.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire des pompes",
+            "audio": "Faire_des_pompes.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Liegestütze machen",
+            "audio": "Liegestütze_machen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacer flexiones",
+            "audio": "Hacer_flexiones.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Отжиматься",
+            "audio": "Отжиматься.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วิดพื้น",
+            "audio": "วิดพื้น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Push-up",
+            "audio": "Push-up.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "做伏地挺身",
+            "audio": "做伏地挺身.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo372",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "做仰臥起坐",
+        "CN_ENG": {
+            "word": "Do sit-ups",
+            "audio": "Do_sit-ups.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "腹筋をする",
+            "audio": "腹筋をする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "윗몸일으키기하다",
+            "audio": "윗몸일으키기하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gập bụng",
+            "audio": "Gập_bụng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "做Sit-up",
+            "audio": "做Sit-up.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire des redressements",
+            "audio": "Faire_des_redressements.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sit-ups machen",
+            "audio": "Sit-ups_machen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hacer abdominales",
+            "audio": "Hacer_abdominales.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Качать пресс",
+            "audio": "Качать_пресс.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ซิทอัพ",
+            "audio": "ซิทอัพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sit-up",
+            "audio": "Sit-up.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "做仰臥起坐",
+            "audio": "做仰臥起坐.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo373",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "舉重",
+        "CN_ENG": {
+            "word": "Lift weights",
+            "audio": "Lift_weights.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ウェイトリフティングをする",
+            "audio": "ウェイトリフティングをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "역도를 하다",
+            "audio": "역도를_하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cử tạ",
+            "audio": "Cử_tạ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "舉重",
+            "audio": "舉重.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Soulever des poids",
+            "audio": "Soulever_des_poids.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gewichte heben",
+            "audio": "Gewichte_heben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Levantar pesas",
+            "audio": "Levantar_pesas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Поднимать тяжести",
+            "audio": "Поднимать_тяжести.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยกน้ำหนัก",
+            "audio": "ยกน้ำหนัก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Angkat beban",
+            "audio": "Angkat_beban.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "舉重",
+            "audio": "舉重.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo374",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "拉筋",
+        "CN_ENG": {
+            "word": "Stretch",
+            "audio": "Stretch.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ストレッチする",
+            "audio": "ストレッチする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "스트레칭하다",
+            "audio": "스트레칭하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giãn cơ",
+            "audio": "Giãn_cơ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "拉筋",
+            "audio": "拉筋.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'étirer",
+            "audio": "S'étirer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dehnen",
+            "audio": "Dehnen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estirar",
+            "audio": "Estirar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Растягиваться",
+            "audio": "Растягиваться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยืดเส้น",
+            "audio": "ยืดเส้น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Peregangan",
+            "audio": "Peregangan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拉筋",
+            "audio": "拉筋.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo375",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "慢跑",
+        "CN_ENG": {
+            "word": "Jog",
+            "audio": "Jog.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ジョギングする",
+            "audio": "ジョギングする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조깅하다",
+            "audio": "조깅하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chạy bộ",
+            "audio": "Chạy_bộ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "慢跑",
+            "audio": "慢跑.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Faire du jogging",
+            "audio": "Faire_du_jogging.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Joggen",
+            "audio": "Joggen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Trotar",
+            "audio": "Trotar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Бегать трусцой",
+            "audio": "Бегать_трусцой.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วิ่งเหยาะๆ",
+            "audio": "วิ่งเหยาะๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Joging",
+            "audio": "Joging.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "慢跑",
+            "audio": "慢跑.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo376",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "打羽毛球",
+        "CN_ENG": {
+            "word": "Play badminton",
+            "audio": "Play_badminton.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "バドミントンをする",
+            "audio": "バドミントンをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "배드민턴을 치다",
+            "audio": "배드민턴을_치다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chơi cầu lông",
+            "audio": "Chơi_cầu_lông.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "打羽毛球",
+            "audio": "打羽毛球.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Jouer au badminton",
+            "audio": "Jouer_au_badminton.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Badminton spielen",
+            "audio": "Badminton_spielen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Jugar al bádminton",
+            "audio": "Jugar_al_bádminton.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Играть в бадминтон",
+            "audio": "Играть_в_бадминтон.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตีแบด",
+            "audio": "ตีแบด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bermain bulu tangkis",
+            "audio": "Bermain_bulu_tangkis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "打羽毛球",
+            "audio": "打羽毛球.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo377",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "打網球",
+        "CN_ENG": {
+            "word": "Play tennis",
+            "audio": "Play_tennis.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "テニスをする",
+            "audio": "テニスをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "테니스를 치다",
+            "audio": "테니스를_치다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chơi quần vợt",
+            "audio": "Chơi_quần_vợt.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "打網球",
+            "audio": "打網球.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Jouer au tennis",
+            "audio": "Jouer_au_tennis.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tennis spielen",
+            "audio": "Tennis_spielen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Jugar al tenis",
+            "audio": "Jugar_al_tenis.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Играть в теннис",
+            "audio": "Играть_в_теннис.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตีเทนนิส",
+            "audio": "ตีเทนนิส.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bermain tenis",
+            "audio": "Bermain_tenis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "打網球",
+            "audio": "打網球.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo378",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "打高爾夫",
+        "CN_ENG": {
+            "word": "Play golf",
+            "audio": "Play_golf.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ゴルフをする",
+            "audio": "ゴルフをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "골프를 치다",
+            "audio": "골프를_치다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chơi golf",
+            "audio": "Chơi_golf.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "打Golf",
+            "audio": "打Golf.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Jouer au golf",
+            "audio": "Jouer_au_golf.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Golf spielen",
+            "audio": "Golf_spielen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Jugar al golf",
+            "audio": "Jugar_al_golf.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Играть в гольф",
+            "audio": "Играть_в_гольф.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตีกอล์ฟ",
+            "audio": "ตีกอล์ฟ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bermain golf",
+            "audio": "Bermain_golf.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "打高爾夫",
+            "audio": "打高爾夫.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo379",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "滑雪",
+        "CN_ENG": {
+            "word": "Ski",
+            "audio": "Ski.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "スキーをする",
+            "audio": "スキーをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "스키를 타다",
+            "audio": "스키를_타다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trượt tuyết",
+            "audio": "Trượt_tuyết.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "滑雪",
+            "audio": "滑雪.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Skier",
+            "audio": "Skier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Skifahren",
+            "audio": "Skifahren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esquiar",
+            "audio": "Esquiar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кататься на лыжах",
+            "audio": "Кататься_на_лыжах.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เล่นสกี",
+            "audio": "เล่นสกี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bermain ski",
+            "audio": "Bermain_ski.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "滑雪",
+            "audio": "滑雪.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo380",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🏋️ 健身運動",
+        "cn": "溜冰",
+        "CN_ENG": {
+            "word": "Skate",
+            "audio": "Skate.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "スケートをする",
+            "audio": "スケートをする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "스케이트를 타다",
+            "audio": "스케이트를_타다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trượt băng",
+            "audio": "Trượt_băng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "溜冰",
+            "audio": "溜冰.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Patiner",
+            "audio": "Patiner.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schlittschuh laufen",
+            "audio": "Schlittschuh_laufen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Patinar",
+            "audio": "Patinar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кататься на коньках",
+            "audio": "Кататься_на_коньках.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เล่นสเก็ต",
+            "audio": "เล่นสเก็ต.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berseluncur",
+            "audio": "Berseluncur.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "溜冰",
+            "audio": "溜冰.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo381",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "影印",
+        "CN_ENG": {
+            "word": "Photocopy",
+            "audio": "Photocopy.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "コピーする",
+            "audio": "コピーする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "복사하다",
+            "audio": "복사하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Photo",
+            "audio": "Photo.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "影印",
+            "audio": "影印.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Photocopier",
+            "audio": "Photocopier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kopieren",
+            "audio": "Kopieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Fotocopiar",
+            "audio": "Fotocopiar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ксерокопировать",
+            "audio": "Ксерокопировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถ่ายเอกสาร",
+            "audio": "ถ่ายเอกสาร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Fotokopi",
+            "audio": "Fotokopi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "影印",
+            "audio": "影印.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo382",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "掃描",
+        "CN_ENG": {
+            "word": "Scan",
+            "audio": "Scan.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "スキャンする",
+            "audio": "スキャンする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "스캔하다",
+            "audio": "스캔하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quét (scan)",
+            "audio": "Quét.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "Scan",
+            "audio": "Scan.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Numériser",
+            "audio": "Numériser.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Scannen",
+            "audio": "Scannen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Escanear",
+            "audio": "Escanear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сканировать",
+            "audio": "Сканировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สแกน",
+            "audio": "สแกน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Scan",
+            "audio": "Scan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "掃描",
+            "audio": "掃描.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo383",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "列印",
+        "CN_ENG": {
+            "word": "Print",
+            "audio": "Print.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "印刷する",
+            "audio": "印刷する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "인쇄하다",
+            "audio": "인쇄하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "In ấn",
+            "audio": "In_ấn.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "Print",
+            "audio": "Print.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Imprimer",
+            "audio": "Imprimer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Drucken",
+            "audio": "Drucken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Imprimir",
+            "audio": "Imprimir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Печатать",
+            "audio": "Печатать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปริ้นท์",
+            "audio": "ปริ้นท์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencetak",
+            "audio": "Mencetak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "列印",
+            "audio": "列印.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo384",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "裝訂",
+        "CN_ENG": {
+            "word": "Bind (documents)",
+            "audio": "Bind.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "製本する",
+            "audio": "製本する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "제본하다",
+            "audio": "제본하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đóng sách",
+            "audio": "Đóng_sách.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "釘裝",
+            "audio": "釘裝.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Relier",
+            "audio": "Relier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Binden",
+            "audio": "Binden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Encuadernar",
+            "audio": "Encuadernar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Переплетать",
+            "audio": "Переплетать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เข้าเล่ม",
+            "audio": "เข้าเล่ม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menjilid",
+            "audio": "Menjilid.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "裝訂",
+            "audio": "裝訂.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo385",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "歸檔",
+        "CN_ENG": {
+            "word": "File (documents)",
+            "audio": "File.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ファイルする",
+            "audio": "ファイルする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "파일하다",
+            "audio": "파일하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lưu hồ sơ",
+            "audio": "Lưu_hồ_sơ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "歸檔",
+            "audio": "歸檔.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Classer",
+            "audio": "Classer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ablegen",
+            "audio": "Ablegen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Archivar",
+            "audio": "Archivar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подшивать",
+            "audio": "Подшивать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เก็บเข้าแฟ้ม",
+            "audio": "เก็บเข้าแฟ้ม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mengarsipkan",
+            "audio": "Mengarsipkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "歸檔",
+            "audio": "歸檔.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo386",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "簽名",
+        "CN_ENG": {
+            "word": "Sign",
+            "audio": "Sign.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "署名する",
+            "audio": "署名する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "서명하다",
+            "audio": "서명하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ký tên",
+            "audio": "Ký_tên.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "簽名",
+            "audio": "簽名.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Signer",
+            "audio": "Signer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unterschreiben",
+            "audio": "Unterschreiben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Firmar",
+            "audio": "Firmar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подписывать",
+            "audio": "Подписывать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เซ็นชื่อ",
+            "audio": "เซ็นชื่อ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menandatangani",
+            "audio": "Menandatangani.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "簽名",
+            "audio": "簽名.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo387",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "蓋章",
+        "CN_ENG": {
+            "word": "Stamp",
+            "audio": "Stamp.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ハンコを押す",
+            "audio": "ハンコを押す.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "도장을 찍다",
+            "audio": "도장을_찍다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đóng dấu",
+            "audio": "Đóng_dấu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "蓋印",
+            "audio": "蓋印.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tamponner",
+            "audio": "Tamponner.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Stempeln",
+            "audio": "Stempeln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sellar",
+            "audio": "Sellar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ставить печать",
+            "audio": "Ставить_печать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ประทับตรา",
+            "audio": "ประทับตรา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memberi stempel",
+            "audio": "Memberi_stempel.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "蓋章",
+            "audio": "蓋章.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo388",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "黏貼",
+        "CN_ENG": {
+            "word": "Paste / Glue",
+            "audio": "Paste__Glue.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "糊付けする",
+            "audio": "糊付けする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "풀칠하다",
+            "audio": "풀칠하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dán",
+            "audio": "Dán.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "黐",
+            "audio": "黐.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Coller",
+            "audio": "Coller.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kleben",
+            "audio": "Kleben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Pegar",
+            "audio": "Pegar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Kleit",
+            "audio": "Kleit.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ติดกาว",
+            "audio": "ติดกาว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menempel",
+            "audio": "Menempel.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "黏貼",
+            "audio": "黏貼.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo389",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "剪下",
+        "CN_ENG": {
+            "word": "Cut",
+            "audio": "Cut.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "切り取る",
+            "audio": "切り取る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오리다",
+            "audio": "오리다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cắt",
+            "audio": "Cắt.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "剪",
+            "audio": "剪.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Couper",
+            "audio": "Couper.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schneiden",
+            "audio": "Schneiden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cortar",
+            "audio": "Cortar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вырезать",
+            "audio": "Вырезать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตัด",
+            "audio": "ตัด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Memotong",
+            "audio": "Memotong.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "剪下",
+            "audio": "剪下.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo390",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "📝 文書處理",
+        "cn": "摺疊",
+        "CN_ENG": {
+            "word": "Fold",
+            "audio": "Fold.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "折る",
+            "audio": "折る.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "접다",
+            "audio": "접다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gấp",
+            "audio": "Gấp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "摺",
+            "audio": "摺.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Plier",
+            "audio": "Plier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Falten",
+            "audio": "Falten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Doblar",
+            "audio": "Doblar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Складывать",
+            "audio": "Складывать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พับ",
+            "audio": "พับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Melipat",
+            "audio": "Melipat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "摺疊",
+            "audio": "摺疊.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo391",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "懷疑",
+        "CN_ENG": {
+            "word": "Suspect",
+            "audio": "Suspect.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "疑う",
+            "audio": "疑う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "의심하다",
+            "audio": "의심하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nghi ngờ",
+            "audio": "Nghi_ngờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "懷疑",
+            "audio": "懷疑.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Suspecter",
+            "audio": "Suspecter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verdächtigen",
+            "audio": "Verdächtigen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Sospechar",
+            "audio": "Sospechar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Подозревать",
+            "audio": "Подозревать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สงสัย",
+            "audio": "สงสัย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mencurigai",
+            "audio": "Mencurigai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "懷疑",
+            "audio": "懷疑.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo392",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "後悔",
+        "CN_ENG": {
+            "word": "Regret",
+            "audio": "Regret.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "後悔する",
+            "audio": "後悔する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "후회하다",
+            "audio": "후회하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hối hận",
+            "audio": "Hối_hận.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "後悔",
+            "audio": "後悔.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Regretter",
+            "audio": "Regretter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bereuen",
+            "audio": "Bereuen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Arrepentirse",
+            "audio": "Arrepentirse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Жалеть",
+            "audio": "Жалеть.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสียใจ (ภายหลัง)",
+            "audio": "เสียใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menyesal",
+            "audio": "Menyesal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "後悔",
+            "audio": "後悔.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo393",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "羨慕",
+        "CN_ENG": {
+            "word": "Envy",
+            "audio": "Envy.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "羨む",
+            "audio": "羨む.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "부러워하다",
+            "audio": "부러워하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ghen tị / Ngưỡng mộ",
+            "audio": "Ghen_tị__Ngưỡng_mộ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "羨慕",
+            "audio": "羨慕.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Envier",
+            "audio": "Envier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Beneiden",
+            "audio": "Beneiden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Envidiar",
+            "audio": "Envidiar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Завидовать",
+            "audio": "Завидовать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อิจฉา",
+            "audio": "อิจฉา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Iri",
+            "audio": "Iri.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "羨慕",
+            "audio": "羨慕.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo394",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "嫉妒",
+        "CN_ENG": {
+            "word": "Be jealous",
+            "audio": "Be_jealous.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "嫉妬する",
+            "audio": "嫉妬する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "질투하다",
+            "audio": "질투하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ghen tuông",
+            "audio": "Ghen_tuông.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "妒忌",
+            "audio": "妒忌.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Être jaloux",
+            "audio": "Être_jaloux.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Eifersüchtig sein",
+            "audio": "Eifersüchtig_sein.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tener celos",
+            "audio": "Tener_celos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ревновать",
+            "audio": "Ревновать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หึง",
+            "audio": "หึง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cemburu",
+            "audio": "Cemburu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "嫉妒",
+            "audio": "嫉妒.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo395",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "欣賞",
+        "CN_ENG": {
+            "word": "Appreciate / Admire",
+            "audio": "Appreciate__Admire.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "鑑賞する / 称賛する",
+            "audio": "鑑賞する__称賛する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "감상하다 / 존경하다",
+            "audio": "감상하다__존경하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thưởng thức / Khâm phục",
+            "audio": "Thưởng_thức__Khâm_phục.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "欣賞",
+            "audio": "欣賞.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Apprécier",
+            "audio": "Apprécier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schätzen",
+            "audio": "Schätzen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Apreciar",
+            "audio": "Apreciar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ценить",
+            "audio": "Ценить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ชื่นชม",
+            "audio": "ชื่นชม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menghargai",
+            "audio": "Menghargai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "欣賞",
+            "audio": "欣賞.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo396",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "討厭",
+        "CN_ENG": {
+            "word": "Hate / Dislike",
+            "audio": "Hate__Dislike.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "嫌う",
+            "audio": "嫌う.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "싫어하다",
+            "audio": "싫어하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ghét",
+            "audio": "Ghét.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "討厭",
+            "audio": "討厭.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Détester",
+            "audio": "Détester.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hassen",
+            "audio": "Hassen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Odiar",
+            "audio": "Odiar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ненавидить",
+            "audio": "Ненавидить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เกลียด",
+            "audio": "เกลียด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Membenci",
+            "audio": "Membenci.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "討厭",
+            "audio": "討厭.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo397",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "害怕",
+        "CN_ENG": {
+            "word": "Fear",
+            "audio": "Fear.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "恐れる",
+            "audio": "恐れる.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무서워하다",
+            "audio": "무서워하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sợ",
+            "audio": "Sợ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "驚",
+            "audio": "驚.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Craindre",
+            "audio": "Craindre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Fürchten",
+            "audio": "Fürchten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Temer",
+            "audio": "Temer.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Бояться",
+            "audio": "Бояться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กลัว",
+            "audio": "กลัว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Takut",
+            "audio": "Takut.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "害怕",
+            "audio": "害怕.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo398",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "擔心",
+        "CN_ENG": {
+            "word": "Worry",
+            "audio": "Worry.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "心配する",
+            "audio": "心配する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "걱정하다",
+            "audio": "걱정하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lo lắng",
+            "audio": "Lo_lắng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "擔心",
+            "audio": "擔心.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'inquiéter",
+            "audio": "S'inquiéter.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich sorgen",
+            "audio": "Sich_sorgen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Preocuparse",
+            "audio": "Preocuparse.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Волноваться",
+            "audio": "Волноваться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กังวล",
+            "audio": "กังวล.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Khawatir",
+            "audio": "Khawatir.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "擔心",
+            "audio": "擔心.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo399",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "期待",
+        "CN_ENG": {
+            "word": "Look forward to",
+            "audio": "Look_forward_to.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "楽しみにする",
+            "audio": "楽しみにする.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기대하다",
+            "audio": "기대하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mong đợi",
+            "audio": "Mong_đợi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "期待",
+            "audio": "期待.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Attendre avec impatience",
+            "audio": "Attendre_avec_impatience.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sich freuen auf",
+            "audio": "Sich_freuen_auf.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esperar con ilusión",
+            "audio": "Esperar_con_ilusión.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ждать с нетерпением",
+            "audio": "Ждать_с_нетерпением.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตั้งตารอ",
+            "audio": "ตั้งตารอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menanti-nanti",
+            "audio": "Menanti-nanti.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "期待",
+            "audio": "期待.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "vbo400",
+        "category": "Lesson 30 🧩 動賓片語(Verb phrases)",
+        "subcategory": "🧠 心理活動",
+        "cn": "幻想",
+        "CN_ENG": {
+            "word": "Fantasize",
+            "audio": "Fantasize.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "空想する",
+            "audio": "空想する.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "공상하다",
+            "audio": "공상하다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ảo tưởng",
+            "audio": "Ảo_tưởng.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "幻想",
+            "audio": "幻想.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Fantasmer",
+            "audio": "Fantasmer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Fantasieren",
+            "audio": "Fantasieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Fantasear",
+            "audio": "Fantasear.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Фантазировать",
+            "audio": "Фантазировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เพ้อฝัน",
+            "audio": "เพ้อฝัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berfantasi",
+            "audio": "Berfantasi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "幻想",
+            "audio": "幻想.mp3",
             "folder": "CN_ZH/audio"
         }
     }

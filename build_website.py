@@ -17,7 +17,7 @@ if os.path.exists(correct_folder):
     print(f"📂 工作目錄已鎖定: {correct_folder}")
 else:
     print("❌ 路徑錯誤，請確認程式位置。")
-    input("請按 Enter 鍵關閉視窗...")
+    input("🔴 請按 Enter 鍵結束...")
     sys.exit()
 
 # --- 設定區 ---
@@ -59,7 +59,10 @@ def get_audio_text(text, lang_code):
     return re.sub(r'[\(（].*?[\)）]', '', text).strip()
 
 def safe_filename(text):
+    # 1. 基本非法字元清理
     safe_text = re.sub(r'[\\/*?:"<>|]', "", text).strip().replace(" ", "_")
+    
+    # 2. 🛡️ Windows 保留字防護 (解決 CON, NUL 問題)
     reserved_words = {
         "CON", "PRN", "AUX", "NUL",
         "COM1", "COM2", "COM3", "COM4", "COM5", "COM6", "COM7", "COM8", "COM9",
@@ -73,8 +76,8 @@ async def generate_voice_file(text, voice_name, output_path):
     try:
         communicate = edge_tts.Communicate(text, voice_name)
         await communicate.save(output_path)
-    except:
-        pass
+    except Exception as e:
+        print(f"      ⚠️ 下載失敗 (跳過): {text} -> {e}")
 
 # --- HTML 生成 ---
 
@@ -123,11 +126,11 @@ def generate_html_footer(cat_name="general"):
 
 # --- 主程式 ---
 def main():
-    print(f"🚀 啟動 Builder (v12.3 視窗防閃退版)...")
+    print(f"🚀 啟動 Builder (v12.4 進度顯示 + 穩定修復版)...")
     if not os.path.exists(SEO_FOLDER): os.makedirs(SEO_FOLDER)
     
     # 1. 讀取 Excel
-    print(f"📂 讀取 Excel 中...")
+    print(f"📂 正在讀取 Excel，請稍候...")
     try:
         if EXCEL_FILE.endswith('.csv'):
             df = pd.read_csv(EXCEL_FILE, dtype=str)
@@ -136,11 +139,13 @@ def main():
         
         df.columns = df.columns.str.strip()
         df = df.dropna(subset=[COL_ID, COL_CN])
+        
+        total_items = len(df)
+        print(f"✅ 成功讀取資料，共發現 {total_items} 個單字。")
+        
     except Exception as e:
         print(f"❌ 讀取失敗: {e}")
-        print("⚠️  請檢查：")
-        print("   1. Excel 檔案是否已經關閉？")
-        print("   2. 檔案名稱是否正確？")
+        print("⚠️  請檢查 Excel 是否已關閉？")
         input("🔴 請按 Enter 鍵結束...")
         return
 
@@ -149,13 +154,17 @@ def main():
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
 
-    print("🔄 開始處理資料 (請耐心等待)...")
+    print("🔄 開始處理資料 (若看到 [新] 代表正在下載音檔)...")
 
     for index, row in df.iterrows():
         cn_text = row.get(COL_CN, "").strip()
         main_cat = row.get(COL_CAT_MAIN, "Uncategorized")
         sub_cat = str(row.get(COL_CAT_SUB, "")).strip()
         if sub_cat == "nan": sub_cat = ""
+
+        # 顯示進度 (每處理 10 筆顯示一次，避免洗版)
+        if index % 10 == 0:
+            print(f"   ⏳ 進度: {index + 1}/{total_items} ({cn_text})")
 
         if main_cat not in seo_categories: seo_categories[main_cat] = []
         seo_categories[main_cat].append(row)
@@ -176,6 +185,8 @@ def main():
 
             if not os.path.exists(fpath):
                 try:
+                    # 顯示正在下載哪個語言，讓使用者知道程式沒當機
+                    print(f"      🎙️ [新] 下載 {lang_key} 音檔: {text_audio}")
                     loop.run_until_complete(generate_voice_file(text_audio, config['voice'], fpath))
                 except: pass
 
@@ -184,12 +195,12 @@ def main():
         js_data_list.append(item_data)
 
     # 2. 存檔 data.js
-    print("💾 儲存 data.js ...")
+    print(f"💾 正在儲存 data.js (共 {len(js_data_list)} 筆資料)...")
     with open("data.js", "w", encoding="utf-8") as f:
         f.write(f"const vocabData = {json.dumps(js_data_list, ensure_ascii=False, indent=4)};")
 
     # 3. 頁面更新
-    print("📄 更新頁面...")
+    print("📄 更新網頁 (Sitemap, About, Privacy)...")
     
     # Sitemap
     sitemap = generate_html_header("網站地圖", True) + '<div class="content-box"><h1 class="text-center">📚 分類列表</h1><div class="list-group">'
