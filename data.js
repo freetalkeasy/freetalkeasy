@@ -32822,8 +32822,8 @@ const vocabData = [
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
-            "word": "Nghêu",
-            "audio": "Nghêu.mp3",
+            "word": "Nghêu/Hến",
+            "audio": "NghêuHến.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
