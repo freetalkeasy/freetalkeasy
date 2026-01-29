@@ -468,7 +468,7 @@ const vocabData = [
         "cn": "我",
         "CN_ENG": {
             "word": "I / Me",
-            "audio": "I__Me.mp3",
+            "audio": "I_,__Me.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -1016,7 +1016,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "再見 / 拜拜",
-            "audio": "再見__拜拜.mp3",
+            "audio": "再見_,__拜拜.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -1280,7 +1280,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "多謝 / 唔該",
-            "audio": "多謝__唔該.mp3",
+            "audio": "多謝_,__唔該.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -1600,7 +1600,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "제발 / 부탁합니다 (je-bal)",
-            "audio": "제발__부탁합니다.mp3",
+            "audio": "제발_,__부탁합니다.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -1610,7 +1610,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "唔該 / 請",
-            "audio": "唔該__請.mp3",
+            "audio": "唔該_,__請.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -1635,12 +1635,12 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ได้โปรด / เชิญ (dai-prot)",
-            "audio": "ได้โปรด__เชิญ.mp3",
+            "audio": "ได้โปรด_,__เชิญ.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
             "word": "Silakan / Tolong",
-            "audio": "Silakan__Tolong.mp3",
+            "audio": "Silakan_,__Tolong.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -1920,7 +1920,7 @@ const vocabData = [
         "cn": "辛苦了",
         "CN_ENG": {
             "word": "Good job / Thank you for hard work",
-            "audio": "Good_job__Thank_you_for_hard_work.mp3",
+            "audio": "Good_job_,__Thank_you_for_hard_work.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -2448,7 +2448,7 @@ const vocabData = [
         "cn": "我",
         "CN_ENG": {
             "word": "I / Me",
-            "audio": "I__Me.mp3",
+            "audio": "I_,__Me.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -2458,7 +2458,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "나 / 저 (na / jeo)",
-            "audio": "나__저.mp3",
+            "audio": "나_,__저.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -2473,7 +2473,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Je / Moi",
-            "audio": "Je__Moi.mp3",
+            "audio": "Je_,__Moi.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -2493,12 +2493,12 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ฉัน / ผม (chan / phom)",
-            "audio": "ฉัน__ผม.mp3",
+            "audio": "ฉัน_,__ผม.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
             "word": "Saya / Aku",
-            "audio": "Saya__Aku.mp3",
+            "audio": "Saya_,__Aku.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -2524,7 +2524,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "너 / 당신 (neo / dang-sin)",
-            "audio": "너__당신.mp3",
+            "audio": "너_,__당신.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -2539,17 +2539,17 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Tu / Vous",
-            "audio": "Tu__Vous.mp3",
+            "audio": "Tu_,__Vous.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
             "word": "Du / Sie",
-            "audio": "Du__Sie.mp3",
+            "audio": "Du_,__Sie.mp3",
             "folder": "CN_DE/audio"
         },
         "CN_ES": {
             "word": "Tú / Usted",
-            "audio": "Tú__Usted.mp3",
+            "audio": "Tú_,__Usted.mp3",
             "folder": "CN_ES/audio"
         },
         "CN_RU": {
@@ -2564,7 +2564,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Kamu / Anda",
-            "audio": "Kamu__Anda.mp3",
+            "audio": "Kamu_,__Anda.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -2737,7 +2737,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Il / Elle",
-            "audio": "Il__Elle.mp3",
+            "audio": "Il_,__Elle.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -2762,7 +2762,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Dia / Itu",
-            "audio": "Dia__Itu.mp3",
+            "audio": "Dia_,__Itu.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -2828,7 +2828,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Kami / Kita",
-            "audio": "Kami__Kita.mp3",
+            "audio": "Kami_,__Kita.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -2986,7 +2986,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "나의 / 제 (na-ui / je)",
-            "audio": "나의__제.mp3",
+            "audio": "나의_,__제.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -3001,7 +3001,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Mon / Ma",
-            "audio": "Mon__Ma.mp3",
+            "audio": "Mon_,__Ma.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -3026,7 +3026,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "-ku / Milik saya",
-            "audio": "-ku__Milik_saya.mp3",
+            "audio": "-ku_,__Milik_saya.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -3067,7 +3067,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Ton / Ta",
-            "audio": "Ton__Ta.mp3",
+            "audio": "Ton_,__Ta.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -3092,7 +3092,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "-mu / Milik kamu",
-            "audio": "-mu__Milik_kamu.mp3",
+            "audio": "-mu_,__Milik_kamu.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -3133,7 +3133,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Son / Sa",
-            "audio": "Son__Sa.mp3",
+            "audio": "Son_,__Sa.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -3199,7 +3199,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Son / Sa",
-            "audio": "Son__Sa.mp3",
+            "audio": "Son_,__Sa.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -3265,7 +3265,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Son / Sa",
-            "audio": "Son__Sa.mp3",
+            "audio": "Son_,__Sa.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -3778,7 +3778,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "모두 / 여러분 (mo-du)",
-            "audio": "모두__여러분.mp3",
+            "audio": "모두_,__여러분.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -3900,7 +3900,7 @@ const vocabData = [
         "cn": "沒人",
         "CN_ENG": {
             "word": "No one / Nobody",
-            "audio": "No_one__Nobody.mp3",
+            "audio": "No_one_,__Nobody.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -4692,7 +4692,7 @@ const vocabData = [
         "cn": "夥伴 (隊友)",
         "CN_ENG": {
             "word": "Partner / Teammate",
-            "audio": "Partner__Teammate.mp3",
+            "audio": "Partner_,__Teammate.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -5169,7 +5169,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Bố / Cha",
-            "audio": "Bố__Cha.mp3",
+            "audio": "Bố_,__Cha.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -5494,7 +5494,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "형 / 오빠 (hyeong/oppa)",
-            "audio": "형__오빠.mp3",
+            "audio": "형_,__오빠.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -5560,7 +5560,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "누나 / 언니 (nuna/unnie)",
-            "audio": "누나__언니.mp3",
+            "audio": "누나_,__언니.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -5768,7 +5768,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "阿爺 / 公公",
-            "audio": "阿爺__公公.mp3",
+            "audio": "阿爺_,__公公.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -5793,7 +5793,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ปู่ / ตา (pu/ta)",
-            "audio": "ปู่__ตา.mp3",
+            "audio": "ปู่_,__ตา.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -5834,7 +5834,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "阿嫲 / 婆婆",
-            "audio": "阿嫲__婆婆.mp3",
+            "audio": "阿嫲_,__婆婆.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -5859,7 +5859,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ย่า / ยาย (ya/yai)",
-            "audio": "ย่า__ยาย.mp3",
+            "audio": "ย่า_,__ยาย.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -5900,7 +5900,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "太爺 / 太公",
-            "audio": "太爺__太公.mp3",
+            "audio": "太爺_,__太公.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -5966,7 +5966,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "太嫲 / 太婆",
-            "audio": "太嫲__太婆.mp3",
+            "audio": "太嫲_,__太婆.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -6286,17 +6286,17 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "장인 / 시아버지 (jang-in)",
-            "audio": "장인__시아버지.mp3",
+            "audio": "장인_,__시아버지.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
             "word": "Bố vợ / Bố chồng",
-            "audio": "Bố_vợ__Bố_chồng.mp3",
+            "audio": "Bố_vợ_,__Bố_chồng.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
             "word": "外父 / 老爺",
-            "audio": "外父__老爺.mp3",
+            "audio": "外父_,__老爺.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -6316,12 +6316,12 @@ const vocabData = [
         },
         "CN_RU": {
             "word": "Тесть / Свекор",
-            "audio": "Тесть__Свекор.mp3",
+            "audio": "Тесть_,__Свекор.mp3",
             "folder": "CN_RU/audio"
         },
         "CN_TH": {
             "word": "พ่อตา / พ่อผัว (pho-ta)",
-            "audio": "พ่อตา__พ่อผัว.mp3",
+            "audio": "พ่อตา_,__พ่อผัว.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -6352,17 +6352,17 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "장모 / 시어머니 (jang-mo)",
-            "audio": "장모__시어머니.mp3",
+            "audio": "장모_,__시어머니.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
             "word": "Mẹ vợ / Mẹ chồng",
-            "audio": "Mẹ_vợ__Mẹ_chồng.mp3",
+            "audio": "Mẹ_vợ_,__Mẹ_chồng.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
             "word": "外母 / 奶奶",
-            "audio": "外母__奶奶.mp3",
+            "audio": "外母_,__奶奶.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -6382,12 +6382,12 @@ const vocabData = [
         },
         "CN_RU": {
             "word": "Теща / Свекровь",
-            "audio": "Теща__Свекровь.mp3",
+            "audio": "Теща_,__Свекровь.mp3",
             "folder": "CN_RU/audio"
         },
         "CN_TH": {
             "word": "แม่ยาย / แม่ผัว (mae-yai)",
-            "audio": "แม่ยาย__แม่ผัว.mp3",
+            "audio": "แม่ยาย_,__แม่ผัว.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -6555,7 +6555,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Chú / Bác",
-            "audio": "Chú__Bác.mp3",
+            "audio": "Chú_,__Bác.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -6585,7 +6585,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ลุง / อา (lung/a)",
-            "audio": "ลุง__อา.mp3",
+            "audio": "ลุง_,__อา.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -6616,12 +6616,12 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "이모 / 고모 (i-mo)",
-            "audio": "이모__고모.mp3",
+            "audio": "이모_,__고모.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
             "word": "Cô / Dì",
-            "audio": "Cô__Dì.mp3",
+            "audio": "Cô_,__Dì.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -6651,7 +6651,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ป้า / น้า (pa/na)",
-            "audio": "ป้า__น้า.mp3",
+            "audio": "ป้า_,__น้า.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -6692,7 +6692,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "表哥/表妹",
-            "audio": "表哥表妹.mp3",
+            "audio": "表哥,_表妹.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -7596,7 +7596,7 @@ const vocabData = [
         "cn": "廚師",
         "CN_ENG": {
             "word": "Cook / Chef",
-            "audio": "Cook__Chef.mp3",
+            "audio": "Cook_,__Chef.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -7814,7 +7814,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "空姐/空少",
-            "audio": "空姐空少.mp3",
+            "audio": "空姐,_空少.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -8129,7 +8129,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "部長 / マネージャー",
-            "audio": "部長__マネージャー.mp3",
+            "audio": "部長_,__マネージャー.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -8784,7 +8784,7 @@ const vocabData = [
         "cn": "網紅 (Youtuber)",
         "CN_ENG": {
             "word": "Influencer / Youtuber",
-            "audio": "Influencer__Youtuber.mp3",
+            "audio": "Influencer_,__Youtuber.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -9378,7 +9378,7 @@ const vocabData = [
         "cn": "理髮師",
         "CN_ENG": {
             "word": "Barber / Hairdresser",
-            "audio": "Barber__Hairdresser.mp3",
+            "audio": "Barber_,__Hairdresser.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -11144,7 +11144,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Tuhan / Dewa",
-            "audio": "Tuhan__Dewa.mp3",
+            "audio": "Tuhan_,__Dewa.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -12282,7 +12282,7 @@ const vocabData = [
         "cn": "主人",
         "CN_ENG": {
             "word": "Owner / Master",
-            "audio": "Owner__Master.mp3",
+            "audio": "Owner_,__Master.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -12414,7 +12414,7 @@ const vocabData = [
         "cn": "騙子",
         "CN_ENG": {
             "word": "Liar / Scammer",
-            "audio": "Liar__Scammer.mp3",
+            "audio": "Liar_,__Scammer.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -12546,7 +12546,7 @@ const vocabData = [
         "cn": "兇手",
         "CN_ENG": {
             "word": "Murderer / Killer",
-            "audio": "Murderer__Killer.mp3",
+            "audio": "Murderer_,__Killer.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -17298,7 +17298,7 @@ const vocabData = [
         "cn": "加 (加上)",
         "CN_ENG": {
             "word": "Plus / Add",
-            "audio": "Plus__Add.mp3",
+            "audio": "Plus_,__Add.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -17364,7 +17364,7 @@ const vocabData = [
         "cn": "減 (減去)",
         "CN_ENG": {
             "word": "Minus / Subtract",
-            "audio": "Minus__Subtract.mp3",
+            "audio": "Minus_,__Subtract.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -17572,7 +17572,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "는 / 은 (neun / eun)",
-            "audio": "는__은.mp3",
+            "audio": "는_,__은.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -18866,7 +18866,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Angka / Nomor",
-            "audio": "Angka__Nomor.mp3",
+            "audio": "Angka_,__Nomor.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -18882,7 +18882,7 @@ const vocabData = [
         "cn": "數量",
         "CN_ENG": {
             "word": "Quantity / Amount",
-            "audio": "Quantity__Amount.mp3",
+            "audio": "Quantity_,__Amount.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -18958,7 +18958,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "조금 / 몇몇 (jo-geum / myeon-myeot)",
-            "audio": "조금__몇몇.mp3",
+            "audio": "조금_,__몇몇.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -19014,7 +19014,7 @@ const vocabData = [
         "cn": "很多",
         "CN_ENG": {
             "word": "Many / Much",
-            "audio": "Many__Much.mp3",
+            "audio": "Many_,__Much.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -19080,7 +19080,7 @@ const vocabData = [
         "cn": "很少",
         "CN_ENG": {
             "word": "Few / Little",
-            "audio": "Few__Little.mp3",
+            "audio": "Few_,__Little.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -19212,7 +19212,7 @@ const vocabData = [
         "cn": "幾 (多少)",
         "CN_ENG": {
             "word": "How many / How much",
-            "audio": "How_many__How_much.mp3",
+            "audio": "How_many_,__How_much.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -19257,7 +19257,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "กี่ / เท่าไหร่ (kee / thao-rai)",
-            "audio": "กี่__เท่าไหร่.mp3",
+            "audio": "กี่_,__เท่าไหร่.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -19354,7 +19354,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "총 / 합계 (chong / hap-gye)",
-            "audio": "총__합계.mp3",
+            "audio": "총_,__합계.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -19486,7 +19486,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "명 / 분 (myeong / bun)",
-            "audio": "명__분.mp3",
+            "audio": "명_,__분.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -19521,7 +19521,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "คน / ท่าน (khon / than)",
-            "audio": "คน__ท่าน.mp3",
+            "audio": "คน_,__ท่าน.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -19689,7 +19689,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Quyển / Cuốn",
-            "audio": "Quyển__Cuốn.mp3",
+            "audio": "Quyển_,__Cuốn.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -19750,12 +19750,12 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "쌍 / 켤레 (ssang / kyeol-le)",
-            "audio": "쌍__켤레.mp3",
+            "audio": "쌍_,__켤레.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
             "word": "Đôi / Cặp",
-            "audio": "Đôi__Cặp.mp3",
+            "audio": "Đôi_,__Cặp.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -19816,7 +19816,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "살 / 세 (sal / se)",
-            "audio": "살__세.mp3",
+            "audio": "살_,__세.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -19851,7 +19851,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ปี / ขวบ (pee / khuap)",
-            "audio": "ปี__ขวบ.mp3",
+            "audio": "ปี_,__ขวบ.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -20511,7 +20511,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ตีหนึ่ง / บ่ายโมง (ti-nueng / bai-mong)",
-            "audio": "ตีหนึ่ง__บ่ายโมง.mp3",
+            "audio": "ตีหนึ่ง_,__บ่ายโมง.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -21217,7 +21217,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Il est midi / minuit.",
-            "audio": "Il_est_midi__minuit..mp3",
+            "audio": "Il_est_midi_,__minuit..mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -21237,7 +21237,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "เที่ยง / เที่ยงคืน (thiang / thiang-khuen)",
-            "audio": "เที่ยง__เที่ยงคืน.mp3",
+            "audio": "เที่ยง_,__เที่ยงคืน.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -22953,7 +22953,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "สายเกินไป / ดึกเกินไป (sai-koen-pai / duek-koen-pai)",
-            "audio": "สายเกินไป__ดึกเกินไป.mp3",
+            "audio": "สายเกินไป_,__ดึกเกินไป.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -23085,7 +23085,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ขอโทษครับ/ค่ะ ตอนนี้กี่โมง (kho-thot, ton-nee-kee-mong)",
-            "audio": "ขอโทษครับค่ะ_ตอนนี้กี่โมง.mp3",
+            "audio": "ขอโทษครับ,_ค่ะ_ตอนนี้กี่โมง.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -25065,7 +25065,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "เช้า / ก่อนเวลา (chao / kon-we-la)",
-            "audio": "เช้า__ก่อนเวลา.mp3",
+            "audio": "เช้า_,__ก่อนเวลา.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -32822,8 +32822,8 @@ const vocabData = [
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
-            "word": "Nghêu/Hến",
-            "audio": "NghêuHến.mp3",
+            "word": "Nghêu / Hến",
+            "audio": "Nghêu_,__Hến.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -40662,7 +40662,7 @@ const vocabData = [
         "cn": "治好 (修理)",
         "CN_ENG": {
             "word": "Cure / Fix",
-            "audio": "Cure__Fix.mp3",
+            "audio": "Cure_,__Fix.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -40677,7 +40677,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Chữa / Sửa",
-            "audio": "Chữa__Sửa.mp3",
+            "audio": "Chữa_,__Sửa.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -41921,7 +41921,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "生きる / 住む (ikiru / sumu)",
-            "audio": "ikiru__sumu.mp3",
+            "audio": "ikiru_,__sumu.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -42119,7 +42119,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "ある / いる (aru / iru)",
-            "audio": "aru__iru.mp3",
+            "audio": "aru_,__iru.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -43413,7 +43413,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "เสีย / พัง (sia / phang)",
-            "audio": "เสีย__พัง.mp3",
+            "audio": "เสีย_,__พัง.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -43764,7 +43764,7 @@ const vocabData = [
         "cn": "掉落 (落下)",
         "CN_ENG": {
             "word": "Fall / Drop",
-            "audio": "Fall__Drop.mp3",
+            "audio": "Fall_,__Drop.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -43809,7 +43809,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ตก / หล่น (tok / lon)",
-            "audio": "ตก__หล่น.mp3",
+            "audio": "ตก_,__หล่น.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -44226,7 +44226,7 @@ const vocabData = [
         "cn": "上車 (搭乘)",
         "CN_ENG": {
             "word": "Ride / Get on",
-            "audio": "Ride__Get_on.mp3",
+            "audio": "Ride_,__Get_on.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -46449,7 +46449,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ตึก / อาคาร (tuek / a-khan)",
-            "audio": "ตึก__อาคาร.mp3",
+            "audio": "ตึก_,__อาคาร.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -48135,7 +48135,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Đền / Chùa",
-            "audio": "Đền__Chùa.mp3",
+            "audio": "Đền_,__Chùa.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -48368,7 +48368,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Musala / Ruang sholat",
-            "audio": "Musala__Ruang_sholat.mp3",
+            "audio": "Musala_,__Ruang_sholat.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -48830,7 +48830,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Laundry / Binatu",
-            "audio": "Laundry__Binatu.mp3",
+            "audio": "Laundry_,__Binatu.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -51090,7 +51090,7 @@ const vocabData = [
         "cn": "廣場",
         "CN_ENG": {
             "word": "Square / Plaza",
-            "audio": "Square__Plaza.mp3",
+            "audio": "Square_,__Plaza.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -52196,7 +52196,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Konter / Meja",
-            "audio": "Konter__Meja.mp3",
+            "audio": "Konter_,__Meja.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -52344,7 +52344,7 @@ const vocabData = [
         "cn": "港口",
         "CN_ENG": {
             "word": "Port / Harbor",
-            "audio": "Port__Harbor.mp3",
+            "audio": "Port_,__Harbor.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -52938,7 +52938,7 @@ const vocabData = [
         "cn": "廁所",
         "CN_ENG": {
             "word": "Toilet / Restroom",
-            "audio": "Toilet__Restroom.mp3",
+            "audio": "Toilet_,__Restroom.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -53202,7 +53202,7 @@ const vocabData = [
         "cn": "電梯",
         "CN_ENG": {
             "word": "Elevator / Lift",
-            "audio": "Elevator__Lift.mp3",
+            "audio": "Elevator_,__Lift.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -54126,7 +54126,7 @@ const vocabData = [
         "cn": "海邊",
         "CN_ENG": {
             "word": "Seaside / Beach",
-            "audio": "Seaside__Beach.mp3",
+            "audio": "Seaside_,__Beach.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -64422,7 +64422,7 @@ const vocabData = [
         "cn": "烏龜",
         "CN_ENG": {
             "word": "Turtle / Tortoise",
-            "audio": "Turtle__Tortoise.mp3",
+            "audio": "Turtle_,__Tortoise.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -64554,7 +64554,7 @@ const vocabData = [
         "cn": "老鼠",
         "CN_ENG": {
             "word": "Mouse / Rat",
-            "audio": "Mouse__Rat.mp3",
+            "audio": "Mouse_,__Rat.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -64833,7 +64833,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Lợn / Heo",
-            "audio": "Lợn__Heo.mp3",
+            "audio": "Lợn_,__Heo.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -66417,7 +66417,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Hươu / Nai",
-            "audio": "Hươu__Nai.mp3",
+            "audio": "Hươu_,__Nai.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -70874,7 +70874,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Tua/Usang",
-            "audio": "TuaUsang.mp3",
+            "audio": "Tua,_Usang.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -71732,7 +71732,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Stabilo / Spidol warna",
-            "audio": "Stabilo__Spidol_warna.mp3",
+            "audio": "Stabilo_,__Spidol_warna.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -72022,12 +72022,12 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "공책 / 노트 (gong-chaek / no-teu)",
-            "audio": "공책__노트.mp3",
+            "audio": "공책_,__노트.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
             "word": "Vở / Sổ tay",
-            "audio": "Vở__Sổ_tay.mp3",
+            "audio": "Vở_,__Sổ_tay.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -72144,7 +72144,7 @@ const vocabData = [
         "cn": "文件夾",
         "CN_ENG": {
             "word": "Folder / File",
-            "audio": "Folder__File.mp3",
+            "audio": "Folder_,__File.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -72342,7 +72342,7 @@ const vocabData = [
         "cn": "行事曆",
         "CN_ENG": {
             "word": "Planner / Schedule",
-            "audio": "Planner__Schedule.mp3",
+            "audio": "Planner_,__Schedule.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -72722,7 +72722,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Staples / Heckter",
-            "audio": "Staples__Heckter.mp3",
+            "audio": "Staples_,__Heckter.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -73464,7 +73464,7 @@ const vocabData = [
         "cn": "美工刀",
         "CN_ENG": {
             "word": "Cutter / Utility knife",
-            "audio": "Cutter__Utility_knife.mp3",
+            "audio": "Cutter_,__Utility_knife.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -73514,7 +73514,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Cutter / Pisau",
-            "audio": "Cutter__Pisau.mp3",
+            "audio": "Cutter_,__Pisau.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -74728,7 +74728,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "스포츠 / 운동 (seu-po-cheu / un-dong)",
-            "audio": "스포츠__운동.mp3",
+            "audio": "스포츠_,__운동.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -74784,7 +74784,7 @@ const vocabData = [
         "cn": "足球",
         "CN_ENG": {
             "word": "Soccer / Football",
-            "audio": "Soccer__Football.mp3",
+            "audio": "Soccer_,__Football.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -75510,7 +75510,7 @@ const vocabData = [
         "cn": "撞球 (台球)",
         "CN_ENG": {
             "word": "Billiards / Pool",
-            "audio": "Billiards__Pool.mp3",
+            "audio": "Billiards_,__Pool.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -76038,7 +76038,7 @@ const vocabData = [
         "cn": "登山 (爬山)",
         "CN_ENG": {
             "word": "Hiking / Mountain climbing",
-            "audio": "Hiking__Mountain_climbing.mp3",
+            "audio": "Hiking_,__Mountain_climbing.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -77160,7 +77160,7 @@ const vocabData = [
         "cn": "比賽",
         "CN_ENG": {
             "word": "Match / Game",
-            "audio": "Match__Game.mp3",
+            "audio": "Match_,__Game.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -77170,7 +77170,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "시합 / 경기 (si-hap / gyeong-gi)",
-            "audio": "시합__경기.mp3",
+            "audio": "시합_,__경기.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -77292,7 +77292,7 @@ const vocabData = [
         "cn": "選手",
         "CN_ENG": {
             "word": "Player / Athlete",
-            "audio": "Player__Athlete.mp3",
+            "audio": "Player_,__Athlete.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -77337,12 +77337,12 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ผู้เล่น / นักกีฬา (phu-len / nak-kee-la)",
-            "audio": "ผู้เล่น__นักกีฬา.mp3",
+            "audio": "ผู้เล่น_,__นักกีฬา.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
             "word": "Pemain / Atlet",
-            "audio": "Pemain__Atlet.mp3",
+            "audio": "Pemain_,__Atlet.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -77368,7 +77368,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "코치 / 감독 (ko-chi / gam-dok)",
-            "audio": "코치__감독.mp3",
+            "audio": "코치_,__감독.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -77622,7 +77622,7 @@ const vocabData = [
         "cn": "平手",
         "CN_ENG": {
             "word": "Draw / Tie",
-            "audio": "Draw__Tie.mp3",
+            "audio": "Draw_,__Tie.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -80592,7 +80592,7 @@ const vocabData = [
         "cn": "地鐵 (捷運)",
         "CN_ENG": {
             "word": "Subway / Metro",
-            "audio": "Subway__Metro.mp3",
+            "audio": "Subway_,__Metro.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -80642,7 +80642,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Metro / MRT",
-            "audio": "Metro__MRT.mp3",
+            "audio": "Metro_,__MRT.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -88197,7 +88197,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Laptop / Máy tính xách tay",
-            "audio": "Laptop__Máy_tính_xách_tay.mp3",
+            "audio": "Laptop_,__Máy_tính_xách_tay.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -88380,7 +88380,7 @@ const vocabData = [
         "cn": "螢幕",
         "CN_ENG": {
             "word": "Screen / Monitor",
-            "audio": "Screen__Monitor.mp3",
+            "audio": "Screen_,__Monitor.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -88390,7 +88390,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "화면 / 모니터 (hwa-myeon / mo-ni-teo)",
-            "audio": "화면__모니터.mp3",
+            "audio": "화면_,__모니터.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -88496,7 +88496,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Keyboard / Papan ketik",
-            "audio": "Keyboard__Papan_ketik.mp3",
+            "audio": "Keyboard_,__Papan_ketik.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -88694,7 +88694,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Charger / Pengisi daya",
-            "audio": "Charger__Pengisi_daya.mp3",
+            "audio": "Charger_,__Pengisi_daya.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -88806,7 +88806,7 @@ const vocabData = [
         },
         "CN_DE": {
             "word": "WLAN / Wi-Fi",
-            "audio": "WLAN__Wi-Fi.mp3",
+            "audio": "WLAN_,__Wi-Fi.mp3",
             "folder": "CN_DE/audio"
         },
         "CN_ES": {
@@ -88908,7 +88908,7 @@ const vocabData = [
         "cn": "應用程式 (App)",
         "CN_ENG": {
             "word": "App / Application",
-            "audio": "App__Application.mp3",
+            "audio": "App_,__Application.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -88918,7 +88918,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "앱 / 어플 (aep / eo-peul)",
-            "audio": "앱__어플.mp3",
+            "audio": "앱_,__어플.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -89222,7 +89222,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "File / Berkas",
-            "audio": "File__Berkas.mp3",
+            "audio": "File_,__Berkas.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -89436,7 +89436,7 @@ const vocabData = [
         "cn": "人工智慧",
         "CN_ENG": {
             "word": "AI / Artificial Intelligence",
-            "audio": "AI__Artificial_Intelligence.mp3",
+            "audio": "AI_,__Artificial_Intelligence.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -91045,7 +91045,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Doux / Chaud",
-            "audio": "Doux__Chaud.mp3",
+            "audio": "Doux_,__Chaud.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -91400,7 +91400,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Kilat / Petir",
-            "audio": "Kilat__Petir.mp3",
+            "audio": "Kilat_,__Petir.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -91756,7 +91756,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "태양 / 해 (tae-yang / hae)",
-            "audio": "태양__해.mp3",
+            "audio": "태양_,__해.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -93198,7 +93198,7 @@ const vocabData = [
         "cn": "流星",
         "CN_ENG": {
             "word": "Meteor / Shooting star",
-            "audio": "Meteor__Shooting_star.mp3",
+            "audio": "Meteor_,__Shooting_star.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -93675,7 +93675,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "UFO / Đĩa bay",
-            "audio": "UFO__Đĩa_bay.mp3",
+            "audio": "UFO_,__Đĩa_bay.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -93705,7 +93705,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ยูเอฟโอ / จานบิน (yu-ef-o / jan-bin)",
-            "audio": "ยูเอฟโอ__จานบิน.mp3",
+            "audio": "ยูเอฟโอ_,__จานบิน.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -93776,7 +93776,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Alien / Makhluk asing",
-            "audio": "Alien__Makhluk_asing.mp3",
+            "audio": "Alien_,__Makhluk_asing.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -94761,7 +94761,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "แบน / ราบ (baen)",
-            "audio": "แบน__ราบ.mp3",
+            "audio": "แบน_,__ราบ.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -95112,7 +95112,7 @@ const vocabData = [
         "cn": "乾燥",
         "CN_ENG": {
             "word": "Arid / Very dry",
-            "audio": "Arid__Very_dry.mp3",
+            "audio": "Arid_,__Very_dry.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -95162,7 +95162,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Gersang / Kering",
-            "audio": "Gersang__Kering.mp3",
+            "audio": "Gersang_,__Kering.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -95228,7 +95228,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Ramai / Padat",
-            "audio": "Ramai__Padat.mp3",
+            "audio": "Ramai_,__Padat.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -95817,7 +95817,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ตื่นเต้น / เครียด",
-            "audio": "ตื่นเต้น__เครียด.mp3",
+            "audio": "ตื่นเต้น_,__เครียด.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -95970,7 +95970,7 @@ const vocabData = [
         "cn": "害怕",
         "CN_ENG": {
             "word": "Scared / Afraid",
-            "audio": "Scared__Afraid.mp3",
+            "audio": "Scared_,__Afraid.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -96366,7 +96366,7 @@ const vocabData = [
         "cn": "活潑",
         "CN_ENG": {
             "word": "Active / Lively",
-            "audio": "Active__Lively.mp3",
+            "audio": "Active_,__Lively.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -96548,7 +96548,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Lucu / Imut",
-            "audio": "Lucu__Imut.mp3",
+            "audio": "Lucu_,__Imut.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -96630,7 +96630,7 @@ const vocabData = [
         "cn": "時髦 (流行)",
         "CN_ENG": {
             "word": "Stylish / Trendy",
-            "audio": "Stylish__Trendy.mp3",
+            "audio": "Stylish_,__Trendy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -96696,7 +96696,7 @@ const vocabData = [
         "cn": "樸素",
         "CN_ENG": {
             "word": "Plain / Simple",
-            "audio": "Plain__Simple.mp3",
+            "audio": "Plain_,__Simple.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -96762,7 +96762,7 @@ const vocabData = [
         "cn": "豪華",
         "CN_ENG": {
             "word": "Fancy / Luxurious",
-            "audio": "Fancy__Luxurious.mp3",
+            "audio": "Fancy_,__Luxurious.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -97274,7 +97274,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Umum / Publik",
-            "audio": "Umum__Publik.mp3",
+            "audio": "Umum_,__Publik.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -97752,7 +97752,7 @@ const vocabData = [
         "cn": "一般 (普通)",
         "CN_ENG": {
             "word": "General / Common",
-            "audio": "General__Common.mp3",
+            "audio": "General_,__Common.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -97868,7 +97868,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Khusus / Spesifik",
-            "audio": "Khusus__Spesifik.mp3",
+            "audio": "Khusus_,__Spesifik.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -97950,7 +97950,7 @@ const vocabData = [
         "cn": "正式",
         "CN_ENG": {
             "word": "Official / Formal",
-            "audio": "Official__Formal.mp3",
+            "audio": "Official_,__Formal.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -98021,7 +98021,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "利用可能 / 空き",
-            "audio": "利用可能__空き.mp3",
+            "audio": "利用可能_,__空き.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -98036,7 +98036,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "得閒/有位",
-            "audio": "得閒有位.mp3",
+            "audio": "得閒,_有位.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -98234,7 +98234,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "爛咗/壞咗",
-            "audio": "爛咗壞咗.mp3",
+            "audio": "爛咗,_壞咗.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -98259,7 +98259,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "เสีย / พัง (sia)",
-            "audio": "เสีย__พัง.mp3",
+            "audio": "เสีย_,__พัง.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -98691,7 +98691,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Ốm / Bệnh",
-            "audio": "Ốm__Bệnh.mp3",
+            "audio": "Ốm_,__Bệnh.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -98924,7 +98924,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Mati / Meninggal",
-            "audio": "Mati__Meninggal.mp3",
+            "audio": "Mati_,__Meninggal.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -99315,12 +99315,12 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "เช้า / เร็ว (chao)",
-            "audio": "เช้า__เร็ว.mp3",
+            "audio": "เช้า_,__เร็ว.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
             "word": "Awal / Dini",
-            "audio": "Awal__Dini.mp3",
+            "audio": "Awal_,__Dini.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -99381,7 +99381,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "สาย / ดึก (sai)",
-            "audio": "สาย__ดึก.mp3",
+            "audio": "สาย_,__ดึก.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -99996,7 +99996,7 @@ const vocabData = [
         "cn": "確定的",
         "CN_ENG": {
             "word": "Certain / Sure",
-            "audio": "Certain__Sure.mp3",
+            "audio": "Certain_,__Sure.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -100062,7 +100062,7 @@ const vocabData = [
         "cn": "主要",
         "CN_ENG": {
             "word": "Main / Primary",
-            "audio": "Main__Primary.mp3",
+            "audio": "Main_,__Primary.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -100371,7 +100371,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "บวก / มองโลกในแง่ดี",
-            "audio": "บวก__มองโลกในแง่ดี.mp3",
+            "audio": "บวก_,__มองโลกในแง่ดี.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -100437,7 +100437,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ลบ / มองโลกในแง่ร้าย",
-            "audio": "ลบ__มองโลกในแง่ร้าย.mp3",
+            "audio": "ลบ_,__มองโลกในแง่ร้าย.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -100458,7 +100458,7 @@ const vocabData = [
         "cn": "唯一",
         "CN_ENG": {
             "word": "Only / Unique",
-            "audio": "Only__Unique.mp3",
+            "audio": "Only_,__Unique.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -100483,7 +100483,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Seul / Unique",
-            "audio": "Seul__Unique.mp3",
+            "audio": "Seul_,__Unique.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -100524,7 +100524,7 @@ const vocabData = [
         "cn": "最後",
         "CN_ENG": {
             "word": "Final / Last",
-            "audio": "Final__Last.mp3",
+            "audio": "Final_,__Last.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -100706,7 +100706,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Kotak / Persegi",
-            "audio": "Kotak__Persegi.mp3",
+            "audio": "Kotak_,__Persegi.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -101925,7 +101925,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Thối / Hỏng",
-            "audio": "Thối__Hỏng.mp3",
+            "audio": "Thối_,__Hỏng.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -101976,7 +101976,7 @@ const vocabData = [
         "cn": "油膩的",
         "CN_ENG": {
             "word": "Greasy / Oily",
-            "audio": "Greasy__Oily.mp3",
+            "audio": "Greasy_,__Oily.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -102042,7 +102042,7 @@ const vocabData = [
         "cn": "清淡的",
         "CN_ENG": {
             "word": "Bland / Light",
-            "audio": "Bland__Light.mp3",
+            "audio": "Bland_,__Light.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -102356,7 +102356,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Cair / Meleleh",
-            "audio": "Cair__Meleleh.mp3",
+            "audio": "Cair_,__Meleleh.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -103164,7 +103164,7 @@ const vocabData = [
         "cn": "瘋狂的",
         "CN_ENG": {
             "word": "Mad / Crazy",
-            "audio": "Mad__Crazy.mp3",
+            "audio": "Mad_,__Crazy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -104616,7 +104616,7 @@ const vocabData = [
         "cn": "最終的",
         "CN_ENG": {
             "word": "Ultimate / Final",
-            "audio": "Ultimate__Final.mp3",
+            "audio": "Ultimate_,__Final.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -106200,7 +106200,7 @@ const vocabData = [
         "cn": "閒暇的",
         "CN_ENG": {
             "word": "Idle / Free",
-            "audio": "Idle__Free.mp3",
+            "audio": "Idle_,__Free.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -106464,7 +106464,7 @@ const vocabData = [
         "cn": "廣泛的",
         "CN_ENG": {
             "word": "Broad / Wide",
-            "audio": "Broad__Wide.mp3",
+            "audio": "Broad_,__Wide.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -106860,7 +106860,7 @@ const vocabData = [
         "cn": "模糊的",
         "CN_ENG": {
             "word": "Vague / Blurry",
-            "audio": "Vague__Blurry.mp3",
+            "audio": "Vague_,__Blurry.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -106992,7 +106992,7 @@ const vocabData = [
         "cn": "溫和的",
         "CN_ENG": {
             "word": "Gentle / Mild",
-            "audio": "Gentle__Mild.mp3",
+            "audio": "Gentle_,__Mild.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -107058,7 +107058,7 @@ const vocabData = [
         "cn": "巨大的",
         "CN_ENG": {
             "word": "Huge / Giant",
-            "audio": "Huge__Giant.mp3",
+            "audio": "Huge_,__Giant.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -107652,7 +107652,7 @@ const vocabData = [
         "cn": "後面的",
         "CN_ENG": {
             "word": "Back / Rear",
-            "audio": "Back__Rear.mp3",
+            "audio": "Back_,__Rear.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -108794,7 +108794,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "值錢/有價值",
-            "audio": "值錢有價值.mp3",
+            "audio": "值錢,_有價值.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -108906,7 +108906,7 @@ const vocabData = [
         "cn": "基本的",
         "CN_ENG": {
             "word": "Essential / Basic",
-            "audio": "Essential__Basic.mp3",
+            "audio": "Essential_,__Basic.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -108956,7 +108956,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Esensial / Dasar",
-            "audio": "Esensial__Dasar.mp3",
+            "audio": "Esensial_,__Dasar.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -109896,7 +109896,7 @@ const vocabData = [
         "cn": "馴養的",
         "CN_ENG": {
             "word": "Domestic / Tame",
-            "audio": "Domestic__Tame.mp3",
+            "audio": "Domestic_,__Tame.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -110820,7 +110820,7 @@ const vocabData = [
         "cn": "口頭的",
         "CN_ENG": {
             "word": "Oral / Spoken",
-            "audio": "Oral__Spoken.mp3",
+            "audio": "Oral_,__Spoken.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -111282,7 +111282,7 @@ const vocabData = [
         "cn": "公正的",
         "CN_ENG": {
             "word": "Just / Fair",
-            "audio": "Just__Fair.mp3",
+            "audio": "Just_,__Fair.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -113937,7 +113937,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Hung hăng / Tích cực",
-            "audio": "Hung_hăng__Tích_cực.mp3",
+            "audio": "Hung_hăng_,__Tích_cực.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -114054,7 +114054,7 @@ const vocabData = [
         "cn": "挑剔的",
         "CN_ENG": {
             "word": "Picky / Choosy",
-            "audio": "Picky__Choosy.mp3",
+            "audio": "Picky_,__Choosy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -114318,7 +114318,7 @@ const vocabData = [
         "cn": "麻木的",
         "CN_ENG": {
             "word": "Numb / Insensitive",
-            "audio": "Numb__Insensitive.mp3",
+            "audio": "Numb_,__Insensitive.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -114846,7 +114846,7 @@ const vocabData = [
         "cn": "狡猾的",
         "CN_ENG": {
             "word": "Cunning / Sly",
-            "audio": "Cunning__Sly.mp3",
+            "audio": "Cunning_,__Sly.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -115110,7 +115110,7 @@ const vocabData = [
         "cn": "尷尬的",
         "CN_ENG": {
             "word": "Awkward / Embarrassed",
-            "audio": "Awkward__Embarrassed.mp3",
+            "audio": "Awkward_,__Embarrassed.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -115176,7 +115176,7 @@ const vocabData = [
         "cn": "感動的",
         "CN_ENG": {
             "word": "Touched / Moved",
-            "audio": "Touched__Moved.mp3",
+            "audio": "Touched_,__Moved.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -116034,7 +116034,7 @@ const vocabData = [
         "cn": "敵對的",
         "CN_ENG": {
             "word": "Antagonistic / Hostile",
-            "audio": "Antagonistic__Hostile.mp3",
+            "audio": "Antagonistic_,__Hostile.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -116100,7 +116100,7 @@ const vocabData = [
         "cn": "親密的",
         "CN_ENG": {
             "word": "Intimate / Close",
-            "audio": "Intimate__Close.mp3",
+            "audio": "Intimate_,__Close.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -116166,7 +116166,7 @@ const vocabData = [
         "cn": "疏遠的",
         "CN_ENG": {
             "word": "Distant / Estranged",
-            "audio": "Distant__Estranged.mp3",
+            "audio": "Distant_,__Estranged.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -116480,7 +116480,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Konyol / Absurd",
-            "audio": "Konyol__Absurd.mp3",
+            "audio": "Konyol_,__Absurd.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -116496,7 +116496,7 @@ const vocabData = [
         "cn": "嚴肅的",
         "CN_ENG": {
             "word": "Severe / Serious",
-            "audio": "Severe__Serious.mp3",
+            "audio": "Severe_,__Serious.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -116892,7 +116892,7 @@ const vocabData = [
         "cn": "整潔的",
         "CN_ENG": {
             "word": "Tidy / Neat",
-            "audio": "Tidy__Neat.mp3",
+            "audio": "Tidy_,__Neat.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -117288,7 +117288,7 @@ const vocabData = [
         "cn": "毛茸茸的",
         "CN_ENG": {
             "word": "Hairy / Furry",
-            "audio": "Hairy__Furry.mp3",
+            "audio": "Hairy_,__Furry.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -117354,7 +117354,7 @@ const vocabData = [
         "cn": "裸體的",
         "CN_ENG": {
             "word": "Naked / Nude",
-            "audio": "Naked__Nude.mp3",
+            "audio": "Naked_,__Nude.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -118080,7 +118080,7 @@ const vocabData = [
         "cn": "難嚼的 (韌)",
         "CN_ENG": {
             "word": "Chewy / Tough",
-            "audio": "Chewy__Tough.mp3",
+            "audio": "Chewy_,__Tough.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -118344,7 +118344,7 @@ const vocabData = [
         "cn": "醃製的",
         "CN_ENG": {
             "word": "Marinated / Pickled",
-            "audio": "Marinated__Pickled.mp3",
+            "audio": "Marinated_,__Pickled.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -118359,7 +118359,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Muối / Ướp",
-            "audio": "Muối__Ướp.mp3",
+            "audio": "Muối_,__Ướp.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -118389,7 +118389,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "หมัก / ดอง",
-            "audio": "หมัก__ดอง.mp3",
+            "audio": "หมัก_,__ดอง.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -119912,7 +119912,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Ringan / Lembut",
-            "audio": "Ringan__Lembut.mp3",
+            "audio": "Ringan_,__Lembut.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -120060,7 +120060,7 @@ const vocabData = [
         "cn": "全體的",
         "CN_ENG": {
             "word": "Entire / Whole",
-            "audio": "Entire__Whole.mp3",
+            "audio": "Entire_,__Whole.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -120324,7 +120324,7 @@ const vocabData = [
         "cn": "多餘的",
         "CN_ENG": {
             "word": "Redundant / Extra",
-            "audio": "Redundant__Extra.mp3",
+            "audio": "Redundant_,__Extra.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -120720,7 +120720,7 @@ const vocabData = [
         "cn": "痠痛的",
         "CN_ENG": {
             "word": "Sore / Aching",
-            "audio": "Sore__Aching.mp3",
+            "audio": "Sore_,__Aching.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -120770,7 +120770,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Pegal / Sakit",
-            "audio": "Pegal__Sakit.mp3",
+            "audio": "Pegal_,__Sakit.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -121496,7 +121496,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Surya / Matahari",
-            "audio": "Surya__Matahari.mp3",
+            "audio": "Surya_,__Matahari.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -121918,7 +121918,7 @@ const vocabData = [
         },
         "CN_KR": {
             "word": "엄격한 / 단단한",
-            "audio": "엄격한__단단한.mp3",
+            "audio": "엄격한_,__단단한.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -122172,7 +122172,7 @@ const vocabData = [
         "cn": "靜止的",
         "CN_ENG": {
             "word": "Static / Still",
-            "audio": "Static__Still.mp3",
+            "audio": "Static_,__Still.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -122618,7 +122618,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Pekat / Konsentrat",
-            "audio": "Pekat__Konsentrat.mp3",
+            "audio": "Pekat_,__Konsentrat.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -124482,7 +124482,7 @@ const vocabData = [
         "cn": "合法的 (正當)",
         "CN_ENG": {
             "word": "Lawful / Legitimate",
-            "audio": "Lawful__Legitimate.mp3",
+            "audio": "Lawful_,__Legitimate.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -125984,7 +125984,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Virtual / Maya",
-            "audio": "Virtual__Maya.mp3",
+            "audio": "Virtual_,__Maya.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -126446,7 +126446,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Terestrial / Darat",
-            "audio": "Terestrial__Darat.mp3",
+            "audio": "Terestrial_,__Darat.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -126512,7 +126512,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Laut / Bahari",
-            "audio": "Laut__Bahari.mp3",
+            "audio": "Laut_,__Bahari.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -126578,7 +126578,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Akuatik / Air",
-            "audio": "Akuatik__Air.mp3",
+            "audio": "Akuatik_,__Air.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -126974,7 +126974,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Pamungkas / Utama",
-            "audio": "Pamungkas__Utama.mp3",
+            "audio": "Pamungkas_,__Utama.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -127056,7 +127056,7 @@ const vocabData = [
         "cn": "刺耳的 (尖銳)",
         "CN_ENG": {
             "word": "Shrill / Piercing",
-            "audio": "Shrill__Piercing.mp3",
+            "audio": "Shrill_,__Piercing.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -127122,7 +127122,7 @@ const vocabData = [
         "cn": "沙啞的",
         "CN_ENG": {
             "word": "Hoarse / Husky",
-            "audio": "Hoarse__Husky.mp3",
+            "audio": "Hoarse_,__Husky.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -127254,7 +127254,7 @@ const vocabData = [
         "cn": "聽不見的 (無聲)",
         "CN_ENG": {
             "word": "Silent / Mute",
-            "audio": "Silent__Mute.mp3",
+            "audio": "Silent_,__Mute.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -127304,7 +127304,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Sunyi / Bisu",
-            "audio": "Sunyi__Bisu.mp3",
+            "audio": "Sunyi_,__Bisu.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -127964,7 +127964,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Buram / Opak",
-            "audio": "Buram__Opak.mp3",
+            "audio": "Buram_,__Opak.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -128112,7 +128112,7 @@ const vocabData = [
         "cn": "朦朧的 (霧)",
         "CN_ENG": {
             "word": "Misty / Hazy",
-            "audio": "Misty__Hazy.mp3",
+            "audio": "Misty_,__Hazy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -128178,7 +128178,7 @@ const vocabData = [
         "cn": "清晰的 (影像)",
         "CN_ENG": {
             "word": "Sharp / Clear",
-            "audio": "Sharp__Clear.mp3",
+            "audio": "Sharp_,__Clear.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -128228,7 +128228,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Jelas / Tajam",
-            "audio": "Jelas__Tajam.mp3",
+            "audio": "Jelas_,__Tajam.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -128310,7 +128310,7 @@ const vocabData = [
         "cn": "迅速的",
         "CN_ENG": {
             "word": "Swift / Rapid",
-            "audio": "Swift__Rapid.mp3",
+            "audio": "Swift_,__Rapid.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -128360,7 +128360,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Cepat / Kilat",
-            "audio": "Cepat__Kilat.mp3",
+            "audio": "Cepat_,__Kilat.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -128690,7 +128690,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Stabil / Tetap",
-            "audio": "Stabil__Tetap.mp3",
+            "audio": "Stabil_,__Tetap.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -128772,7 +128772,7 @@ const vocabData = [
         "cn": "笨重的",
         "CN_ENG": {
             "word": "Clumsy / Bulky",
-            "audio": "Clumsy__Bulky.mp3",
+            "audio": "Clumsy_,__Bulky.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -128904,7 +128904,7 @@ const vocabData = [
         "cn": "流動的",
         "CN_ENG": {
             "word": "Fluent / Flowing",
-            "audio": "Fluent__Flowing.mp3",
+            "audio": "Fluent_,__Flowing.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -129086,7 +129086,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Reot / Rusak",
-            "audio": "Reot__Rusak.mp3",
+            "audio": "Reot_,__Rusak.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -129152,7 +129152,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Murni / Baru",
-            "audio": "Murni__Baru.mp3",
+            "audio": "Murni_,__Baru.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -129350,7 +129350,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Dekil / Kotor",
-            "audio": "Dekil__Kotor.mp3",
+            "audio": "Dekil_,__Kotor.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -129564,7 +129564,7 @@ const vocabData = [
         "cn": "精緻的",
         "CN_ENG": {
             "word": "Delicate / Exquisite",
-            "audio": "Delicate__Exquisite.mp3",
+            "audio": "Delicate_,__Exquisite.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -129614,7 +129614,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Halus / Indah",
-            "audio": "Halus__Indah.mp3",
+            "audio": "Halus_,__Indah.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -129828,7 +129828,7 @@ const vocabData = [
         "cn": "黏稠的",
         "CN_ENG": {
             "word": "Viscous / Thick",
-            "audio": "Viscous__Thick.mp3",
+            "audio": "Viscous_,__Thick.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -129894,7 +129894,7 @@ const vocabData = [
         "cn": "稀薄的 (液體)",
         "CN_ENG": {
             "word": "Watery / Runny",
-            "audio": "Watery__Runny.mp3",
+            "audio": "Watery_,__Runny.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -130406,7 +130406,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Beku / Sangat dingin",
-            "audio": "Beku__Sangat_dingin.mp3",
+            "audio": "Beku_,__Sangat_dingin.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -130422,7 +130422,7 @@ const vocabData = [
         "cn": "微溫的",
         "CN_ENG": {
             "word": "Lukewarm / Tepid",
-            "audio": "Lukewarm__Tepid.mp3",
+            "audio": "Lukewarm_,__Tepid.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -130488,7 +130488,7 @@ const vocabData = [
         "cn": "悶熱的",
         "CN_ENG": {
             "word": "Muggy / Stuffy",
-            "audio": "Muggy__Stuffy.mp3",
+            "audio": "Muggy_,__Stuffy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -130538,7 +130538,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Gerah / Pengap",
-            "audio": "Gerah__Pengap.mp3",
+            "audio": "Gerah_,__Pengap.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -131254,7 +131254,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Dingin / Cuek",
-            "audio": "Dingin__Cuek.mp3",
+            "audio": "Dingin_,__Cuek.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -132326,7 +132326,7 @@ const vocabData = [
         "cn": "短暫的",
         "CN_ENG": {
             "word": "Fleeting / Brief",
-            "audio": "Fleeting__Brief.mp3",
+            "audio": "Fleeting_,__Brief.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -132590,7 +132590,7 @@ const vocabData = [
         "cn": "之前的 (前任)",
         "CN_ENG": {
             "word": "Prior / Former",
-            "audio": "Prior__Former.mp3",
+            "audio": "Prior_,__Former.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -132661,7 +132661,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "現代の / 同時代の",
-            "audio": "現代の__同時代の.mp3",
+            "audio": "現代の_,__同時代の.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -132772,7 +132772,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Terlambat / Lewat jatuh tempo",
-            "audio": "Terlambat__Lewat_jatuh_tempo.mp3",
+            "audio": "Terlambat_,__Lewat_jatuh_tempo.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -134438,7 +134438,7 @@ const vocabData = [
         "cn": "虔誠的",
         "CN_ENG": {
             "word": "Pious / Devout",
-            "audio": "Pious__Devout.mp3",
+            "audio": "Pious_,__Devout.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -134879,12 +134879,12 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ทางโลก / ธรรมดา",
-            "audio": "ทางโลก__ธรรมดา.mp3",
+            "audio": "ทางโลก_,__ธรรมดา.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
             "word": "Biasa / Duniawi",
-            "audio": "Biasa__Duniawi.mp3",
+            "audio": "Biasa_,__Duniawi.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -135098,7 +135098,7 @@ const vocabData = [
         "cn": "囉嗦的",
         "CN_ENG": {
             "word": "Talkative / Verbose",
-            "audio": "Talkative__Verbose.mp3",
+            "audio": "Talkative_,__Verbose.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -135362,7 +135362,7 @@ const vocabData = [
         "cn": "拐彎抹角的",
         "CN_ENG": {
             "word": "Indirect / Evasive",
-            "audio": "Indirect__Evasive.mp3",
+            "audio": "Indirect_,__Evasive.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -136484,7 +136484,7 @@ const vocabData = [
         "cn": "無效的 (法律)",
         "CN_ENG": {
             "word": "Void / Invalid",
-            "audio": "Void__Invalid.mp3",
+            "audio": "Void_,__Invalid.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -137458,7 +137458,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Terpencil / Gersang",
-            "audio": "Terpencil__Gersang.mp3",
+            "audio": "Terpencil_,__Gersang.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -137936,7 +137936,7 @@ const vocabData = [
         "cn": "膚淺的",
         "CN_ENG": {
             "word": "Shallow / Superficial",
-            "audio": "Shallow__Superficial.mp3",
+            "audio": "Shallow_,__Superficial.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -138860,7 +138860,7 @@ const vocabData = [
         "cn": "整潔的",
         "CN_ENG": {
             "word": "Groomed / Kempt",
-            "audio": "Groomed__Kempt.mp3",
+            "audio": "Groomed_,__Kempt.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -139058,7 +139058,7 @@ const vocabData = [
         "cn": "俗氣的",
         "CN_ENG": {
             "word": "Tacky / Gaudy",
-            "audio": "Tacky__Gaudy.mp3",
+            "audio": "Tacky_,__Gaudy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -139322,7 +139322,7 @@ const vocabData = [
         "cn": "魁梧的",
         "CN_ENG": {
             "word": "Burly / Sturdy",
-            "audio": "Burly__Sturdy.mp3",
+            "audio": "Burly_,__Sturdy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -139438,7 +139438,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Lesu / Kurus",
-            "audio": "Lesu__Kurus.mp3",
+            "audio": "Lesu_,__Kurus.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -139454,7 +139454,7 @@ const vocabData = [
         "cn": "紅潤的",
         "CN_ENG": {
             "word": "Rosy / Ruddy",
-            "audio": "Rosy__Ruddy.mp3",
+            "audio": "Rosy_,__Ruddy.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -139718,7 +139718,7 @@ const vocabData = [
         "cn": "無限的",
         "CN_ENG": {
             "word": "Limitless / Boundless",
-            "audio": "Limitless__Boundless.mp3",
+            "audio": "Limitless_,__Boundless.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -139916,7 +139916,7 @@ const vocabData = [
         "cn": "全球性的",
         "CN_ENG": {
             "word": "Universal / Global",
-            "audio": "Universal__Global.mp3",
+            "audio": "Universal_,__Global.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -139982,7 +139982,7 @@ const vocabData = [
         "cn": "宇宙的",
         "CN_ENG": {
             "word": "Universal / Cosmic",
-            "audio": "Universal__Cosmic.mp3",
+            "audio": "Universal_,__Cosmic.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -140708,7 +140708,7 @@ const vocabData = [
         "cn": "數位的",
         "CN_ENG": {
             "word": "Numerical / Digital",
-            "audio": "Numerical__Digital.mp3",
+            "audio": "Numerical_,__Digital.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -142160,7 +142160,7 @@ const vocabData = [
         "cn": "致命的",
         "CN_ENG": {
             "word": "Fatal / Lethal",
-            "audio": "Fatal__Lethal.mp3",
+            "audio": "Fatal_,__Lethal.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -142358,7 +142358,7 @@ const vocabData = [
         "cn": "衛生的",
         "CN_ENG": {
             "word": "Sanitary / Hygienic",
-            "audio": "Sanitary__Hygienic.mp3",
+            "audio": "Sanitary_,__Hygienic.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -143678,7 +143678,7 @@ const vocabData = [
         "cn": "綜合的",
         "CN_ENG": {
             "word": "Synthetic / Comprehensive",
-            "audio": "Synthetic__Comprehensive.mp3",
+            "audio": "Synthetic_,__Comprehensive.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -145856,7 +145856,7 @@ const vocabData = [
         "cn": "完整的",
         "CN_ENG": {
             "word": "Integral / Complete",
-            "audio": "Integral__Complete.mp3",
+            "audio": "Integral_,__Complete.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -145972,7 +145972,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Sisa / Residu",
-            "audio": "Sisa__Residu.mp3",
+            "audio": "Sisa_,__Residu.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -146714,7 +146714,7 @@ const vocabData = [
         "cn": "鄉村的 (田園)",
         "CN_ENG": {
             "word": "Pastoral / Rustic",
-            "audio": "Pastoral__Rustic.mp3",
+            "audio": "Pastoral_,__Rustic.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -148810,7 +148810,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Bergerak / Mobil",
-            "audio": "Bergerak__Mobil.mp3",
+            "audio": "Bergerak_,__Mobil.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -149602,7 +149602,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Penting / Sentral",
-            "audio": "Penting__Sentral.mp3",
+            "audio": "Penting_,__Sentral.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -149668,7 +149668,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Bawahan / Sekunder",
-            "audio": "Bawahan__Sekunder.mp3",
+            "audio": "Bawahan_,__Sekunder.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -149998,7 +149998,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Penting / Wajib",
-            "audio": "Penting__Wajib.mp3",
+            "audio": "Penting_,__Wajib.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -150526,7 +150526,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Calon / Prospektif",
-            "audio": "Calon__Prospektif.mp3",
+            "audio": "Calon_,__Prospektif.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -152649,12 +152649,12 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "無名の / 不明瞭な",
-            "audio": "無名の__不明瞭な.mp3",
+            "audio": "無名の_,__不明瞭な.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
             "word": "무명의 / 모호한",
-            "audio": "무명의__모호한.mp3",
+            "audio": "무명의_,__모호한.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -152694,7 +152694,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Kabur / Tidak jelas",
-            "audio": "Kabur__Tidak_jelas.mp3",
+            "audio": "Kabur_,__Tidak_jelas.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -152826,7 +152826,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Baru / Unik",
-            "audio": "Baru__Unik.mp3",
+            "audio": "Baru_,__Unik.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -153172,7 +153172,7 @@ const vocabData = [
         "cn": "訂製的",
         "CN_ENG": {
             "word": "Bespoke / Custom",
-            "audio": "Bespoke__Custom.mp3",
+            "audio": "Bespoke_,__Custom.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -153634,7 +153634,7 @@ const vocabData = [
         "cn": "很少",
         "CN_ENG": {
             "word": "Seldom / Rarely",
-            "audio": "Seldom__Rarely.mp3",
+            "audio": "Seldom_,__Rarely.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -153898,7 +153898,7 @@ const vocabData = [
         "cn": "相當",
         "CN_ENG": {
             "word": "Quite / Fairly",
-            "audio": "Quite__Fairly.mp3",
+            "audio": "Quite_,__Fairly.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -153948,7 +153948,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Cukup / Lumayan",
-            "audio": "Cukup__Lumayan.mp3",
+            "audio": "Cukup_,__Lumayan.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -154096,7 +154096,7 @@ const vocabData = [
         "cn": "稍微",
         "CN_ENG": {
             "word": "A little / Slightly",
-            "audio": "A_little__Slightly.mp3",
+            "audio": "A_little_,__Slightly.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -156010,7 +156010,7 @@ const vocabData = [
         "cn": "也",
         "CN_ENG": {
             "word": "Also / Too",
-            "audio": "Also__Too.mp3",
+            "audio": "Also_,__Too.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -156076,7 +156076,7 @@ const vocabData = [
         "cn": "也許 (可能)",
         "CN_ENG": {
             "word": "Maybe / Perhaps",
-            "audio": "Maybe__Perhaps.mp3",
+            "audio": "Maybe_,__Perhaps.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -156142,7 +156142,7 @@ const vocabData = [
         "cn": "當然",
         "CN_ENG": {
             "word": "Certainly / Of course",
-            "audio": "Certainly__Of_course.mp3",
+            "audio": "Certainly_,__Of_course.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -156274,7 +156274,7 @@ const vocabData = [
         "cn": "幸運地",
         "CN_ENG": {
             "word": "Luckily / Fortunately",
-            "audio": "Luckily__Fortunately.mp3",
+            "audio": "Luckily_,__Fortunately.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -156654,7 +156654,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Malah / Sebaliknya",
-            "audio": "Malah__Sebaliknya.mp3",
+            "audio": "Malah_,__Sebaliknya.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -159574,7 +159574,7 @@ const vocabData = [
         "cn": "瘋狂地",
         "CN_ENG": {
             "word": "Madly / Crazily",
-            "audio": "Madly__Crazily.mp3",
+            "audio": "Madly_,__Crazily.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -168600,7 +168600,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Agak / Lebih baik",
-            "audio": "Agak__Lebih_baik.mp3",
+            "audio": "Agak_,__Lebih_baik.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -173276,7 +173276,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Cukup / Sedang",
-            "audio": "Cukup__Sedang.mp3",
+            "audio": "Cukup_,__Sedang.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -183126,7 +183126,7 @@ const vocabData = [
         "cn": "也 (亦)",
         "CN_ENG": {
             "word": "Also / Too",
-            "audio": "Also__Too.mp3",
+            "audio": "Also_,__Too.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -183192,7 +183192,7 @@ const vocabData = [
         "cn": "還有 (加上)",
         "CN_ENG": {
             "word": "Plus / Besides",
-            "audio": "Plus__Besides.mp3",
+            "audio": "Plus_,__Besides.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -183593,7 +183593,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "でも / しかし",
-            "audio": "でも__しかし.mp3",
+            "audio": "でも_,__しかし.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -183786,7 +183786,7 @@ const vocabData = [
         "cn": "儘管",
         "CN_ENG": {
             "word": "Despite / In spite of",
-            "audio": "Despite__In_spite_of.mp3",
+            "audio": "Despite_,__In_spite_of.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -184319,7 +184319,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "まだ / 依然として",
-            "audio": "まだ__依然として.mp3",
+            "audio": "まだ_,__依然として.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -184385,7 +184385,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "または / か",
-            "audio": "または__か.mp3",
+            "audio": "または_,__か.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -185045,7 +185045,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "なぜなら / だから",
-            "audio": "なぜなら__だから.mp3",
+            "audio": "なぜなら_,__だから.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -185106,7 +185106,7 @@ const vocabData = [
         "cn": "由於",
         "CN_ENG": {
             "word": "Due to / Owing to",
-            "audio": "Due_to__Owing_to.mp3",
+            "audio": "Due_to_,__Owing_to.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -185486,7 +185486,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Agar / Untuk",
-            "audio": "Agar__Untuk.mp3",
+            "audio": "Agar_,__Untuk.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -185730,7 +185730,7 @@ const vocabData = [
         },
         "CN_DE": {
             "word": "Wenn / Als",
-            "audio": "Wenn__Als.mp3",
+            "audio": "Wenn_,__Als.mp3",
             "folder": "CN_DE/audio"
         },
         "CN_ES": {
@@ -185750,7 +185750,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Kapan / Ketika",
-            "audio": "Kapan__Ketika.mp3",
+            "audio": "Kapan_,__Ketika.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -186187,7 +186187,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Puis / Ensuite",
-            "audio": "Puis__Ensuite.mp3",
+            "audio": "Puis_,__Ensuite.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -189289,7 +189289,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Dont / À qui",
-            "audio": "Dont__À_qui.mp3",
+            "audio": "Dont_,__À_qui.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -189761,7 +189761,7 @@ const vocabData = [
         },
         "CN_ES": {
             "word": "Sobre / En",
-            "audio": "Sobre__En.mp3",
+            "audio": "Sobre_,__En.mp3",
             "folder": "CN_ES/audio"
         },
         "CN_RU": {
@@ -189797,7 +189797,7 @@ const vocabData = [
         },
         "CN_JP": {
             "word": "～で / ～に",
-            "audio": "～で__～に.mp3",
+            "audio": "～で_,__～に.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
@@ -189822,7 +189822,7 @@ const vocabData = [
         },
         "CN_DE": {
             "word": "An / Bei",
-            "audio": "An__Bei.mp3",
+            "audio": "An_,__Bei.mp3",
             "folder": "CN_DE/audio"
         },
         "CN_ES": {
@@ -189832,7 +189832,7 @@ const vocabData = [
         },
         "CN_RU": {
             "word": "В / У",
-            "audio": "В__У.mp3",
+            "audio": "В_,__У.mp3",
             "folder": "CN_RU/audio"
         },
         "CN_TH": {
@@ -190056,7 +190056,7 @@ const vocabData = [
         "cn": "在...旁邊",
         "CN_ENG": {
             "word": "Beside / Next to",
-            "audio": "Beside__Next_to.mp3",
+            "audio": "Beside_,__Next_to.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -190452,7 +190452,7 @@ const vocabData = [
         "cn": "在...對面",
         "CN_ENG": {
             "word": "Opposite / Across from",
-            "audio": "Opposite__Across_from.mp3",
+            "audio": "Opposite_,__Across_from.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -191005,12 +191005,12 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "À / Vers",
-            "audio": "À__Vers.mp3",
+            "audio": "À_,__Vers.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
             "word": "Zu / Nach",
-            "audio": "Zu__Nach.mp3",
+            "audio": "Zu_,__Nach.mp3",
             "folder": "CN_DE/audio"
         },
         "CN_ES": {
@@ -191020,7 +191020,7 @@ const vocabData = [
         },
         "CN_RU": {
             "word": "В / К",
-            "audio": "В__К.mp3",
+            "audio": "В_,__К.mp3",
             "folder": "CN_RU/audio"
         },
         "CN_TH": {
@@ -191076,7 +191076,7 @@ const vocabData = [
         },
         "CN_DE": {
             "word": "Von / Aus",
-            "audio": "Von__Aus.mp3",
+            "audio": "Von_,__Aus.mp3",
             "folder": "CN_DE/audio"
         },
         "CN_ES": {
@@ -191147,7 +191147,7 @@ const vocabData = [
         },
         "CN_ES": {
             "word": "En / Adentro",
-            "audio": "En__Adentro.mp3",
+            "audio": "En_,__Adentro.mp3",
             "folder": "CN_ES/audio"
         },
         "CN_RU": {
@@ -191553,7 +191553,7 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "เลียบ / ตาม",
-            "audio": "เลียบ__ตาม.mp3",
+            "audio": "เลียบ_,__ตาม.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
@@ -191599,7 +191599,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Devant / Passé",
-            "audio": "Devant__Passé.mp3",
+            "audio": "Devant_,__Passé.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -191822,7 +191822,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Di atas / Lewat",
-            "audio": "Di_atas__Lewat.mp3",
+            "audio": "Di_atas_,__Lewat.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -192117,7 +192117,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Vào tháng/năm",
-            "audio": "Vào_thángnăm.mp3",
+            "audio": "Vào_tháng,_năm.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -192401,7 +192401,7 @@ const vocabData = [
         },
         "CN_ES": {
             "word": "Por / Durante",
-            "audio": "Por__Durante.mp3",
+            "audio": "Por_,__Durante.mp3",
             "folder": "CN_ES/audio"
         },
         "CN_RU": {
@@ -192498,7 +192498,7 @@ const vocabData = [
         "cn": "直到",
         "CN_ENG": {
             "word": "Until / Till",
-            "audio": "Until__Till.mp3",
+            "audio": "Until_,__Till.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -192589,7 +192589,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Dans / En",
-            "audio": "Dans__En.mp3",
+            "audio": "Dans_,__En.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -192630,7 +192630,7 @@ const vocabData = [
         "cn": "大約 (時間)",
         "CN_ENG": {
             "word": "Around / About",
-            "audio": "Around__About.mp3",
+            "audio": "Around_,__About.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -192787,7 +192787,7 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Par / Avant",
-            "audio": "Par__Avant.mp3",
+            "audio": "Par_,__Avant.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
@@ -193066,7 +193066,7 @@ const vocabData = [
         },
         "CN_RU": {
             "word": "Из / О",
-            "audio": "Из__О.mp3",
+            "audio": "Из_,__О.mp3",
             "folder": "CN_RU/audio"
         },
         "CN_TH": {
@@ -193076,7 +193076,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Dari / Milik",
-            "audio": "Dari__Milik.mp3",
+            "audio": "Dari_,__Milik.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -193264,7 +193264,7 @@ const vocabData = [
         },
         "CN_RU": {
             "word": "кем/чем",
-            "audio": "кемчем.mp3",
+            "audio": "кем,_чем.mp3",
             "folder": "CN_RU/audio"
         },
         "CN_TH": {
@@ -194874,7 +194874,7 @@ const vocabData = [
         "cn": "在...中間 (正中)",
         "CN_ENG": {
             "word": "Amid / Amidst",
-            "audio": "Amid__Amidst.mp3",
+            "audio": "Amid_,__Amidst.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -195254,7 +195254,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Lepas / Mati",
-            "audio": "Lepas__Mati.mp3",
+            "audio": "Lepas_,__Mati.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -198321,12 +198321,12 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Trên tàu/xe",
-            "audio": "Trên_tàuxe.mp3",
+            "audio": "Trên_tàu,_xe.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
             "word": "上咗車/船",
-            "audio": "上咗車船.mp3",
+            "audio": "上咗車,_船.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -199098,7 +199098,7 @@ const vocabData = [
         "cn": "乘飛機",
         "CN_ENG": {
             "word": "By air / By plane",
-            "audio": "By_air__By_plane.mp3",
+            "audio": "By_air_,__By_plane.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -202464,17 +202464,17 @@ const vocabData = [
         "cn": "煮飯",
         "CN_ENG": {
             "word": "Cook rice / Cook a meal",
-            "audio": "Cook_rice__Cook_a_meal.mp3",
+            "audio": "Cook_rice_,__Cook_a_meal.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
             "word": "ご飯を炊く / 料理する",
-            "audio": "ご飯を炊く__料理する.mp3",
+            "audio": "ご飯を炊く_,__料理する.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
             "word": "밥을 짓다 / 요리하다",
-            "audio": "밥을_짓다__요리하다.mp3",
+            "audio": "밥을_짓다_,__요리하다.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
@@ -202509,12 +202509,12 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "หุงข้าว / ทำอาหาร",
-            "audio": "หุงข้าว__ทำอาหาร.mp3",
+            "audio": "หุงข้าว_,__ทำอาหาร.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
             "word": "Memasak nasi / Makan",
-            "audio": "Memasak_nasi__Makan.mp3",
+            "audio": "Memasak_nasi_,__Makan.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -204378,7 +204378,7 @@ const vocabData = [
         "cn": "修理 (物品)",
         "CN_ENG": {
             "word": "Fix / Repair",
-            "audio": "Fix__Repair.mp3",
+            "audio": "Fix_,__Repair.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -204398,7 +204398,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "整/修理",
-            "audio": "整修理.mp3",
+            "audio": "整,_修理.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -205566,7 +205566,7 @@ const vocabData = [
         "cn": "排隊",
         "CN_ENG": {
             "word": "Queue / Line up",
-            "audio": "Queue__Line_up.mp3",
+            "audio": "Queue_,__Line_up.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -206226,7 +206226,7 @@ const vocabData = [
         "cn": "下班",
         "CN_ENG": {
             "word": "Leave work / Get off work",
-            "audio": "Leave_work__Get_off_work.mp3",
+            "audio": "Leave_work_,__Get_off_work.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -208520,7 +208520,7 @@ const vocabData = [
         },
         "CN_ID": {
             "word": "Wisuda / Lulus",
-            "audio": "Wisuda__Lulus.mp3",
+            "audio": "Wisuda_,__Lulus.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -213303,7 +213303,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Chuyển xe/tàu",
-            "audio": "Chuyển_xetàu.mp3",
+            "audio": "Chuyển_xe,_tàu.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -215004,7 +215004,7 @@ const vocabData = [
         "cn": "懷疑",
         "CN_ENG": {
             "word": "Suspect / Doubt",
-            "audio": "Suspect__Doubt.mp3",
+            "audio": "Suspect_,__Doubt.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -215730,7 +215730,7 @@ const vocabData = [
         "cn": "判決",
         "CN_ENG": {
             "word": "Sentence / Judge",
-            "audio": "Sentence__Judge.mp3",
+            "audio": "Sentence_,__Judge.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -216212,7 +216212,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "估/猜",
-            "audio": "估猜.mp3",
+            "audio": "估,_猜.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -217314,7 +217314,7 @@ const vocabData = [
         "cn": "解決",
         "CN_ENG": {
             "word": "Resolve / Solve",
-            "audio": "Resolve__Solve.mp3",
+            "audio": "Resolve_,__Solve.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -217776,22 +217776,22 @@ const vocabData = [
         "cn": "爬",
         "CN_ENG": {
             "word": "Climb / Crawl",
-            "audio": "Climb__Crawl.mp3",
+            "audio": "Climb_,__Crawl.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
             "word": "登る / 這う",
-            "audio": "登る__這う.mp3",
+            "audio": "登る_,__這う.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
             "word": "오르다 / 기어가다",
-            "audio": "오르다__기어가다.mp3",
+            "audio": "오르다_,__기어가다.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
             "word": "Leo / Bò",
-            "audio": "Leo__Bò.mp3",
+            "audio": "Leo_,__Bò.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -217801,17 +217801,17 @@ const vocabData = [
         },
         "CN_FR": {
             "word": "Grimper / Ramper",
-            "audio": "Grimper__Ramper.mp3",
+            "audio": "Grimper_,__Ramper.mp3",
             "folder": "CN_FR/audio"
         },
         "CN_DE": {
             "word": "Klettern / Krabbeln",
-            "audio": "Klettern__Krabbeln.mp3",
+            "audio": "Klettern_,__Krabbeln.mp3",
             "folder": "CN_DE/audio"
         },
         "CN_ES": {
             "word": "Trepar / Gatear",
-            "audio": "Trepar__Gatear.mp3",
+            "audio": "Trepar_,__Gatear.mp3",
             "folder": "CN_ES/audio"
         },
         "CN_RU": {
@@ -217821,12 +217821,12 @@ const vocabData = [
         },
         "CN_TH": {
             "word": "ปีน / คลาน",
-            "audio": "ปีน__คลาน.mp3",
+            "audio": "ปีน_,__คลาน.mp3",
             "folder": "CN_TH/audio"
         },
         "CN_ID": {
             "word": "Memanjat / Merangkak",
-            "audio": "Memanjat__Merangkak.mp3",
+            "audio": "Memanjat_,__Merangkak.mp3",
             "folder": "CN_ID/audio"
         },
         "CN_ZH": {
@@ -218060,7 +218060,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "揼/扔",
-            "audio": "揼扔.mp3",
+            "audio": "揼,_扔.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -221472,7 +221472,7 @@ const vocabData = [
         "cn": "雕刻",
         "CN_ENG": {
             "word": "Carve / Sculpt",
-            "audio": "Carve__Sculpt.mp3",
+            "audio": "Carve_,__Sculpt.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -222350,7 +222350,7 @@ const vocabData = [
         },
         "CN_CON": {
             "word": "走佬/逃生",
-            "audio": "走佬逃生.mp3",
+            "audio": "走佬,_逃生.mp3",
             "folder": "CN_CON/audio"
         },
         "CN_FR": {
@@ -222594,7 +222594,7 @@ const vocabData = [
         "cn": "拯救",
         "CN_ENG": {
             "word": "Save / Rescue",
-            "audio": "Save__Rescue.mp3",
+            "audio": "Save_,__Rescue.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -225102,7 +225102,7 @@ const vocabData = [
         "cn": "黏貼",
         "CN_ENG": {
             "word": "Paste / Glue",
-            "audio": "Paste__Glue.mp3",
+            "audio": "Paste_,__Glue.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
@@ -225447,7 +225447,7 @@ const vocabData = [
         },
         "CN_VN": {
             "word": "Ghen tị / Ngưỡng mộ",
-            "audio": "Ghen_tị__Ngưỡng_mộ.mp3",
+            "audio": "Ghen_tị_,__Ngưỡng_mộ.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -225564,22 +225564,22 @@ const vocabData = [
         "cn": "欣賞",
         "CN_ENG": {
             "word": "Appreciate / Admire",
-            "audio": "Appreciate__Admire.mp3",
+            "audio": "Appreciate_,__Admire.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {
             "word": "鑑賞する / 称賛する",
-            "audio": "鑑賞する__称賛する.mp3",
+            "audio": "鑑賞する_,__称賛する.mp3",
             "folder": "CN_JP/audio"
         },
         "CN_KR": {
             "word": "감상하다 / 존경하다",
-            "audio": "감상하다__존경하다.mp3",
+            "audio": "감상하다_,__존경하다.mp3",
             "folder": "CN_KR/audio"
         },
         "CN_VN": {
             "word": "Thưởng thức / Khâm phục",
-            "audio": "Thưởng_thức__Khâm_phục.mp3",
+            "audio": "Thưởng_thức_,__Khâm_phục.mp3",
             "folder": "CN_VN/audio"
         },
         "CN_CON": {
@@ -225630,7 +225630,7 @@ const vocabData = [
         "cn": "討厭",
         "CN_ENG": {
             "word": "Hate / Dislike",
-            "audio": "Hate__Dislike.mp3",
+            "audio": "Hate_,__Dislike.mp3",
             "folder": "CN_ENG/audio"
         },
         "CN_JP": {

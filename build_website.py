@@ -52,10 +52,18 @@ LANG_MAP = {
 
 def get_audio_text(text, lang_code):
     if not isinstance(text, str): return str(text)
-    text = text.replace('\n', ' ').strip()
+    
+    # ✅ 修改重點：將換行符號和斜線取代為「逗號+空白」，讓語音有停頓感，且不會唸出 Slash
+    text = text.replace('\n', ', ').replace('/', ', ')
+    
+    text = text.strip()
+    
+    # 日文特殊處理 (保留括號內的假名)
     if lang_code == 'ja':
         match = re.search(r'[\(（](.*?)[\)）]', text)
         return match.group(1).strip() if match else text
+    
+    # 其他語言移除括號
     return re.sub(r'[\(（].*?[\)）]', '', text).strip()
 
 def safe_filename(text):
@@ -126,7 +134,7 @@ def generate_html_footer(cat_name="general"):
 
 # --- 主程式 ---
 def main():
-    print(f"🚀 啟動 Builder (v12.4 進度顯示 + 穩定修復版)...")
+    print(f"🚀 啟動 Builder (v12.5 斜線優化版)...")
     if not os.path.exists(SEO_FOLDER): os.makedirs(SEO_FOLDER)
     
     # 1. 讀取 Excel
@@ -162,7 +170,7 @@ def main():
         sub_cat = str(row.get(COL_CAT_SUB, "")).strip()
         if sub_cat == "nan": sub_cat = ""
 
-        # 顯示進度 (每處理 10 筆顯示一次，避免洗版)
+        # 顯示進度
         if index % 10 == 0:
             print(f"   ⏳ 進度: {index + 1}/{total_items} ({cn_text})")
 
@@ -185,7 +193,6 @@ def main():
 
             if not os.path.exists(fpath):
                 try:
-                    # 顯示正在下載哪個語言，讓使用者知道程式沒當機
                     print(f"      🎙️ [新] 下載 {lang_key} 音檔: {text_audio}")
                     loop.run_until_complete(generate_voice_file(text_audio, config['voice'], fpath))
                 except: pass
