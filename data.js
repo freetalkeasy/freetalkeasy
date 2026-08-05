@@ -256546,5 +256546,6605 @@ const vocabData = [
             "audio": "兄.mp3",
             "folder": "CN_ZH/audio"
         }
+    },
+    {
+        "id": "KR141",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "再見。",
+        "CN_ENG": {
+            "word": "Goodbye.",
+            "audio": "Goodbye..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "さようなら",
+            "audio": "さようなら.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안녕히 가세요",
+            "audio": "안녕히_가세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tạm biệt.",
+            "audio": "Tạm_biệt..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "再見。",
+            "audio": "再見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Au revoir.",
+            "audio": "Au_revoir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Auf Wiedersehen.",
+            "audio": "Auf_Wiedersehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Adiós.",
+            "audio": "Adiós..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "До свидания.",
+            "audio": "До_свидания..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลาก่อน",
+            "audio": "ลาก่อน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat tinggal.",
+            "audio": "Selamat_tinggal..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "再見。",
+            "audio": "再見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR142",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "拜拜。",
+        "CN_ENG": {
+            "word": "Bye bye.",
+            "audio": "Bye_bye..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "バイバイ",
+            "audio": "バイバイ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안녕",
+            "audio": "안녕.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bye bye.",
+            "audio": "Bye_bye..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "拜拜。",
+            "audio": "拜拜。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Salut.",
+            "audio": "Salut..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tschüss.",
+            "audio": "Tschüss..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Chau.",
+            "audio": "Chau..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пока.",
+            "audio": "Пока..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "บ๊ายบาย",
+            "audio": "บ๊ายบาย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dadah.",
+            "audio": "Dadah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拜拜。",
+            "audio": "拜拜。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR143",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "明天見。",
+        "CN_ENG": {
+            "word": "See you tomorrow.",
+            "audio": "See_you_tomorrow..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また明日",
+            "audio": "また明日.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "내일 봐요",
+            "audio": "내일_봐요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngày mai gặp nhé.",
+            "audio": "Ngày_mai_gặp_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "聽日見。",
+            "audio": "聽日見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À demain.",
+            "audio": "À_demain..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bis morgen.",
+            "audio": "Bis_morgen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hasta mañana.",
+            "audio": "Hasta_mañana..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "До завтра.",
+            "audio": "До_завтра..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พรุ่งนี้เจอกัน",
+            "audio": "พรุ่งนี้เจอกัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampai jumpa besok.",
+            "audio": "Sampai_jumpa_besok..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "明天見。",
+            "audio": "明天見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR144",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "待會見。",
+        "CN_ENG": {
+            "word": "See you later.",
+            "audio": "See_you_later..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "後でね",
+            "audio": "後でね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이따 봐요",
+            "audio": "이따_봐요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lát nữa gặp nhé.",
+            "audio": "Lát_nữa_gặp_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "轉頭見。",
+            "audio": "轉頭見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À plus tard.",
+            "audio": "À_plus_tard..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bis später.",
+            "audio": "Bis_später..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hasta luego.",
+            "audio": "Hasta_luego..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Увидимся позже.",
+            "audio": "Увидимся_позже..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดี๋ยวเจอกัน",
+            "audio": "เดี๋ยวเจอกัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampai jumpa nanti.",
+            "audio": "Sampai_jumpa_nanti..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "待會見。",
+            "audio": "待會見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR145",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "下次見。",
+        "CN_ENG": {
+            "word": "See you next time.",
+            "audio": "See_you_next_time..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また今度",
+            "audio": "また今度.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다음에 봐요",
+            "audio": "다음에_봐요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hẹn lần sau nhé.",
+            "audio": "Hẹn_lần_sau_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "下次見。",
+            "audio": "下次見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À la prochaine.",
+            "audio": "À_la_prochaine..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bis zum nächsten Mal.",
+            "audio": "Bis_zum_nächsten_Mal..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hasta la próxima.",
+            "audio": "Hasta_la_próxima..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "До следующего раза.",
+            "audio": "До_следующего_раза..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไว้เจอกันคราวหน้า",
+            "audio": "ไว้เจอกันคราวหน้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampai jumpa lagi.",
+            "audio": "Sampai_jumpa_lagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "下次見。",
+            "audio": "下次見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR146",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "晚安。",
+        "CN_ENG": {
+            "word": "Good night.",
+            "audio": "Good_night..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おやすみなさい",
+            "audio": "おやすみなさい.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안녕히 주무세요",
+            "audio": "안녕히_주무세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc ngủ ngon.",
+            "audio": "Chúc_ngủ_ngon..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "早唞。",
+            "audio": "早唞。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonne nuit.",
+            "audio": "Bonne_nuit..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gute Nacht.",
+            "audio": "Gute_Nacht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Buenas noches.",
+            "audio": "Buenas_noches..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спокойной ночи.",
+            "audio": "Спокойной_ночи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ราตรีสวัสดิ์",
+            "audio": "ราตรีสวัสดิ์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat tidur.",
+            "audio": "Selamat_tidur..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "晚安。",
+            "audio": "晚安。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR147",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你有美好的一天。",
+        "CN_ENG": {
+            "word": "Have a good day.",
+            "audio": "Have_a_good_day..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "良い一日を",
+            "audio": "良い一日を.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 하루 보내세요",
+            "audio": "좋은_하루_보내세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc một ngày tốt lành.",
+            "audio": "Chúc_một_ngày_tốt_lành..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你今日開心。",
+            "audio": "祝你今日開心。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Passez une bonne journée.",
+            "audio": "Passez_une_bonne_journée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen schönen Tag noch.",
+            "audio": "Einen_schönen_Tag_noch..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que tengas un buen día.",
+            "audio": "Que_tengas_un_buen_día..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошего дня.",
+            "audio": "Хорошего_дня..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้เป็นวันที่ดี",
+            "audio": "ขอให้เป็นวันที่ดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga harimu menyenangkan.",
+            "audio": "Semoga_harimu_menyenangkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你有美好的一天。",
+            "audio": "祝你有美好的一天。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR148",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "週末愉快。",
+        "CN_ENG": {
+            "word": "Have a good weekend.",
+            "audio": "Have_a_good_weekend..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "良い週末を",
+            "audio": "良い週末を.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주말 잘 보내세요",
+            "audio": "주말_잘_보내세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cuối tuần vui vẻ.",
+            "audio": "Cuối_tuần_vui_vẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "週末愉快。",
+            "audio": "週末愉快。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bon week-end.",
+            "audio": "Bon_week-end..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schönes Wochenende.",
+            "audio": "Schönes_Wochenende..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Buen fin de semana.",
+            "audio": "Buen_fin_de_semana..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хороших выходных.",
+            "audio": "Хороших_выходных..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้มีความสุขในวันหยุด",
+            "audio": "ขอให้มีความสุขในวันหยุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat akhir pekan.",
+            "audio": "Selamat_akhir_pekan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "週末愉快。",
+            "audio": "週末愉快。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR149",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "一路順風。",
+        "CN_ENG": {
+            "word": "Have a safe trip.",
+            "audio": "Have_a_safe_trip..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "道中お気をつけて",
+            "audio": "道中お気をつけて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안전한 여행 되세요",
+            "audio": "안전한_여행_되세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thượng lộ bình an.",
+            "audio": "Thượng_lộ_bình_an..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "一路順風。",
+            "audio": "一路順風。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bon voyage.",
+            "audio": "Bon_voyage..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gute Reise.",
+            "audio": "Gute_Reise..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Buen viaje.",
+            "audio": "Buen_viaje..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Счастливого пути.",
+            "audio": "Счастливого_пути..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดินทางปลอดภัย",
+            "audio": "เดินทางปลอดภัย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga perjalananmu aman.",
+            "audio": "Semoga_perjalananmu_aman..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "一路順風。",
+            "audio": "一路順風。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR150",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "到了打給我。",
+        "CN_ENG": {
+            "word": "Call me when you arrive.",
+            "audio": "Call_me_when_you_arrive..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "着いたら電話して",
+            "audio": "着いたら電話して.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "도착하면 전화해요",
+            "audio": "도착하면_전화해요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đến nơi thì gọi tôi.",
+            "audio": "Đến_nơi_thì_gọi_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "到咗打畀我。",
+            "audio": "到咗打畀我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Appelle-moi quand tu arrives.",
+            "audio": "Appelle-moi_quand_tu_arrives..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ruf mich an, wenn du ankommst.",
+            "audio": "Ruf_mich_an,_wenn_du_ankommst..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Llámame cuando llegues.",
+            "audio": "Llámame_cuando_llegues..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Позвони, как доберешься.",
+            "audio": "Позвони,_как_доберешься..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถึงแล้วโทรหาด้วย",
+            "audio": "ถึงแล้วโทรหาด้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Hubungi saya saat kamu tiba.",
+            "audio": "Hubungi_saya_saat_kamu_tiba..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "到了打給我。",
+            "audio": "到了打給我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR151",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "保持聯絡。",
+        "CN_ENG": {
+            "word": "Keep in touch.",
+            "audio": "Keep_in_touch..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "連絡を取り合いましょう",
+            "audio": "連絡を取り合いましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "연락하고 지내요",
+            "audio": "연락하고_지내요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giữ liên lạc nhé.",
+            "audio": "Giữ_liên_lạc_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "保持聯絡。",
+            "audio": "保持聯絡。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Restons en contact.",
+            "audio": "Restons_en_contact..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns in Kontakt bleiben.",
+            "audio": "Lass_uns_in_Kontakt_bleiben..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Mantengámonos en contacto.",
+            "audio": "Mantengámonos_en_contacto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Будем на связи.",
+            "audio": "Будем_на_связи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ติดต่อกันเรื่อยๆนะ",
+            "audio": "ติดต่อกันเรื่อยๆนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tetap berhubungan.",
+            "audio": "Tetap_berhubungan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "保持聯絡。",
+            "audio": "保持聯絡。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR152",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "保重。",
+        "CN_ENG": {
+            "word": "Take care.",
+            "audio": "Take_care..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "気をつけて",
+            "audio": "気をつけて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "몸조심하세요",
+            "audio": "몸조심하세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bảo trọng.",
+            "audio": "Bảo_trọng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "保重。",
+            "audio": "保重。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Prends soin de toi.",
+            "audio": "Prends_soin_de_toi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Pass auf dich auf.",
+            "audio": "Pass_auf_dich_auf..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cuídate.",
+            "audio": "Cuídate..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Береги себя.",
+            "audio": "Береги_себя..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดูแลตัวเองด้วย",
+            "audio": "ดูแลตัวเองด้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Hati-hati.",
+            "audio": "Hati-hati..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "保重。",
+            "audio": "保重。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR153",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "我先走了。",
+        "CN_ENG": {
+            "word": "I am leaving now.",
+            "audio": "I_am_leaving_now..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お先に失礼します",
+            "audio": "お先に失礼します.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "먼저 갈게요",
+            "audio": "먼저_갈게요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi đi trước đây.",
+            "audio": "Tôi_đi_trước_đây..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我走先啦。",
+            "audio": "我走先啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je pars maintenant.",
+            "audio": "Je_pars_maintenant..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich gehe jetzt.",
+            "audio": "Ich_gehe_jetzt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me voy ahora.",
+            "audio": "Me_voy_ahora..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я пошел.",
+            "audio": "Я_пошел..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไปก่อนนะ",
+            "audio": "ฉันไปก่อนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya pergi dulu.",
+            "audio": "Saya_pergi_dulu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我先走了。",
+            "audio": "我先走了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR154",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "該走了。",
+        "CN_ENG": {
+            "word": "Time to go.",
+            "audio": "Time_to_go..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう行かなくちゃ",
+            "audio": "もう行かなくちゃ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "갈 시간이에요",
+            "audio": "갈_시간이에요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đến lúc phải đi rồi.",
+            "audio": "Đến_lúc_phải_đi_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "夠鐘走啦。",
+            "audio": "夠鐘走啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il est temps d'y aller.",
+            "audio": "Il_est_temps_d'y_aller..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Zeit zu gehen.",
+            "audio": "Zeit_zu_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Es hora de irse.",
+            "audio": "Es_hora_de_irse..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пора идти.",
+            "audio": "Пора_идти..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ได้เวลาไปแล้ว",
+            "audio": "ได้เวลาไปแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saatnya pergi.",
+            "audio": "Saatnya_pergi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "該走了。",
+            "audio": "該走了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR155",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "我得走了。",
+        "CN_ENG": {
+            "word": "I have to go.",
+            "audio": "I_have_to_go..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "行かなければなりません",
+            "audio": "行かなければなりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가봐야겠어요",
+            "audio": "가봐야겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi phải đi rồi.",
+            "audio": "Tôi_phải_đi_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我要走啦。",
+            "audio": "我要走啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je dois y aller.",
+            "audio": "Je_dois_y_aller..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich muss gehen.",
+            "audio": "Ich_muss_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me tengo que ir.",
+            "audio": "Me_tengo_que_ir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне пора.",
+            "audio": "Мне_пора..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องไปแล้ว",
+            "audio": "ฉันต้องไปแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya harus pergi.",
+            "audio": "Saya_harus_pergi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我得走了。",
+            "audio": "我得走了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR156",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "很高興見到你。",
+        "CN_ENG": {
+            "word": "Nice seeing you.",
+            "audio": "Nice_seeing_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お会いできてよかったです",
+            "audio": "お会いできてよかったです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "만나서 반가웠어요",
+            "audio": "만나서_반가웠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được gặp bạn.",
+            "audio": "Rất_vui_được_gặp_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好高興見到你。",
+            "audio": "好高興見到你。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ravi de vous voir.",
+            "audio": "Ravi_de_vous_voir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schön dich zu sehen.",
+            "audio": "Schön_dich_zu_sehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me alegro de verte.",
+            "audio": "Me_alegro_de_verte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рад был повидаться.",
+            "audio": "Рад_был_повидаться..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดีใจที่ได้เจอคุณ",
+            "audio": "ดีใจที่ได้เจอคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang bertemu denganmu.",
+            "audio": "Senang_bertemu_denganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興見到你。",
+            "audio": "很高興見到你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR157",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "替我問候你家人。",
+        "CN_ENG": {
+            "word": "Say hi to your family.",
+            "audio": "Say_hi_to_your_family..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "家族によろしく伝えて",
+            "audio": "家族によろしく伝えて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가족에게 안부 전해줘요",
+            "audio": "가족에게_안부_전해줘요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gửi lời chào gia đình nhé.",
+            "audio": "Gửi_lời_chào_gia_đình_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "代我問候你屋企人。",
+            "audio": "代我問候你屋企人。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Dis bonjour à ta famille.",
+            "audio": "Dis_bonjour_à_ta_famille..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Grüße deine Familie von mir.",
+            "audio": "Grüße_deine_Familie_von_mir..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Saluda a tu familia.",
+            "audio": "Saluda_a_tu_familia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Передавай привет семье.",
+            "audio": "Передавай_привет_семье..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฝากความคิดถึงครอบครัวด้วย",
+            "audio": "ฝากความคิดถึงครอบครัวด้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampaikan salam untuk keluargamu.",
+            "audio": "Sampaikan_salam_untuk_keluargamu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "替我問候你家人。",
+            "audio": "替我問候你家人。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR158",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "玩的開心。",
+        "CN_ENG": {
+            "word": "Have fun.",
+            "audio": "Have_fun..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "楽しんできて",
+            "audio": "楽しんできて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "재미있게 놀아요",
+            "audio": "재미있게_놀아요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chơi vui nhé.",
+            "audio": "Chơi_vui_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "玩得開心啲。",
+            "audio": "玩得開心啲。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Amuse-toi bien.",
+            "audio": "Amuse-toi_bien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Viel Spaß.",
+            "audio": "Viel_Spaß..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Diviértete.",
+            "audio": "Diviértete..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошо провести время.",
+            "audio": "Хорошо_провести_время..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เที่ยวให้สนุกนะ",
+            "audio": "เที่ยวให้สนุกนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat bersenang-senang.",
+            "audio": "Selamat_bersenang-senang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "玩的開心。",
+            "audio": "玩的開心。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR159",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你好運。",
+        "CN_ENG": {
+            "word": "Good luck.",
+            "audio": "Good_luck..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "幸運を祈ります",
+            "audio": "幸運を祈ります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "행운을 빌어요",
+            "audio": "행운을_빌어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc may mắn.",
+            "audio": "Chúc_may_mắn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你好運。",
+            "audio": "祝你好運。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonne chance.",
+            "audio": "Bonne_chance..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Viel Glück.",
+            "audio": "Viel_Glück..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Buena suerte.",
+            "audio": "Buena_suerte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Удачи.",
+            "audio": "Удачи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้โชคดี",
+            "audio": "ขอให้โชคดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga berhasil.",
+            "audio": "Semoga_berhasil..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你好運。",
+            "audio": "祝你好運。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR160",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "下週見。",
+        "CN_ENG": {
+            "word": "See you next week.",
+            "audio": "See_you_next_week..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "来週お会いしましょう",
+            "audio": "来週お会いしましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다음 주에 봐요",
+            "audio": "다음_주에_봐요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tuần sau gặp nhé.",
+            "audio": "Tuần_sau_gặp_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "下個禮拜見。",
+            "audio": "下個禮拜見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À la semaine prochaine.",
+            "audio": "À_la_semaine_prochaine..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bis nächste Woche.",
+            "audio": "Bis_nächste_Woche..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hasta la próxima semana.",
+            "audio": "Hasta_la_próxima_semana..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Увидимся на следующей неделе.",
+            "audio": "Увидимся_на_следующей_неделе..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เจอกันอาทิตย์หน้า",
+            "audio": "เจอกันอาทิตย์หน้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampai jumpa minggu depan.",
+            "audio": "Sampai_jumpa_minggu_depan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "下週見。",
+            "audio": "下週見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR161",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "回頭見。",
+        "CN_ENG": {
+            "word": "Catch you later.",
+            "audio": "Catch_you_later..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また後で",
+            "audio": "また後で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "나중에 봐요",
+            "audio": "나중에_봐요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Gặp lại sau nhé.",
+            "audio": "Gặp_lại_sau_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "遲啲見。",
+            "audio": "遲啲見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À plus.",
+            "audio": "À_plus..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bis dann.",
+            "audio": "Bis_dann..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Nos vemos luego.",
+            "audio": "Nos_vemos_luego..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Увидимся.",
+            "audio": "Увидимся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไว้คุยกันนะ",
+            "audio": "ไว้คุยกันนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampai jumpa nanti.",
+            "audio": "Sampai_jumpa_nanti..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "回頭見。",
+            "audio": "回頭見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR162",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "慢走。",
+        "CN_ENG": {
+            "word": "Take care on your way.",
+            "audio": "Take_care_on_your_way..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お気をつけて",
+            "audio": "お気をつけて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조심히 가요",
+            "audio": "조심히_가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đi chậm thôi nhé.",
+            "audio": "Đi_chậm_thôi_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "慢慢行。",
+            "audio": "慢慢行。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Fais attention en route.",
+            "audio": "Fais_attention_en_route..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Pass auf dem Weg auf.",
+            "audio": "Pass_auf_dem_Weg_auf..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ve con cuidado.",
+            "audio": "Ve_con_cuidado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Счастливого пути.",
+            "audio": "Счастливого_пути..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดินทางดีๆนะ",
+            "audio": "เดินทางดีๆนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Hati-hati di jalan.",
+            "audio": "Hati-hati_di_jalan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "慢走。",
+            "audio": "慢走。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR163",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "早點休息。",
+        "CN_ENG": {
+            "word": "Rest early.",
+            "audio": "Rest_early..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "早く休んでね",
+            "audio": "早く休んでね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "일찍 쉬어요",
+            "audio": "일찍_쉬어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nghỉ ngơi sớm đi.",
+            "audio": "Nghỉ_ngơi_sớm_đi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "早啲休息。",
+            "audio": "早啲休息。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Repose-toi tôt.",
+            "audio": "Repose-toi_tôt..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ruh dich früh aus.",
+            "audio": "Ruh_dich_früh_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Descansa temprano.",
+            "audio": "Descansa_temprano..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Отдыхай пораньше.",
+            "audio": "Отдыхай_пораньше..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พักผ่อนเร็วๆนะ",
+            "audio": "พักผ่อนเร็วๆนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Istirahatlah lebih awal.",
+            "audio": "Istirahatlah_lebih_awal..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "早點休息。",
+            "audio": "早點休息。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR164",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你順利。",
+        "CN_ENG": {
+            "word": "Wish you the best.",
+            "audio": "Wish_you_the_best..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "うまくいくといいですね",
+            "audio": "うまくいくといいですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "잘 되길 바라요",
+            "audio": "잘_되길_바라요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc mọi việc suôn sẻ.",
+            "audio": "Chúc_mọi_việc_suôn_sẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你順利。",
+            "audio": "祝你順利。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je vous souhaite le meilleur.",
+            "audio": "Je_vous_souhaite_le_meilleur..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich wünsche dir das Beste.",
+            "audio": "Ich_wünsche_dir_das_Beste..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Te deseo lo mejor.",
+            "audio": "Te_deseo_lo_mejor..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Желаю всего наилучшего.",
+            "audio": "Желаю_всего_наилучшего..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้ราบรื่นนะ",
+            "audio": "ขอให้ราบรื่นนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga semuanya lancar.",
+            "audio": "Semoga_semuanya_lancar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你順利。",
+            "audio": "祝你順利。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR165",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "有空再聚。",
+        "CN_ENG": {
+            "word": "Let us meet up again.",
+            "audio": "Let_us_meet_up_again..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また時間がある時に会いましょう",
+            "audio": "また時間がある時に会いましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "시간 될 때 다시 모여요",
+            "audio": "시간_될_때_다시_모여요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lúc rảnh gặp lại nhé.",
+            "audio": "Lúc_rảnh_gặp_lại_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "得閒再聚。",
+            "audio": "得閒再聚。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Revoyons-nous quand tu as le temps.",
+            "audio": "Revoyons-nous_quand_tu_as_le_temps..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns wieder treffen.",
+            "audio": "Lass_uns_wieder_treffen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Juntémonos cuando tengas tiempo.",
+            "audio": "Juntémonos_cuando_tengas_tiempo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Встретимся, когда будет время.",
+            "audio": "Встретимся,_когда_будет_время..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ว่างๆมาเจอกันใหม่",
+            "audio": "ว่างๆมาเจอกันใหม่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mari bertemu lagi nanti.",
+            "audio": "Mari_bertemu_lagi_nanti..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "有空再聚。",
+            "audio": "有空再聚。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR166",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "隨時聯絡。",
+        "CN_ENG": {
+            "word": "Call me anytime.",
+            "audio": "Call_me_anytime..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いつでも連絡して",
+            "audio": "いつでも連絡して.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "언제든 연락해요",
+            "audio": "언제든_연락해요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cứ gọi tôi bất cứ lúc nào.",
+            "audio": "Cứ_gọi_tôi_bất_cứ_lúc_nào..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "隨時聯絡。",
+            "audio": "隨時聯絡。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Appelle-moi n'importe quand.",
+            "audio": "Appelle-moi_n'importe_quand..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Melde dich jederzeit.",
+            "audio": "Melde_dich_jederzeit..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Llámame cuando quieras.",
+            "audio": "Llámame_cuando_quieras..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Звони в любое время.",
+            "audio": "Звони_в_любое_время..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โทรหาได้ตลอดนะ",
+            "audio": "โทรหาได้ตลอดนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Hubungi saya kapan saja.",
+            "audio": "Hubungi_saya_kapan_saja..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "隨時聯絡。",
+            "audio": "隨時聯絡。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR167",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "別送了。",
+        "CN_ENG": {
+            "word": "No need to see me out.",
+            "audio": "No_need_to_see_me_out..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "見送りは結構です",
+            "audio": "見送りは結構です.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안 나오셔도 돼요",
+            "audio": "안_나오셔도_돼요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không cần tiễn đâu.",
+            "audio": "Không_cần_tiễn_đâu..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔使送啦。",
+            "audio": "唔使送啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ne me raccompagne pas.",
+            "audio": "Ne_me_raccompagne_pas..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du musst mich nicht zur Tür bringen.",
+            "audio": "Du_musst_mich_nicht_zur_Tür_bringen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No hace falta que me acompañes.",
+            "audio": "No_hace_falta_que_me_acompañes..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не провожай.",
+            "audio": "Не_провожай..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไม่ต้องไปส่งหรอก",
+            "audio": "ไม่ต้องไปส่งหรอก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak perlu mengantar saya.",
+            "audio": "Tidak_perlu_mengantar_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "別送了。",
+            "audio": "別送了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR168",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "路上小心。",
+        "CN_ENG": {
+            "word": "Be careful on the road.",
+            "audio": "Be_careful_on_the_road..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "道中気をつけて",
+            "audio": "道中気をつけて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "길 조심해요",
+            "audio": "길_조심해요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đi đường cẩn thận.",
+            "audio": "Đi_đường_cẩn_thận..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "路上小心。",
+            "audio": "路上小心。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Fais attention sur la route.",
+            "audio": "Fais_attention_sur_la_route..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sei vorsichtig auf der Straße.",
+            "audio": "Sei_vorsichtig_auf_der_Straße..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Ten cuidado en el camino.",
+            "audio": "Ten_cuidado_en_el_camino..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Осторожнее на дороге.",
+            "audio": "Осторожнее_на_дороге..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดินทางปลอดภัยนะ",
+            "audio": "เดินทางปลอดภัยนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Hati-hati di jalan.",
+            "audio": "Hati-hati_di_jalan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "路上小心。",
+            "audio": "路上小心。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR169",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "到家報平安。",
+        "CN_ENG": {
+            "word": "Let me know when you arrive.",
+            "audio": "Let_me_know_when_you_arrive..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "家に着いたら連絡して",
+            "audio": "家に着いたら連絡して.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "집에 도착하면 연락해요",
+            "audio": "집에_도착하면_연락해요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Về nhà nhớ báo nhé.",
+            "audio": "Về_nhà_nhớ_báo_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "返到屋企報平安。",
+            "audio": "返到屋企報平安。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Fais-moi savoir quand tu arrives.",
+            "audio": "Fais-moi_savoir_quand_tu_arrives..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sag Bescheid, wenn du zu Hause bist.",
+            "audio": "Sag_Bescheid,_wenn_du_zu_Hause_bist..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Avísame cuando llegues a casa.",
+            "audio": "Avísame_cuando_llegues_a_casa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сообщи, как доберешься домой.",
+            "audio": "Сообщи,_как_доберешься_домой..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถึงบ้านแล้วบอกด้วย",
+            "audio": "ถึงบ้านแล้วบอกด้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Beritahu saya kalau sudah sampai.",
+            "audio": "Beritahu_saya_kalau_sudah_sampai..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "到家報平安。",
+            "audio": "到家報平安。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR170",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "玩得愉快。",
+        "CN_ENG": {
+            "word": "Enjoy yourself.",
+            "audio": "Enjoy_yourself..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "楽しんでね",
+            "audio": "楽しんでね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "즐겁게 보내요",
+            "audio": "즐겁게_보내요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tận hưởng nhé.",
+            "audio": "Tận_hưởng_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "玩得開心啲。",
+            "audio": "玩得開心啲。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Profites-en bien.",
+            "audio": "Profites-en_bien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Viel Vergnügen.",
+            "audio": "Viel_Vergnügen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que lo disfrutes.",
+            "audio": "Que_lo_disfrutes..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Наслаждайся.",
+            "audio": "Наслаждайся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เที่ยวให้สนุก",
+            "audio": "เที่ยวให้สนุก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat bersenang-senang.",
+            "audio": "Selamat_bersenang-senang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "玩得愉快。",
+            "audio": "玩得愉快。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR171",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你旅途愉快。",
+        "CN_ENG": {
+            "word": "Enjoy your trip.",
+            "audio": "Enjoy_your_trip..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "良いご旅行を",
+            "audio": "良いご旅行を.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "즐거운 여행 되세요",
+            "audio": "즐거운_여행_되세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc chuyến đi vui vẻ.",
+            "audio": "Chúc_chuyến_đi_vui_vẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "旅途愉快。",
+            "audio": "旅途愉快。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bon voyage.",
+            "audio": "Bon_voyage..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Genieße deine Reise.",
+            "audio": "Genieße_deine_Reise..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Disfruta tu viaje.",
+            "audio": "Disfruta_tu_viaje..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Приятного путешествия.",
+            "audio": "Приятного_путешествия..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้เที่ยวให้สนุกนะ",
+            "audio": "ขอให้เที่ยวให้สนุกนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Nikmati perjalananmu.",
+            "audio": "Nikmati_perjalananmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你旅途愉快。",
+            "audio": "祝你旅途愉快。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR172",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "有事打給我。",
+        "CN_ENG": {
+            "word": "Call me if you need anything.",
+            "audio": "Call_me_if_you_need_anything..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "何かあれば電話して",
+            "audio": "何かあれば電話して.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무슨 일 있으면 전화해요",
+            "audio": "무슨_일_있으면_전화해요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có việc gì thì gọi tôi.",
+            "audio": "Có_việc_gì_thì_gọi_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "有事打畀我。",
+            "audio": "有事打畀我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Appelle-moi si tu as besoin de quelque chose.",
+            "audio": "Appelle-moi_si_tu_as_besoin_de_quelque_chose..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ruf mich an, wenn du etwas brauchst.",
+            "audio": "Ruf_mich_an,_wenn_du_etwas_brauchst..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Llámame si necesitas algo.",
+            "audio": "Llámame_si_necesitas_algo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Звони, если что-то понадобится.",
+            "audio": "Звони,_если_что-то_понадобится..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีอะไรโทรหานะ",
+            "audio": "มีอะไรโทรหานะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Hubungi saya jika butuh sesuatu.",
+            "audio": "Hubungi_saya_jika_butuh_sesuatu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "有事打給我。",
+            "audio": "有事打給我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR173",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "別太累了。",
+        "CN_ENG": {
+            "word": "Do not work too hard.",
+            "audio": "Do_not_work_too_hard..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "無理しないで",
+            "audio": "無理しないで.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "너무 무리하지 마요",
+            "audio": "너무_무리하지_마요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đừng làm việc quá sức.",
+            "audio": "Đừng_làm_việc_quá_sức..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔好太辛苦。",
+            "audio": "唔好太辛苦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ne travaille pas trop.",
+            "audio": "Ne_travaille_pas_trop..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Arbeite nicht zu hart.",
+            "audio": "Arbeite_nicht_zu_hart..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No trabajes demasiado.",
+            "audio": "No_trabajes_demasiado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не перетруждайся.",
+            "audio": "Не_перетруждайся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่าทำงานหนักเกินไป",
+            "audio": "อย่าทำงานหนักเกินไป.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jangan bekerja terlalu keras.",
+            "audio": "Jangan_bekerja_terlalu_keras..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "別太累了。",
+            "audio": "別太累了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR174",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "星期一見。",
+        "CN_ENG": {
+            "word": "See you on Monday.",
+            "audio": "See_you_on_Monday..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "月曜日に会いましょう",
+            "audio": "月曜日に会いましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "월요일에 봐요",
+            "audio": "월요일에_봐요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thứ hai gặp nhé.",
+            "audio": "Thứ_hai_gặp_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "星期一見。",
+            "audio": "星期一見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À lundi.",
+            "audio": "À_lundi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bis Montag.",
+            "audio": "Bis_Montag..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Nos vemos el lunes.",
+            "audio": "Nos_vemos_el_lunes..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Увидимся в понедельник.",
+            "audio": "Увидимся_в_понедельник..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เจอกันวันจันทร์",
+            "audio": "เจอกันวันจันทร์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampai jumpa hari Senin.",
+            "audio": "Sampai_jumpa_hari_Senin..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "星期一見。",
+            "audio": "星期一見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR175",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "幫我向他問好。",
+        "CN_ENG": {
+            "word": "Give him my regards.",
+            "audio": "Give_him_my_regards..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "彼によろしく伝えて",
+            "audio": "彼によろしく伝えて.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그에게 안부 전해줘요",
+            "audio": "그에게_안부_전해줘요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cho tôi gửi lời hỏi thăm anh ấy.",
+            "audio": "Cho_tôi_gửi_lời_hỏi_thăm_anh_ấy..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "代我問候佢。",
+            "audio": "代我問候佢。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Salue-le de ma part.",
+            "audio": "Salue-le_de_ma_part..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Richte ihm Grüße von mir aus.",
+            "audio": "Richte_ihm_Grüße_von_mir_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Dale mis saludos.",
+            "audio": "Dale_mis_saludos..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Передавай ему привет.",
+            "audio": "Передавай_ему_привет..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฝากความคิดถึงเขาด้วย",
+            "audio": "ฝากความคิดถึงเขาด้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sampaikan salamku padanya.",
+            "audio": "Sampaikan_salamku_padanya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "幫我向他問好。",
+            "audio": "幫我向他問好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR176",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "我晚點打給你。",
+        "CN_ENG": {
+            "word": "I will call you later.",
+            "audio": "I_will_call_you_later..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "後で電話します",
+            "audio": "後で電話します.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "나중에 전화할게요",
+            "audio": "나중에_전화할게요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lát nữa tôi sẽ gọi cho bạn.",
+            "audio": "Lát_nữa_tôi_sẽ_gọi_cho_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我轉頭打畀你。",
+            "audio": "我轉頭打畀你。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je t'appelle plus tard.",
+            "audio": "Je_t'appelle_plus_tard..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich rufe dich später an.",
+            "audio": "Ich_rufe_dich_später_an..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Te llamaré más tarde.",
+            "audio": "Te_llamaré_más_tarde..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я перезвоню позже.",
+            "audio": "Я_перезвоню_позже..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดี๋ยวโทรหานะ",
+            "audio": "เดี๋ยวโทรหานะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya akan meneleponmu nanti.",
+            "audio": "Saya_akan_meneleponmu_nanti..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我晚點打給你。",
+            "audio": "我晚點打給你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR177",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "我們再聯絡。",
+        "CN_ENG": {
+            "word": "We will talk later.",
+            "audio": "We_will_talk_later..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また連絡します",
+            "audio": "また連絡します.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다시 연락합시다",
+            "audio": "다시_연락합시다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng ta nói chuyện sau.",
+            "audio": "Chúng_ta_nói_chuyện_sau..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "再聯絡。",
+            "audio": "再聯絡。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "On se reparle.",
+            "audio": "On_se_reparle..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir sprechen uns noch.",
+            "audio": "Wir_sprechen_uns_noch..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hablamos luego.",
+            "audio": "Hablamos_luego..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Созвонимся.",
+            "audio": "Созвонимся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไว้คุยกันนะ",
+            "audio": "ไว้คุยกันนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kita bicara lagi nanti.",
+            "audio": "Kita_bicara_lagi_nanti..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們再聯絡。",
+            "audio": "我們再聯絡。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR178",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "期待下次見面。",
+        "CN_ENG": {
+            "word": "Looking forward to seeing you.",
+            "audio": "Looking_forward_to_seeing_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また会えるのを楽しみにしています",
+            "audio": "また会えるのを楽しみにしています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다음에 또 만나길 기대할게요",
+            "audio": "다음에_또_만나길_기대할게요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mong được gặp lại bạn.",
+            "audio": "Mong_được_gặp_lại_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "期待下次見面。",
+            "audio": "期待下次見面。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Au plaisir de vous revoir.",
+            "audio": "Au_plaisir_de_vous_revoir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich freue mich darauf, dich wiederzusehen.",
+            "audio": "Ich_freue_mich_darauf,_dich_wiederzusehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Espero verte de nuevo.",
+            "audio": "Espero_verte_de_nuevo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "С нетерпением жду нашей встречи.",
+            "audio": "С_нетерпением_жду_нашей_встречи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หวังว่าจะได้เจอกันอีก",
+            "audio": "หวังว่าจะได้เจอกันอีก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Menantikan pertemuan kita selanjutnya.",
+            "audio": "Menantikan_pertemuan_kita_selanjutnya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "期待下次見面。",
+            "audio": "期待下次見面。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR179",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "很高興跟你聊天。",
+        "CN_ENG": {
+            "word": "Nice talking to you.",
+            "audio": "Nice_talking_to_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お話しできてよかったです",
+            "audio": "お話しできてよかったです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "대화 즐거웠어요",
+            "audio": "대화_즐거웠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được nói chuyện với bạn.",
+            "audio": "Rất_vui_được_nói_chuyện_với_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好開心同你傾偈。",
+            "audio": "好開心同你傾偈。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'était sympa de discuter avec toi.",
+            "audio": "C'était_sympa_de_discuter_avec_toi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es war nett, mit dir zu sprechen.",
+            "audio": "Es_war_nett,_mit_dir_zu_sprechen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Fue un placer hablar contigo.",
+            "audio": "Fue_un_placer_hablar_contigo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Приятно было пообщаться.",
+            "audio": "Приятно_было_пообщаться..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยินดีที่ได้คุยด้วย",
+            "audio": "ยินดีที่ได้คุยด้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang berbicara denganmu.",
+            "audio": "Senang_berbicara_denganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興跟你聊天。",
+            "audio": "很高興跟你聊天。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR180",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你有個美好的夜晚。",
+        "CN_ENG": {
+            "word": "Have a good evening.",
+            "audio": "Have_a_good_evening..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "良い夜を",
+            "audio": "良い夜を.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 저녁 보내세요",
+            "audio": "좋은_저녁_보내세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc một buổi tối tốt lành.",
+            "audio": "Chúc_một_buổi_tối_tốt_lành..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你有個美好嘅夜晚。",
+            "audio": "祝你有個美好嘅夜晚。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Passe une bonne soirée.",
+            "audio": "Passe_une_bonne_soirée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Einen schönen Abend noch.",
+            "audio": "Einen_schönen_Abend_noch..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que pases una buena velada.",
+            "audio": "Que_pases_una_buena_velada..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошего вечера.",
+            "audio": "Хорошего_вечера..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้เป็นคืนที่ดี",
+            "audio": "ขอให้เป็นคืนที่ดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga malammu menyenangkan.",
+            "audio": "Semoga_malammu_menyenangkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你有個美好的夜晚。",
+            "audio": "祝你有個美好的夜晚。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR181",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你週末愉快。",
+        "CN_ENG": {
+            "word": "Have a great weekend.",
+            "audio": "Have_a_great_weekend..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "素晴らしい週末を",
+            "audio": "素晴らしい週末を.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "멋진 주말 보내세요",
+            "audio": "멋진_주말_보내세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc cuối tuần tuyệt vời.",
+            "audio": "Chúc_cuối_tuần_tuyệt_vời..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "週末愉快。",
+            "audio": "週末愉快。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Passe un excellent week-end.",
+            "audio": "Passe_un_excellent_week-end..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hab ein tolles Wochenende.",
+            "audio": "Hab_ein_tolles_Wochenende..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que tengas un gran fin de semana.",
+            "audio": "Que_tengas_un_gran_fin_de_semana..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Отличных выходных.",
+            "audio": "Отличных_выходных..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้มีความสุขในวันหยุด",
+            "audio": "ขอให้มีความสุขในวันหยุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat menikmati akhir pekan.",
+            "audio": "Selamat_menikmati_akhir_pekan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你週末愉快。",
+            "audio": "祝你週末愉快。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR182",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你一切順利。",
+        "CN_ENG": {
+            "word": "All the best.",
+            "audio": "All_the_best..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "全て順調にいきますように",
+            "audio": "全て順調にいきますように.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "모든 일이 잘 풀리길 바라요",
+            "audio": "모든_일이_잘_풀리길_바라요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc mọi điều tốt đẹp.",
+            "audio": "Chúc_mọi_điều_tốt_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你一切順利。",
+            "audio": "祝你一切順利。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je te souhaite le meilleur.",
+            "audio": "Je_te_souhaite_le_meilleur..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Alles Gute.",
+            "audio": "Alles_Gute..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Te deseo lo mejor.",
+            "audio": "Te_deseo_lo_mejor..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Всего наилучшего.",
+            "audio": "Всего_наилучшего..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้ทุกอย่างราบรื่น",
+            "audio": "ขอให้ทุกอย่างราบรื่น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semua yang terbaik untukmu.",
+            "audio": "Semua_yang_terbaik_untukmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你一切順利。",
+            "audio": "祝你一切順利。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR183",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "好好照顧自己。",
+        "CN_ENG": {
+            "word": "Take good care of yourself.",
+            "audio": "Take_good_care_of_yourself..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "体を大切に",
+            "audio": "体を大切に.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "건강 잘 챙겨요",
+            "audio": "건강_잘_챙겨요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chăm sóc bản thân tốt nhé.",
+            "audio": "Chăm_sóc_bản_thân_tốt_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好好照顧自己。",
+            "audio": "好好照顧自己。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Prends bien soin de toi.",
+            "audio": "Prends_bien_soin_de_toi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Pass gut auf dich auf.",
+            "audio": "Pass_gut_auf_dich_auf..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cuídate mucho.",
+            "audio": "Cuídate_mucho..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошо заботься о себе.",
+            "audio": "Хорошо_заботься_о_себе..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดูแลตัวเองดีๆนะ",
+            "audio": "ดูแลตัวเองดีๆนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jaga dirimu baik-baik.",
+            "audio": "Jaga_dirimu_baik-baik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "好好照顧自己。",
+            "audio": "好好照顧自己。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR184",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "先這樣囉。",
+        "CN_ENG": {
+            "word": "That is all for now.",
+            "audio": "That_is_all_for_now..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今のところはこれで",
+            "audio": "今のところはこれで.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "일단은 여기까지 할게요",
+            "audio": "일단은_여기까지_할게요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tạm thời vậy nhé.",
+            "audio": "Tạm_thời_vậy_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "暫時係咁先。",
+            "audio": "暫時係咁先。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est tout pour le moment.",
+            "audio": "C'est_tout_pour_le_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist erstmal alles.",
+            "audio": "Das_ist_erstmal_alles..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Eso es todo por ahora.",
+            "audio": "Eso_es_todo_por_ahora..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На этом пока все.",
+            "audio": "На_этом_пока_все..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แค่นี้ก่อนนะ",
+            "audio": "แค่นี้ก่อนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sekian untuk saat ini.",
+            "audio": "Sekian_untuk_saat_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "先這樣囉。",
+            "audio": "先這樣囉。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR185",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "很高興認識你。",
+        "CN_ENG": {
+            "word": "Nice meeting you.",
+            "audio": "Nice_meeting_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お会いできて光栄です",
+            "audio": "お会いできて光栄です.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "만나서 반가워요",
+            "audio": "만나서_반가워요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được biết bạn.",
+            "audio": "Rất_vui_được_biết_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好高興認識你。",
+            "audio": "好高興認識你。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ravi de vous rencontrer.",
+            "audio": "Ravi_de_vous_rencontrer..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schön dich kennenzulernen.",
+            "audio": "Schön_dich_kennenzulernen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Encantado de conocerte.",
+            "audio": "Encantado_de_conocerte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Приятно познакомиться.",
+            "audio": "Приятно_познакомиться..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยินดีที่ได้รู้จัก",
+            "audio": "ยินดีที่ได้รู้จัก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang berkenalan denganmu.",
+            "audio": "Senang_berkenalan_denganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興認識你。",
+            "audio": "很高興認識你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR186",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "祝你好夢。",
+        "CN_ENG": {
+            "word": "Sweet dreams.",
+            "audio": "Sweet_dreams..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "良い夢を",
+            "audio": "良い夢を.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 꿈 꿔요",
+            "audio": "좋은_꿈_꿔요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc ngủ ngon và có những giấc mơ đẹp.",
+            "audio": "Chúc_ngủ_ngon_và_có_những_giấc_mơ_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "發個好夢。",
+            "audio": "發個好夢。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Fais de beaux rêves.",
+            "audio": "Fais_de_beaux_rêves..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Träum süß.",
+            "audio": "Träum_süß..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Dulces sueños.",
+            "audio": "Dulces_sueños..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сладких снов.",
+            "audio": "Сладких_снов..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฝันดีนะ",
+            "audio": "ฝันดีนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mimpi indah.",
+            "audio": "Mimpi_indah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你好夢。",
+            "audio": "祝你好夢。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR187",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "感謝你的招待。",
+        "CN_ENG": {
+            "word": "Thanks for having me.",
+            "audio": "Thanks_for_having_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご招待ありがとうございました",
+            "audio": "ご招待ありがとうございました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "초대해 주셔서 감사합니다",
+            "audio": "초대해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã tiếp đón.",
+            "audio": "Cảm_ơn_bạn_đã_tiếp_đón..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅招待。",
+            "audio": "多謝你嘅招待。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci de m'avoir invité.",
+            "audio": "Merci_de_m'avoir_invité..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für die Einladung.",
+            "audio": "Danke_für_die_Einladung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por invitarme.",
+            "audio": "Gracias_por_invitarme..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за гостеприимство.",
+            "audio": "Спасибо_за_гостеприимство..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ต้อนรับ",
+            "audio": "ขอบคุณที่ต้อนรับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah mengundang saya.",
+            "audio": "Terima_kasih_sudah_mengundang_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "感謝你的招待。",
+            "audio": "感謝你的招待。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR188",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "下次再聊。",
+        "CN_ENG": {
+            "word": "Talk to you next time.",
+            "audio": "Talk_to_you_next_time..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また今度話しましょう",
+            "audio": "また今度話しましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다음에 또 얘기해요",
+            "audio": "다음에_또_얘기해요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lần sau nói chuyện tiếp.",
+            "audio": "Lần_sau_nói_chuyện_tiếp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "下次再傾。",
+            "audio": "下次再傾。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "On se reparlera la prochaine fois.",
+            "audio": "On_se_reparlera_la_prochaine_fois..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir reden beim nächsten Mal.",
+            "audio": "Wir_reden_beim_nächsten_Mal..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hablamos la próxima vez.",
+            "audio": "Hablamos_la_próxima_vez..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Поговорим в следующий раз.",
+            "audio": "Поговорим_в_следующий_раз..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไว้คุยกันคราวหน้า",
+            "audio": "ไว้คุยกันคราวหน้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kita bicara lagi lain kali.",
+            "audio": "Kita_bicara_lagi_lain_kali..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "下次再聊。",
+            "audio": "下次再聊。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR189",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "希望很快能再見。",
+        "CN_ENG": {
+            "word": "Hope to see you soon.",
+            "audio": "Hope_to_see_you_soon..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "すぐにまた会えることを願っています",
+            "audio": "すぐにまた会えることを願っています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조만간 또 뵙기를 바라요",
+            "audio": "조만간_또_뵙기를_바라요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hy vọng sớm gặp lại bạn.",
+            "audio": "Hy_vọng_sớm_gặp_lại_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "希望好快會再見。",
+            "audio": "希望好快會再見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'espère te revoir bientôt.",
+            "audio": "J'espère_te_revoir_bientôt..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich hoffe, dich bald wiederzusehen.",
+            "audio": "Ich_hoffe,_dich_bald_wiederzusehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Espero verte pronto.",
+            "audio": "Espero_verte_pronto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Надеюсь, скоро увидимся.",
+            "audio": "Надеюсь,_скоро_увидимся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หวังว่าจะได้พบกันเร็วๆนี้",
+            "audio": "หวังว่าจะได้พบกันเร็วๆนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berharap bisa segera bertemu denganmu lagi.",
+            "audio": "Berharap_bisa_segera_bertemu_denganmu_lagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "希望很快能再見。",
+            "audio": "希望很快能再見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR190",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "👋 道別(Goodbye)",
+        "cn": "珍重再見。",
+        "CN_ENG": {
+            "word": "Farewell.",
+            "audio": "Farewell..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お元気で",
+            "audio": "お元気で.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "잘 가요",
+            "audio": "잘_가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tạm biệt và bảo trọng.",
+            "audio": "Tạm_biệt_và_bảo_trọng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "珍重再見。",
+            "audio": "珍重再見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Adieu.",
+            "audio": "Adieu..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Leb wohl.",
+            "audio": "Leb_wohl..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Despedida.",
+            "audio": "Despedida..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Прощай.",
+            "audio": "Прощай..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลาก่อนและดูแลตัวเองด้วย",
+            "audio": "ลาก่อนและดูแลตัวเองด้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat tinggal dan jaga diri.",
+            "audio": "Selamat_tinggal_dan_jaga_diri..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "珍重再見。",
+            "audio": "珍重再見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR191",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝。",
+        "CN_ENG": {
+            "word": "Thank you.",
+            "audio": "Thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ありがとうございます",
+            "audio": "ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "감사합니다",
+            "audio": "감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn.",
+            "audio": "Cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝。",
+            "audio": "多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci.",
+            "audio": "Merci..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke.",
+            "audio": "Danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias.",
+            "audio": "Gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо.",
+            "audio": "Спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณครับ",
+            "audio": "ขอบคุณครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih.",
+            "audio": "Terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝。",
+            "audio": "謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR192",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "非常感謝。",
+        "CN_ENG": {
+            "word": "Thank you very much.",
+            "audio": "Thank_you_very_much..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本当にありがとうございます",
+            "audio": "本当にありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "대단히 감사합니다",
+            "audio": "대단히_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn rất nhiều.",
+            "audio": "Cảm_ơn_rất_nhiều..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "非常感謝。",
+            "audio": "非常感謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci beaucoup.",
+            "audio": "Merci_beaucoup..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen Dank.",
+            "audio": "Vielen_Dank..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Muchas gracias.",
+            "audio": "Muchas_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Большое спасибо.",
+            "audio": "Большое_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณมากครับ",
+            "audio": "ขอบคุณมากครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih banyak.",
+            "audio": "Terima_kasih_banyak..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "非常感謝。",
+            "audio": "非常感謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR193",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "太感謝你了。",
+        "CN_ENG": {
+            "word": "Thanks a lot.",
+            "audio": "Thanks_a_lot..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "どうもありがとうございます",
+            "audio": "どうもありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정말 고마워요",
+            "audio": "정말_고마워요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn nhiều nhé.",
+            "audio": "Cảm_ơn_bạn_nhiều_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "太感謝你啦。",
+            "audio": "太感謝你啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mille mercis.",
+            "audio": "Mille_mercis..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen herzlichen Dank.",
+            "audio": "Vielen_herzlichen_Dank..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Muchísimas gracias.",
+            "audio": "Muchísimas_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Огромное спасибо.",
+            "audio": "Огромное_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณจริงๆ",
+            "audio": "ขอบคุณจริงๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sekali.",
+            "audio": "Terima_kasih_sekali..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "太感謝你了。",
+            "audio": "太感謝你了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR194",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "辛苦你了。",
+        "CN_ENG": {
+            "word": "Thanks for your hard work.",
+            "audio": "Thanks_for_your_hard_work..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お疲れ様でした",
+            "audio": "お疲れ様でした.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수고하셨습니다",
+            "audio": "수고하셨습니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn vất vả rồi.",
+            "audio": "Bạn_vất_vả_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "辛苦你啦。",
+            "audio": "辛苦你啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour votre travail.",
+            "audio": "Merci_pour_votre_travail..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Mühe.",
+            "audio": "Danke_für_deine_Mühe..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu esfuerzo.",
+            "audio": "Gracias_por_tu_esfuerzo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за ваш труд.",
+            "audio": "Спасибо_за_ваш_труд..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลำบากคุณแล้ว",
+            "audio": "ลำบากคุณแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas kerja kerasmu.",
+            "audio": "Terima_kasih_atas_kerja_kerasmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "辛苦你了。",
+            "audio": "辛苦你了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR195",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的幫忙。",
+        "CN_ENG": {
+            "word": "Thanks for your help.",
+            "audio": "Thanks_for_your_help..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "手伝ってくれてありがとう",
+            "audio": "手伝ってくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "도와주셔서 감사합니다",
+            "audio": "도와주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã giúp đỡ.",
+            "audio": "Cảm_ơn_bạn_đã_giúp_đỡ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔該晒你幫手。",
+            "audio": "唔該晒你幫手。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ton aide.",
+            "audio": "Merci_pour_ton_aide..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Hilfe.",
+            "audio": "Danke_für_deine_Hilfe..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu ayuda.",
+            "audio": "Gracias_por_tu_ayuda..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за помощь.",
+            "audio": "Спасибо_за_помощь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ช่วยเหลือนะ",
+            "audio": "ขอบคุณที่ช่วยเหลือนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas bantuanmu.",
+            "audio": "Terima_kasih_atas_bantuanmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的幫忙。",
+            "audio": "謝謝你的幫忙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR196",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的邀請。",
+        "CN_ENG": {
+            "word": "Thanks for inviting me.",
+            "audio": "Thanks_for_inviting_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご招待ありがとうございます",
+            "audio": "ご招待ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "초대해 주셔서 감사합니다",
+            "audio": "초대해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì đã mời.",
+            "audio": "Cảm_ơn_vì_đã_mời..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅邀請。",
+            "audio": "多謝你嘅邀請。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour l'invitation.",
+            "audio": "Merci_pour_l'invitation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für die Einladung.",
+            "audio": "Danke_für_die_Einladung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por la invitación.",
+            "audio": "Gracias_por_la_invitación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за приглашение.",
+            "audio": "Спасибо_за_приглашение..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่เชิญนะ",
+            "audio": "ขอบคุณที่เชิญนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas undangannya.",
+            "audio": "Terima_kasih_atas_undangannya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的邀請。",
+            "audio": "謝謝你的邀請。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR197",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的禮物。",
+        "CN_ENG": {
+            "word": "Thanks for the gift.",
+            "audio": "Thanks_for_the_gift..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "プレゼントをありがとう",
+            "audio": "プレゼントをありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "선물 감사합니다",
+            "audio": "선물_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn về món quà.",
+            "audio": "Cảm_ơn_về_món_quà..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你份禮物。",
+            "audio": "多謝你份禮物。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour le cadeau.",
+            "audio": "Merci_pour_le_cadeau..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für das Geschenk.",
+            "audio": "Danke_für_das_Geschenk..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por el regalo.",
+            "audio": "Gracias_por_el_regalo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за подарок.",
+            "audio": "Спасибо_за_подарок..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับของขวัญนะ",
+            "audio": "ขอบคุณสำหรับของขวัญนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas hadiahnya.",
+            "audio": "Terima_kasih_atas_hadiahnya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的禮物。",
+            "audio": "謝謝你的禮物。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR198",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的時間。",
+        "CN_ENG": {
+            "word": "Thanks for your time.",
+            "audio": "Thanks_for_your_time..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お時間をいただきありがとうございます",
+            "audio": "お時間をいただきありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "시간 내주셔서 감사합니다",
+            "audio": "시간_내주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã dành thời gian.",
+            "audio": "Cảm_ơn_bạn_đã_dành_thời_gian..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你抽時間。",
+            "audio": "多謝你抽時間。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour votre temps.",
+            "audio": "Merci_pour_votre_temps..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Zeit.",
+            "audio": "Danke_für_deine_Zeit..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu tiempo.",
+            "audio": "Gracias_por_tu_tiempo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за ваше время.",
+            "audio": "Спасибо_за_ваше_время..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่สละเวลานะ",
+            "audio": "ขอบคุณที่สละเวลานะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas waktumu.",
+            "audio": "Terima_kasih_atas_waktumu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的時間。",
+            "audio": "謝謝你的時間。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR199",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的建議。",
+        "CN_ENG": {
+            "word": "Thanks for your advice.",
+            "audio": "Thanks_for_your_advice..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "アドバイスをありがとう",
+            "audio": "アドバイスをありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조언해 주셔서 감사합니다",
+            "audio": "조언해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn lời khuyên của bạn.",
+            "audio": "Cảm_ơn_lời_khuyên_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅建議。",
+            "audio": "多謝你嘅建議。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour tes conseils.",
+            "audio": "Merci_pour_tes_conseils..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deinen Rat.",
+            "audio": "Danke_für_deinen_Rat..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu consejo.",
+            "audio": "Gracias_por_tu_consejo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за совет.",
+            "audio": "Спасибо_за_совет..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับคำแนะนำนะ",
+            "audio": "ขอบคุณสำหรับคำแนะนำนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas saranmu.",
+            "audio": "Terima_kasih_atas_saranmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的建議。",
+            "audio": "謝謝你的建議。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR200",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的提醒。",
+        "CN_ENG": {
+            "word": "Thanks for reminding me.",
+            "audio": "Thanks_for_reminding_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "教えてくれてありがとう",
+            "audio": "教えてくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "알려주셔서 감사합니다",
+            "audio": "알려주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn đã nhắc nhở.",
+            "audio": "Cảm_ơn_đã_nhắc_nhở..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你提醒。",
+            "audio": "多謝你提醒。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci de me l'avoir rappelé.",
+            "audio": "Merci_de_me_l'avoir_rappelé..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für die Erinnerung.",
+            "audio": "Danke_für_die_Erinnerung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por recordármelo.",
+            "audio": "Gracias_por_recordármelo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за напоминание.",
+            "audio": "Спасибо_за_напоминание..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่เตือนนะ",
+            "audio": "ขอบคุณที่เตือนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah mengingatkan.",
+            "audio": "Terima_kasih_sudah_mengingatkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的提醒。",
+            "audio": "謝謝你的提醒。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR201",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的耐心。",
+        "CN_ENG": {
+            "word": "Thanks for your patience.",
+            "audio": "Thanks_for_your_patience..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご対応ありがとうございます",
+            "audio": "ご対応ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기다려 주셔서 감사합니다",
+            "audio": "기다려_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì sự kiên nhẫn.",
+            "audio": "Cảm_ơn_vì_sự_kiên_nhẫn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅耐心。",
+            "audio": "多謝你嘅耐心。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta patience.",
+            "audio": "Merci_pour_ta_patience..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Geduld.",
+            "audio": "Danke_für_deine_Geduld..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu paciencia.",
+            "audio": "Gracias_por_tu_paciencia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за ваше терпение.",
+            "audio": "Спасибо_за_ваше_терпение..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่อดทนนะ",
+            "audio": "ขอบคุณที่อดทนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas kesabaranmu.",
+            "audio": "Terima_kasih_atas_kesabaranmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的耐心。",
+            "audio": "謝謝你的耐心。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR202",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的理解。",
+        "CN_ENG": {
+            "word": "Thanks for understanding.",
+            "audio": "Thanks_for_understanding..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご理解ありがとうございます",
+            "audio": "ご理解ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이해해 주셔서 감사합니다",
+            "audio": "이해해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì đã thông cảm.",
+            "audio": "Cảm_ơn_vì_đã_thông_cảm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅體諒。",
+            "audio": "多謝你嘅體諒。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta compréhension.",
+            "audio": "Merci_pour_ta_compréhension..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für dein Verständnis.",
+            "audio": "Danke_für_dein_Verständnis..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu comprensión.",
+            "audio": "Gracias_por_tu_comprensión..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за понимание.",
+            "audio": "Спасибо_за_понимание..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่เข้าใจนะ",
+            "audio": "ขอบคุณที่เข้าใจนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas pengertianmu.",
+            "audio": "Terima_kasih_atas_pengertianmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的理解。",
+            "audio": "謝謝你的理解。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR203",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的支持。",
+        "CN_ENG": {
+            "word": "Thanks for your support.",
+            "audio": "Thanks_for_your_support..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "応援ありがとうございます",
+            "audio": "応援ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지원해 주셔서 감사합니다",
+            "audio": "지원해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn sự ủng hộ của bạn.",
+            "audio": "Cảm_ơn_sự_ủng_hộ_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅支持。",
+            "audio": "多謝你嘅支持。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ton soutien.",
+            "audio": "Merci_pour_ton_soutien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Unterstützung.",
+            "audio": "Danke_für_deine_Unterstützung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu apoyo.",
+            "audio": "Gracias_por_tu_apoyo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за поддержку.",
+            "audio": "Спасибо_за_поддержку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่สนับสนุนนะ",
+            "audio": "ขอบคุณที่สนับสนุนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas dukunganmu.",
+            "audio": "Terima_kasih_atas_dukunganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的支持。",
+            "audio": "謝謝你的支持。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR204",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的關心。",
+        "CN_ENG": {
+            "word": "Thanks for caring.",
+            "audio": "Thanks_for_caring..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご心配ありがとうございます",
+            "audio": "ご心配ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "걱정해 주셔서 감사합니다",
+            "audio": "걱정해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã quan tâm.",
+            "audio": "Cảm_ơn_bạn_đã_quan_tâm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你關心。",
+            "audio": "多謝你關心。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci de t'en soucier.",
+            "audio": "Merci_de_t'en_soucier..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Fürsorge.",
+            "audio": "Danke_für_deine_Fürsorge..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por preocuparte.",
+            "audio": "Gracias_por_preocuparte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за заботу.",
+            "audio": "Спасибо_за_заботу..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่เป็นห่วงนะ",
+            "audio": "ขอบคุณที่เป็นห่วงนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas perhatianmu.",
+            "audio": "Terima_kasih_atas_perhatianmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的關心。",
+            "audio": "謝謝你的關心。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR205",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的配合。",
+        "CN_ENG": {
+            "word": "Thanks for your cooperation.",
+            "audio": "Thanks_for_your_cooperation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご協力ありがとうございます",
+            "audio": "ご協力ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "협조해 주셔서 감사합니다",
+            "audio": "협조해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã hợp tác.",
+            "audio": "Cảm_ơn_bạn_đã_hợp_tác..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅配合。",
+            "audio": "多謝你嘅配合。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta coopération.",
+            "audio": "Merci_pour_ta_coopération..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Zusammenarbeit.",
+            "audio": "Danke_für_deine_Zusammenarbeit..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu cooperación.",
+            "audio": "Gracias_por_tu_cooperación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за сотрудничество.",
+            "audio": "Спасибо_за_сотрудничество..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ให้ความร่วมมือนะ",
+            "audio": "ขอบคุณที่ให้ความร่วมมือนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas kerjasamanya.",
+            "audio": "Terima_kasih_atas_kerjasamanya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的配合。",
+            "audio": "謝謝你的配合。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR206",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的分享。",
+        "CN_ENG": {
+            "word": "Thanks for sharing.",
+            "audio": "Thanks_for_sharing..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "共有してくれてありがとう",
+            "audio": "共有してくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "공유해 주셔서 감사합니다",
+            "audio": "공유해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì đã chia sẻ.",
+            "audio": "Cảm_ơn_vì_đã_chia_sẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你分享。",
+            "audio": "多謝你分享。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci d'avoir partagé.",
+            "audio": "Merci_d'avoir_partagé..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke fürs Teilen.",
+            "audio": "Danke_fürs_Teilen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por compartir.",
+            "audio": "Gracias_por_compartir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо что поделились.",
+            "audio": "Спасибо_что_поделились..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่แบ่งปันนะ",
+            "audio": "ขอบคุณที่แบ่งปันนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah berbagi.",
+            "audio": "Terima_kasih_sudah_berbagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的分享。",
+            "audio": "謝謝你的分享。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR207",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的招待。",
+        "CN_ENG": {
+            "word": "Thanks for your hospitality.",
+            "audio": "Thanks_for_your_hospitality..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おもてなしに感謝します",
+            "audio": "おもてなしに感謝します.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "환대해 주셔서 감사합니다",
+            "audio": "환대해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn sự hiếu khách của bạn.",
+            "audio": "Cảm_ơn_sự_hiếu_khách_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅招待。",
+            "audio": "多謝你嘅招待。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ton hospitalité.",
+            "audio": "Merci_pour_ton_hospitalité..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Gastfreundschaft.",
+            "audio": "Danke_für_deine_Gastfreundschaft..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu hospitalidad.",
+            "audio": "Gracias_por_tu_hospitalidad..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за гостеприимство.",
+            "audio": "Спасибо_за_гостеприимство..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ต้อนรับเป็นอย่างดีนะ",
+            "audio": "ขอบคุณที่ต้อนรับเป็นอย่างดีนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas keramahtamahanmu.",
+            "audio": "Terima_kasih_atas_keramahtamahanmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的招待。",
+            "audio": "謝謝你的招待。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR208",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的回覆。",
+        "CN_ENG": {
+            "word": "Thanks for your reply.",
+            "audio": "Thanks_for_your_reply..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご返信ありがとうございます",
+            "audio": "ご返信ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "답장해 주셔서 감사합니다",
+            "audio": "답장해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã phản hồi.",
+            "audio": "Cảm_ơn_bạn_đã_phản_hồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你覆我。",
+            "audio": "多謝你覆我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta réponse.",
+            "audio": "Merci_pour_ta_réponse..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Antwort.",
+            "audio": "Danke_für_deine_Antwort..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu respuesta.",
+            "audio": "Gracias_por_tu_respuesta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за ответ.",
+            "audio": "Спасибо_за_ответ..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ตอบกลับนะ",
+            "audio": "ขอบคุณที่ตอบกลับนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas balasanmu.",
+            "audio": "Terima_kasih_atas_balasanmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的回覆。",
+            "audio": "謝謝你的回覆。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR209",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的體諒。",
+        "CN_ENG": {
+            "word": "Thanks for your consideration.",
+            "audio": "Thanks_for_your_consideration..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご配慮ありがとうございます",
+            "audio": "ご配慮ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "배려해 주셔서 감사합니다",
+            "audio": "배려해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì đã chu đáo.",
+            "audio": "Cảm_ơn_vì_đã_chu_đáo..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅體諒。",
+            "audio": "多謝你嘅體諒。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta considération.",
+            "audio": "Merci_pour_ta_considération..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Rücksichtnahme.",
+            "audio": "Danke_für_deine_Rücksichtnahme..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu consideración.",
+            "audio": "Gracias_por_tu_consideración..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за внимание.",
+            "audio": "Спасибо_за_внимание..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่เห็นใจนะ",
+            "audio": "ขอบคุณที่เห็นใจนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas pertimbanganmu.",
+            "audio": "Terima_kasih_atas_pertimbanganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的體諒。",
+            "audio": "謝謝你的體諒。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR210",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你聽我說。",
+        "CN_ENG": {
+            "word": "Thanks for listening.",
+            "audio": "Thanks_for_listening..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "話を聞いてくれてありがとう",
+            "audio": "話を聞いてくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "내 말을 들어줘서 고마워요",
+            "audio": "내_말을_들어줘서_고마워요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã lắng nghe.",
+            "audio": "Cảm_ơn_bạn_đã_lắng_nghe..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你聽我講。",
+            "audio": "多謝你聽我講。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci de m'avoir écouté.",
+            "audio": "Merci_de_m'avoir_écouté..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke fürs Zuhören.",
+            "audio": "Danke_fürs_Zuhören..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por escuchar.",
+            "audio": "Gracias_por_escuchar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо, что выслушали.",
+            "audio": "Спасибо,_что_выслушали..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่รับฟังนะ",
+            "audio": "ขอบคุณที่รับฟังนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah mendengarkan.",
+            "audio": "Terima_kasih_sudah_mendengarkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你聽我說。",
+            "audio": "謝謝你聽我說。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR211",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你告訴我。",
+        "CN_ENG": {
+            "word": "Thanks for telling me.",
+            "audio": "Thanks_for_telling_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "教えてくれてありがとう",
+            "audio": "教えてくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "말해줘서 고마워요",
+            "audio": "말해줘서_고마워요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn đã cho tôi biết.",
+            "audio": "Cảm_ơn_đã_cho_tôi_biết..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你話我知。",
+            "audio": "多謝你話我知。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci de me l'avoir dit.",
+            "audio": "Merci_de_me_l'avoir_dit..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke, dass du mir das gesagt hast.",
+            "audio": "Danke,_dass_du_mir_das_gesagt_hast..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por decírmelo.",
+            "audio": "Gracias_por_decírmelo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо, что сказали.",
+            "audio": "Спасибо,_что_сказали..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่บอกนะ",
+            "audio": "ขอบคุณที่บอกนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah memberitahu saya.",
+            "audio": "Terima_kasih_sudah_memberitahu_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你告訴我。",
+            "audio": "謝謝你告訴我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR212",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你來。",
+        "CN_ENG": {
+            "word": "Thanks for coming.",
+            "audio": "Thanks_for_coming..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "来てくれてありがとう",
+            "audio": "来てくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "와주셔서 감사합니다",
+            "audio": "와주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã đến.",
+            "audio": "Cảm_ơn_bạn_đã_đến..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嚟。",
+            "audio": "多謝你嚟。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci d'être venu.",
+            "audio": "Merci_d'être_venu..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke fürs Kommen.",
+            "audio": "Danke_fürs_Kommen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por venir.",
+            "audio": "Gracias_por_venir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо, что пришли.",
+            "audio": "Спасибо,_что_пришли..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่มานะ",
+            "audio": "ขอบคุณที่มานะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah datang.",
+            "audio": "Terima_kasih_sudah_datang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你來。",
+            "audio": "謝謝你來。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR213",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你等我。",
+        "CN_ENG": {
+            "word": "Thanks for waiting for me.",
+            "audio": "Thanks_for_waiting_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "待っててくれてありがとう",
+            "audio": "待っててくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기다려줘서 고마워요",
+            "audio": "기다려줘서_고마워요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn đã đợi tôi.",
+            "audio": "Cảm_ơn_đã_đợi_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你等我。",
+            "audio": "多謝你等我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci de m'avoir attendu.",
+            "audio": "Merci_de_m'avoir_attendu..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke, dass du auf mich gewartet hast.",
+            "audio": "Danke,_dass_du_auf_mich_gewartet_hast..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por esperarme.",
+            "audio": "Gracias_por_esperarme..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо, что подождали.",
+            "audio": "Спасибо,_что_подождали..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่รอนะ",
+            "audio": "ขอบคุณที่รอนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah menungguku.",
+            "audio": "Terima_kasih_sudah_menungguku..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你等我。",
+            "audio": "謝謝你等我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR214",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你陪我。",
+        "CN_ENG": {
+            "word": "Thanks for accompanying me.",
+            "audio": "Thanks_for_accompanying_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "付き合ってくれてありがとう",
+            "audio": "付き合ってくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "함께해줘서 고마워요",
+            "audio": "함께해줘서_고마워요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn đã đi cùng tôi.",
+            "audio": "Cảm_ơn_đã_đi_cùng_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你陪我。",
+            "audio": "多謝你陪我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci de m'accompagner.",
+            "audio": "Merci_de_m'accompagner..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Begleitung.",
+            "audio": "Danke_für_deine_Begleitung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por acompañarme.",
+            "audio": "Gracias_por_acompañarme..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо, что составили компанию.",
+            "audio": "Спасибо,_что_составили_компанию..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่อยู่เป็นเพื่อนนะ",
+            "audio": "ขอบคุณที่อยู่เป็นเพื่อนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih sudah menemaniku.",
+            "audio": "Terima_kasih_sudah_menemaniku..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你陪我。",
+            "audio": "謝謝你陪我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR215",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你做的一切。",
+        "CN_ENG": {
+            "word": "Thanks for everything.",
+            "audio": "Thanks_for_everything..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いろいろとありがとうございます",
+            "audio": "いろいろとありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여러모로 감사합니다",
+            "audio": "여러모로_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì tất cả.",
+            "audio": "Cảm_ơn_vì_tất_cả..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你做嘅一切。",
+            "audio": "多謝你做嘅一切。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour tout.",
+            "audio": "Merci_pour_tout..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für alles.",
+            "audio": "Danke_für_alles..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por todo.",
+            "audio": "Gracias_por_todo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за всё.",
+            "audio": "Спасибо_за_всё..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับทุกอย่างนะ",
+            "audio": "ขอบคุณสำหรับทุกอย่างนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih untuk semuanya.",
+            "audio": "Terima_kasih_untuk_semuanya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你做的一切。",
+            "audio": "謝謝你做的一切。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR216",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "麻煩你了。",
+        "CN_ENG": {
+            "word": "Sorry for the trouble.",
+            "audio": "Sorry_for_the_trouble..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お手数をおかけします",
+            "audio": "お手数をおかけします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수고를 끼쳐 죄송합니다",
+            "audio": "수고를_끼쳐_죄송합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm phiền bạn rồi.",
+            "audio": "Làm_phiền_bạn_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩晒你啦。",
+            "audio": "麻煩晒你啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Désolé pour le dérangement.",
+            "audio": "Désolé_pour_le_dérangement..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Entschuldigung für die Umstände.",
+            "audio": "Entschuldigung_für_die_Umstände..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Siento las molestias.",
+            "audio": "Siento_las_molestias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Извините за беспокойство.",
+            "audio": "Извините_за_беспокойство..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รบกวนด้วยนะ",
+            "audio": "รบกวนด้วยนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Maaf merepotkan.",
+            "audio": "Maaf_merepotkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "麻煩你了。",
+            "audio": "麻煩你了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR217",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "讓你費心了。",
+        "CN_ENG": {
+            "word": "Thanks for the trouble.",
+            "audio": "Thanks_for_the_trouble..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご迷惑をおかけしました",
+            "audio": "ご迷惑をおかけしました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "신경 쓰게 해서 죄송해요",
+            "audio": "신경_쓰게_해서_죄송해요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Để bạn phải bận tâm rồi.",
+            "audio": "Để_bạn_phải_bận_tâm_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "要你費心啦。",
+            "audio": "要你費心啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour le mal que tu t'es donné.",
+            "audio": "Merci_pour_le_mal_que_tu_t'es_donné..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Bemühungen.",
+            "audio": "Danke_für_deine_Bemühungen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por la molestia.",
+            "audio": "Gracias_por_la_molestia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за хлопоты.",
+            "audio": "Спасибо_за_хлопоты..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทำให้คุณต้องลำบากแล้ว",
+            "audio": "ทำให้คุณต้องลำบากแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas usahamu.",
+            "audio": "Terima_kasih_atas_usahamu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "讓你費心了。",
+            "audio": "讓你費心了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR218",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "感激不盡。",
+        "CN_ENG": {
+            "word": "I cannot thank you enough.",
+            "audio": "I_cannot_thank_you_enough..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "感謝してもしきれません",
+            "audio": "感謝してもしきれません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이루 다 감사드릴 수 없네요",
+            "audio": "이루_다_감사드릴_수_없네요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vô cùng biết ơn.",
+            "audio": "Vô_cùng_biết_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "感激不盡。",
+            "audio": "感激不盡。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne vous remercierai jamais assez.",
+            "audio": "Je_ne_vous_remercierai_jamais_assez..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich kann dir nicht genug danken.",
+            "audio": "Ich_kann_dir_nicht_genug_danken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No puedo agradecerte lo suficiente.",
+            "audio": "No_puedo_agradecerte_lo_suficiente..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могу выразить свою благодарность.",
+            "audio": "Не_могу_выразить_свою_благодарность..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณอย่างหาที่สุดไม่ได้",
+            "audio": "ขอบคุณอย่างหาที่สุดไม่ได้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sangat berterima kasih.",
+            "audio": "Saya_sangat_berterima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "感激不盡。",
+            "audio": "感激不盡。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR219",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "萬分感謝。",
+        "CN_ENG": {
+            "word": "Many thanks.",
+            "audio": "Many_thanks..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本当に感謝いたします",
+            "audio": "本当に感謝いたします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "천만 번 감사합니다",
+            "audio": "천만_번_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Muôn vàn cảm ơn.",
+            "audio": "Muôn_vàn_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "萬分感謝。",
+            "audio": "萬分感謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mille remerciements.",
+            "audio": "Mille_remerciements..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen herzlichen Dank.",
+            "audio": "Vielen_herzlichen_Dank..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Muchísimas gracias.",
+            "audio": "Muchísimas_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Огромное спасибо.",
+            "audio": "Огромное_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณเป็นหมื่นๆครั้ง",
+            "audio": "ขอบคุณเป็นหมื่นๆครั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih banyak.",
+            "audio": "Terima_kasih_banyak..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "萬分感謝。",
+            "audio": "萬分感謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR220",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "不知如何感謝你。",
+        "CN_ENG": {
+            "word": "I do not know how to thank you.",
+            "audio": "I_do_not_know_how_to_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "何とお礼を言っていいか",
+            "audio": "何とお礼を言っていいか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "어떻게 감사를 드려야 할지",
+            "audio": "어떻게_감사를_드려야_할지.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không biết phải cảm ơn thế nào.",
+            "audio": "Không_biết_phải_cảm_ơn_thế_nào..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "都唔知點多謝你先好。",
+            "audio": "都唔知點多謝你先好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne sais pas comment te remercier.",
+            "audio": "Je_ne_sais_pas_comment_te_remercier..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich weiß nicht, wie ich dir danken soll.",
+            "audio": "Ich_weiß_nicht,_wie_ich_dir_danken_soll..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No sé cómo agradecerte.",
+            "audio": "No_sé_cómo_agradecerte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не знаю, как вас отблагодарить.",
+            "audio": "Не_знаю,_как_вас_отблагодарить..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไม่รู้จะขอบคุณยังไงดี",
+            "audio": "ไม่รู้จะขอบคุณยังไงดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak tahu bagaimana harus berterima kasih.",
+            "audio": "Saya_tidak_tahu_bagaimana_harus_berterima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不知如何感謝你。",
+            "audio": "不知如何感謝你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR221",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "多虧了你。",
+        "CN_ENG": {
+            "word": "All thanks to you.",
+            "audio": "All_thanks_to_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "あなたのおかげです",
+            "audio": "あなたのおかげです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다 당신 덕분이에요",
+            "audio": "다_당신_덕분이에요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tất cả là nhờ bạn.",
+            "audio": "Tất_cả_là_nhờ_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多得有你咋。",
+            "audio": "多得有你咋。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tout ça, c'est grâce à toi.",
+            "audio": "Tout_ça,_c'est_grâce_à_toi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Alles dank dir.",
+            "audio": "Alles_dank_dir..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Todo gracias a ti.",
+            "audio": "Todo_gracias_a_ti..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Всё благодаря тебе.",
+            "audio": "Всё_благодаря_тебе..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เป็นเพราะคุณแท้ๆเลย",
+            "audio": "เป็นเพราะคุณแท้ๆเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semua berkat kamu.",
+            "audio": "Semua_berkat_kamu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "多虧了你。",
+            "audio": "多虧了你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR222",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "你真是幫了大忙。",
+        "CN_ENG": {
+            "word": "You were a great help.",
+            "audio": "You_were_a_great_help..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本当に助かりました",
+            "audio": "本当に助かりました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "큰 도움이 되었어요",
+            "audio": "큰_도움이_되었어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn đã giúp một việc lớn đấy.",
+            "audio": "Bạn_đã_giúp_một_việc_lớn_đấy..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你真係幫咗大忙。",
+            "audio": "你真係幫咗大忙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu m'as été d'une grande aide.",
+            "audio": "Tu_m'as_été_d'une_grande_aide..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du warst eine große Hilfe.",
+            "audio": "Du_warst_eine_große_Hilfe..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Fuiste de gran ayuda.",
+            "audio": "Fuiste_de_gran_ayuda..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы очень помогли.",
+            "audio": "Вы_очень_помогли..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณช่วยได้มากเลยจริงๆ",
+            "audio": "คุณช่วยได้มากเลยจริงๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kamu sangat membantu.",
+            "audio": "Kamu_sangat_membantu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你真是幫了大忙。",
+            "audio": "你真是幫了大忙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR223",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "你人真好。",
+        "CN_ENG": {
+            "word": "You are so kind.",
+            "audio": "You_are_so_kind..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本当に親切ですね",
+            "audio": "本当に親切ですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정말 친절하시네요",
+            "audio": "정말_친절하시네요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn thật tốt bụng.",
+            "audio": "Bạn_thật_tốt_bụng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你份人真係好。",
+            "audio": "你份人真係好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu es si gentil.",
+            "audio": "Tu_es_si_gentil..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du bist so nett.",
+            "audio": "Du_bist_so_nett..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Eres muy amable.",
+            "audio": "Eres_muy_amable..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы так добры.",
+            "audio": "Вы_так_добры..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณใจดีจังเลย",
+            "audio": "คุณใจดีจังเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kamu sangat baik.",
+            "audio": "Kamu_sangat_baik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你人真好。",
+            "audio": "你人真好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR224",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "你太客氣了。",
+        "CN_ENG": {
+            "word": "You are too kind.",
+            "audio": "You_are_too_kind..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご丁寧に恐れ入ります",
+            "audio": "ご丁寧に恐れ入ります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "너무 겸손하시네요",
+            "audio": "너무_겸손하시네요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn khách sáo quá.",
+            "audio": "Bạn_khách_sáo_quá..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你太客氣啦。",
+            "audio": "你太客氣啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu es trop aimable.",
+            "audio": "Tu_es_trop_aimable..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du bist zu freundlich.",
+            "audio": "Du_bist_zu_freundlich..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Eres demasiado amable.",
+            "audio": "Eres_demasiado_amable..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы слишком любезны.",
+            "audio": "Вы_слишком_любезны..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณเกรงใจเกินไปแล้ว",
+            "audio": "คุณเกรงใจเกินไปแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kamu terlalu baik.",
+            "audio": "Kamu_terlalu_baik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你太客氣了。",
+            "audio": "你太客氣了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR225",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "這是我的榮幸。",
+        "CN_ENG": {
+            "word": "It is my pleasure.",
+            "audio": "It_is_my_pleasure..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "どういたしまして",
+            "audio": "どういたしまして.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "제 영광입니다",
+            "audio": "제_영광입니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đó là niềm vinh hạnh của tôi.",
+            "audio": "Đó_là_niềm_vinh_hạnh_của_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個係我嘅榮幸。",
+            "audio": "呢個係我嘅榮幸。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est un plaisir.",
+            "audio": "C'est_un_plaisir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es ist mir eine Freude.",
+            "audio": "Es_ist_mir_eine_Freude..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Es un placer.",
+            "audio": "Es_un_placer..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это большая честь для меня.",
+            "audio": "Это_большая_честь_для_меня..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เป็นเกียรติของฉันครับ",
+            "audio": "เป็นเกียรติของฉันครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ini adalah kehormatan bagi saya.",
+            "audio": "Ini_adalah_kehormatan_bagi_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這是我的榮幸。",
+            "audio": "這是我的榮幸。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR226",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "不客氣。",
+        "CN_ENG": {
+            "word": "You are welcome.",
+            "audio": "You_are_welcome..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "どういたしまして",
+            "audio": "どういたしまして.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "천만에요",
+            "audio": "천만에요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không có chi.",
+            "audio": "Không_có_chi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔使客氣。",
+            "audio": "唔使客氣。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De rien.",
+            "audio": "De_rien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gern geschehen.",
+            "audio": "Gern_geschehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "De nada.",
+            "audio": "De_nada..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста.",
+            "audio": "Пожалуйста..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ด้วยความยินดีครับ",
+            "audio": "ด้วยความยินดีครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sama-sama.",
+            "audio": "Sama-sama..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不客氣。",
+            "audio": "不客氣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR227",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "別客氣。",
+        "CN_ENG": {
+            "word": "Do not mention it.",
+            "audio": "Do_not_mention_it..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "気にしないで",
+            "audio": "気にしないで.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "괜찮아요",
+            "audio": "괜찮아요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đừng khách sáo.",
+            "audio": "Đừng_khách_sáo..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔好客氣。",
+            "audio": "唔好客氣。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il n'y a pas de quoi.",
+            "audio": "Il_n'y_a_pas_de_quoi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nicht der Rede wert.",
+            "audio": "Nicht_der_Rede_wert..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No hay de qué.",
+            "audio": "No_hay_de_qué..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не стоит благодарности.",
+            "audio": "Не_стоит_благодарности..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไม่ต้องเกรงใจนะ",
+            "audio": "ไม่ต้องเกรงใจนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jangan sungkan.",
+            "audio": "Jangan_sungkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "別客氣。",
+            "audio": "別客氣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR228",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "小事一樁。",
+        "CN_ENG": {
+            "word": "It is nothing.",
+            "audio": "It_is_nothing..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "大したことではありません",
+            "audio": "大したことではありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "별거 아니에요",
+            "audio": "별거_아니에요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chuyện nhỏ mà.",
+            "audio": "Chuyện_nhỏ_mà..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "小事一樁啫。",
+            "audio": "小事一樁啫。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est rien du tout.",
+            "audio": "C'est_rien_du_tout..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist doch nichts.",
+            "audio": "Das_ist_doch_nichts..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No es nada.",
+            "audio": "No_es_nada..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пустяки.",
+            "audio": "Пустяки..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เรื่องเล็กน้อยครับ",
+            "audio": "เรื่องเล็กน้อยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bukan apa-apa.",
+            "audio": "Bukan_apa-apa..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "小事一樁。",
+            "audio": "小事一樁。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR229",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "應該的。",
+        "CN_ENG": {
+            "word": "My duty.",
+            "audio": "My_duty..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "当然のことです",
+            "audio": "当然のことです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당연히 해야 할 일이죠",
+            "audio": "당연히_해야_할_일이죠.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Việc nên làm thôi.",
+            "audio": "Việc_nên_làm_thôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "應該嘅。",
+            "audio": "應該嘅。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est normal.",
+            "audio": "C'est_normal..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist meine Pflicht.",
+            "audio": "Das_ist_meine_Pflicht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Es mi deber.",
+            "audio": "Es_mi_deber..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это мой долг.",
+            "audio": "Это_мой_долг..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เป็นสิ่งที่ควรทำครับ",
+            "audio": "เป็นสิ่งที่ควรทำครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sudah seharusnya.",
+            "audio": "Sudah_seharusnya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "應該的。",
+            "audio": "應該的。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR230",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "沒問題。",
+        "CN_ENG": {
+            "word": "No problem.",
+            "audio": "No_problem..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "問題ありません",
+            "audio": "問題ありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "문제없어요",
+            "audio": "문제없어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không vấn đề gì.",
+            "audio": "Không_vấn_đề_gì..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "冇問題。",
+            "audio": "冇問題。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pas de problème.",
+            "audio": "Pas_de_problème..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kein Problem.",
+            "audio": "Kein_Problem..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No hay problema.",
+            "audio": "No_hay_problema..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Без проблем.",
+            "audio": "Без_проблем..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไม่มีปัญหาครับ",
+            "audio": "ไม่มีปัญหาครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak masalah.",
+            "audio": "Tidak_masalah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "沒問題。",
+            "audio": "沒問題。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR231",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "隨時為您效勞。",
+        "CN_ENG": {
+            "word": "Anytime.",
+            "audio": "Anytime..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いつでもどうぞ",
+            "audio": "いつでもどうぞ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "언제든지요",
+            "audio": "언제든지요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bất cứ lúc nào.",
+            "audio": "Bất_cứ_lúc_nào..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "隨時為你效勞。",
+            "audio": "隨時為你效勞。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À tout moment.",
+            "audio": "À_tout_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Jederzeit.",
+            "audio": "Jederzeit..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cuando quieras.",
+            "audio": "Cuando_quieras..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обращайтесь в любое время.",
+            "audio": "Обращайтесь_в_любое_время..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยินดีรับใช้เสมอครับ",
+            "audio": "ยินดีรับใช้เสมอครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kapan saja.",
+            "audio": "Kapan_saja..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "隨時為您效勞。",
+            "audio": "隨時為您效勞。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR232",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "很高興能幫上忙。",
+        "CN_ENG": {
+            "word": "Glad I could help.",
+            "audio": "Glad_I_could_help..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お役に立てて嬉しいです",
+            "audio": "お役に立てて嬉しいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "도움이 되어 기쁩니다",
+            "audio": "도움이_되어_기쁩니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui vì có thể giúp.",
+            "audio": "Rất_vui_vì_có_thể_giúp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好開心可以幫到手。",
+            "audio": "好開心可以幫到手。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ravi d'avoir pu aider.",
+            "audio": "Ravi_d'avoir_pu_aider..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin froh, dass ich helfen konnte.",
+            "audio": "Ich_bin_froh,_dass_ich_helfen_konnte..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me alegra haber ayudado.",
+            "audio": "Me_alegra_haber_ayudado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рад, что смог помочь.",
+            "audio": "Рад,_что_смог_помочь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดีใจที่ได้ช่วยนะครับ",
+            "audio": "ดีใจที่ได้ช่วยนะครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang bisa membantu.",
+            "audio": "Senang_bisa_membantu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興能幫上忙。",
+            "audio": "很高興能幫上忙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR233",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的稱讚。",
+        "CN_ENG": {
+            "word": "Thanks for the compliment.",
+            "audio": "Thanks_for_the_compliment..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お褒めいただきありがとうございます",
+            "audio": "お褒めいただきありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "칭찬해 주셔서 감사합니다",
+            "audio": "칭찬해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn lời khen của bạn.",
+            "audio": "Cảm_ơn_lời_khen_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅稱讚。",
+            "audio": "多謝你嘅稱讚。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour le compliment.",
+            "audio": "Merci_pour_le_compliment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für das Kompliment.",
+            "audio": "Danke_für_das_Kompliment..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por el cumplido.",
+            "audio": "Gracias_por_el_cumplido..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за комплимент.",
+            "audio": "Спасибо_за_комплимент..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับคำชมนะ",
+            "audio": "ขอบคุณสำหรับคำชมนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas pujiannya.",
+            "audio": "Terima_kasih_atas_pujiannya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的稱讚。",
+            "audio": "謝謝你的稱讚。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR234",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的指教。",
+        "CN_ENG": {
+            "word": "Thanks for your guidance.",
+            "audio": "Thanks_for_your_guidance..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご指導ありがとうございます",
+            "audio": "ご指導ありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지도해 주셔서 감사합니다",
+            "audio": "지도해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn sự chỉ bảo của bạn.",
+            "audio": "Cảm_ơn_sự_chỉ_bảo_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你指教。",
+            "audio": "多謝你指教。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour tes conseils.",
+            "audio": "Merci_pour_tes_conseils..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Anleitung.",
+            "audio": "Danke_für_deine_Anleitung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu orientación.",
+            "audio": "Gracias_por_tu_orientación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за ваше руководство.",
+            "audio": "Спасибо_за_ваше_руководство..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ชี้แนะนะ",
+            "audio": "ขอบคุณที่ชี้แนะนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas bimbingannya.",
+            "audio": "Terima_kasih_atas_bimbingannya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的指教。",
+            "audio": "謝謝你的指教。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR235",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的包容。",
+        "CN_ENG": {
+            "word": "Thanks for your tolerance.",
+            "audio": "Thanks_for_your_tolerance..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご寛容に感謝します",
+            "audio": "ご寛容に感謝します.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "너그럽게 이해해 주셔서 감사합니다",
+            "audio": "너그럽게_이해해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn sự bao dung của bạn.",
+            "audio": "Cảm_ơn_sự_bao_dung_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅包容。",
+            "audio": "多謝你嘅包容。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta tolérance.",
+            "audio": "Merci_pour_ta_tolérance..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Toleranz.",
+            "audio": "Danke_für_deine_Toleranz..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu tolerancia.",
+            "audio": "Gracias_por_tu_tolerancia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за вашу терпимость.",
+            "audio": "Спасибо_за_вашу_терпимость..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ให้อภัยนะ",
+            "audio": "ขอบคุณที่ให้อภัยนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas toleransimu.",
+            "audio": "Terima_kasih_atas_toleransimu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的包容。",
+            "audio": "謝謝你的包容。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR236",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的信任。",
+        "CN_ENG": {
+            "word": "Thanks for your trust.",
+            "audio": "Thanks_for_your_trust..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "信頼していただきありがとうございます",
+            "audio": "信頼していただきありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "믿어주셔서 감사합니다",
+            "audio": "믿어주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn sự tin tưởng của bạn.",
+            "audio": "Cảm_ơn_sự_tin_tưởng_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅信任。",
+            "audio": "多謝你嘅信任。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta confiance.",
+            "audio": "Merci_pour_ta_confiance..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für dein Vertrauen.",
+            "audio": "Danke_für_dein_Vertrauen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu confianza.",
+            "audio": "Gracias_por_tu_confianza..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за доверие.",
+            "audio": "Спасибо_за_доверие..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ไว้ใจนะ",
+            "audio": "ขอบคุณที่ไว้ใจนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas kepercayaanmu.",
+            "audio": "Terima_kasih_atas_kepercayaanmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的信任。",
+            "audio": "謝謝你的信任。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR237",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的鼓勵。",
+        "CN_ENG": {
+            "word": "Thanks for your encouragement.",
+            "audio": "Thanks_for_your_encouragement..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "励ましてくれてありがとう",
+            "audio": "励ましてくれてありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "격려해 주셔서 감사합니다",
+            "audio": "격려해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn lời động viên của bạn.",
+            "audio": "Cảm_ơn_lời_động_viên_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅鼓勵。",
+            "audio": "多謝你嘅鼓勵。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour tes encouragements.",
+            "audio": "Merci_pour_tes_encouragements..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Ermutigung.",
+            "audio": "Danke_für_deine_Ermutigung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu aliento.",
+            "audio": "Gracias_por_tu_aliento..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за вашу поддержку.",
+            "audio": "Спасибо_за_вашу_поддержку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ให้กำลังใจนะ",
+            "audio": "ขอบคุณที่ให้กำลังใจนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas doronganmu.",
+            "audio": "Terima_kasih_atas_doronganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的鼓勵。",
+            "audio": "謝謝你的鼓勵。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR238",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "謝謝你的推薦。",
+        "CN_ENG": {
+            "word": "Thanks for your recommendation.",
+            "audio": "Thanks_for_your_recommendation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "推薦していただきありがとうございます",
+            "audio": "推薦していただきありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천해 주셔서 감사합니다",
+            "audio": "추천해_주셔서_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn lời giới thiệu của bạn.",
+            "audio": "Cảm_ơn_lời_giới_thiệu_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅推薦。",
+            "audio": "多謝你嘅推薦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ta recommandation.",
+            "audio": "Merci_pour_ta_recommandation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für deine Empfehlung.",
+            "audio": "Danke_für_deine_Empfehlung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu recomendación.",
+            "audio": "Gracias_por_tu_recomendación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за рекомендацию.",
+            "audio": "Спасибо_за_рекомендацию..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่แนะนำนะ",
+            "audio": "ขอบคุณที่แนะนำนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas rekomendasinya.",
+            "audio": "Terima_kasih_atas_rekomendasinya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的推薦。",
+            "audio": "謝謝你的推薦。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR239",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "再次感謝。",
+        "CN_ENG": {
+            "word": "Thanks again.",
+            "audio": "Thanks_again..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "改めて感謝します",
+            "audio": "改めて感謝します.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다시 한번 감사합니다",
+            "audio": "다시_한번_감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Một lần nữa xin cảm ơn.",
+            "audio": "Một_lần_nữa_xin_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "再次多謝。",
+            "audio": "再次多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci encore.",
+            "audio": "Merci_encore..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Nochmals vielen Dank.",
+            "audio": "Nochmals_vielen_Dank..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias de nuevo.",
+            "audio": "Gracias_de_nuevo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ещё раз спасибо.",
+            "audio": "Ещё_раз_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณอีกครั้งนะ",
+            "audio": "ขอบคุณอีกครั้งนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih lagi.",
+            "audio": "Terima_kasih_lagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "再次感謝。",
+            "audio": "再次感謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "KR240",
+        "category": "Lesson 01 👋 禮貌(Greet)",
+        "subcategory": "🙏 道謝(Thanks)",
+        "cn": "感恩。",
+        "CN_ENG": {
+            "word": "Appreciate it.",
+            "audio": "Appreciate_it..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "感謝しています",
+            "audio": "感謝しています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "감사합니다",
+            "audio": "감사합니다.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Biết ơn bạn.",
+            "audio": "Biết_ơn_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "感恩。",
+            "audio": "感恩。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'apprécie.",
+            "audio": "J'apprécie..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich weiß das zu schätzen.",
+            "audio": "Ich_weiß_das_zu_schätzen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Lo aprecio.",
+            "audio": "Lo_aprecio..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Признателен.",
+            "audio": "Признателен..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รู้สึกซาบซึ้งครับ",
+            "audio": "รู้สึกซาบซึ้งครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya menghargainya.",
+            "audio": "Saya_menghargainya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "感恩。",
+            "audio": "感恩。.mp3",
+            "folder": "CN_ZH/audio"
+        }
     }
 ];
