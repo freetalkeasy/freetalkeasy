@@ -256550,7 +256550,7 @@ const vocabData = [
     {
         "id": "KR141",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "再見。",
         "CN_ENG": {
             "word": "Goodbye.",
@@ -256616,7 +256616,7 @@ const vocabData = [
     {
         "id": "KR142",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "拜拜。",
         "CN_ENG": {
             "word": "Bye bye.",
@@ -256682,7 +256682,7 @@ const vocabData = [
     {
         "id": "KR143",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "明天見。",
         "CN_ENG": {
             "word": "See you tomorrow.",
@@ -256748,7 +256748,7 @@ const vocabData = [
     {
         "id": "KR144",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "待會見。",
         "CN_ENG": {
             "word": "See you later.",
@@ -256814,7 +256814,7 @@ const vocabData = [
     {
         "id": "KR145",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "下次見。",
         "CN_ENG": {
             "word": "See you next time.",
@@ -256880,7 +256880,7 @@ const vocabData = [
     {
         "id": "KR146",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "晚安。",
         "CN_ENG": {
             "word": "Good night.",
@@ -256946,7 +256946,7 @@ const vocabData = [
     {
         "id": "KR147",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你有美好的一天。",
         "CN_ENG": {
             "word": "Have a good day.",
@@ -257012,7 +257012,7 @@ const vocabData = [
     {
         "id": "KR148",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "週末愉快。",
         "CN_ENG": {
             "word": "Have a good weekend.",
@@ -257078,7 +257078,7 @@ const vocabData = [
     {
         "id": "KR149",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "一路順風。",
         "CN_ENG": {
             "word": "Have a safe trip.",
@@ -257144,7 +257144,7 @@ const vocabData = [
     {
         "id": "KR150",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "到了打給我。",
         "CN_ENG": {
             "word": "Call me when you arrive.",
@@ -257210,7 +257210,7 @@ const vocabData = [
     {
         "id": "KR151",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "保持聯絡。",
         "CN_ENG": {
             "word": "Keep in touch.",
@@ -257276,7 +257276,7 @@ const vocabData = [
     {
         "id": "KR152",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "保重。",
         "CN_ENG": {
             "word": "Take care.",
@@ -257342,7 +257342,7 @@ const vocabData = [
     {
         "id": "KR153",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "我先走了。",
         "CN_ENG": {
             "word": "I am leaving now.",
@@ -257408,7 +257408,7 @@ const vocabData = [
     {
         "id": "KR154",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "該走了。",
         "CN_ENG": {
             "word": "Time to go.",
@@ -257474,7 +257474,7 @@ const vocabData = [
     {
         "id": "KR155",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "我得走了。",
         "CN_ENG": {
             "word": "I have to go.",
@@ -257540,7 +257540,7 @@ const vocabData = [
     {
         "id": "KR156",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "很高興見到你。",
         "CN_ENG": {
             "word": "Nice seeing you.",
@@ -257606,7 +257606,7 @@ const vocabData = [
     {
         "id": "KR157",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "替我問候你家人。",
         "CN_ENG": {
             "word": "Say hi to your family.",
@@ -257672,7 +257672,7 @@ const vocabData = [
     {
         "id": "KR158",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "玩的開心。",
         "CN_ENG": {
             "word": "Have fun.",
@@ -257738,7 +257738,7 @@ const vocabData = [
     {
         "id": "KR159",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你好運。",
         "CN_ENG": {
             "word": "Good luck.",
@@ -257804,7 +257804,7 @@ const vocabData = [
     {
         "id": "KR160",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "下週見。",
         "CN_ENG": {
             "word": "See you next week.",
@@ -257870,7 +257870,7 @@ const vocabData = [
     {
         "id": "KR161",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "回頭見。",
         "CN_ENG": {
             "word": "Catch you later.",
@@ -257936,7 +257936,7 @@ const vocabData = [
     {
         "id": "KR162",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "慢走。",
         "CN_ENG": {
             "word": "Take care on your way.",
@@ -258002,7 +258002,7 @@ const vocabData = [
     {
         "id": "KR163",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "早點休息。",
         "CN_ENG": {
             "word": "Rest early.",
@@ -258068,7 +258068,7 @@ const vocabData = [
     {
         "id": "KR164",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你順利。",
         "CN_ENG": {
             "word": "Wish you the best.",
@@ -258134,7 +258134,7 @@ const vocabData = [
     {
         "id": "KR165",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "有空再聚。",
         "CN_ENG": {
             "word": "Let us meet up again.",
@@ -258200,7 +258200,7 @@ const vocabData = [
     {
         "id": "KR166",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "隨時聯絡。",
         "CN_ENG": {
             "word": "Call me anytime.",
@@ -258266,7 +258266,7 @@ const vocabData = [
     {
         "id": "KR167",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "別送了。",
         "CN_ENG": {
             "word": "No need to see me out.",
@@ -258332,7 +258332,7 @@ const vocabData = [
     {
         "id": "KR168",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "路上小心。",
         "CN_ENG": {
             "word": "Be careful on the road.",
@@ -258398,7 +258398,7 @@ const vocabData = [
     {
         "id": "KR169",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "到家報平安。",
         "CN_ENG": {
             "word": "Let me know when you arrive.",
@@ -258464,7 +258464,7 @@ const vocabData = [
     {
         "id": "KR170",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "玩得愉快。",
         "CN_ENG": {
             "word": "Enjoy yourself.",
@@ -258530,7 +258530,7 @@ const vocabData = [
     {
         "id": "KR171",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你旅途愉快。",
         "CN_ENG": {
             "word": "Enjoy your trip.",
@@ -258596,7 +258596,7 @@ const vocabData = [
     {
         "id": "KR172",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "有事打給我。",
         "CN_ENG": {
             "word": "Call me if you need anything.",
@@ -258662,7 +258662,7 @@ const vocabData = [
     {
         "id": "KR173",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "別太累了。",
         "CN_ENG": {
             "word": "Do not work too hard.",
@@ -258728,7 +258728,7 @@ const vocabData = [
     {
         "id": "KR174",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "星期一見。",
         "CN_ENG": {
             "word": "See you on Monday.",
@@ -258794,7 +258794,7 @@ const vocabData = [
     {
         "id": "KR175",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "幫我向他問好。",
         "CN_ENG": {
             "word": "Give him my regards.",
@@ -258860,7 +258860,7 @@ const vocabData = [
     {
         "id": "KR176",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "我晚點打給你。",
         "CN_ENG": {
             "word": "I will call you later.",
@@ -258926,7 +258926,7 @@ const vocabData = [
     {
         "id": "KR177",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "我們再聯絡。",
         "CN_ENG": {
             "word": "We will talk later.",
@@ -258992,7 +258992,7 @@ const vocabData = [
     {
         "id": "KR178",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "期待下次見面。",
         "CN_ENG": {
             "word": "Looking forward to seeing you.",
@@ -259058,7 +259058,7 @@ const vocabData = [
     {
         "id": "KR179",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "很高興跟你聊天。",
         "CN_ENG": {
             "word": "Nice talking to you.",
@@ -259124,7 +259124,7 @@ const vocabData = [
     {
         "id": "KR180",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你有個美好的夜晚。",
         "CN_ENG": {
             "word": "Have a good evening.",
@@ -259190,7 +259190,7 @@ const vocabData = [
     {
         "id": "KR181",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你週末愉快。",
         "CN_ENG": {
             "word": "Have a great weekend.",
@@ -259256,7 +259256,7 @@ const vocabData = [
     {
         "id": "KR182",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你一切順利。",
         "CN_ENG": {
             "word": "All the best.",
@@ -259322,7 +259322,7 @@ const vocabData = [
     {
         "id": "KR183",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "好好照顧自己。",
         "CN_ENG": {
             "word": "Take good care of yourself.",
@@ -259388,7 +259388,7 @@ const vocabData = [
     {
         "id": "KR184",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "先這樣囉。",
         "CN_ENG": {
             "word": "That is all for now.",
@@ -259454,7 +259454,7 @@ const vocabData = [
     {
         "id": "KR185",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "很高興認識你。",
         "CN_ENG": {
             "word": "Nice meeting you.",
@@ -259520,7 +259520,7 @@ const vocabData = [
     {
         "id": "KR186",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "祝你好夢。",
         "CN_ENG": {
             "word": "Sweet dreams.",
@@ -259586,7 +259586,7 @@ const vocabData = [
     {
         "id": "KR187",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "感謝你的招待。",
         "CN_ENG": {
             "word": "Thanks for having me.",
@@ -259652,7 +259652,7 @@ const vocabData = [
     {
         "id": "KR188",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "下次再聊。",
         "CN_ENG": {
             "word": "Talk to you next time.",
@@ -259718,7 +259718,7 @@ const vocabData = [
     {
         "id": "KR189",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "希望很快能再見。",
         "CN_ENG": {
             "word": "Hope to see you soon.",
@@ -259784,7 +259784,7 @@ const vocabData = [
     {
         "id": "KR190",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "👋 道別(Goodbye)",
+        "subcategory": "👋 道別短句(Goodbye)",
         "cn": "珍重再見。",
         "CN_ENG": {
             "word": "Farewell.",
@@ -259850,7 +259850,7 @@ const vocabData = [
     {
         "id": "KR191",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝。",
         "CN_ENG": {
             "word": "Thank you.",
@@ -259916,7 +259916,7 @@ const vocabData = [
     {
         "id": "KR192",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "非常感謝。",
         "CN_ENG": {
             "word": "Thank you very much.",
@@ -259982,7 +259982,7 @@ const vocabData = [
     {
         "id": "KR193",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "太感謝你了。",
         "CN_ENG": {
             "word": "Thanks a lot.",
@@ -260048,7 +260048,7 @@ const vocabData = [
     {
         "id": "KR194",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "辛苦你了。",
         "CN_ENG": {
             "word": "Thanks for your hard work.",
@@ -260114,7 +260114,7 @@ const vocabData = [
     {
         "id": "KR195",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的幫忙。",
         "CN_ENG": {
             "word": "Thanks for your help.",
@@ -260180,7 +260180,7 @@ const vocabData = [
     {
         "id": "KR196",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的邀請。",
         "CN_ENG": {
             "word": "Thanks for inviting me.",
@@ -260246,7 +260246,7 @@ const vocabData = [
     {
         "id": "KR197",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的禮物。",
         "CN_ENG": {
             "word": "Thanks for the gift.",
@@ -260312,7 +260312,7 @@ const vocabData = [
     {
         "id": "KR198",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的時間。",
         "CN_ENG": {
             "word": "Thanks for your time.",
@@ -260378,7 +260378,7 @@ const vocabData = [
     {
         "id": "KR199",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的建議。",
         "CN_ENG": {
             "word": "Thanks for your advice.",
@@ -260444,7 +260444,7 @@ const vocabData = [
     {
         "id": "KR200",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的提醒。",
         "CN_ENG": {
             "word": "Thanks for reminding me.",
@@ -260510,7 +260510,7 @@ const vocabData = [
     {
         "id": "KR201",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的耐心。",
         "CN_ENG": {
             "word": "Thanks for your patience.",
@@ -260576,7 +260576,7 @@ const vocabData = [
     {
         "id": "KR202",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的理解。",
         "CN_ENG": {
             "word": "Thanks for understanding.",
@@ -260642,7 +260642,7 @@ const vocabData = [
     {
         "id": "KR203",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的支持。",
         "CN_ENG": {
             "word": "Thanks for your support.",
@@ -260708,7 +260708,7 @@ const vocabData = [
     {
         "id": "KR204",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的關心。",
         "CN_ENG": {
             "word": "Thanks for caring.",
@@ -260774,7 +260774,7 @@ const vocabData = [
     {
         "id": "KR205",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的配合。",
         "CN_ENG": {
             "word": "Thanks for your cooperation.",
@@ -260840,7 +260840,7 @@ const vocabData = [
     {
         "id": "KR206",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的分享。",
         "CN_ENG": {
             "word": "Thanks for sharing.",
@@ -260906,7 +260906,7 @@ const vocabData = [
     {
         "id": "KR207",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的招待。",
         "CN_ENG": {
             "word": "Thanks for your hospitality.",
@@ -260972,7 +260972,7 @@ const vocabData = [
     {
         "id": "KR208",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的回覆。",
         "CN_ENG": {
             "word": "Thanks for your reply.",
@@ -261038,7 +261038,7 @@ const vocabData = [
     {
         "id": "KR209",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的體諒。",
         "CN_ENG": {
             "word": "Thanks for your consideration.",
@@ -261104,7 +261104,7 @@ const vocabData = [
     {
         "id": "KR210",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你聽我說。",
         "CN_ENG": {
             "word": "Thanks for listening.",
@@ -261170,7 +261170,7 @@ const vocabData = [
     {
         "id": "KR211",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你告訴我。",
         "CN_ENG": {
             "word": "Thanks for telling me.",
@@ -261236,7 +261236,7 @@ const vocabData = [
     {
         "id": "KR212",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你來。",
         "CN_ENG": {
             "word": "Thanks for coming.",
@@ -261302,7 +261302,7 @@ const vocabData = [
     {
         "id": "KR213",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你等我。",
         "CN_ENG": {
             "word": "Thanks for waiting for me.",
@@ -261368,7 +261368,7 @@ const vocabData = [
     {
         "id": "KR214",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你陪我。",
         "CN_ENG": {
             "word": "Thanks for accompanying me.",
@@ -261434,7 +261434,7 @@ const vocabData = [
     {
         "id": "KR215",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你做的一切。",
         "CN_ENG": {
             "word": "Thanks for everything.",
@@ -261500,7 +261500,7 @@ const vocabData = [
     {
         "id": "KR216",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "麻煩你了。",
         "CN_ENG": {
             "word": "Sorry for the trouble.",
@@ -261566,7 +261566,7 @@ const vocabData = [
     {
         "id": "KR217",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "讓你費心了。",
         "CN_ENG": {
             "word": "Thanks for the trouble.",
@@ -261632,7 +261632,7 @@ const vocabData = [
     {
         "id": "KR218",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "感激不盡。",
         "CN_ENG": {
             "word": "I cannot thank you enough.",
@@ -261698,7 +261698,7 @@ const vocabData = [
     {
         "id": "KR219",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "萬分感謝。",
         "CN_ENG": {
             "word": "Many thanks.",
@@ -261764,7 +261764,7 @@ const vocabData = [
     {
         "id": "KR220",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "不知如何感謝你。",
         "CN_ENG": {
             "word": "I do not know how to thank you.",
@@ -261830,7 +261830,7 @@ const vocabData = [
     {
         "id": "KR221",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "多虧了你。",
         "CN_ENG": {
             "word": "All thanks to you.",
@@ -261896,7 +261896,7 @@ const vocabData = [
     {
         "id": "KR222",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "你真是幫了大忙。",
         "CN_ENG": {
             "word": "You were a great help.",
@@ -261962,7 +261962,7 @@ const vocabData = [
     {
         "id": "KR223",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "你人真好。",
         "CN_ENG": {
             "word": "You are so kind.",
@@ -262028,7 +262028,7 @@ const vocabData = [
     {
         "id": "KR224",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "你太客氣了。",
         "CN_ENG": {
             "word": "You are too kind.",
@@ -262094,7 +262094,7 @@ const vocabData = [
     {
         "id": "KR225",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "這是我的榮幸。",
         "CN_ENG": {
             "word": "It is my pleasure.",
@@ -262160,7 +262160,7 @@ const vocabData = [
     {
         "id": "KR226",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "不客氣。",
         "CN_ENG": {
             "word": "You are welcome.",
@@ -262226,7 +262226,7 @@ const vocabData = [
     {
         "id": "KR227",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "別客氣。",
         "CN_ENG": {
             "word": "Do not mention it.",
@@ -262292,7 +262292,7 @@ const vocabData = [
     {
         "id": "KR228",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "小事一樁。",
         "CN_ENG": {
             "word": "It is nothing.",
@@ -262358,7 +262358,7 @@ const vocabData = [
     {
         "id": "KR229",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "應該的。",
         "CN_ENG": {
             "word": "My duty.",
@@ -262424,7 +262424,7 @@ const vocabData = [
     {
         "id": "KR230",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "沒問題。",
         "CN_ENG": {
             "word": "No problem.",
@@ -262490,7 +262490,7 @@ const vocabData = [
     {
         "id": "KR231",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "隨時為您效勞。",
         "CN_ENG": {
             "word": "Anytime.",
@@ -262556,7 +262556,7 @@ const vocabData = [
     {
         "id": "KR232",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "很高興能幫上忙。",
         "CN_ENG": {
             "word": "Glad I could help.",
@@ -262622,7 +262622,7 @@ const vocabData = [
     {
         "id": "KR233",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的稱讚。",
         "CN_ENG": {
             "word": "Thanks for the compliment.",
@@ -262688,7 +262688,7 @@ const vocabData = [
     {
         "id": "KR234",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的指教。",
         "CN_ENG": {
             "word": "Thanks for your guidance.",
@@ -262754,7 +262754,7 @@ const vocabData = [
     {
         "id": "KR235",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的包容。",
         "CN_ENG": {
             "word": "Thanks for your tolerance.",
@@ -262820,7 +262820,7 @@ const vocabData = [
     {
         "id": "KR236",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的信任。",
         "CN_ENG": {
             "word": "Thanks for your trust.",
@@ -262886,7 +262886,7 @@ const vocabData = [
     {
         "id": "KR237",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的鼓勵。",
         "CN_ENG": {
             "word": "Thanks for your encouragement.",
@@ -262952,7 +262952,7 @@ const vocabData = [
     {
         "id": "KR238",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "謝謝你的推薦。",
         "CN_ENG": {
             "word": "Thanks for your recommendation.",
@@ -263018,7 +263018,7 @@ const vocabData = [
     {
         "id": "KR239",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "再次感謝。",
         "CN_ENG": {
             "word": "Thanks again.",
@@ -263084,7 +263084,7 @@ const vocabData = [
     {
         "id": "KR240",
         "category": "Lesson 01 👋 禮貌(Greet)",
-        "subcategory": "🙏 道謝(Thanks)",
+        "subcategory": "🙏 道謝短句(Thanks)",
         "cn": "感恩。",
         "CN_ENG": {
             "word": "Appreciate it.",
