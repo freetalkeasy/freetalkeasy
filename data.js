@@ -265126,5 +265126,18617 @@ const vocabData = [
             "audio": "可以給我收據嗎？.mp3",
             "folder": "CN_ZH/audio"
         }
+    },
+    {
+        "id": "ID",
+        "category": "大分類",
+        "subcategory": "子分類",
+        "cn": "中文",
+        "CN_ENG": {
+            "word": "英語",
+            "audio": "英語.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "日語",
+            "audio": "日語.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "韓語",
+            "audio": "韓語.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "越語",
+            "audio": "越語.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "廣東",
+            "audio": "廣東.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "法語",
+            "audio": "法語.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "德語",
+            "audio": "德語.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "西語",
+            "audio": "西語.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "俄語",
+            "audio": "俄語.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "泰語",
+            "audio": "泰語.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "印尼語",
+            "audio": "印尼語.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "中文",
+            "audio": "中文.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen071",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想喝一杯熱茶。",
+        "CN_ENG": {
+            "word": "I want to drink a cup of hot tea.",
+            "audio": "I_want_to_drink_a_cup_of_hot_tea..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "温かいお茶を一杯飲みたいです (あたたかいおちゃをいっぱいのみたいです)",
+            "audio": "あたたかいおちゃをいっぱいのみたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "따뜻한 차 한 잔 마시고 싶어요. (ttatteushan cha han jan masigo sip-eoyo.)",
+            "audio": "따뜻한_차_한_잔_마시고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn uống một tách trà nóng.",
+            "audio": "Tôi_muốn_uống_một_tách_trà_nóng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想飲一杯熱茶。 (ngo5 soeng2 jam2 jat1 bui1 jit6 caa4.)",
+            "audio": "我想飲一杯熱茶。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux boire une tasse de thé chaud.",
+            "audio": "Je_veux_boire_une_tasse_de_thé_chaud..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte eine Tasse heißen Tee trinken.",
+            "audio": "Ich_möchte_eine_Tasse_heißen_Tee_trinken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero beber una taza de té caliente.",
+            "audio": "Quiero_beber_una_taza_de_té_caliente..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу выпить чашку горячего чая. (Ya khochu vypit' chashku goryachego chaya.)",
+            "audio": "Я_хочу_выпить_чашку_горячего_чая..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากดื่มชาร้อนหนึ่งถ้วย (chǎn yàak dèum chaa rón nèung tûay)",
+            "audio": "ฉันอยากดื่มชาร้อนหนึ่งถ้วย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin minum secangkir teh panas.",
+            "audio": "Saya_ingin_minum_secangkir_teh_panas..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想喝一杯熱茶。",
+            "audio": "我想喝一杯熱茶。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen072",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想吃一碗牛肉麵。",
+        "CN_ENG": {
+            "word": "I want to eat a bowl of beef noodle soup.",
+            "audio": "I_want_to_eat_a_bowl_of_beef_noodle_soup..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "牛肉麺を一杯食べたいです (ぎゅうにくめんをいっぱい食べたいです)",
+            "audio": "ぎゅうにくめんをいっぱい食べたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "우육면 한 그릇 먹고 싶어요. (uyugmyeon han geuleus meoggo sip-eoyo.)",
+            "audio": "우육면_한_그릇_먹고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn ăn một bát mì bò.",
+            "audio": "Tôi_muốn_ăn_một_bát_mì_bò..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想食一碗牛肉麵。 (ngo5 soeng2 sik6 jat1 wun2 ngau4 juk6 min6.)",
+            "audio": "我想食一碗牛肉麵。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux manger un bol de soupe de nouilles au bœuf.",
+            "audio": "Je_veux_manger_un_bol_de_soupe_de_nouilles_au_bœuf..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte eine Schüssel Rindfleischnudeln essen.",
+            "audio": "Ich_möchte_eine_Schüssel_Rindfleischnudeln_essen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero comer un tazón de sopa de fideos con carne.",
+            "audio": "Quiero_comer_un_tazón_de_sopa_de_fideos_con_carne..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу съесть миску супа с лапшой и говядиной. (Ya khochu s\"yest' misku supa s lapshoy i govyadinoy.)",
+            "audio": "Я_хочу_съесть_миску_супа_с_лапшой_и_говядиной..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากกินก๋วยเตี๋ยวเนื้อหนึ่งชาม (chǎn yàak gin gǔay-dtǐaw néua nèung chaam)",
+            "audio": "ฉันอยากกินก๋วยเตี๋ยวเนื้อหนึ่งชาม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin makan semangkuk mi daging sapi.",
+            "audio": "Saya_ingin_makan_semangkuk_mi_daging_sapi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想吃一碗牛肉麵。",
+            "audio": "我想吃一碗牛肉麵。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen073",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想買一雙新鞋子。",
+        "CN_ENG": {
+            "word": "I want to buy a pair of new shoes.",
+            "audio": "I_want_to_buy_a_pair_of_new_shoes..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "新しい靴を一足買いたいです (あたらしいくつをいっそくかいたいです)",
+            "audio": "あたらしいくつをいっそくかいたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "새 신발 한 켤레 사고 싶어요. (sae sinbal han kyeolle sago sip-eoyo.)",
+            "audio": "새_신발_한_켤레_사고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn mua một đôi giày mới.",
+            "audio": "Tôi_muốn_mua_một_đôi_giày_mới..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想買一對新鞋。 (ngo5 soeng2 maai5 jat1 deoi3 san1 haai4.)",
+            "audio": "我想買一對新鞋。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux acheter une nouvelle paire de chaussures.",
+            "audio": "Je_veux_acheter_une_nouvelle_paire_de_chaussures..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte ein Paar neue Schuhe kaufen.",
+            "audio": "Ich_möchte_ein_Paar_neue_Schuhe_kaufen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero comprar un par de zapatos nuevos.",
+            "audio": "Quiero_comprar_un_par_de_zapatos_nuevos..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу купить пару новой обуви. (Ya khochu kupit' paru novoy obuvi.)",
+            "audio": "Я_хочу_купить_пару_новой_обуви..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากซื้อรองเท้าคู่ใหม่ (chǎn yàak séu rong-táo kôo mài)",
+            "audio": "ฉันอยากซื้อรองเท้าคู่ใหม่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin membeli sepasang sepatu baru.",
+            "audio": "Saya_ingin_membeli_sepasang_sepatu_baru..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想買一雙新鞋子。",
+            "audio": "我想買一雙新鞋子。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen074",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想看一部好電影。",
+        "CN_ENG": {
+            "word": "I want to watch a good movie.",
+            "audio": "I_want_to_watch_a_good_movie..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いい映画を一本見たいです (いいえいがをいっぽんみたいです)",
+            "audio": "いいえいがをいっぽんみたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 영화 한 편 보고 싶어요. (joh-eun yeonghwa han pyeon bogo sip-eoyo.)",
+            "audio": "좋은_영화_한_편_보고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn xem một bộ phim hay.",
+            "audio": "Tôi_muốn_xem_một_bộ_phim_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想睇一部好戲。 (ngo5 soeng2 tai2 jat1 bou6 hou2 hei3.)",
+            "audio": "我想睇一部好戲。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux regarder un bon film.",
+            "audio": "Je_veux_regarder_un_bon_film..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte einen guten Film sehen.",
+            "audio": "Ich_möchte_einen_guten_Film_sehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero ver una buena película.",
+            "audio": "Quiero_ver_una_buena_película..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу посмотреть хороший фильм. (Ya khochu posmotret' khoroshiy fil'm.)",
+            "audio": "Я_хочу_посмотреть_хороший_фильм..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากดูหนังดีๆ สักเรื่อง (chǎn yàak doo nǎng dee-dee sàk rêuang)",
+            "audio": "ฉันอยากดูหนังดีๆ_สักเรื่อง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin menonton film yang bagus.",
+            "audio": "Saya_ingin_menonton_film_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想看一部好電影。",
+            "audio": "我想看一部好電影。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen075",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想聽一些輕音樂。",
+        "CN_ENG": {
+            "word": "I want to listen to some soft music.",
+            "audio": "I_want_to_listen_to_some_soft_music..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "軽音楽を少し聴きたいです (けいおんがくをすこしききたいです)",
+            "audio": "けいおんがくをすこしききたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가벼운 음악을 좀 듣고 싶어요. (gabyeoun eum-ag-eul jom deudgo sip-eoyo.)",
+            "audio": "가벼운_음악을_좀_듣고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn nghe một chút nhạc nhẹ.",
+            "audio": "Tôi_muốn_nghe_một_chút_nhạc_nhẹ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想聽啲輕音樂。 (ngo5 soeng2 ting1 di1 hing1 jam1 ngok6.)",
+            "audio": "我想聽啲輕音樂。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux écouter de la musique douce.",
+            "audio": "Je_veux_écouter_de_la_musique_douce..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte etwas sanfte Musik hören.",
+            "audio": "Ich_möchte_etwas_sanfte_Musik_hören..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero escuchar algo de música suave.",
+            "audio": "Quiero_escuchar_algo_de_música_suave..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу послушать легкую музыку. (Ya khochu poslushat' legkuyu muziku.)",
+            "audio": "Я_хочу_послушать_легкую_музыку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากฟังเพลงเบาๆ สักหน่อย (chǎn yàak fang playng bao-bao sàk nòi)",
+            "audio": "ฉันอยากฟังเพลงเบาๆ_สักหน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin mendengarkan musik yang lembut.",
+            "audio": "Saya_ingin_mendengarkan_musik_yang_lembut..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想聽一些輕音樂。",
+            "audio": "我想聽一些輕音樂。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen076",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想去海邊散散步。",
+        "CN_ENG": {
+            "word": "I want to take a walk by the beach.",
+            "audio": "I_want_to_take_a_walk_by_the_beach..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "海辺に散歩に行きたいです (うみべにさんぽにいきたいです)",
+            "audio": "うみべにさんぽにいきたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "바닷가로 산책 가고 싶어요. (badasgalo sanchaeg gago sip-eoyo.)",
+            "audio": "바닷가로_산책_가고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn đi dạo ở bãi biển.",
+            "audio": "Tôi_muốn_đi_dạo_ở_bãi_biển..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想去海邊散下步。 (ngo5 soeng2 heoi3 hoi2 bin1 saan3 haa5 bou6.)",
+            "audio": "我想去海邊散下步。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux me promener au bord de la plage.",
+            "audio": "Je_veux_me_promener_au_bord_de_la_plage..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte am Strand spazieren gehen.",
+            "audio": "Ich_möchte_am_Strand_spazieren_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero dar un paseo por la playa.",
+            "audio": "Quiero_dar_un_paseo_por_la_playa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу прогуляться по пляжу. (Ya khochu progulyat'sya po plyazhu.)",
+            "audio": "Я_хочу_прогуляться_по_пляжу..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากไปเดินเล่นที่ชายหาด (chǎn yàak bpai dern lên têe chaai-hàat)",
+            "audio": "ฉันอยากไปเดินเล่นที่ชายหาด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin berjalan-jalan di pantai.",
+            "audio": "Saya_ingin_berjalan-jalan_di_pantai..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想去海邊散散步。",
+            "audio": "我想去海邊散散步。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen077",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想學一門新語言。",
+        "CN_ENG": {
+            "word": "I want to learn a new language.",
+            "audio": "I_want_to_learn_a_new_language..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "新しい言語を一つ学びたいです (あたらしいげんごをひとつまなびたいです)",
+            "audio": "あたらしいげんごをひとつまなびたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "새로운 언어를 하나 배우고 싶어요. (saeloun eon-eoleul hana baeugo sip-eoyo.)",
+            "audio": "새로운_언어를_하나_배우고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn học một ngôn ngữ mới.",
+            "audio": "Tôi_muốn_học_một_ngôn_ngữ_mới..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想學一門新語言。 (ngo5 soeng2 hok6 jat1 mun4 san1 jyu5 jin4.)",
+            "audio": "我想學一門新語言。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux apprendre une nouvelle langue.",
+            "audio": "Je_veux_apprendre_une_nouvelle_langue..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte eine neue Sprache lernen.",
+            "audio": "Ich_möchte_eine_neue_Sprache_lernen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero aprender un nuevo idioma.",
+            "audio": "Quiero_aprender_un_nuevo_idioma..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу выучить новый язык. (Ya khochu vyuchit' novyy yazyk.)",
+            "audio": "Я_хочу_выучить_новый_язык..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากเรียนภาษาใหม่ (chǎn yàak rian paa-sǎa mài)",
+            "audio": "ฉันอยากเรียนภาษาใหม่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin belajar bahasa baru.",
+            "audio": "Saya_ingin_belajar_bahasa_baru..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想學一門新語言。",
+            "audio": "我想學一門新語言。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen078",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想找一個安靜的地方。",
+        "CN_ENG": {
+            "word": "I want to find a quiet place.",
+            "audio": "I_want_to_find_a_quiet_place..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "静かな場所を探したいです (しずかなばしょをさがしたいです)",
+            "audio": "しずかなばしょをさがしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조용한 곳을 찾고 싶어요. (joyonghan gos-eul chajgo sip-eoyo.)",
+            "audio": "조용한_곳을_찾고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn tìm một nơi yên tĩnh.",
+            "audio": "Tôi_muốn_tìm_một_nơi_yên_tĩnh..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想搵個靜啲嘅地方。 (ngo5 soeng2 wan2 go3 zing6 di1 ge3 dei6 fong1.)",
+            "audio": "我想搵個靜啲嘅地方。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux trouver un endroit calme.",
+            "audio": "Je_veux_trouver_un_endroit_calme..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte einen ruhigen Ort finden.",
+            "audio": "Ich_möchte_einen_ruhigen_Ort_finden..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero encontrar un lugar tranquilo.",
+            "audio": "Quiero_encontrar_un_lugar_tranquilo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу найти тихое место. (Ya khochu nayti tikhoye mesto.)",
+            "audio": "Я_хочу_найти_тихое_место..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากหาสถานที่เงียบๆ (chǎn yàak hǎa sà-tǎan-têe ngîap-ngîap)",
+            "audio": "ฉันอยากหาสถานที่เงียบๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin mencari tempat yang tenang.",
+            "audio": "Saya_ingin_mencari_tempat_yang_tenang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想找一個安靜的地方。",
+            "audio": "我想找一個安靜的地方。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen079",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想換一些當地貨幣。",
+        "CN_ENG": {
+            "word": "I want to exchange some local currency.",
+            "audio": "I_want_to_exchange_some_local_currency..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "現地通貨を少し両替したいです (げんちつうかをすこしりょうがえしたいです)",
+            "audio": "げんちつうかをすこしりょうがえしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "현지 화폐를 좀 환전하고 싶어요. (hyeonji hwapyeleul jom hwanjeonhago sip-eoyo.)",
+            "audio": "현지_화폐를_좀_환전하고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn đổi một ít tiền địa phương.",
+            "audio": "Tôi_muốn_đổi_một_ít_tiền_địa_phương..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想換啲當地貨幣。 (ngo5 soeng2 wun6 di1 dong1 dei6 fo3 bai6.)",
+            "audio": "我想換啲當地貨幣。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux échanger un peu de monnaie locale.",
+            "audio": "Je_veux_échanger_un_peu_de_monnaie_locale..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte etwas Landeswährung umtauschen.",
+            "audio": "Ich_möchte_etwas_Landeswährung_umtauschen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero cambiar algo de moneda local.",
+            "audio": "Quiero_cambiar_algo_de_moneda_local..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу обменять немного местной валюты. (Ya khochu obmenyat' nemnogo mestnoy valyuty.)",
+            "audio": "Я_хочу_обменять_немного_местной_валюты..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากแลกเงินท้องถิ่นสักหน่อย (chǎn yàak lâek ngern tóng-tìn sàk nòi)",
+            "audio": "ฉันอยากแลกเงินท้องถิ่นสักหน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin menukar sejumlah mata uang lokal.",
+            "audio": "Saya_ingin_menukar_sejumlah_mata_uang_lokal..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想換一些當地貨幣。",
+            "audio": "我想換一些當地貨幣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen080",
+        "category": "常用句型",
+        "subcategory": "表達需求(我想...)",
+        "cn": "我想租一台腳踏車。",
+        "CN_ENG": {
+            "word": "I want to rent a bicycle.",
+            "audio": "I_want_to_rent_a_bicycle..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "自転車を一台レンタルしたいです (じてんしゃをいちだいれんたるしたいです)",
+            "audio": "じてんしゃをいちだいれんたるしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "자전거 한 대 빌리고 싶어요. (jajeongeo han dae billigo sip-eoyo.)",
+            "audio": "자전거_한_대_빌리고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn thuê một chiếc xe đạp.",
+            "audio": "Tôi_muốn_thuê_một_chiếc_xe_đạp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想租一部單車。 (ngo5 soeng2 zou1 jat1 bou6 daan1 ce1.)",
+            "audio": "我想租一部單車。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux louer un vélo.",
+            "audio": "Je_veux_louer_un_vélo..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte ein Fahrrad mieten.",
+            "audio": "Ich_möchte_ein_Fahrrad_mieten..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero alquilar una bicicleta.",
+            "audio": "Quiero_alquilar_una_bicicleta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу взять напрокат велосипед. (Ya khochu vzyat' naprokat velosiped.)",
+            "audio": "Я_хочу_взять_напрокат_велосипед..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากเช่าจักรยานหนึ่งคัน (chǎn yàak châo jàk-grà-yaan nèung kan)",
+            "audio": "ฉันอยากเช่าจักรยานหนึ่งคัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin menyewa sepeda.",
+            "audio": "Saya_ingin_menyewa_sepeda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想租一台腳踏車。",
+            "audio": "我想租一台腳踏車。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen081",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問電梯在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the elevator?",
+            "audio": "Where_is_the_elevator.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "エレベーターはどこですか (えれべーたーはどこですか)",
+            "audio": "えれべーたーはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "엘리베이터가 어디에 있나요? (ellibeiteoga eodie issnayo?)",
+            "audio": "엘리베이터가_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi thang máy ở đâu?",
+            "audio": "Xin_hỏi_thang_máy_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問𨋢喺邊度呀？ (cing2 man6 lip1 hai2 bin1 dou6 aa3?)",
+            "audio": "請問𨋢喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est l'ascenseur ?",
+            "audio": "Où_est_l'ascenseur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Aufzug?",
+            "audio": "Wo_ist_der_Aufzug.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está el ascensor?",
+            "audio": "¿Dónde_está_el_ascensor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где находится лифт? (Gde nakhoditsya lift?)",
+            "audio": "Где_находится_лифт.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลิฟต์อยู่ที่ไหน (líp yòo têe nǎi)",
+            "audio": "ลิฟต์อยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana liftnya?",
+            "audio": "Di_mana_liftnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問電梯在哪裡？",
+            "audio": "請問電梯在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen082",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問出口在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the exit?",
+            "audio": "Where_is_the_exit.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "出口はどこですか (でぐちはどこですか)",
+            "audio": "でぐちはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "출구가 어디에 있나요? (chulguga eodie issnayo?)",
+            "audio": "출구가_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi lối ra ở đâu?",
+            "audio": "Xin_hỏi_lối_ra_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問出口喺邊度呀？ (cing2 man6 ceot1 hau2 hai2 bin1 dou6 aa3?)",
+            "audio": "請問出口喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est la sortie ?",
+            "audio": "Où_est_la_sortie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Ausgang?",
+            "audio": "Wo_ist_der_Ausgang.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la salida?",
+            "audio": "¿Dónde_está_la_salida.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где выход? (Gde vykhod?)",
+            "audio": "Где_выход.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทางออกอยู่ที่ไหน (taang òk yòo têe nǎi)",
+            "audio": "ทางออกอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana pintu keluarnya?",
+            "audio": "Di_mana_pintu_keluarnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問出口在哪裡？",
+            "audio": "請問出口在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen083",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問便利商店在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the convenience store?",
+            "audio": "Where_is_the_convenience_store.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "コンビニはどこですか (こんびにはどこですか)",
+            "audio": "こんびにはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "편의점이 어디에 있나요? (pyeon-uijeom-i eodie issnayo?)",
+            "audio": "편의점이_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi cửa hàng tiện lợi ở đâu?",
+            "audio": "Xin_hỏi_cửa_hàng_tiện_lợi_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問便利店喺邊度呀？ (cing2 man6 bin6 lei6 dim3 hai2 bin1 dou6 aa3?)",
+            "audio": "請問便利店喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est le dépanneur ?",
+            "audio": "Où_est_le_dépanneur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Supermarkt?",
+            "audio": "Wo_ist_der_Supermarkt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la tienda de conveniencia?",
+            "audio": "¿Dónde_está_la_tienda_de_conveniencia.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где круглосуточный магазин? (Gde kruglosutochnyy magazin?)",
+            "audio": "Где_круглосуточный_магазин.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ร้านสะดวกซื้ออยู่ที่ไหน (ráan sà-dùak séu yòo têe nǎi)",
+            "audio": "ร้านสะดวกซื้ออยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana toserbanya?",
+            "audio": "Di_mana_toserbanya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問便利商店在哪裡？",
+            "audio": "請問便利商店在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen084",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問公車站牌在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the bus stop?",
+            "audio": "Where_is_the_bus_stop.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "バス停はどこですか (ばすていはどこですか)",
+            "audio": "ばすていはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "버스 정류장이 어디에 있나요? (beoseu jeonglyujang-i eodie issnayo?)",
+            "audio": "버스_정류장이_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi trạm xe buýt ở đâu?",
+            "audio": "Xin_hỏi_trạm_xe_buýt_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問巴士站喺邊度呀？ (cing2 man6 baa1 si2 zaam6 hai2 bin1 dou6 aa3?)",
+            "audio": "請問巴士站喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est l'arrêt de bus ?",
+            "audio": "Où_est_l'arrêt_de_bus.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist die Bushaltestelle?",
+            "audio": "Wo_ist_die_Bushaltestelle.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la parada de autobús?",
+            "audio": "¿Dónde_está_la_parada_de_autobús.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где автобусная остановка? (Gde avtobusnaya ostanovka?)",
+            "audio": "Где_автобусная_остановка.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ป้ายรถเมล์อยู่ที่ไหน (bpâai rót-may yòo têe nǎi)",
+            "audio": "ป้ายรถเมล์อยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana halte busnya?",
+            "audio": "Di_mana_halte_busnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問公車站牌在哪裡？",
+            "audio": "請問公車站牌在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen085",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問提款機在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the ATM?",
+            "audio": "Where_is_the_ATM.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ATMはどこですか (えーてぃーえむはどこですか)",
+            "audio": "えーてぃーえむはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "현금인출기가 어디에 있나요? (hyeongeum-inchulgiga eodie issnayo?)",
+            "audio": "현금인출기가_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi máy ATM ở đâu?",
+            "audio": "Xin_hỏi_máy_ATM_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問提款機喺邊度呀？ (cing2 man6 tai4 fun2 gei1 hai2 bin1 dou6 aa3?)",
+            "audio": "請問提款機喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est le distributeur de billets ?",
+            "audio": "Où_est_le_distributeur_de_billets.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Geldautomat?",
+            "audio": "Wo_ist_der_Geldautomat.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está el cajero automático?",
+            "audio": "¿Dónde_está_el_cajero_automático.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где банкомат? (Gde bankomat?)",
+            "audio": "Где_банкомат.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตู้เอทีเอ็มอยู่ที่ไหน (dtôo ay-tee-em yòo têe nǎi)",
+            "audio": "ตู้เอทีเอ็มอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana ATM-nya?",
+            "audio": "Di_mana_ATM-nya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問提款機在哪裡？",
+            "audio": "請問提款機在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen086",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問急診室在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the emergency room?",
+            "audio": "Where_is_the_emergency_room.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "救急救命室はどこですか (きゅうきゅうきゅうめいしつはどこですか)",
+            "audio": "きゅうきゅうきゅうめいしつはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "응급실이 어디에 있나요? (eung-geubsil-i eodie issnayo?)",
+            "audio": "응급실이_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi phòng cấp cứu ở đâu?",
+            "audio": "Xin_hỏi_phòng_cấp_cứu_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問急症室喺邊度呀？ (cing2 man6 gap1 zing3 sat1 hai2 bin1 dou6 aa3?)",
+            "audio": "請問急症室喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où sont les urgences ?",
+            "audio": "Où_sont_les_urgences.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist die Notaufnahme?",
+            "audio": "Wo_ist_die_Notaufnahme.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la sala de emergencias?",
+            "audio": "¿Dónde_está_la_sala_de_emergencias.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где отделение неотложной помощи? (Gde otdeleniye neotlozhnoy pomoshchi?)",
+            "audio": "Где_отделение_неотложной_помощи.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ห้องฉุกเฉินอยู่ที่ไหน (hông chùk-chěrn yòo têe nǎi)",
+            "audio": "ห้องฉุกเฉินอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana ruang gawat daruratnya?",
+            "audio": "Di_mana_ruang_gawat_daruratnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問急診室在哪裡？",
+            "audio": "請問急診室在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen087",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問服務台在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the information desk?",
+            "audio": "Where_is_the_information_desk.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "サービスカウンターはどこですか (さーびすかうんたーはどこですか)",
+            "audio": "さーびすかうんたーはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안내 데스크가 어디에 있나요? (annae deseukeuga eodie issnayo?)",
+            "audio": "안내_데스크가_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi quầy thông tin ở đâu?",
+            "audio": "Xin_hỏi_quầy_thông_tin_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問服務台喺邊度呀？ (cing2 man6 fuk6 mou6 toi4 hai2 bin1 dou6 aa3?)",
+            "audio": "請問服務台喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est le bureau d'information ?",
+            "audio": "Où_est_le_bureau_d'information.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Informationsschalter?",
+            "audio": "Wo_ist_der_Informationsschalter.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está el mostrador de información?",
+            "audio": "¿Dónde_está_el_mostrador_de_información.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где справочная? (Gde spravochnaya?)",
+            "audio": "Где_справочная.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เคาน์เตอร์ประชาสัมพันธ์อยู่ที่ไหน (kao-dtêr bprà-chaa-sǎm-pan yòo têe nǎi)",
+            "audio": "เคาน์เตอร์ประชาสัมพันธ์อยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana meja informasinya?",
+            "audio": "Di_mana_meja_informasinya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問服務台在哪裡？",
+            "audio": "請問服務台在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen088",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問售票處在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the ticket office?",
+            "audio": "Where_is_the_ticket_office.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "チケット売り場はどこですか (ちけっとうりばはどこですか)",
+            "audio": "ちけっとうりばはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "매표소가 어디에 있나요? (maepyosoga eodie issnayo?)",
+            "audio": "매표소가_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi phòng vé ở đâu?",
+            "audio": "Xin_hỏi_phòng_vé_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問售票處喺邊度呀？ (cing2 man6 sau6 piou3 cyu3 hai2 bin1 dou6 aa3?)",
+            "audio": "請問售票處喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est la billetterie ?",
+            "audio": "Où_est_la_billetterie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Ticketschalter?",
+            "audio": "Wo_ist_der_Ticketschalter.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la taquilla?",
+            "audio": "¿Dónde_está_la_taquilla.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где билетная касса? (Gde biletnaya kassa?)",
+            "audio": "Где_билетная_касса.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จุดขายตั๋วอยู่ที่ไหน (jùt kǎai dtǔa yòo têe nǎi)",
+            "audio": "จุดขายตั๋วอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana loket tiketnya?",
+            "audio": "Di_mana_loket_tiketnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問售票處在哪裡？",
+            "audio": "請問售票處在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen089",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問吸菸區在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the smoking area?",
+            "audio": "Where_is_the_smoking_area.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "喫煙所はどこですか (きつえんじょはどこですか)",
+            "audio": "きつえんじょはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "흡연 구역이 어디에 있나요? (heub-yeon guyeog-i eodie issnayo?)",
+            "audio": "흡연_구역이_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi khu vực hút thuốc ở đâu?",
+            "audio": "Xin_hỏi_khu_vực_hút_thuốc_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問吸煙區喺邊度呀？ (cing2 man6 kap1 jin1 keoi1 hai2 bin1 dou6 aa3?)",
+            "audio": "請問吸煙區喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est la zone fumeurs ?",
+            "audio": "Où_est_la_zone_fumeurs.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Raucherbereich?",
+            "audio": "Wo_ist_der_Raucherbereich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la zona de fumadores?",
+            "audio": "¿Dónde_está_la_zona_de_fumadores.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где место для курения? (Gde mesto dlya kureniya?)",
+            "audio": "Где_место_для_курения.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พื้นที่สูบบุหรี่อยู่ที่ไหน (péun-têe sùup-bù-rèe yòo têe nǎi)",
+            "audio": "พื้นที่สูบบุหรี่อยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana area merokoknya?",
+            "audio": "Di_mana_area_merokoknya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問吸菸區在哪裡？",
+            "audio": "請問吸菸區在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen090",
+        "category": "常用句型",
+        "subcategory": "尋問地點(在哪裡)",
+        "cn": "請問計程車招呼站在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the taxi stand?",
+            "audio": "Where_is_the_taxi_stand.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "タクシー乗り場はどこですか (たくしーのりばはどこですか)",
+            "audio": "たくしーのりばはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "택시 승강장이 어디에 있나요? (taegsi seung-gangjang-i eodie issnayo?)",
+            "audio": "택시_승강장이_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi điểm dừng taxi ở đâu?",
+            "audio": "Xin_hỏi_điểm_dừng_taxi_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問的士站喺邊度呀？ (cing2 man6 dik1 si2 zaam6 hai2 bin1 dou6 aa3?)",
+            "audio": "請問的士站喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est la station de taxis ?",
+            "audio": "Où_est_la_station_de_taxis.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Taxistand?",
+            "audio": "Wo_ist_der_Taxistand.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la parada de taxis?",
+            "audio": "¿Dónde_está_la_parada_de_taxis.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где стоянка такси? (Gde stoyanka taksi?)",
+            "audio": "Где_стоянка_такси.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จุดจอดแท็กซี่อยู่ที่ไหน (jùt jòt táek-sêe yòo têe nǎi)",
+            "audio": "จุดจอดแท็กซี่อยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana pangkalan taksinya?",
+            "audio": "Di_mana_pangkalan_taksinya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問計程車招呼站在哪裡？",
+            "audio": "請問計程車招呼站在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen091",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一杯溫水。",
+        "CN_ENG": {
+            "word": "Please give me a cup of warm water.",
+            "audio": "Please_give_me_a_cup_of_warm_water..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "温かいお水を一杯ください (あたたかいおみずをいっぱいください)",
+            "audio": "あたたかいおみずをいっぱいください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "따뜻한 물 한 잔 주세요. (ttatteushan mul han jan juseyo.)",
+            "audio": "따뜻한_물_한_잔_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một cốc nước ấm.",
+            "audio": "Vui_lòng_cho_tôi_một_cốc_nước_ấm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀杯溫水我。 (maa4 faan4 bei2 bui1 wan1 seoi2 ngo5.)",
+            "audio": "麻煩畀杯溫水我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une tasse d'eau tiède, s'il vous plaît.",
+            "audio": "Donnez-moi_une_tasse_d'eau_tiède,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir ein Glas warmes Wasser.",
+            "audio": "Bitte_geben_Sie_mir_ein_Glas_warmes_Wasser..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame un vaso de agua tibia.",
+            "audio": "Por_favor,_dame_un_vaso_de_agua_tibia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне стакан теплой воды. (Pozhaluysta, dayte mne stakan teploy vody.)",
+            "audio": "Пожалуйста,_дайте_мне_стакан_теплой_воды..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอน้ำอุ่นหนึ่งแก้วครับ/ค่ะ (kǒr náam ùn nèung gâew kráp/kâ)",
+            "audio": "ขอน้ำอุ่นหนึ่งแก้วครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya secangkir air hangat.",
+            "audio": "Tolong_beri_saya_secangkir_air_hangat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一杯溫水。",
+            "audio": "請給我一杯溫水。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen092",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一條乾淨的毛巾。",
+        "CN_ENG": {
+            "word": "Please give me a clean towel.",
+            "audio": "Please_give_me_a_clean_towel..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "きれいなタオルを一枚ください (きれいなたおるをいちまいくください)",
+            "audio": "きれいなたおるをいちまいくください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "깨끗한 수건 한 장 주세요. (kkaekkeushan sugeon han jang juseyo.)",
+            "audio": "깨끗한_수건_한_장_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một chiếc khăn sạch.",
+            "audio": "Vui_lòng_cho_tôi_một_chiếc_khăn_sạch..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀條乾淨嘅毛巾我。 (maa4 faan4 bei2 tiu4 gon1 zing6 ge3 mou4 gan1 ngo5.)",
+            "audio": "麻煩畀條乾淨嘅毛巾我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une serviette propre, s'il vous plaît.",
+            "audio": "Donnez-moi_une_serviette_propre,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir ein sauberes Handtuch.",
+            "audio": "Bitte_geben_Sie_mir_ein_sauberes_Handtuch..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame una toalla limpia.",
+            "audio": "Por_favor,_dame_una_toalla_limpia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне чистое полотенце. (Pozhaluysta, dayte mne chistoye polotentse.)",
+            "audio": "Пожалуйста,_дайте_мне_чистое_полотенце..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอผ้าเช็ดตัวสะอาดหนึ่งผืนครับ/ค่ะ (kǒr pâa chét dtua sà-àat nèung pěun kráp/kâ)",
+            "audio": "ขอผ้าเช็ดตัวสะอาดหนึ่งผืนครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya handuk bersih.",
+            "audio": "Tolong_beri_saya_handuk_bersih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一條乾淨的毛巾。",
+            "audio": "請給我一條乾淨的毛巾。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen093",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一個塑膠袋。",
+        "CN_ENG": {
+            "word": "Please give me a plastic bag.",
+            "audio": "Please_give_me_a_plastic_bag..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ビニール袋を一つください (びにーるぶくろをひとつください)",
+            "audio": "びにーるぶくろをひとつください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비닐봉지 하나 주세요. (binilbongji hana juseyo.)",
+            "audio": "비닐봉지_하나_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một túi nilon.",
+            "audio": "Vui_lòng_cho_tôi_một_túi_nilon..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀個膠袋我。 (maa4 faan4 bei2 go3 gaau1 doi2 ngo5.)",
+            "audio": "麻煩畀個膠袋我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi un sac en plastique, s'il vous plaît.",
+            "audio": "Donnez-moi_un_sac_en_plastique,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir eine Plastiktüte.",
+            "audio": "Bitte_geben_Sie_mir_eine_Plastiktüte..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame una bolsa de plástico.",
+            "audio": "Por_favor,_dame_una_bolsa_de_plástico..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне пластиковый пакет. (Pozhaluysta, dayte mne plastikovyy paket.)",
+            "audio": "Пожалуйста,_дайте_мне_пластиковый_пакет..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอถุงพลาสติกหนึ่งใบครับ/ค่ะ (kǒr tǔng pláat-sà-dtìk nèung bai kráp/kâ)",
+            "audio": "ขอถุงพลาสติกหนึ่งใบครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya kantong plastik.",
+            "audio": "Tolong_beri_saya_kantong_plastik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一個塑膠袋。",
+            "audio": "請給我一個塑膠袋。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen094",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一份地圖。",
+        "CN_ENG": {
+            "word": "Please give me a map.",
+            "audio": "Please_give_me_a_map..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "地図を一部ください (ちずをいちぶください)",
+            "audio": "ちずをいちぶください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지도 한 장 주세요. (jido han jang juseyo.)",
+            "audio": "지도_한_장_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một bản đồ.",
+            "audio": "Vui_lòng_cho_tôi_một_bản_đồ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀份地圖我。 (maa4 faan4 bei2 fan6 dei6 tou4 ngo5.)",
+            "audio": "麻煩畀份地圖我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une carte, s'il vous plaît.",
+            "audio": "Donnez-moi_une_carte,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir eine Karte.",
+            "audio": "Bitte_geben_Sie_mir_eine_Karte..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame un mapa.",
+            "audio": "Por_favor,_dame_un_mapa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне карту. (Pozhaluysta, dayte mne kartu.)",
+            "audio": "Пожалуйста,_дайте_мне_карту..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอแผนที่หนึ่งแผ่นครับ/ค่ะ (kǒr pǎen-têe nèung pàen kráp/kâ)",
+            "audio": "ขอแผนที่หนึ่งแผ่นครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya peta.",
+            "audio": "Tolong_beri_saya_peta..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一份地圖。",
+            "audio": "請給我一份地圖。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen095",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一根吸管。",
+        "CN_ENG": {
+            "word": "Please give me a straw.",
+            "audio": "Please_give_me_a_straw..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ストローを一本ください (すとろーをいっぽんください)",
+            "audio": "すとろーをいっぽんください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "빨대 하나 주세요. (ppaldae hana juseyo.)",
+            "audio": "빨대_하나_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một ống hút.",
+            "audio": "Vui_lòng_cho_tôi_một_ống_hút..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀支飲管我。 (maa4 faan4 bei2 zi1 jam2 gun2 ngo5.)",
+            "audio": "麻煩畀支飲管我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une paille, s'il vous plaît.",
+            "audio": "Donnez-moi_une_paille,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir einen Strohhalm.",
+            "audio": "Bitte_geben_Sie_mir_einen_Strohhalm..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame una pajita.",
+            "audio": "Por_favor,_dame_una_pajita..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне соломинку. (Pozhaluysta, dayte mne solominku.)",
+            "audio": "Пожалуйста,_дайте_мне_соломинку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอหลอดหนึ่งอันครับ/ค่ะ (kǒr lòt nèung an kráp/kâ)",
+            "audio": "ขอหลอดหนึ่งอันครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya sedotan.",
+            "audio": "Tolong_beri_saya_sedotan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一根吸管。",
+            "audio": "請給我一根吸管。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen096",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一張名片。",
+        "CN_ENG": {
+            "word": "Please give me a business card.",
+            "audio": "Please_give_me_a_business_card..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "名刺を一枚ください (めいしをいちまいくください)",
+            "audio": "めいしをいちまいくください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "명함 한 장 주세요. (myeongham han jang juseyo.)",
+            "audio": "명함_한_장_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một danh thiếp.",
+            "audio": "Vui_lòng_cho_tôi_một_danh_thiếp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀張卡片我。 (maa4 faan4 bei2 zoeng1 kaat1 pin2 ngo5.)",
+            "audio": "麻煩畀張卡片我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une carte de visite, s'il vous plaît.",
+            "audio": "Donnez-moi_une_carte_de_visite,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir eine Visitenkarte.",
+            "audio": "Bitte_geben_Sie_mir_eine_Visitenkarte..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame una tarjeta de presentación.",
+            "audio": "Por_favor,_dame_una_tarjeta_de_presentación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне визитную карточку. (Pozhaluysta, dayte mne vizitnuyu kartochku.)",
+            "audio": "Пожалуйста,_дайте_мне_визитную_карточку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอนามบัตรหนึ่งใบครับ/ค่ะ (kǒr naam-bàt nèung bai kráp/kâ)",
+            "audio": "ขอนามบัตรหนึ่งใบครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya kartu nama.",
+            "audio": "Tolong_beri_saya_kartu_nama..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一張名片。",
+            "audio": "請給我一張名片。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen097",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一個大一點的尺寸。",
+        "CN_ENG": {
+            "word": "Please give me a larger size.",
+            "audio": "Please_give_me_a_larger_size..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう少し大きいサイズをください (もうすこしおおきいさいずをください)",
+            "audio": "もうすこしおおきいさいずをください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조금 더 큰 사이즈로 주세요. (jogeum deo keun saijeulo juseyo.)",
+            "audio": "조금_더_큰_사이즈로_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi kích cỡ lớn hơn.",
+            "audio": "Vui_lòng_cho_tôi_kích_cỡ_lớn_hơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀個大啲嘅碼數我。 (maa4 faan4 bei2 go3 daai6 di1 ge3 maa5 sou3 ngo5.)",
+            "audio": "麻煩畀個大啲嘅碼數我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une taille plus grande, s'il vous plaît.",
+            "audio": "Donnez-moi_une_taille_plus_grande,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir eine größere Größe.",
+            "audio": "Bitte_geben_Sie_mir_eine_größere_Größe..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame una talla más grande.",
+            "audio": "Por_favor,_dame_una_talla_más_grande..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне размер побольше. (Pozhaluysta, dayte mne razmer pobol'she.)",
+            "audio": "Пожалуйста,_дайте_мне_размер_побольше..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอขนาดใหญ่กว่านี้หน่อยครับ/ค่ะ (kǒr kà-nàat yài gwàa née nòi kráp/kâ)",
+            "audio": "ขอขนาดใหญ่กว่านี้หน่อยครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya ukuran yang lebih besar.",
+            "audio": "Tolong_beri_saya_ukuran_yang_lebih_besar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一個大一點的尺寸。",
+            "audio": "請給我一個大一點的尺寸。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen098",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一個外帶盒。",
+        "CN_ENG": {
+            "word": "Please give me a takeout box.",
+            "audio": "Please_give_me_a_takeout_box..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "持ち帰り用の箱を一つください (もちかえりようのはこをひとつください)",
+            "audio": "もちかえりようのはこをひとつください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "포장용 상자 하나 주세요. (pojang-yong sangja hana juseyo.)",
+            "audio": "포장용_상자_하나_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một hộp mang đi.",
+            "audio": "Vui_lòng_cho_tôi_một_hộp_mang_đi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀個外賣盒我。 (maa4 faan4 bei2 go3 ngoi6 maai6 hap2 ngo5.)",
+            "audio": "麻煩畀個外賣盒我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une boîte à emporter, s'il vous plaît.",
+            "audio": "Donnez-moi_une_boîte_à_emporter,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir eine Box zum Mitnehmen.",
+            "audio": "Bitte_geben_Sie_mir_eine_Box_zum_Mitnehmen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame una caja para llevar.",
+            "audio": "Por_favor,_dame_una_caja_para_llevar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне коробку на вынос. (Pozhaluysta, dayte mne korobku na vynos.)",
+            "audio": "Пожалуйста,_дайте_мне_коробку_на_вынос..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอกล่องใส่อาหารกลับบ้านหน่อยครับ/ค่ะ (kǒr glòng sài aa-hǎan glàp bâan nòi kráp/kâ)",
+            "audio": "ขอกล่องใส่อาหารกลับบ้านหน่อยครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya kotak bawa pulang.",
+            "audio": "Tolong_beri_saya_kotak_bawa_pulang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一個外帶盒。",
+            "audio": "請給我一個外帶盒。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen099",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一點時間考慮。",
+        "CN_ENG": {
+            "word": "Please give me some time to think.",
+            "audio": "Please_give_me_some_time_to_think..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "考える時間を少しください (かんがえるじかんをすこしください)",
+            "audio": "かんがえるじかんをすこしください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "생각할 시간을 좀 주세요. (saeng-gaghal sigan-eul jom juseyo.)",
+            "audio": "생각할_시간을_좀_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi một chút thời gian để suy nghĩ.",
+            "audio": "Vui_lòng_cho_tôi_một_chút_thời_gian_để_suy_nghĩ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀啲時間我考慮下。 (maa4 faan4 bei2 di1 si4 gaan3 ngo5 haau2 leoi6 haa5.)",
+            "audio": "麻煩畀啲時間我考慮下。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi un peu de temps pour réfléchir, s'il vous plaît.",
+            "audio": "Donnez-moi_un_peu_de_temps_pour_réfléchir,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir etwas Zeit zum Nachdenken.",
+            "audio": "Bitte_geben_Sie_mir_etwas_Zeit_zum_Nachdenken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame un poco de tiempo para pensar.",
+            "audio": "Por_favor,_dame_un_poco_de_tiempo_para_pensar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне немного времени подумать. (Pozhaluysta, dayte mne nemnogo vremeni podumat'.)",
+            "audio": "Пожалуйста,_дайте_мне_немного_времени_подумать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอเวลาคิดสักหน่อยครับ/ค่ะ (kǒr way-laa kít sàk nòi kráp/kâ)",
+            "audio": "ขอเวลาคิดสักหน่อยครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya waktu untuk berpikir.",
+            "audio": "Tolong_beri_saya_waktu_untuk_berpikir..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一點時間考慮。",
+            "audio": "請給我一點時間考慮。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen100",
+        "category": "常用句型",
+        "subcategory": "提出請求(請給我...)",
+        "cn": "請給我一些推薦的景點。",
+        "CN_ENG": {
+            "word": "Please give me some recommended attractions.",
+            "audio": "Please_give_me_some_recommended_attractions..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おすすめの観光地をいくつか教えてください (おすすめのかんこうちをいくつかおしえてください)",
+            "audio": "おすすめのかんこうちをいくつかおしえてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천할 만한 관광지를 몇 곳 알려주세요. (chucheonhal manhan gwangwangjileul myeoch gos allyeojuseyo.)",
+            "audio": "추천할_만한_관광지를_몇_곳_알려주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng giới thiệu cho tôi vài điểm tham quan.",
+            "audio": "Vui_lòng_giới_thiệu_cho_tôi_vài_điểm_tham_quan..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩推薦幾個景點畀我。 (maa4 faan4 teoi1 zin3 gei2 go3 ging2 dim2 bei2 ngo5.)",
+            "audio": "麻煩推薦幾個景點畀我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi quelques attractions recommandées, s'il vous plaît.",
+            "audio": "Donnez-moi_quelques_attractions_recommandées,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte empfehlen Sie mir einige Sehenswürdigkeiten.",
+            "audio": "Bitte_empfehlen_Sie_mir_einige_Sehenswürdigkeiten..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, recomiéndeme algunas atracciones.",
+            "audio": "Por_favor,_recomiéndeme_algunas_atracciones..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, порекомендуйте мне несколько достопримечательностей. (Pozhaluysta, porekomenduyte mne neskol'ko dostoprimechatel'nostey.)",
+            "audio": "Пожалуйста,_порекомендуйте_мне_несколько_достопримечательностей..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยแนะนำสถานที่ท่องเที่ยวให้หน่อยครับ/ค่ะ (chûay náe-nam sà-tǎan-têe tòng-tîaw hâi nòi kráp/kâ)",
+            "audio": "ช่วยแนะนำสถานที่ท่องเที่ยวให้หน่อยครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya beberapa rekomendasi tempat wisata.",
+            "audio": "Tolong_beri_saya_beberapa_rekomendasi_tempat_wisata..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一些推薦的景點。",
+            "audio": "請給我一些推薦的景點。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "ID",
+        "category": "大分類",
+        "subcategory": "子分類",
+        "cn": "中文",
+        "CN_ENG": {
+            "word": "英語",
+            "audio": "英語.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "日語",
+            "audio": "日語.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "韓語",
+            "audio": "韓語.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "越語",
+            "audio": "越語.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "廣東",
+            "audio": "廣東.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "法語",
+            "audio": "法語.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "德語",
+            "audio": "德語.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "西語",
+            "audio": "西語.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "俄語",
+            "audio": "俄語.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "泰語",
+            "audio": "泰語.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "印尼語",
+            "audio": "印尼語.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "中文",
+            "audio": "中文.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen101",
+        "category": "飯店住宿",
+        "subcategory": "辦理入住",
+        "cn": "我有預訂房間。",
+        "CN_ENG": {
+            "word": "I have a reservation.",
+            "audio": "I_have_a_reservation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "部屋を予約しています (へやをよやくしています)",
+            "audio": "へやをよやくしています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방을 예약했습니다. (bang-eul yeyaghaessseubnida.)",
+            "audio": "방을_예약했습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi đã đặt phòng.",
+            "audio": "Tôi_đã_đặt_phòng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我預訂咗房間。 (ngo5 jyu6 ding6 zo2 fong4 gaan1.)",
+            "audio": "我預訂咗房間。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai une réservation.",
+            "audio": "J'ai_une_réservation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe eine Reservierung.",
+            "audio": "Ich_habe_eine_Reservierung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tengo una reserva.",
+            "audio": "Tengo_una_reserva..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У меня есть бронирование. (U menya yest' bronirovaniye.)",
+            "audio": "У_меня_есть_бронирование..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันจองห้องพักไว้ (chǎn jong hông pák wái)",
+            "audio": "ฉันจองห้องพักไว้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya memiliki reservasi.",
+            "audio": "Saya_memiliki_reservasi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我有預訂房間。",
+            "audio": "我有預訂房間。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen102",
+        "category": "飯店住宿",
+        "subcategory": "辦理入住",
+        "cn": "這是我的護照。",
+        "CN_ENG": {
+            "word": "Here is my passport.",
+            "audio": "Here_is_my_passport..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これが私のパスポートです (これがわたしのぱすぽーとです)",
+            "audio": "これがわたしのぱすぽーとです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "제 여권입니다. (je yeogwon-ibnida.)",
+            "audio": "제_여권입니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đây là hộ chiếu của tôi.",
+            "audio": "Đây_là_hộ_chiếu_của_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個係我嘅護照。 (ni1 go3 hai6 ngo5 ge3 wu6 ziu3.)",
+            "audio": "呢個係我嘅護照。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Voici mon passeport.",
+            "audio": "Voici_mon_passeport..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hier ist mein Reisepass.",
+            "audio": "Hier_ist_mein_Reisepass..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Aquí está mi pasaporte.",
+            "audio": "Aquí_está_mi_pasaporte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вот мой паспорт. (Vot moy pasport.)",
+            "audio": "Вот_мой_паспорт..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นี่คือพาสปอร์ตของฉัน (nêe keu pâat-sà-bpòt kǒng chǎn)",
+            "audio": "นี่คือพาสปอร์ตของฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ini paspor saya.",
+            "audio": "Ini_paspor_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這是我的護照。",
+            "audio": "這是我的護照。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen103",
+        "category": "飯店住宿",
+        "subcategory": "辦理入住",
+        "cn": "請問退房時間是幾點？",
+        "CN_ENG": {
+            "word": "What time is check-out?",
+            "audio": "What_time_is_check-out.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "チェックアウトは何時ですか (ちぇっくあうとはなんじですか)",
+            "audio": "ちぇっくあうとはなんじですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "체크아웃 시간이 몇 시인가요? (chekeu-aus sigan-i myeoch siingayo?)",
+            "audio": "체크아웃_시간이_몇_시인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giờ trả phòng là mấy giờ?",
+            "audio": "Giờ_trả_phòng_là_mấy_giờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問退房時間係幾點呀？ (cing2 man6 teoi3 fong4 si4 gaan3 hai6 gei2 dim2 aa3?)",
+            "audio": "請問退房時間係幾點呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À quelle heure est le départ ?",
+            "audio": "À_quelle_heure_est_le_départ.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Um wie viel Uhr ist der Check-out?",
+            "audio": "Um_wie_viel_Uhr_ist_der_Check-out.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿A qué hora es la salida?",
+            "audio": "¿A_qué_hora_es_la_salida.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В какое время выезд? (V kakoye vremya vyyezd?)",
+            "audio": "В_какое_время_выезд.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เวลาเช็คเอาท์คือกี่โมง (way-laa chék-áot keu gèe mohng)",
+            "audio": "เวลาเช็คเอาท์คือกี่โมง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jam berapa waktu check-out?",
+            "audio": "Jam_berapa_waktu_check-out.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問退房時間是幾點？",
+            "audio": "請問退房時間是幾點？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen104",
+        "category": "飯店住宿",
+        "subcategory": "辦理入住",
+        "cn": "早餐幾點開始供應？",
+        "CN_ENG": {
+            "word": "What time does breakfast start?",
+            "audio": "What_time_does_breakfast_start.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "朝食は何時からですか (ちょうしょくはなんじからですか)",
+            "audio": "ちょうしょくはなんじからですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조식은 몇 시부터인가요? (josig-eun myeoch sibuteoingayo?)",
+            "audio": "조식은_몇_시부터인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bữa sáng bắt đầu lúc mấy giờ?",
+            "audio": "Bữa_sáng_bắt_đầu_lúc_mấy_giờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "早餐幾點開始供應呀？ (zou2 caan1 gei2 dim2 hoi1 ci2 gung1 jing3 aa3?)",
+            "audio": "早餐幾點開始供應呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À quelle heure commence le petit-déjeuner ?",
+            "audio": "À_quelle_heure_commence_le_petit-déjeuner.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Um wie viel Uhr beginnt das Frühstück?",
+            "audio": "Um_wie_viel_Uhr_beginnt_das_Frühstück.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿A qué hora empieza el desayuno?",
+            "audio": "¿A_qué_hora_empieza_el_desayuno.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Во сколько начинается завтрак? (Vo skol'ko nachinayetsya zavtrak?)",
+            "audio": "Во_сколько_начинается_завтрак.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารเช้าเริ่มกี่โมง (aa-hǎan cháo rêrm gèe mohng)",
+            "audio": "อาหารเช้าเริ่มกี่โมง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jam berapa sarapan dimulai?",
+            "audio": "Jam_berapa_sarapan_dimulai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "早餐幾點開始供應？",
+            "audio": "早餐幾點開始供應？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen105",
+        "category": "飯店住宿",
+        "subcategory": "辦理入住",
+        "cn": "可以在這裡寄放行李嗎？",
+        "CN_ENG": {
+            "word": "Can I leave my luggage here?",
+            "audio": "Can_I_leave_my_luggage_here.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここに荷物を預けられますか (ここににもつをあずけられますか)",
+            "audio": "ここににもつをあずけられますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기에 짐을 맡길 수 있나요? (yeogie jim-eul matgil su issnayo?)",
+            "audio": "여기에_짐을_맡길_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể gửi hành lý ở đây không?",
+            "audio": "Tôi_có_thể_gửi_hành_lý_ở_đây_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以喺度寄存行李呀？ (ho2 m4 ho2 ji5 hai2 dou6 gei3 cyun4 hang4 lei5 aa3?)",
+            "audio": "可唔可以喺度寄存行李呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je laisser mes bagages ici ?",
+            "audio": "Puis-je_laisser_mes_bagages_ici.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich mein Gepäck hier lassen?",
+            "audio": "Kann_ich_mein_Gepäck_hier_lassen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo dejar mi equipaje aquí?",
+            "audio": "¿Puedo_dejar_mi_equipaje_aquí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу ли я оставить здесь свой багаж? (Mogu li ya ostavit' zdes' svoy bagazh?)",
+            "audio": "Могу_ли_я_оставить_здесь_свой_багаж.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฝากกระเป๋าเดินทางไว้ที่นี่ได้ไหม (fàak grà-bpǎo dern-taang wái têe-nêe dâi mǎi)",
+            "audio": "ฝากกระเป๋าเดินทางไว้ที่นี่ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah saya menitipkan koper saya di sini?",
+            "audio": "Bisakah_saya_menitipkan_koper_saya_di_sini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以在這裡寄放行李嗎？",
+            "audio": "可以在這裡寄放行李嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen106",
+        "category": "飯店住宿",
+        "subcategory": "房間設施",
+        "cn": "房間的冷氣不冷。",
+        "CN_ENG": {
+            "word": "The air conditioning in the room is not cold.",
+            "audio": "The_air_conditioning_in_the_room_is_not_cold..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "部屋のエアコンが冷えません (へやのえあこんがひえません)",
+            "audio": "へやのえあこんがひえません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방에 에어컨이 시원하지 않아요. (bang-e eeokeon-i siwonhaji anh-ayo.)",
+            "audio": "방에_에어컨이_시원하지_않아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Máy lạnh trong phòng không lạnh.",
+            "audio": "Máy_lạnh_trong_phòng_không_lạnh..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "房入面部冷氣唔凍。 (fong2 jap6 min6 bou6 laang5 hei3 m4 dung3.)",
+            "audio": "房入面部冷氣唔凍。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "La climatisation de la chambre ne refroidit pas.",
+            "audio": "La_climatisation_de_la_chambre_ne_refroidit_pas..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Klimaanlage im Zimmer ist nicht kalt.",
+            "audio": "Die_Klimaanlage_im_Zimmer_ist_nicht_kalt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El aire acondicionado de la habitación no enfría.",
+            "audio": "El_aire_acondicionado_de_la_habitación_no_enfría..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кондиционер в номере не охлаждает. (Konditsioner v nomere ne okhlazhdayet.)",
+            "audio": "Кондиционер_в_номере_не_охлаждает..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แอร์ในห้องไม่เย็น (ae nai hông mâi yen)",
+            "audio": "แอร์ในห้องไม่เย็น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "AC di kamar tidak dingin.",
+            "audio": "AC_di_kamar_tidak_dingin..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "房間的冷氣不冷。",
+            "audio": "房間的冷氣不冷。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen107",
+        "category": "飯店住宿",
+        "subcategory": "房間設施",
+        "cn": "洗澡沒有熱水。",
+        "CN_ENG": {
+            "word": "There is no hot water for the shower.",
+            "audio": "There_is_no_hot_water_for_the_shower..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "シャワーのお湯が出ません (しゃわーのおゆがでません)",
+            "audio": "しゃわーのおゆがでません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "샤워할 때 뜨거운 물이 안 나와요. (syawohal ttae tteugeoun mul-i an nawayo.)",
+            "audio": "샤워할_때_뜨거운_물이_안_나와요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không có nước nóng để tắm.",
+            "audio": "Không_có_nước_nóng_để_tắm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "沖涼冇熱水呀。 (cung1 loeng4 mou5 jit6 seoi2 aa3.)",
+            "audio": "沖涼冇熱水呀。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il n'y a pas d'eau chaude pour la douche.",
+            "audio": "Il_n'y_a_pas_d'eau_chaude_pour_la_douche..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es gibt kein heißes Wasser zum Duschen.",
+            "audio": "Es_gibt_kein_heißes_Wasser_zum_Duschen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No hay agua caliente para la ducha.",
+            "audio": "No_hay_agua_caliente_para_la_ducha..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нет горячей воды для душа. (Net goryachey vody dlya dusha.)",
+            "audio": "Нет_горячей_воды_для_душа..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไม่มีน้ำร้อนให้อาบ (mâi mee náam rón hâi àap)",
+            "audio": "ไม่มีน้ำร้อนให้อาบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak ada air panas untuk mandi.",
+            "audio": "Tidak_ada_air_panas_untuk_mandi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "洗澡沒有熱水。",
+            "audio": "洗澡沒有熱水。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen108",
+        "category": "飯店住宿",
+        "subcategory": "房間設施",
+        "cn": "馬桶好像堵住了。",
+        "CN_ENG": {
+            "word": "The toilet seems to be clogged.",
+            "audio": "The_toilet_seems_to_be_clogged..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "トイレが詰まっているようです (といれがつまっているようです)",
+            "audio": "といれがつまっているようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "변기가 막힌 것 같아요. (byeongiga maghin geos gat-ayo.)",
+            "audio": "변기가_막힌_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bồn cầu hình như bị tắc rồi.",
+            "audio": "Bồn_cầu_hình_như_bị_tắc_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "個馬桶好似塞咗。 (go3 maa5 tung2 hou2 ci5 sak1 zo2.)",
+            "audio": "個馬桶好似塞咗。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Les toilettes semblent être bouchées.",
+            "audio": "Les_toilettes_semblent_être_bouchées..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Toilette scheint verstopft zu sein.",
+            "audio": "Die_Toilette_scheint_verstopft_zu_sein..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El inodoro parece estar atascado.",
+            "audio": "El_inodoro_parece_estar_atascado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кажется, туалет засорился. (Kazhetsya, tualet zasorilsya.)",
+            "audio": "Кажется,_туалет_засорился..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ชักโครกเหมือนจะตัน (chák-krôhk měuan jà dtan)",
+            "audio": "ชักโครกเหมือนจะตัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Toiletnya sepertinya mampet.",
+            "audio": "Toiletnya_sepertinya_mampet..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "馬桶好像堵住了。",
+            "audio": "馬桶好像堵住了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen109",
+        "category": "飯店住宿",
+        "subcategory": "房間設施",
+        "cn": "電視無法打開。",
+        "CN_ENG": {
+            "word": "The TV cannot be turned on.",
+            "audio": "The_TV_cannot_be_turned_on..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "テレビがつきません (てれびがつきません)",
+            "audio": "てれびがつきません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "TV가 켜지지 않아요. (TVga kyeojiji anh-ayo.)",
+            "audio": "TV가_켜지지_않아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "TV không mở được.",
+            "audio": "TV_không_mở_được..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "部電視開唔到。 (bou6 din6 si6 hoi1 m4 dou3.)",
+            "audio": "部電視開唔到。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "La télévision ne s'allume pas.",
+            "audio": "La_télévision_ne_s'allume_pas..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Der Fernseher lässt sich nicht einschalten.",
+            "audio": "Der_Fernseher_lässt_sich_nicht_einschalten..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "La televisión no se enciende.",
+            "audio": "La_televisión_no_se_enciende..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Телевизор не включается. (Televizor ne vklyuchayetsya.)",
+            "audio": "Телевизор_не_включается..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทีวีเปิดไม่ได้ (tee-wee bpèrt mâi dâi)",
+            "audio": "ทีวีเปิดไม่ได้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "TV tidak bisa dinyalakan.",
+            "audio": "TV_tidak_bisa_dinyalakan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "電視無法打開。",
+            "audio": "電視無法打開。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen110",
+        "category": "飯店住宿",
+        "subcategory": "房間設施",
+        "cn": "房間裡沒有吹風機。",
+        "CN_ENG": {
+            "word": "There is no hair dryer in the room.",
+            "audio": "There_is_no_hair_dryer_in_the_room..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "部屋にヘアドライヤーがありません (へやにへあどらいやーがありません)",
+            "audio": "へやにへあどらいやーがありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방에 헤어드라이어가 없어요. (bang-e heeodeulaieoga eobs-eoyo.)",
+            "audio": "방에_헤어드라이어가_없어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trong phòng không có máy sấy tóc.",
+            "audio": "Trong_phòng_không_có_máy_sấy_tóc..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "房入面冇風筒。 (fong2 jap6 min6 mou5 fung1 tung2.)",
+            "audio": "房入面冇風筒。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il n'y a pas de sèche-cheveux dans la chambre.",
+            "audio": "Il_n'y_a_pas_de_sèche-cheveux_dans_la_chambre..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es gibt keinen Haartrockner im Zimmer.",
+            "audio": "Es_gibt_keinen_Haartrockner_im_Zimmer..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No hay secador de pelo en la habitación.",
+            "audio": "No_hay_secador_de_pelo_en_la_habitación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В номере нет фена. (V nomere net fena.)",
+            "audio": "В_номере_нет_фена..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ในห้องไม่มีไดร์เป่าผม (nai hông mâi mee dai bpào pǒm)",
+            "audio": "ในห้องไม่มีไดร์เป่าผม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak ada pengering rambut di kamar.",
+            "audio": "Tidak_ada_pengering_rambut_di_kamar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "房間裡沒有吹風機。",
+            "audio": "房間裡沒有吹風機。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen111",
+        "category": "飯店住宿",
+        "subcategory": "客房服務",
+        "cn": "請幫我打掃房間。",
+        "CN_ENG": {
+            "word": "Please clean my room.",
+            "audio": "Please_clean_my_room..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "部屋の掃除をお願いします (へやのそうじをおねがいします)",
+            "audio": "へやのそうじをおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방 청소 좀 부탁드립니다. (bang cheongso jom butagdeulibnida.)",
+            "audio": "방_청소_좀_부탁드립니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng dọn phòng giúp tôi.",
+            "audio": "Vui_lòng_dọn_phòng_giúp_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩幫我執房。 (maa4 faan4 bong1 ngo5 zap1 fong2.)",
+            "audio": "麻煩幫我執房。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez nettoyer ma chambre, s'il vous plaît.",
+            "audio": "Veuillez_nettoyer_ma_chambre,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte reinigen Sie mein Zimmer.",
+            "audio": "Bitte_reinigen_Sie_mein_Zimmer..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, limpie mi habitación.",
+            "audio": "Por_favor,_limpie_mi_habitación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, уберите в моем номере. (Pozhaluysta, uberite v moyem nomere.)",
+            "audio": "Пожалуйста,_уберите_в_моем_номере..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยทำความสะอาดห้องให้หน่อย (chûay tam kwaam sà-àat hông hâi nòi)",
+            "audio": "ช่วยทำความสะอาดห้องให้หน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong bersihkan kamar saya.",
+            "audio": "Tolong_bersihkan_kamar_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請幫我打掃房間。",
+            "audio": "請幫我打掃房間。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen112",
+        "category": "飯店住宿",
+        "subcategory": "客房服務",
+        "cn": "請給我多一條毛巾。",
+        "CN_ENG": {
+            "word": "Please give me an extra towel.",
+            "audio": "Please_give_me_an_extra_towel..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "タオルをもう一枚ください (たおるをもういちまいくください)",
+            "audio": "たおるをもういちまいくください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수건 한 장 더 주세요. (sugeon han jang deo juseyo.)",
+            "audio": "수건_한_장_더_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi thêm một cái khăn tắm.",
+            "audio": "Vui_lòng_cho_tôi_thêm_một_cái_khăn_tắm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀多條毛巾我。 (maa4 faan4 bei2 do1 tiu4 mou4 gan1 ngo5.)",
+            "audio": "麻煩畀多條毛巾我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi une serviette supplémentaire, s'il vous plaît.",
+            "audio": "Donnez-moi_une_serviette_supplémentaire,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir ein extra Handtuch.",
+            "audio": "Bitte_geben_Sie_mir_ein_extra_Handtuch..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, dame una toalla extra.",
+            "audio": "Por_favor,_dame_una_toalla_extra..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне еще одно полотенце. (Pozhaluysta, dayte mne yeshche odno polotentse.)",
+            "audio": "Пожалуйста,_дайте_мне_еще_одно_полотенце..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอผ้าเช็ดตัวเพิ่มอีกหนึ่งผืน (kǒr pâa chét dtua pêrm èek nèung pěun)",
+            "audio": "ขอผ้าเช็ดตัวเพิ่มอีกหนึ่งผืน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya handuk tambahan.",
+            "audio": "Tolong_beri_saya_handuk_tambahan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我多一條毛巾。",
+            "audio": "請給我多一條毛巾。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen113",
+        "category": "飯店住宿",
+        "subcategory": "客房服務",
+        "cn": "我需要叫醒服務。",
+        "CN_ENG": {
+            "word": "I need a wake-up call.",
+            "audio": "I_need_a_wake-up_call..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "モーニングコールをお願いします (もーにんぐこーるをおねがいします)",
+            "audio": "もーにんぐこーるをおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "모닝콜을 부탁합니다. (moningkol-eul butaghabnida.)",
+            "audio": "모닝콜을_부탁합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần dịch vụ báo thức.",
+            "audio": "Tôi_cần_dịch_vụ_báo_thức..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要叫醒服務。 (ngo5 seoi1 jiu3 giu3 sing2 fuk6 mou6.)",
+            "audio": "我需要叫醒服務。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin d'un service de réveil.",
+            "audio": "J'ai_besoin_d'un_service_de_réveil..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich brauche einen Weckruf.",
+            "audio": "Ich_brauche_einen_Weckruf..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito un servicio de despertador.",
+            "audio": "Necesito_un_servicio_de_despertador..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужен звонок-будильник. (Mne nuzhen zvonok-budil'nik.)",
+            "audio": "Мне_нужен_звонок-будильник..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการบริการโทรปลุก (chǎn dtông-gaan bor-rí-gaan toh bplùk)",
+            "audio": "ฉันต้องการบริการโทรปลุก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya butuh layanan bangun pagi.",
+            "audio": "Saya_butuh_layanan_bangun_pagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要叫醒服務。",
+            "audio": "我需要叫醒服務。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen114",
+        "category": "飯店住宿",
+        "subcategory": "客房服務",
+        "cn": "請送兩瓶水到我房間。",
+        "CN_ENG": {
+            "word": "Please send two bottles of water to my room.",
+            "audio": "Please_send_two_bottles_of_water_to_my_room..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "水を2本部屋に届けてください (みずをにほんへやにとどけてください)",
+            "audio": "みずをにほんへやにとどけてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방으로 물 두 병 좀 보내주세요. (bang-eulo mul du byeong jom bonaejuseyo.)",
+            "audio": "방으로_물_두_병_좀_보내주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng mang hai chai nước lên phòng tôi.",
+            "audio": "Vui_lòng_mang_hai_chai_nước_lên_phòng_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩送兩支水去我間房。 (maa4 faan4 sung3 loeng5 zi1 seoi2 heoi3 ngo5 gaan1 fong2.)",
+            "audio": "麻煩送兩支水去我間房。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez envoyer deux bouteilles d'eau dans ma chambre.",
+            "audio": "Veuillez_envoyer_deux_bouteilles_d'eau_dans_ma_chambre..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte bringen Sie zwei Flaschen Wasser auf mein Zimmer.",
+            "audio": "Bitte_bringen_Sie_zwei_Flaschen_Wasser_auf_mein_Zimmer..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, envíe dos botellas de agua a mi habitación.",
+            "audio": "Por_favor,_envíe_dos_botellas_de_agua_a_mi_habitación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, пришлите две бутылки воды в мой номер. (Pozhaluysta, prishlite dve butylki vody v moy nomer.)",
+            "audio": "Пожалуйста,_пришлите_две_бутылки_воды_в_мой_номер..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยส่งน้ำสองขวดมาที่ห้องของฉัน (chûay sòng náam sǒng kùat maa têe hông kǒng chǎn)",
+            "audio": "ช่วยส่งน้ำสองขวดมาที่ห้องของฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong kirimkan dua botol air ke kamar saya.",
+            "audio": "Tolong_kirimkan_dua_botol_air_ke_kamar_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請送兩瓶水到我房間。",
+            "audio": "請送兩瓶水到我房間。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen115",
+        "category": "飯店住宿",
+        "subcategory": "客房服務",
+        "cn": "請問有提供洗衣服務嗎？",
+        "CN_ENG": {
+            "word": "Do you offer laundry service?",
+            "audio": "Do_you_offer_laundry_service.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ランドリーサービスはありますか (らんどりーさーびすはありますか)",
+            "audio": "らんどりーさーびすはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "세탁 서비스가 있나요? (setag seobiseuga issnayo?)",
+            "audio": "세탁_서비스가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ở đây có dịch vụ giặt ủi không?",
+            "audio": "Ở_đây_có_dịch_vụ_giặt_ủi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇提供洗衣服務呀？ (cing2 man6 jau5 mou5 tai4 gung1 sai2 ji1 fuk6 mou6 aa3?)",
+            "audio": "請問有冇提供洗衣服務呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Proposez-vous un service de blanchisserie ?",
+            "audio": "Proposez-vous_un_service_de_blanchisserie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bieten Sie einen Wäscheservice an?",
+            "audio": "Bieten_Sie_einen_Wäscheservice_an.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Ofrecen servicio de lavandería?",
+            "audio": "¿Ofrecen_servicio_de_lavandería.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть услуги прачечной? (U vas yest' uslugi prachechnoy?)",
+            "audio": "У_вас_есть_услуги_прачечной.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีบริการซักรีดไหม (mee bor-rí-gaan sák-rêet mǎi)",
+            "audio": "มีบริการซักรีดไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menawarkan layanan binatu?",
+            "audio": "Apakah_Anda_menawarkan_layanan_binatu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有提供洗衣服務嗎？",
+            "audio": "請問有提供洗衣服務嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen116",
+        "category": "飯店住宿",
+        "subcategory": "辦理退房",
+        "cn": "我準備好退房了。",
+        "CN_ENG": {
+            "word": "I am ready to check out.",
+            "audio": "I_am_ready_to_check_out..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "チェックアウトの準備ができました (ちぇっくあうとのじゅんびができました)",
+            "audio": "ちぇっくあうとのじゅんびができました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "체크아웃할 준비가 되었습니다. (chekeu-aushal junbiga doeeossseubnida.)",
+            "audio": "체크아웃할_준비가_되었습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi đã sẵn sàng trả phòng.",
+            "audio": "Tôi_đã_sẵn_sàng_trả_phòng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我準備好退房啦。 (ngo5 zeon2 bei6 hou2 teoi3 fong4 laa1.)",
+            "audio": "我準備好退房啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis prêt à régler la note.",
+            "audio": "Je_suis_prêt_à_régler_la_note..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin bereit zum Auschecken.",
+            "audio": "Ich_bin_bereit_zum_Auschecken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy listo para salir.",
+            "audio": "Estoy_listo_para_salir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я готов выписаться. (Ya gotov vypisat'sya.)",
+            "audio": "Я_готов_выписаться..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันพร้อมที่จะเช็คเอาท์แล้ว (chǎn próm têe jà chék-áot láew)",
+            "audio": "ฉันพร้อมที่จะเช็คเอาท์แล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya siap untuk check-out.",
+            "audio": "Saya_siap_untuk_check-out..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我準備好退房了。",
+            "audio": "我準備好退房了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen117",
+        "category": "飯店住宿",
+        "subcategory": "辦理退房",
+        "cn": "請給我最終的帳單。",
+        "CN_ENG": {
+            "word": "Please give me the final bill.",
+            "audio": "Please_give_me_the_final_bill..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "最終的な請求書をください (さいしゅうてきなせいきゅうしょをください)",
+            "audio": "さいしゅうてきなせいきゅうしょをください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "최종 계산서 좀 주세요. (choejong gyesanseo jom juseyo.)",
+            "audio": "최종_계산서_좀_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi hóa đơn cuối cùng.",
+            "audio": "Vui_lòng_cho_tôi_hóa_đơn_cuối_cùng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀張最終帳單我。 (maa4 faan4 bei2 zoeng1 zeoi3 zung1 zoeng3 daan1 ngo5.)",
+            "audio": "麻煩畀張最終帳單我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez me donner la facture finale.",
+            "audio": "Veuillez_me_donner_la_facture_finale..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir die Endabrechnung.",
+            "audio": "Bitte_geben_Sie_mir_die_Endabrechnung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, deme la factura final.",
+            "audio": "Por_favor,_deme_la_factura_final..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне окончательный счет. (Pozhaluysta, dayte mne okonchatel'nyy schet.)",
+            "audio": "Пожалуйста,_дайте_мне_окончательный_счет..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบิลใบสุดท้ายด้วยครับ (kǒr bin bai sùt-táai dûay kráp)",
+            "audio": "ขอบิลใบสุดท้ายด้วยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya tagihan akhir.",
+            "audio": "Tolong_beri_saya_tagihan_akhir..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我最終的帳單。",
+            "audio": "請給我最終的帳單。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen118",
+        "category": "飯店住宿",
+        "subcategory": "辦理退房",
+        "cn": "我們會幫你叫計程車。",
+        "CN_ENG": {
+            "word": "We will call a taxi for you.",
+            "audio": "We_will_call_a_taxi_for_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "タクシーをお呼びします (たくしーをおよびします)",
+            "audio": "たくしーをおよびします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저희가 택시를 불러드리겠습니다. (jeohuiga taegsileul bulleodeuligessseubnida.)",
+            "audio": "저희가_택시를_불러드리겠습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi sẽ gọi taxi cho bạn.",
+            "audio": "Chúng_tôi_sẽ_gọi_taxi_cho_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋會幫你叫的士。 (ngo5 dei6 wui5 bong1 nei5 giu3 dik1 si2.)",
+            "audio": "我哋會幫你叫的士。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous allons appeler un taxi pour vous.",
+            "audio": "Nous_allons_appeler_un_taxi_pour_vous..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir werden ein Taxi für Sie rufen.",
+            "audio": "Wir_werden_ein_Taxi_für_Sie_rufen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Llamaremos a un taxi para usted.",
+            "audio": "Llamaremos_a_un_taxi_para_usted..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мы вызовем для вас такси. (My vyzovem dlya vas taksi.)",
+            "audio": "Мы_вызовем_для_вас_такси..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราจะเรียกแท็กซี่ให้คุณ (rao jà rîak táek-sêe hâi kun)",
+            "audio": "เราจะเรียกแท็กซี่ให้คุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami akan memanggilkan taksi untuk Anda.",
+            "audio": "Kami_akan_memanggilkan_taksi_untuk_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們會幫你叫計程車。",
+            "audio": "我們會幫你叫計程車。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen119",
+        "category": "飯店住宿",
+        "subcategory": "辦理退房",
+        "cn": "我在房間留下了鑰匙。",
+        "CN_ENG": {
+            "word": "I left the key in the room.",
+            "audio": "I_left_the_key_in_the_room..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "部屋に鍵を置いてきました (へやにかぎをおいてきました)",
+            "audio": "へやにかぎをおいてきました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방에 열쇠를 두고 왔어요. (bang-e yeolsoeleul dugo wass-eoyo.)",
+            "audio": "방에_열쇠를_두고_왔어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi đã để lại chìa khóa trong phòng.",
+            "audio": "Tôi_đã_để_lại_chìa_khóa_trong_phòng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我將條鎖匙留咗喺房。 (ngo5 zoeng1 tiu4 so2 si4 lau4 zo2 hai2 fong2.)",
+            "audio": "我將條鎖匙留咗喺房。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai laissé la clé dans la chambre.",
+            "audio": "J'ai_laissé_la_clé_dans_la_chambre..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe den Schlüssel im Zimmer gelassen.",
+            "audio": "Ich_habe_den_Schlüssel_im_Zimmer_gelassen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Dejé la llave en la habitación.",
+            "audio": "Dejé_la_llave_en_la_habitación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я оставил ключ в номере. (Ya ostavil klyuch v nomere.)",
+            "audio": "Я_оставил_ключ_в_номере..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันทิ้งกุญแจไว้ในห้อง (chǎn tíng gun-jae wái nai hông)",
+            "audio": "ฉันทิ้งกุญแจไว้ในห้อง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya meninggalkan kunci di kamar.",
+            "audio": "Saya_meninggalkan_kunci_di_kamar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我在房間留下了鑰匙。",
+            "audio": "我在房間留下了鑰匙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen120",
+        "category": "飯店住宿",
+        "subcategory": "辦理退房",
+        "cn": "謝謝你們的熱情招待。",
+        "CN_ENG": {
+            "word": "Thank you for your hospitality.",
+            "audio": "Thank_you_for_your_hospitality..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "温かいおもてなしをありがとうございました (あたたかいおもてなしをありがとうございました)",
+            "audio": "あたたかいおもてなしをありがとうございました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "환대해 주셔서 감사합니다. (hwandaehae jusyeoseo gamsahabnida.)",
+            "audio": "환대해_주셔서_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn sự hiếu khách của các bạn.",
+            "audio": "Cảm_ơn_sự_hiếu_khách_của_các_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你哋嘅熱情招待。 (do1 ze6 nei5 dei6 ge3 jit6 cing4 ziu1 toi4.)",
+            "audio": "多謝你哋嘅熱情招待。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour votre hospitalité.",
+            "audio": "Merci_pour_votre_hospitalité..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen Dank für Ihre Gastfreundschaft.",
+            "audio": "Vielen_Dank_für_Ihre_Gastfreundschaft..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por su hospitalidad.",
+            "audio": "Gracias_por_su_hospitalidad..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за ваше гостеприимство. (Spasibo za vashe gostepriimstvo.)",
+            "audio": "Спасибо_за_ваше_гостеприимство..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับการต้อนรับที่อบอุ่น (kòp-kun sǎm-ràp gaan dtôn-ráp têe òp-ùn)",
+            "audio": "ขอบคุณสำหรับการต้อนรับที่อบอุ่น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas keramahtamahan Anda.",
+            "audio": "Terima_kasih_atas_keramahtamahan_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你們的熱情招待。",
+            "audio": "謝謝你們的熱情招待。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen121",
+        "category": "常用句型",
+        "subcategory": "提出請求(我可以...)",
+        "cn": "我可以借用你的筆嗎？",
+        "CN_ENG": {
+            "word": "Can I borrow your pen?",
+            "audio": "Can_I_borrow_your_pen.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ペンを借りてもいいですか (ぺんをかりてもいいですか)",
+            "audio": "ぺんをかりてもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "펜 좀 빌려도 될까요? (pen jom billyeodo doelkkayo?)",
+            "audio": "펜_좀_빌려도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể mượn bút của bạn không?",
+            "audio": "Tôi_có_thể_mượn_bút_của_bạn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以借你支筆用下呀？ (ngo5 ho2 m4 ho2 ji5 ze3 nei5 zi1 bat1 jung6 haa5 aa3?)",
+            "audio": "我可唔可以借你支筆用下呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je emprunter votre stylo ?",
+            "audio": "Puis-je_emprunter_votre_stylo.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich mir deinen Stift ausleihen?",
+            "audio": "Kann_ich_mir_deinen_Stift_ausleihen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo pedir prestado tu bolígrafo?",
+            "audio": "¿Puedo_pedir_prestado_tu_bolígrafo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я одолжить твою ручку? (Mogu ya odolzhit' tvoyu ruchku?)",
+            "audio": "Могу_я_одолжить_твою_ручку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอยืมปากกาคุณได้ไหม (chǎn kǒr yeum bpàak-gaa kun dâi mǎi)",
+            "audio": "ฉันขอยืมปากกาคุณได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya meminjam pulpen Anda?",
+            "audio": "Bolehkah_saya_meminjam_pulpen_Anda.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以借用你的筆嗎？",
+            "audio": "我可以借用你的筆嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen122",
+        "category": "常用句型",
+        "subcategory": "提出請求(我可以...)",
+        "cn": "我可以坐這裡嗎？",
+        "CN_ENG": {
+            "word": "Can I sit here?",
+            "audio": "Can_I_sit_here.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここに座ってもいいですか (ここにすわってもいいですか)",
+            "audio": "ここにすわってもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기 앉아도 되나요? (yeogi anj-ado doenayo?)",
+            "audio": "여기_앉아도_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể ngồi đây không?",
+            "audio": "Tôi_có_thể_ngồi_đây_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以坐呢度呀？ (ngo5 ho2 m4 ho2 ji5 co5 ni1 dou6 aa3?)",
+            "audio": "我可唔可以坐呢度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je m'asseoir ici ?",
+            "audio": "Puis-je_m'asseoir_ici.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich mich hierhin setzen?",
+            "audio": "Kann_ich_mich_hierhin_setzen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo sentarme aquí?",
+            "audio": "¿Puedo_sentarme_aquí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я сесть здесь? (Mogu ya sest' zdes'?)",
+            "audio": "Могу_я_сесть_здесь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอนั่งตรงนี้ได้ไหม (chǎn kǒr nàng dtrong née dâi mǎi)",
+            "audio": "ฉันขอนั่งตรงนี้ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya duduk di sini?",
+            "audio": "Bolehkah_saya_duduk_di_sini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以坐這裡嗎？",
+            "audio": "我可以坐這裡嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen123",
+        "category": "常用句型",
+        "subcategory": "提出請求(我可以...)",
+        "cn": "我可以看一看這個嗎？",
+        "CN_ENG": {
+            "word": "Can I take a look at this?",
+            "audio": "Can_I_take_a_look_at_this.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これを少し見てもいいですか (これをすこしみてもいいですか)",
+            "audio": "これをすこしみてもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이것 좀 봐도 될까요? (igeos jom bwado doelkkayo?)",
+            "audio": "이것_좀_봐도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể xem qua cái này không?",
+            "audio": "Tôi_có_thể_xem_qua_cái_này_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以睇下呢個呀？ (ngo5 ho2 m4 ho2 ji5 tai2 haa5 ni1 go3 aa3?)",
+            "audio": "我可唔可以睇下呢個呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je jeter un œil à ça ?",
+            "audio": "Puis-je_jeter_un_œil_à_ça.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich mir das mal ansehen?",
+            "audio": "Kann_ich_mir_das_mal_ansehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo echar un vistazo a esto?",
+            "audio": "¿Puedo_echar_un_vistazo_a_esto.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я взглянуть на это? (Mogu ya vzglyanut' na eto?)",
+            "audio": "Могу_я_взглянуть_на_это.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอดูอันนี้หน่อยได้ไหม (chǎn kǒr doo an née nòi dâi mǎi)",
+            "audio": "ฉันขอดูอันนี้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya melihat ini?",
+            "audio": "Bolehkah_saya_melihat_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以看一看這個嗎？",
+            "audio": "我可以看一看這個嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen124",
+        "category": "常用句型",
+        "subcategory": "提出請求(我可以...)",
+        "cn": "我可以付現金嗎？",
+        "CN_ENG": {
+            "word": "Can I pay in cash?",
+            "audio": "Can_I_pay_in_cash.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "現金で払ってもいいですか (げんきんではらってもいいですか)",
+            "audio": "げんきんではらってもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "현금으로 내도 되나요? (hyeongeum-eulo naedo doenayo?)",
+            "audio": "현금으로_내도_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể trả bằng tiền mặt không?",
+            "audio": "Tôi_có_thể_trả_bằng_tiền_mặt_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以畀現金呀？ (ngo5 ho2 m4 ho2 ji5 bei2 jin6 gam1 aa3?)",
+            "audio": "我可唔可以畀現金呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je payer en espèces ?",
+            "audio": "Puis-je_payer_en_espèces.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich bar bezahlen?",
+            "audio": "Kann_ich_bar_bezahlen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo pagar en efectivo?",
+            "audio": "¿Puedo_pagar_en_efectivo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я оплатить наличными? (Mogu ya oplatit' nalichnymi?)",
+            "audio": "Могу_я_оплатить_наличными.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันจ่ายเป็นเงินสดได้ไหม (chǎn jàai bpen ngern-sòt dâi mǎi)",
+            "audio": "ฉันจ่ายเป็นเงินสดได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah saya membayar tunai?",
+            "audio": "Bisakah_saya_membayar_tunai.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以付現金嗎？",
+            "audio": "我可以付現金嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen125",
+        "category": "常用句型",
+        "subcategory": "提出請求(我可以...)",
+        "cn": "我可以先離開嗎？",
+        "CN_ENG": {
+            "word": "Can I leave first?",
+            "audio": "Can_I_leave_first.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "先に帰ってもいいですか (さきにかえってもいいですか)",
+            "audio": "さきにかえってもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "먼저 가도 될까요? (meonjeo gado doelkkayo?)",
+            "audio": "먼저_가도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể rời đi trước không?",
+            "audio": "Tôi_có_thể_rời_đi_trước_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以走先呀？ (ngo5 ho2 m4 ho2 ji5 zau2 sin1 aa3?)",
+            "audio": "我可唔可以走先呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je partir en premier ?",
+            "audio": "Puis-je_partir_en_premier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich zuerst gehen?",
+            "audio": "Kann_ich_zuerst_gehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo irme primero?",
+            "audio": "¿Puedo_irme_primero.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я уйти первым? (Mogu ya uyti pervym?)",
+            "audio": "Могу_я_уйти_первым.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอตัวกลับก่อนได้ไหม (chǎn kǒr dtua glàp gòn dâi mǎi)",
+            "audio": "ฉันขอตัวกลับก่อนได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya pergi duluan?",
+            "audio": "Bolehkah_saya_pergi_duluan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以先離開嗎？",
+            "audio": "我可以先離開嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen126",
+        "category": "常用句型",
+        "subcategory": "確認有無(請問有...)",
+        "cn": "請問有單人房嗎？",
+        "CN_ENG": {
+            "word": "Do you have a single room?",
+            "audio": "Do_you_have_a_single_room.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "シングルルームはありますか (しんぐるるーむはありますか)",
+            "audio": "しんぐるるーむはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "싱글룸이 있나요? (sing-geullum-i issnayo?)",
+            "audio": "싱글룸이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có phòng đơn không?",
+            "audio": "Xin_hỏi_có_phòng_đơn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇單人房呀？ (cing2 man6 jau5 mou5 daan1 jan4 fong2 aa3?)",
+            "audio": "請問有冇單人房呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous une chambre simple ?",
+            "audio": "Avez-vous_une_chambre_simple.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie ein Einzelzimmer?",
+            "audio": "Haben_Sie_ein_Einzelzimmer.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tiene una habitación individual?",
+            "audio": "¿Tiene_una_habitación_individual.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть одноместный номер? (U vas yest' odnomestnyy nomer?)",
+            "audio": "У_вас_есть_одноместный_номер.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีห้องเดี่ยวไหม (mee hông dìaw mǎi)",
+            "audio": "มีห้องเดี่ยวไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki kamar single?",
+            "audio": "Apakah_Anda_memiliki_kamar_single.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有單人房嗎？",
+            "audio": "請問有單人房嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen127",
+        "category": "常用句型",
+        "subcategory": "確認有無(請問有...)",
+        "cn": "請問有雙人床嗎？",
+        "CN_ENG": {
+            "word": "Do you have a double bed?",
+            "audio": "Do_you_have_a_double_bed.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ダブルベッドはありますか (だぶるべっどはありますか)",
+            "audio": "だぶるべっどはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "더블 침대가 있나요? (deobeul chimdaega issnayo?)",
+            "audio": "더블_침대가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có giường đôi không?",
+            "audio": "Xin_hỏi_có_giường_đôi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇雙人床呀？ (cing2 man6 jau5 mou5 soeng1 jan4 cong4 aa3?)",
+            "audio": "請問有冇雙人床呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous un lit double ?",
+            "audio": "Avez-vous_un_lit_double.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie ein Doppelbett?",
+            "audio": "Haben_Sie_ein_Doppelbett.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tiene una cama doble?",
+            "audio": "¿Tiene_una_cama_doble.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть двуспальная кровать? (U vas yest' dvuspal'naya krovat'?)",
+            "audio": "У_вас_есть_двуспальная_кровать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีเตียงคู่ไหม (mee dtiang kôo mǎi)",
+            "audio": "มีเตียงคู่ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki tempat tidur double?",
+            "audio": "Apakah_Anda_memiliki_tempat_tidur_double.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有雙人床嗎？",
+            "audio": "請問有雙人床嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen128",
+        "category": "常用句型",
+        "subcategory": "確認有無(請問有...)",
+        "cn": "請問有游泳池嗎？",
+        "CN_ENG": {
+            "word": "Do you have a swimming pool?",
+            "audio": "Do_you_have_a_swimming_pool.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "プールはありますか (ぷーるはありますか)",
+            "audio": "ぷーるはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수영장이 있나요? (suyeongjang-i issnayo?)",
+            "audio": "수영장이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có hồ bơi không?",
+            "audio": "Xin_hỏi_có_hồ_bơi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇游泳池呀？ (cing2 man6 jau5 mou5 jau4 wing6 ci4 aa3?)",
+            "audio": "請問有冇游泳池呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous une piscine ?",
+            "audio": "Avez-vous_une_piscine.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie ein Schwimmbad?",
+            "audio": "Haben_Sie_ein_Schwimmbad.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienes piscina?",
+            "audio": "¿Tienes_piscina.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть бассейн? (U vas yest' basseyn?)",
+            "audio": "У_вас_есть_бассейн.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีสระว่ายน้ำไหม (mee sà wâai náam mǎi)",
+            "audio": "มีสระว่ายน้ำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki kolam renang?",
+            "audio": "Apakah_Anda_memiliki_kolam_renang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有游泳池嗎？",
+            "audio": "請問有游泳池嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen129",
+        "category": "常用句型",
+        "subcategory": "確認有無(請問有...)",
+        "cn": "請問有停車場嗎？",
+        "CN_ENG": {
+            "word": "Do you have a parking lot?",
+            "audio": "Do_you_have_a_parking_lot.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "駐車場はありますか (ちゅうしゃじょうはありますか)",
+            "audio": "ちゅうしゃじょうはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주차장이 있나요? (juchajang-i issnayo?)",
+            "audio": "주차장이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có bãi đậu xe không?",
+            "audio": "Xin_hỏi_có_bãi_đậu_xe_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇停車場呀？ (cing2 man6 jau5 mou5 ting4 ce1 coeng4 aa3?)",
+            "audio": "請問有冇停車場呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous un parking ?",
+            "audio": "Avez-vous_un_parking.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie einen Parkplatz?",
+            "audio": "Haben_Sie_einen_Parkplatz.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienen estacionamiento?",
+            "audio": "¿Tienen_estacionamiento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть парковка? (U vas yest' parkovka?)",
+            "audio": "У_вас_есть_парковка.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีที่จอดรถไหม (mee têe jòt rót mǎi)",
+            "audio": "มีที่จอดรถไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki tempat parkir?",
+            "audio": "Apakah_Anda_memiliki_tempat_parkir.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有停車場嗎？",
+            "audio": "請問有停車場嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen130",
+        "category": "常用句型",
+        "subcategory": "確認有無(請問有...)",
+        "cn": "請問有免費接駁車嗎？",
+        "CN_ENG": {
+            "word": "Do you have a free shuttle bus?",
+            "audio": "Do_you_have_a_free_shuttle_bus.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "無料のシャトルバスはありますか (むりょうのしゃとるばすはありますか)",
+            "audio": "むりょうのしゃとるばすはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무료 셔틀버스가 있나요? (mulyo syeoteulbeoseuga issnayo?)",
+            "audio": "무료_셔틀버스가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có xe đưa đón miễn phí không?",
+            "audio": "Xin_hỏi_có_xe_đưa_đón_miễn_phí_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇免費接駁車呀？ (cing2 man6 jau5 mou5 min5 fai3 zip3 bok3 ce1 aa3?)",
+            "audio": "請問有冇免費接駁車呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous une navette gratuite ?",
+            "audio": "Avez-vous_une_navette_gratuite.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie einen kostenlosen Shuttlebus?",
+            "audio": "Haben_Sie_einen_kostenlosen_Shuttlebus.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienen un autobús de enlace gratuito?",
+            "audio": "¿Tienen_un_autobús_de_enlace_gratuito.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть бесплатный трансфер? (U vas yest' besplatnyy transfer?)",
+            "audio": "У_вас_есть_бесплатный_трансфер.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีรถรับส่งฟรีไหม (mee rót ráp-sòng free mǎi)",
+            "audio": "มีรถรับส่งฟรีไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki bus antar-jemput gratis?",
+            "audio": "Apakah_Anda_memiliki_bus_antar-jemput_gratis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有免費接駁車嗎？",
+            "audio": "請問有免費接駁車嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen131",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "歡迎光臨，請問需要找什麼嗎？",
+        "CN_ENG": {
+            "word": "Welcome, are you looking for anything in particular?",
+            "audio": "Welcome,_are_you_looking_for_anything_in_particular.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いらっしゃいませ、何かお探しですか (いらっしゃいませ、なにかおさがしですか)",
+            "audio": "いらっしゃいませ、なにかおさがしですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "어서 오세요, 찾으시는 게 있나요? (eoseo oseyo, chaj-eusineun ge issnayo?)",
+            "audio": "어서_오세요,_찾으시는_게_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chào mừng, quý khách đang tìm gì ạ?",
+            "audio": "Chào_mừng,_quý_khách_đang_tìm_gì_ạ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "歡迎光臨，請問想搵啲咩呀？ (fun1 jing4 gwong1 lam4, cing2 man6 soeng2 wan2 di1 me1 aa3?)",
+            "audio": "歡迎光臨，請問想搵啲咩呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bienvenue, cherchez-vous quelque chose en particulier ?",
+            "audio": "Bienvenue,_cherchez-vous_quelque_chose_en_particulier.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Willkommen, suchen Sie etwas Bestimmtes?",
+            "audio": "Willkommen,_suchen_Sie_etwas_Bestimmtes.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Bienvenido, ¿busca algo en particular?",
+            "audio": "Bienvenido,_¿busca_algo_en_particular.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Добро пожаловать, вы ищете что-то конкретное? (Dobro pozhalovat', vy ishchete chto-to konkretnoye?)",
+            "audio": "Добро_пожаловать,_вы_ищете_что-то_конкретное.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยินดีต้อนรับ กำลังมองหาอะไรอยู่หรือเปล่า (yin-dee dtôn-ráp gam-lang mong hǎa a-rai yòo rěu bplào)",
+            "audio": "ยินดีต้อนรับ_กำลังมองหาอะไรอยู่หรือเปล่า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat datang, apakah Anda mencari sesuatu secara khusus?",
+            "audio": "Selamat_datang,_apakah_Anda_mencari_sesuatu_secara_khusus.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "歡迎光臨，請問需要找什麼嗎？",
+            "audio": "歡迎光臨，請問需要找什麼嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen132",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我只是隨便看看，謝謝。",
+        "CN_ENG": {
+            "word": "I am just browsing, thank you.",
+            "audio": "I_am_just_browsing,_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "見ているだけです、ありがとう (みているだけです、ありがとう)",
+            "audio": "みているだけです、ありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그냥 둘러보는 중이에요, 감사합니다. (geunyang dulleoboneun jung-ieyo, gamsahabnida.)",
+            "audio": "그냥_둘러보는_중이에요,_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi chỉ xem thử thôi, cảm ơn.",
+            "audio": "Tôi_chỉ_xem_thử_thôi,_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我淨係隨便睇下，多謝。 (ngo5 zing6 hai6 ceoi4 bin2 tai2 haa5, do1 ze6.)",
+            "audio": "我淨係隨便睇下，多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je regarde juste, merci.",
+            "audio": "Je_regarde_juste,_merci..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich schaue mich nur um, danke.",
+            "audio": "Ich_schaue_mich_nur_um,_danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Solo estoy mirando, gracias.",
+            "audio": "Solo_estoy_mirando,_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я просто смотрю, спасибо. (Ya prosto smotryu, spasibo.)",
+            "audio": "Я_просто_смотрю,_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันแค่ดูเฉยๆ ขอบคุณ (chǎn kâe doo chěuy-chěuy kòp-kun)",
+            "audio": "ฉันแค่ดูเฉยๆ_ขอบคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya hanya melihat-lihat, terima kasih.",
+            "audio": "Saya_hanya_melihat-lihat,_terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我只是隨便看看，謝謝。",
+            "audio": "我只是隨便看看，謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen133",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問女裝部在幾樓？",
+        "CN_ENG": {
+            "word": "Which floor is the women's clothing department on?",
+            "audio": "Which_floor_is_the_women's_clothing_department_on.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "婦人服売り場は何階ですか (ふじんふくうりばはなんがいですか)",
+            "audio": "ふじんふくうりばはなんがいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여성복 매장은 몇 층인가요? (yeoseongbog maejang-eun myeoch cheung-ingayo?)",
+            "audio": "여성복_매장은_몇_층인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khu vực quần áo nữ ở tầng mấy?",
+            "audio": "Khu_vực_quần_áo_nữ_ở_tầng_mấy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問女裝部喺幾樓呀？ (cing2 man6 neoi5 zong1 bou6 hai2 gei2 lau2 aa3?)",
+            "audio": "請問女裝部喺幾樓呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À quel étage se trouve le rayon vêtements pour femmes ?",
+            "audio": "À_quel_étage_se_trouve_le_rayon_vêtements_pour_femmes.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "In welchem Stockwerk ist die Damenabteilung?",
+            "audio": "In_welchem_Stockwerk_ist_die_Damenabteilung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿En qué piso está el departamento de ropa de mujer?",
+            "audio": "¿En_qué_piso_está_el_departamento_de_ropa_de_mujer.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На каком этаже женская одежда? (Na kakom etazhe zhenskaya odezhda?)",
+            "audio": "На_каком_этаже_женская_одежда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แผนกเสื้อผ้าผู้หญิงอยู่ชั้นไหน (pà-nàek sêua-pâa pôo-yǐng yòo chán nǎi)",
+            "audio": "แผนกเสื้อผ้าผู้หญิงอยู่ชั้นไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di lantai berapa departemen pakaian wanita?",
+            "audio": "Di_lantai_berapa_departemen_pakaian_wanita.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問女裝部在幾樓？",
+            "audio": "請問女裝部在幾樓？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen134",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問男鞋區在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the men's shoe section?",
+            "audio": "Where_is_the_men's_shoe_section.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "紳士靴のコーナーはどこですか (しんしぐつのこーなーはどこですか)",
+            "audio": "しんしぐつのこーなーはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "남성화 코너는 어디에 있나요? (namseonghwa koneoneun eodie issnayo?)",
+            "audio": "남성화_코너는_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khu vực giày nam ở đâu?",
+            "audio": "Khu_vực_giày_nam_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問男裝鞋區喺邊度呀？ (cing2 man6 naam4 zong1 haai4 keoi1 hai2 bin1 dou6 aa3?)",
+            "audio": "請問男裝鞋區喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est le rayon des chaussures pour hommes ?",
+            "audio": "Où_est_le_rayon_des_chaussures_pour_hommes.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist die Herrenschuhabteilung?",
+            "audio": "Wo_ist_die_Herrenschuhabteilung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la sección de zapatos de hombre?",
+            "audio": "¿Dónde_está_la_sección_de_zapatos_de_hombre.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где отдел мужской обуви? (Gde otdel muzhskoy obuvi?)",
+            "audio": "Где_отдел_мужской_обуви.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โซนรองเท้าผู้ชายอยู่ที่ไหน (sohn rong-táo pôo-chaai yòo têe nǎi)",
+            "audio": "โซนรองเท้าผู้ชายอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana bagian sepatu pria?",
+            "audio": "Di_mana_bagian_sepatu_pria.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問男鞋區在哪裡？",
+            "audio": "請問男鞋區在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen135",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我在找一件適合參加晚宴的洋裝。",
+        "CN_ENG": {
+            "word": "I am looking for a dress suitable for a dinner party.",
+            "audio": "I_am_looking_for_a_dress_suitable_for_a_dinner_party..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ディナーパーティーに合うドレスを探しています (でぃなーぱーてぃーにあうどれすをさがしています)",
+            "audio": "でぃなーぱーてぃーにあうどれすをさがしています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저녁 파티에 입을 드레스를 찾고 있어요. (jeonyeog patie ib-eul deuleseuleul chajgo iss-eoyo.)",
+            "audio": "저녁_파티에_입을_드레스를_찾고_있어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi đang tìm một chiếc váy phù hợp cho bữa tiệc tối.",
+            "audio": "Tôi_đang_tìm_một_chiếc_váy_phù_hợp_cho_bữa_tiệc_tối..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我搵緊一條啱去晚宴嘅裙。 (ngo5 wan2 gan2 jat1 tiu4 ngaam1 heoi3 maan5 jin3 ge3 kwan4.)",
+            "audio": "我搵緊一條啱去晚宴嘅裙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je cherche une robe appropriée pour un dîner.",
+            "audio": "Je_cherche_une_robe_appropriée_pour_un_dîner..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich suche ein passendes Kleid für eine Dinnerparty.",
+            "audio": "Ich_suche_ein_passendes_Kleid_für_eine_Dinnerparty..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Busco un vestido adecuado para una cena.",
+            "audio": "Busco_un_vestido_adecuado_para_una_cena..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я ищу платье, подходящее для званого ужина. (Ya ishchu plat'ye, podkhodyashcheye dlya zvanogo uzhina.)",
+            "audio": "Я_ищу_платье,_подходящее_для_званого_ужина..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันกำลังหาชุดเดรสที่เหมาะกับงานเลี้ยงอาหารค่ำ (chǎn gam-lang hǎa chút-dràyt têe mǒr gàp ngaan líang aa-hǎan kâm)",
+            "audio": "ฉันกำลังหาชุดเดรสที่เหมาะกับงานเลี้ยงอาหารค่ำ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sedang mencari gaun yang cocok untuk pesta makan malam.",
+            "audio": "Saya_sedang_mencari_gaun_yang_cocok_untuk_pesta_makan_malam..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我在找一件適合參加晚宴的洋裝。",
+            "audio": "我在找一件適合參加晚宴的洋裝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen136",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這件衣服有其他的顏色嗎？",
+        "CN_ENG": {
+            "word": "Does this piece of clothing come in other colors?",
+            "audio": "Does_this_piece_of_clothing_come_in_other_colors.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服は他の色はありますか (このふくはほかのいろはありますか)",
+            "audio": "このふくはほかのいろはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷 다른 색상도 있나요? (i os daleun saegsangdo issnayo?)",
+            "audio": "이_옷_다른_색상도_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc áo này có màu khác không?",
+            "audio": "Chiếc_áo_này_có_màu_khác_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢件衫有冇其他顏色呀？ (cing2 man6 ni1 gin6 saam1 jau5 mou5 kei4 taa1 ngaan4 sik1 aa3?)",
+            "audio": "請問呢件衫有冇其他顏色呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce vêtement existe-t-il dans d'autres couleurs ?",
+            "audio": "Ce_vêtement_existe-t-il_dans_d'autres_couleurs.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es dieses Kleidungsstück in anderen Farben?",
+            "audio": "Gibt_es_dieses_Kleidungsstück_in_anderen_Farben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta prenda viene en otros colores?",
+            "audio": "¿Esta_prenda_viene_en_otros_colores.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этой одежды есть другие цвета? (U etoy odezhdy yest' drugiye tsveta?)",
+            "audio": "У_этой_одежды_есть_другие_цвета.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้มีสีอื่นไหม (sêua dtua née mee sěe èun mǎi)",
+            "audio": "เสื้อตัวนี้มีสีอื่นไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah pakaian ini tersedia dalam warna lain?",
+            "audio": "Apakah_pakaian_ini_tersedia_dalam_warna_lain.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這件衣服有其他的顏色嗎？",
+            "audio": "請問這件衣服有其他的顏色嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen137",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這款鞋子有黑色的嗎？",
+        "CN_ENG": {
+            "word": "Does this style of shoes come in black?",
+            "audio": "Does_this_style_of_shoes_come_in_black.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この靴の黒はありますか (このくつのくろはありますか)",
+            "audio": "このくつのくろはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 신발 검은색도 있나요? (i sinbal geom-eunsaegdo issnayo?)",
+            "audio": "이_신발_검은색도_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kiểu giày này có màu đen không?",
+            "audio": "Kiểu_giày_này_có_màu_đen_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢款鞋有冇黑色呀？ (cing2 man6 ni1 fun2 haai4 jau5 mou5 hak1 sik1 aa3?)",
+            "audio": "請問呢款鞋有冇黑色呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce modèle de chaussures existe-t-il en noir ?",
+            "audio": "Ce_modèle_de_chaussures_existe-t-il_en_noir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es diese Schuhe in Schwarz?",
+            "audio": "Gibt_es_diese_Schuhe_in_Schwarz.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este estilo de zapatos viene en negro?",
+            "audio": "¿Este_estilo_de_zapatos_viene_en_negro.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этой модели обуви есть черный цвет? (U etoy modeli obuvi yest' chernyy tsvet?)",
+            "audio": "У_этой_модели_обуви_есть_черный_цвет.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รองเท้ารุ่นนี้มีสีดำไหม (rong-táo rûn née mee sěe dam mǎi)",
+            "audio": "รองเท้ารุ่นนี้มีสีดำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah sepatu model ini ada yang berwarna hitam?",
+            "audio": "Apakah_sepatu_model_ini_ada_yang_berwarna_hitam.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這款鞋子有黑色的嗎？",
+            "audio": "請問這款鞋子有黑色的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen138",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件外套只有這個顏色嗎？",
+        "CN_ENG": {
+            "word": "Is this jacket only available in this color?",
+            "audio": "Is_this_jacket_only_available_in_this_color.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このジャケットはこの色だけですか (このじゃけっとはこのいろだけですか)",
+            "audio": "このじゃけっとはこのいろだけですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 재킷은 이 색상뿐인가요? (i jaegis-eun i saegsangppun-ingayo?)",
+            "audio": "이_재킷은_이_색상뿐인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Áo khoác này chỉ có màu này thôi sao?",
+            "audio": "Áo_khoác_này_chỉ_có_màu_này_thôi_sao.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件外套係咪淨係得呢隻色呀？ (ni1 gin6 ngoi6 tou3 hai6 mai6 zing6 hai6 dak1 ni1 zek3 sik1 aa3?)",
+            "audio": "呢件外套係咪淨係得呢隻色呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette veste est-elle uniquement disponible dans cette couleur ?",
+            "audio": "Cette_veste_est-elle_uniquement_disponible_dans_cette_couleur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es diese Jacke nur in dieser Farbe?",
+            "audio": "Gibt_es_diese_Jacke_nur_in_dieser_Farbe.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta chaqueta solo está disponible en este color?",
+            "audio": "¿Esta_chaqueta_solo_está_disponible_en_este_color.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта куртка бывает только такого цвета? (Eta kurtka byvayet tol'ko takogo tsveta?)",
+            "audio": "Эта_куртка_бывает_только_такого_цвета.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อแจ็คเก็ตนี้มีแค่สีนี้สีเดียวใช่ไหม (sêua jàek-gèt née mee kâe sěe née sěe diao châi mǎi)",
+            "audio": "เสื้อแจ็คเก็ตนี้มีแค่สีนี้สีเดียวใช่ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah jaket ini hanya tersedia dalam warna ini?",
+            "audio": "Apakah_jaket_ini_hanya_tersedia_dalam_warna_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件外套只有這個顏色嗎？",
+            "audio": "這件外套只有這個顏色嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen139",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有更小號的尺寸嗎？",
+        "CN_ENG": {
+            "word": "Do you have a smaller size?",
+            "audio": "Do_you_have_a_smaller_size.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう少し小さいサイズはありますか (もうすこしちいさいさいずはありますか)",
+            "audio": "もうすこしちいさいさいずはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "더 작은 사이즈 있나요? (deo jag-eun saijeu issnayo?)",
+            "audio": "더_작은_사이즈_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có kích cỡ nhỏ hơn không?",
+            "audio": "Có_kích_cỡ_nhỏ_hơn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇細一個碼呀？ (cing2 man6 jau5 mou5 sai3 jat1 go3 maa5 aa3?)",
+            "audio": "請問有冇細一個碼呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous une taille plus petite ?",
+            "audio": "Avez-vous_une_taille_plus_petite.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie eine kleinere Größe?",
+            "audio": "Haben_Sie_eine_kleinere_Größe.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienen una talla más pequeña?",
+            "audio": "¿Tienen_una_talla_más_pequeña.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть размер поменьше? (U vas yest' razmer pomen'she?)",
+            "audio": "У_вас_есть_размер_поменьше.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีไซส์เล็กกว่านี้ไหม (mee sai lék gwàa née mǎi)",
+            "audio": "มีไซส์เล็กกว่านี้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki ukuran yang lebih kecil?",
+            "audio": "Apakah_Anda_memiliki_ukuran_yang_lebih_kecil.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有更小號的尺寸嗎？",
+            "audio": "請問有更小號的尺寸嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen140",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有更大號的尺寸嗎？",
+        "CN_ENG": {
+            "word": "Do you have a larger size?",
+            "audio": "Do_you_have_a_larger_size.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう少し大きいサイズはありますか (もうすこしおおきいさいずはありますか)",
+            "audio": "もうすこしおおきいさいずはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "더 큰 사이즈 있나요? (deo keun saijeu issnayo?)",
+            "audio": "더_큰_사이즈_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có kích cỡ lớn hơn không?",
+            "audio": "Có_kích_cỡ_lớn_hơn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇大一個碼呀？ (cing2 man6 jau5 mou5 daai6 jat1 go3 maa5 aa3?)",
+            "audio": "請問有冇大一個碼呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous une taille plus grande ?",
+            "audio": "Avez-vous_une_taille_plus_grande.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie eine größere Größe?",
+            "audio": "Haben_Sie_eine_größere_Größe.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienen una talla más grande?",
+            "audio": "¿Tienen_una_talla_más_grande.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть размер побольше? (U vas yest' razmer pobol'she?)",
+            "audio": "У_вас_есть_размер_побольше.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีไซส์ใหญ่กว่านี้ไหม (mee sai yài gwàa née mǎi)",
+            "audio": "มีไซส์ใหญ่กว่านี้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki ukuran yang lebih besar?",
+            "audio": "Apakah_Anda_memiliki_ukuran_yang_lebih_besar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有更大號的尺寸嗎？",
+            "audio": "請問有更大號的尺寸嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen141",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這件褲子有M號的嗎？",
+        "CN_ENG": {
+            "word": "Do you have these pants in size M?",
+            "audio": "Do_you_have_these_pants_in_size_M.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このズボンのMサイズはありますか (このずぼんのえむさいずはありますか)",
+            "audio": "このずぼんのえむさいずはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 바지 M 사이즈 있나요? (i baji M saijeu issnayo?)",
+            "audio": "이_바지_M_사이즈_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quần này có size M không?",
+            "audio": "Quần_này_có_size_M_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢條褲有冇M碼呀？ (cing2 man6 ni1 tiu4 fu3 jau5 mou5 M maa5 aa3?)",
+            "audio": "請問呢條褲有冇M碼呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous ce pantalon en taille M ?",
+            "audio": "Avez-vous_ce_pantalon_en_taille_M.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie diese Hose in Größe M?",
+            "audio": "Haben_Sie_diese_Hose_in_Größe_M.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienen estos pantalones en talla M?",
+            "audio": "¿Tienen_estos_pantalones_en_talla_M.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть эти брюки размера M? (U vas yest' eti bryuki razmera M?)",
+            "audio": "У_вас_есть_эти_брюки_размера_M.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กางเกงตัวนี้มีไซส์เอ็มไหม (gaang-gayng dtua née mee sai em mǎi)",
+            "audio": "กางเกงตัวนี้มีไซส์เอ็มไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah celana ini ada ukuran M?",
+            "audio": "Apakah_celana_ini_ada_ukuran_M.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這件褲子有M號的嗎？",
+            "audio": "請問這件褲子有M號的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen142",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個尺寸對我來說太小了。",
+        "CN_ENG": {
+            "word": "This size is too small for me.",
+            "audio": "This_size_is_too_small_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このサイズは私には小さすぎます (このさいずはわたしにはちいさすぎます)",
+            "audio": "このさいずはわたしにはちいさすぎます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 사이즈는 저에게 너무 작아요. (i saijeuneun jeoege neomu jag-ayo.)",
+            "audio": "이_사이즈는_저에게_너무_작아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kích cỡ này quá nhỏ so với tôi.",
+            "audio": "Kích_cỡ_này_quá_nhỏ_so_với_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個碼對我嚟講太細啦。 (ni1 go3 maa5 deoi3 ngo5 lai4 gong2 taai3 sai3 laa1.)",
+            "audio": "呢個碼對我嚟講太細啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette taille est trop petite pour moi.",
+            "audio": "Cette_taille_est_trop_petite_pour_moi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Diese Größe ist mir zu klein.",
+            "audio": "Diese_Größe_ist_mir_zu_klein..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esta talla es demasiado pequeña para mí.",
+            "audio": "Esta_talla_es_demasiado_pequeña_para_mí..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот размер мне слишком мал. (Etot razmer mne slishkom mal.)",
+            "audio": "Этот_размер_мне_слишком_мал..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไซส์นี้เล็กเกินไปสำหรับฉัน (sai née lék gern bpai sǎm-ràp chǎn)",
+            "audio": "ไซส์นี้เล็กเกินไปสำหรับฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ukuran ini terlalu kecil untuk saya.",
+            "audio": "Ukuran_ini_terlalu_kecil_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個尺寸對我來說太小了。",
+            "audio": "這個尺寸對我來說太小了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen143",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個尺寸對我來說太大了。",
+        "CN_ENG": {
+            "word": "This size is too big for me.",
+            "audio": "This_size_is_too_big_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このサイズは私には大きすぎます (このさいずはわたしにはおおきすぎます)",
+            "audio": "このさいずはわたしにはおおきすぎます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 사이즈는 저에게 너무 커요. (i saijeuneun jeoege neomu keoyo.)",
+            "audio": "이_사이즈는_저에게_너무_커요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kích cỡ này quá lớn so với tôi.",
+            "audio": "Kích_cỡ_này_quá_lớn_so_với_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個碼對我嚟講太大啦。 (ni1 go3 maa5 deoi3 ngo5 lai4 gong2 taai3 daai6 laa1.)",
+            "audio": "呢個碼對我嚟講太大啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette taille est trop grande pour moi.",
+            "audio": "Cette_taille_est_trop_grande_pour_moi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Diese Größe ist mir zu groß.",
+            "audio": "Diese_Größe_ist_mir_zu_groß..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esta talla es demasiado grande para mí.",
+            "audio": "Esta_talla_es_demasiado_grande_para_mí..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот размер мне слишком велик. (Etot razmer mne slishkom velik.)",
+            "audio": "Этот_размер_мне_слишком_велик..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไซส์นี้ใหญ่เกินไปสำหรับฉัน (sai née yài gern bpai sǎm-ràp chǎn)",
+            "audio": "ไซส์นี้ใหญ่เกินไปสำหรับฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ukuran ini terlalu besar untuk saya.",
+            "audio": "Ukuran_ini_terlalu_besar_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個尺寸對我來說太大了。",
+            "audio": "這個尺寸對我來說太大了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen144",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件衣服穿起來非常合身。",
+        "CN_ENG": {
+            "word": "This piece of clothing fits perfectly.",
+            "audio": "This_piece_of_clothing_fits_perfectly..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服はサイズがぴったりです (このふくはさいずがぴったりです)",
+            "audio": "このふくはさいずがぴったりです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷은 핏이 딱 맞네요. (i os-eun pis-i ttag majneyo.)",
+            "audio": "이_옷은_핏이_딱_맞네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc áo này mặc rất vừa vặn.",
+            "audio": "Chiếc_áo_này_mặc_rất_vừa_vặn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件衫著得非常合身。 (ni1 gin6 saam1 zoek3 dak1 fei1 soeng4 hap6 san1.)",
+            "audio": "呢件衫著得非常合身。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce vêtement me va parfaitement.",
+            "audio": "Ce_vêtement_me_va_parfaitement..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieses Kleidungsstück passt perfekt.",
+            "audio": "Dieses_Kleidungsstück_passt_perfekt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esta prenda me queda perfecta.",
+            "audio": "Esta_prenda_me_queda_perfecta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта одежда сидит идеально. (Eta odezhda sidit ideal'no.)",
+            "audio": "Эта_одежда_сидит_идеально..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้ใส่แล้วพอดีตัวมาก (sêua dtua née sài láew por-dee dtua mâak)",
+            "audio": "เสื้อตัวนี้ใส่แล้วพอดีตัวมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Pakaian ini sangat pas di badan saya.",
+            "audio": "Pakaian_ini_sangat_pas_di_badan_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件衣服穿起來非常合身。",
+            "audio": "這件衣服穿起來非常合身。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen145",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問試衣間在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the fitting room?",
+            "audio": "Where_is_the_fitting_room.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "試着室はどこですか (しちゃくしつはどこですか)",
+            "audio": "しちゃくしつはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "피팅룸이 어디에 있나요? (pitinglum-i eodie issnayo?)",
+            "audio": "피팅룸이_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi phòng thử đồ ở đâu?",
+            "audio": "Xin_hỏi_phòng_thử_đồ_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問試身室喺邊度呀？ (cing2 man6 si3 san1 sat1 hai2 bin1 dou6 aa3?)",
+            "audio": "請問試身室喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où sont les cabines d'essayage ?",
+            "audio": "Où_sont_les_cabines_d'essayage.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist die Umkleidekabine?",
+            "audio": "Wo_ist_die_Umkleidekabine.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está el probador?",
+            "audio": "¿Dónde_está_el_probador.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где примерочная? (Gde primerochnaya?)",
+            "audio": "Где_примерочная.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ห้องลองเสื้ออยู่ที่ไหน (hông long sêua yòo têe nǎi)",
+            "audio": "ห้องลองเสื้ออยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana kamar pasnya?",
+            "audio": "Di_mana_kamar_pasnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問試衣間在哪裡？",
+            "audio": "請問試衣間在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen146",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我可以試穿這件裙子嗎？",
+        "CN_ENG": {
+            "word": "Can I try on this skirt?",
+            "audio": "Can_I_try_on_this_skirt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このスカートを試着してもいいですか (このすかーとをしちゃくしてもいいですか)",
+            "audio": "このすかーとをしちゃくしてもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 치마 입어봐도 될까요? (i chima ib-eobwado doelkkayo?)",
+            "audio": "이_치마_입어봐도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể mặc thử chiếc váy này không?",
+            "audio": "Tôi_có_thể_mặc_thử_chiếc_váy_này_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以試著呢條裙呀？ (ngo5 ho2 m4 ho2 ji5 si3 zoek3 ni1 tiu4 kwan4 aa3?)",
+            "audio": "我可唔可以試著呢條裙呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je essayer cette jupe ?",
+            "audio": "Puis-je_essayer_cette_jupe.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich diesen Rock anprobieren?",
+            "audio": "Kann_ich_diesen_Rock_anprobieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo probarme esta falda?",
+            "audio": "¿Puedo_probarme_esta_falda.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я примерить эту юбку? (Mogu ya primerit' etu yubku?)",
+            "audio": "Могу_я_примерить_эту_юбку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอลองกระโปรงตัวนี้ได้ไหม (chǎn kǒr long grà-bprohng dtua née dâi mǎi)",
+            "audio": "ฉันขอลองกระโปรงตัวนี้ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya mencoba rok ini?",
+            "audio": "Bolehkah_saya_mencoba_rok_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以試穿這件裙子嗎？",
+            "audio": "我可以試穿這件裙子嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen147",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "一次最多可以試穿幾件衣服？",
+        "CN_ENG": {
+            "word": "How many items can I try on at once?",
+            "audio": "How_many_items_can_I_try_on_at_once.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "一度に何着まで試着できますか (いちどになんぎまでしちゃくできますか)",
+            "audio": "いちどになんぎまでしちゃくできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "한 번에 몇 벌까지 입어볼 수 있나요? (han beon-e myeoch beolkkaji ib-eobol su issnayo?)",
+            "audio": "한_번에_몇_벌까지_입어볼_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Một lần có thể thử tối đa bao nhiêu bộ?",
+            "audio": "Một_lần_có_thể_thử_tối_đa_bao_nhiêu_bộ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "一次最多可以試幾多件衫呀？ (jat1 ci3 zeoi3 do1 ho2 ji5 si3 gei2 do1 gin6 saam1 aa3?)",
+            "audio": "一次最多可以試幾多件衫呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien d'articles puis-je essayer à la fois ?",
+            "audio": "Combien_d'articles_puis-je_essayer_à_la_fois.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie viele Teile darf ich auf einmal anprobieren?",
+            "audio": "Wie_viele_Teile_darf_ich_auf_einmal_anprobieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuántas prendas puedo probarme a la vez?",
+            "audio": "¿Cuántas_prendas_puedo_probarme_a_la_vez.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько вещей можно примерить за один раз? (Skol'ko veshchey mozhno primerit' za odin raz?)",
+            "audio": "Сколько_вещей_можно_примерить_за_один_раз.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลองชุดได้มากที่สุดกี่ตัวต่อครั้ง (long chút dâi mâak têe-sùt gèe dtua dtòr kráng)",
+            "audio": "ลองชุดได้มากที่สุดกี่ตัวต่อครั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa banyak pakaian yang bisa saya coba sekaligus?",
+            "audio": "Berapa_banyak_pakaian_yang_bisa_saya_coba_sekaligus.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "一次最多可以試穿幾件衣服？",
+            "audio": "一次最多可以試穿幾件衣服？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen148",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件衣服的材質是什麼？",
+        "CN_ENG": {
+            "word": "What material is this piece of clothing made of?",
+            "audio": "What_material_is_this_piece_of_clothing_made_of.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服の素材は何ですか (このふくのそざいはなんですか)",
+            "audio": "このふくのそざいはなんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷의 소재는 무엇인가요? (i os-ui sojaeneun mueos-ingayo?)",
+            "audio": "이_옷의_소재는_무엇인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chất liệu của chiếc áo này là gì?",
+            "audio": "Chất_liệu_của_chiếc_áo_này_là_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件衫嘅質地係咩呀？ (ni1 gin6 saam1 ge3 zat1 dei2 hai6 me1 aa3?)",
+            "audio": "呢件衫嘅質地係咩呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De quel matériau est fait ce vêtement ?",
+            "audio": "De_quel_matériau_est_fait_ce_vêtement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Aus welchem Material ist dieses Kleidungsstück?",
+            "audio": "Aus_welchem_Material_ist_dieses_Kleidungsstück.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿De qué material es esta prenda?",
+            "audio": "¿De_qué_material_es_esta_prenda.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Из какого материала эта одежда? (Iz kakogo materiala eta odezhda?)",
+            "audio": "Из_какого_материала_эта_одежда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้ทำจากวัสดุอะไร (sêua dtua née tam jàak wát-sà-dù a-rai)",
+            "audio": "เสื้อตัวนี้ทำจากวัสดุอะไร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Pakaian ini terbuat dari bahan apa?",
+            "audio": "Pakaian_ini_terbuat_dari_bahan_apa.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件衣服的材質是什麼？",
+            "audio": "這件衣服的材質是什麼？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen149",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這是百分之百純棉的嗎？",
+        "CN_ENG": {
+            "word": "Is this 100% pure cotton?",
+            "audio": "Is_this_100%_pure_cotton.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これは綿100パーセントですか (これはめんひゃくぱーせんとですか)",
+            "audio": "これはめんひゃくぱーせんとですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이것은 100% 순면인가요? (igeos-eun 100% sunmyeon-ingayo?)",
+            "audio": "이것은_100%_순면인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đây có phải là 100% cotton không?",
+            "audio": "Đây_có_phải_là_100%_cotton_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個係咪百分之百純棉呀？ (ni1 go3 hai6 mai6 baak3 fan6 zi1 baak3 seon4 min4 aa3?)",
+            "audio": "呢個係咪百分之百純棉呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Est-ce 100% coton pur ?",
+            "audio": "Est-ce_100%_coton_pur.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist das 100 % reine Baumwolle?",
+            "audio": "Ist_das_100_%_reine_Baumwolle.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Es esto 100% algodón puro?",
+            "audio": "¿Es_esto_100%_algodón_puro.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это 100% чистый хлопок? (Eto 100% chistyy khlopok?)",
+            "audio": "Это_100%_чистый_хлопок.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นี่คือผ้าฝ้ายร้อยเปอร์เซ็นต์ใช่ไหม (nêe keu pâa-fâai rói bper-sen châi mǎi)",
+            "audio": "นี่คือผ้าฝ้ายร้อยเปอร์เซ็นต์ใช่ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ini 100% katun murni?",
+            "audio": "Apakah_ini_100%_katun_murni.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這是百分之百純棉的嗎？",
+            "audio": "這是百分之百純棉的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen150",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這件毛衣需要乾洗嗎？",
+        "CN_ENG": {
+            "word": "Does this sweater need to be dry-cleaned?",
+            "audio": "Does_this_sweater_need_to_be_dry-cleaned.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このセーターはドライクリーニングが必要ですか (このせーたーはどらいくりーにんぐがひつようですか)",
+            "audio": "このせーたーはどらいくりーにんぐがひつようですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 스웨터는 드라이클리닝을 해야 하나요? (i seuweteoneun deulaikeullin-ing-eul haeya hanayo?)",
+            "audio": "이_스웨터는_드라이클리닝을_해야_하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Áo len này có cần giặt khô không?",
+            "audio": "Áo_len_này_có_cần_giặt_khô_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢件冷衫需唔需要乾洗呀？ (cing2 man6 ni1 gin6 laang1 saam1 seoi1 m4 seoi1 jiu3 gon1 sai2 aa3?)",
+            "audio": "請問呢件冷衫需唔需要乾洗呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce pull doit-il être nettoyé à sec ?",
+            "audio": "Ce_pull_doit-il_être_nettoyé_à_sec.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Muss dieser Pullover chemisch gereinigt werden?",
+            "audio": "Muss_dieser_Pullover_chemisch_gereinigt_werden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este suéter necesita limpieza en seco?",
+            "audio": "¿Este_suéter_necesita_limpieza_en_seco.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот свитер нужно отдавать в химчистку? (Etot sviter nuzhno otdavat' v khimchistku?)",
+            "audio": "Этот_свитер_нужно_отдавать_в_химчистку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อสเวตเตอร์นี้ต้องซักแห้งไหม (sêua sà-wáyt-dtêr née dtông sák-hâeng mǎi)",
+            "audio": "เสื้อสเวตเตอร์นี้ต้องซักแห้งไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah sweter ini perlu dicuci kering (dry-clean)?",
+            "audio": "Apakah_sweter_ini_perlu_dicuci_kering.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這件毛衣需要乾洗嗎？",
+            "audio": "請問這件毛衣需要乾洗嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen151",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件衣服可以用洗衣機洗嗎？",
+        "CN_ENG": {
+            "word": "Can this piece of clothing be machine washed?",
+            "audio": "Can_this_piece_of_clothing_be_machine_washed.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服は洗濯機で洗えますか (このふくはせんたくきであらえますか)",
+            "audio": "このふくはせんたくきであらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷은 세탁기로 빨아도 되나요? (i os-eun setaggilo ppal-ado doenayo?)",
+            "audio": "이_옷은_세탁기로_빨아도_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Áo này có thể giặt bằng máy không?",
+            "audio": "Áo_này_có_thể_giặt_bằng_máy_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件衫可唔可以放入洗衣機洗呀？ (ni1 gin6 saam1 ho2 m4 ho2 ji5 fong3 jap6 sai2 ji1 gei1 sai2 aa3?)",
+            "audio": "呢件衫可唔可以放入洗衣機洗呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce vêtement peut-il être lavé en machine ?",
+            "audio": "Ce_vêtement_peut-il_être_lavé_en_machine.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Darf dieses Kleidungsstück in der Waschmaschine gewaschen werden?",
+            "audio": "Darf_dieses_Kleidungsstück_in_der_Waschmaschine_gewaschen_werden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta prenda se puede lavar a máquina?",
+            "audio": "¿Esta_prenda_se_puede_lavar_a_máquina.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эту одежду можно стирать в стиральной машине? (Etu odezhdu mozhno stirat' v stiral'noy mashine?)",
+            "audio": "Эту_одежду_можно_стирать_в_стиральной_машине.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้ซักเครื่องได้ไหม (sêua dtua née sák krêuang dâi mǎi)",
+            "audio": "เสื้อตัวนี้ซักเครื่องได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah pakaian ini dicuci dengan mesin cuci?",
+            "audio": "Bolehkah_pakaian_ini_dicuci_dengan_mesin_cuci.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件衣服可以用洗衣機洗嗎？",
+            "audio": "這件衣服可以用洗衣機洗嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen152",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這個包包有打折嗎？",
+        "CN_ENG": {
+            "word": "Is there a discount on this bag?",
+            "audio": "Is_there_a_discount_on_this_bag.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このバッグは割引されていますか (このばっぐはわりびきされていますか)",
+            "audio": "このばっぐはわりびきされていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 가방 할인하나요? (i gabang halinhanayo?)",
+            "audio": "이_가방_할인하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cái túi này có được giảm giá không?",
+            "audio": "Cái_túi_này_có_được_giảm_giá_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個袋有冇折呀？ (cing2 man6 ni1 go3 doi2 jau5 mou5 zit3 aa3?)",
+            "audio": "請問呢個袋有冇折呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il une réduction sur ce sac ?",
+            "audio": "Y_a-t-il_une_réduction_sur_ce_sac.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es einen Rabatt auf diese Tasche?",
+            "audio": "Gibt_es_einen_Rabatt_auf_diese_Tasche.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay algún descuento en este bolso?",
+            "audio": "¿Hay_algún_descuento_en_este_bolso.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На эту сумку есть скидка? (Na etu sumku yest' skidka?)",
+            "audio": "На_эту_сумку_есть_скидка.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระเป๋าใบนี้มีส่วนลดไหม (grà-bpǎo bai née mee sùan-lót mǎi)",
+            "audio": "กระเป๋าใบนี้มีส่วนลดไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada diskon untuk tas ini?",
+            "audio": "Apakah_ada_diskon_untuk_tas_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個包包有打折嗎？",
+            "audio": "請問這個包包有打折嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen153",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "現在有什麼特別的促銷活動嗎？",
+        "CN_ENG": {
+            "word": "Are there any special promotions going on right now?",
+            "audio": "Are_there_any_special_promotions_going_on_right_now.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "現在特別なキャンペーンはありますか (げんざいとくべつなきゃんぺーんはありますか)",
+            "audio": "げんざいとくべつなきゃんぺーんはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금 특별한 프로모션 행사가 있나요? (jigeum teugbyeolhan peulomosyeon haengsaga issnayo?)",
+            "audio": "지금_특별한_프로모션_행사가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hiện tại có chương trình khuyến mãi đặc biệt nào không?",
+            "audio": "Hiện_tại_có_chương_trình_khuyến_mãi_đặc_biệt_nào_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "而家有冇咩特別嘅促銷活動呀？ (ji4 gaa1 jau5 mou5 me1 dak6 bit6 ge3 cuk1 siu1 wut6 dung6 aa3?)",
+            "audio": "而家有冇咩特別嘅促銷活動呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des promotions spéciales en ce moment ?",
+            "audio": "Y_a-t-il_des_promotions_spéciales_en_ce_moment.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es gerade besondere Sonderangebote?",
+            "audio": "Gibt_es_gerade_besondere_Sonderangebote.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay alguna promoción especial en este momento?",
+            "audio": "¿Hay_alguna_promoción_especial_en_este_momento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли сейчас какие-нибудь специальные акции? (Yest' li seychas kakiye-nibud' spetsial'nyye aktsii?)",
+            "audio": "Есть_ли_сейчас_какие-нибудь_специальные_акции.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอนนี้มีโปรโมชั่นพิเศษอะไรไหม (dton-née mee bproh-moh-chân pí-sàyt a-rai mǎi)",
+            "audio": "ตอนนี้มีโปรโมชั่นพิเศษอะไรไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada promosi khusus saat ini?",
+            "audio": "Apakah_ada_promosi_khusus_saat_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "現在有什麼特別的促銷活動嗎？",
+            "audio": "現在有什麼特別的促銷活動嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen154",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "買兩件有額外的折扣嗎？",
+        "CN_ENG": {
+            "word": "Is there an extra discount for buying two?",
+            "audio": "Is_there_an_extra_discount_for_buying_two.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "二着買うと追加の割引はありますか (にちゃくかうとついかのわりびきはありますか)",
+            "audio": "にちゃくかうとついかのわりびきはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "두 벌 사면 추가 할인이 있나요? (du beol samyeon chuga hal-in-i issnayo?)",
+            "audio": "두_벌_사면_추가_할인이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mua hai cái có được giảm giá thêm không?",
+            "audio": "Mua_hai_cái_có_được_giảm_giá_thêm_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "買兩件有冇額外折扣呀？ (maai5 loeng5 gin6 jau5 mou5 ngaak6 ngoi6 zit3 kau3 aa3?)",
+            "audio": "買兩件有冇額外折扣呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il une remise supplémentaire si j'en achète deux ?",
+            "audio": "Y_a-t-il_une_remise_supplémentaire_si_j'en_achète_deux.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es einen zusätzlichen Rabatt beim Kauf von zwei Stück?",
+            "audio": "Gibt_es_einen_zusätzlichen_Rabatt_beim_Kauf_von_zwei_Stück.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay un descuento adicional por comprar dos?",
+            "audio": "¿Hay_un_descuento_adicional_por_comprar_dos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли дополнительная скидка при покупке двух вещей? (Yest' li dopolnitel'naya skidka pri pokupke dvukh veshchey?)",
+            "audio": "Есть_ли_дополнительная_скидка_при_покупке_двух_вещей.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ซื้อสองชิ้นมีส่วนลดเพิ่มไหม (séu sǒng chín mee sùan-lót pêrm mǎi)",
+            "audio": "ซื้อสองชิ้นมีส่วนลดเพิ่มไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada diskon tambahan jika membeli dua?",
+            "audio": "Apakah_ada_diskon_tambahan_jika_membeli_dua.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "買兩件有額外的折扣嗎？",
+            "audio": "買兩件有額外的折扣嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen155",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這個標價是折扣後的價格嗎？",
+        "CN_ENG": {
+            "word": "Is this price tag the price after the discount?",
+            "audio": "Is_this_price_tag_the_price_after_the_discount.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この値札は割引後の価格ですか (このねふだはわりびきごのかかくですか)",
+            "audio": "このねふだはわりびきごのかかくですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 가격표가 할인이 적용된 가격인가요? (i gagyeogpyoga hal-in-i jeogyongdoen gagyeog-ingayo?)",
+            "audio": "이_가격표가_할인이_적용된_가격인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giá trên mác này là giá đã giảm chưa?",
+            "audio": "Giá_trên_mác_này_là_giá_đã_giảm_chưa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個標價係咪已經折咗㗎啦？ (cing2 man6 ni1 go3 biu1 gaai3 hai6 mai6 ji5 ging1 zit3 zo2 gaa3 laa3?)",
+            "audio": "請問呢個標價係咪已經折咗㗎啦？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce prix indiqué est-il le prix après réduction ?",
+            "audio": "Ce_prix_indiqué_est-il_le_prix_après_réduction.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist das der Preis nach Abzug des Rabatts?",
+            "audio": "Ist_das_der_Preis_nach_Abzug_des_Rabatts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este precio es el precio con descuento?",
+            "audio": "¿Este_precio_es_el_precio_con_descuento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот ценник — цена со скидкой? (Etot tsennik — tsena so skidkoy?)",
+            "audio": "Этот_ценник_—_цена_со_скидкой.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ป้ายราคานี้คือราคาที่ลดแล้วใช่ไหม (bpâai raa-kaa née keu raa-kaa têe lót láew châi mǎi)",
+            "audio": "ป้ายราคานี้คือราคาที่ลดแล้วใช่ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah label harga ini adalah harga setelah diskon?",
+            "audio": "Apakah_label_harga_ini_adalah_harga_setelah_diskon.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個標價是折扣後的價格嗎？",
+            "audio": "請問這個標價是折扣後的價格嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen156",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個價格超出我的預算了。",
+        "CN_ENG": {
+            "word": "This price is over my budget.",
+            "audio": "This_price_is_over_my_budget..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この価格は予算オーバーです (このかかくはよさんおーばーです)",
+            "audio": "このかかくはよさんおーばーです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 가격은 제 예산을 초과하네요. (i gagyeog-eun je yesan-eul chogwahaneyo.)",
+            "audio": "이_가격은_제_예산을_초과하네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giá này vượt quá ngân sách của tôi rồi.",
+            "audio": "Giá_này_vượt_quá_ngân_sách_của_tôi_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個價錢超出我預算啦。 (ni1 go3 gaa3 cin4 ciu1 ceot1 ngo5 jyu6 syun3 laa1.)",
+            "audio": "呢個價錢超出我預算啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce prix dépasse mon budget.",
+            "audio": "Ce_prix_dépasse_mon_budget..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieser Preis übersteigt mein Budget.",
+            "audio": "Dieser_Preis_übersteigt_mein_Budget..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este precio se sale de mi presupuesto.",
+            "audio": "Este_precio_se_sale_de_mi_presupuesto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта цена превышает мой бюджет. (Eta tsena prevyshayet moy byudzhet.)",
+            "audio": "Эта_цена_превышает_мой_бюджет..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ราคานี้เกินงบของฉัน (raa-kaa née gern ngóp kǒng chǎn)",
+            "audio": "ราคานี้เกินงบของฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Harga ini di luar anggaran saya.",
+            "audio": "Harga_ini_di_luar_anggaran_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個價格超出我的預算了。",
+            "audio": "這個價格超出我的預算了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen157",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "可以算我便宜一點嗎？",
+        "CN_ENG": {
+            "word": "Can you give me a better price?",
+            "audio": "Can_you_give_me_a_better_price.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "少し安くしてくれませんか (すこしやすくしてくれませんか)",
+            "audio": "すこしやすくしてくれませんか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조금만 더 싸게 해주실 수 없나요? (jogeumman deo ssage haejusil su eobsnayo?)",
+            "audio": "조금만_더_싸게_해주실_수_없나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể tính rẻ cho tôi một chút không?",
+            "audio": "Có_thể_tính_rẻ_cho_tôi_một_chút_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以平啲畀我呀？ (ho2 m4 ho2 ji5 peng4 di1 bei2 ngo5 aa3?)",
+            "audio": "可唔可以平啲畀我呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous me faire un meilleur prix ?",
+            "audio": "Pouvez-vous_me_faire_un_meilleur_prix.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können Sie es mir etwas billiger geben?",
+            "audio": "Können_Sie_es_mir_etwas_billiger_geben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Me puedes hacer un mejor precio?",
+            "audio": "¿Me_puedes_hacer_un_mejor_precio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Можете уступить немного в цене? (Mozhete ustupit' nemnogo v tsene?)",
+            "audio": "Можете_уступить_немного_в_цене.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ลดราคาให้หน่อยได้ไหม (lót raa-kaa hâi nòi dâi mǎi)",
+            "audio": "ลดราคาให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisa berikan harga yang lebih murah?",
+            "audio": "Bisa_berikan_harga_yang_lebih_murah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以算我便宜一點嗎？",
+            "audio": "可以算我便宜一點嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen158",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "好，我決定買這件了。",
+        "CN_ENG": {
+            "word": "Okay, I will take this one.",
+            "audio": "Okay,_I_will_take_this_one..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "はい、これを買います (はい、これをかいます)",
+            "audio": "はい、これをかいます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋아요, 이걸로 살게요. (joh-ayo, igeollo salgeyo.)",
+            "audio": "좋아요,_이걸로_살게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Được rồi, tôi quyết định mua cái này.",
+            "audio": "Được_rồi,_tôi_quyết_định_mua_cái_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好啦，我決定買呢件。 (hou2 laa1, ngo5 kyut3 ding6 maai5 ni1 gin6.)",
+            "audio": "好啦，我決定買呢件。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "D'accord, je vais prendre celui-ci.",
+            "audio": "D'accord,_je_vais_prendre_celui-ci..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Okay, ich nehme dieses.",
+            "audio": "Okay,_ich_nehme_dieses..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "De acuerdo, me llevaré este.",
+            "audio": "De_acuerdo,_me_llevaré_este..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошо, я беру это. (Khorosho, ya beru eto.)",
+            "audio": "Хорошо,_я_беру_это..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตกลง ฉันจะเอาตัวนี้ (dtòk-long chǎn jà ao dtua née)",
+            "audio": "ตกลง_ฉันจะเอาตัวนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Baiklah, saya ambil yang ini.",
+            "audio": "Baiklah,_saya_ambil_yang_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "好，我決定買這件了。",
+            "audio": "好，我決定買這件了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen159",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請幫我拿一件全新的，謝謝。",
+        "CN_ENG": {
+            "word": "Please get me a brand new one, thank you.",
+            "audio": "Please_get_me_a_brand_new_one,_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "新しいものを一つ出してください、ありがとう (あたらしいものをひとつだしてください、ありがとう)",
+            "audio": "あたらしいものをひとつだしてください、ありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "새 걸로 하나 가져다주세요, 감사합니다. (sae geollo hana gajyeodajuseyo, gamsahabnida.)",
+            "audio": "새_걸로_하나_가져다주세요,_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng lấy cho tôi một cái mới tinh, cảm ơn.",
+            "audio": "Vui_lòng_lấy_cho_tôi_một_cái_mới_tinh,_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩幫我攞件全新嘅，多謝。 (maa4 faan4 bong1 ngo5 lo2 gin6 cyun4 san1 ge3, do1 ze6.)",
+            "audio": "麻煩幫我攞件全新嘅，多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez m'en donner un tout neuf, merci.",
+            "audio": "Veuillez_m'en_donner_un_tout_neuf,_merci..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir ein brandneues Exemplar, danke.",
+            "audio": "Bitte_geben_Sie_mir_ein_brandneues_Exemplar,_danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, consígame uno nuevo, gracias.",
+            "audio": "Por_favor,_consígame_uno_nuevo,_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне совершенно новый, спасибо. (Pozhaluysta, dayte mne sovershenno novyy, spasibo.)",
+            "audio": "Пожалуйста,_дайте_мне_совершенно_новый,_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยหยิบของใหม่ให้หนึ่งชิ้นครับ/ค่ะ ขอบคุณ (chûay yìp kǒng mài hâi nèung chín kráp/kâ kòp-kun)",
+            "audio": "ช่วยหยิบของใหม่ให้หนึ่งชิ้นครับ,_ค่ะ_ขอบคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong ambilkan yang baru, terima kasih.",
+            "audio": "Tolong_ambilkan_yang_baru,_terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請幫我拿一件全新的，謝謝。",
+            "audio": "請幫我拿一件全新的，謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen160",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問要在哪裡結帳？",
+        "CN_ENG": {
+            "word": "Where should I check out?",
+            "audio": "Where_should_I_check_out.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お会計はどこですか (おかいけいはどこですか)",
+            "audio": "おかいけいはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "계산은 어디서 하나요? (gyesan-eun eodiseo hanayo?)",
+            "audio": "계산은_어디서_하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi thanh toán ở đâu?",
+            "audio": "Xin_hỏi_thanh_toán_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問喺邊度畀錢呀？ (cing2 man6 hai2 bin1 dou6 bei2 cin2 aa3?)",
+            "audio": "請問喺邊度畀錢呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où dois-je payer ?",
+            "audio": "Où_dois-je_payer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo kann ich bezahlen?",
+            "audio": "Wo_kann_ich_bezahlen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde debo pagar?",
+            "audio": "¿Dónde_debo_pagar.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где я могу оплатить? (Gde ya mogu oplatit'?)",
+            "audio": "Где_я_могу_оплатить.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จ่ายเงินได้ที่ไหน (jàai ngern dâi têe nǎi)",
+            "audio": "จ่ายเงินได้ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana saya harus membayar?",
+            "audio": "Di_mana_saya_harus_membayar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問要在哪裡結帳？",
+            "audio": "請問要在哪裡結帳？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen161",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這雙鞋可以試穿嗎？",
+        "CN_ENG": {
+            "word": "Can I try on these shoes?",
+            "audio": "Can_I_try_on_these_shoes.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この靴を試着してもいいですか (このくつをしちゃくしてもいいですか)",
+            "audio": "このくつをしちゃくしてもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 신발 신어봐도 될까요? (i sinbal sin-eobwado doelkkayo?)",
+            "audio": "이_신발_신어봐도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể đi thử đôi giày này không?",
+            "audio": "Tôi_có_thể_đi_thử_đôi_giày_này_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢對鞋可唔可以試著呀？ (cing2 man6 ni1 deoi3 haai4 ho2 m4 ho2 ji5 si3 zoek3 aa3?)",
+            "audio": "請問呢對鞋可唔可以試著呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je essayer ces chaussures ?",
+            "audio": "Puis-je_essayer_ces_chaussures.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich diese Schuhe anprobieren?",
+            "audio": "Kann_ich_diese_Schuhe_anprobieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo probarme estos zapatos?",
+            "audio": "¿Puedo_probarme_estos_zapatos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я примерить эти туфли? (Mogu ya primerit' eti tufli?)",
+            "audio": "Могу_я_примерить_эти_туфли.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอทดลองใส่รองเท้าคู่นี้ได้ไหม (kǒr tót-long sài rong-táo kôo née dâi mǎi)",
+            "audio": "ขอทดลองใส่รองเท้าคู่นี้ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya mencoba sepatu ini?",
+            "audio": "Bolehkah_saya_mencoba_sepatu_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這雙鞋可以試穿嗎？",
+            "audio": "請問這雙鞋可以試穿嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen162",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請給我七號的尺寸。",
+        "CN_ENG": {
+            "word": "Please give me size seven.",
+            "audio": "Please_give_me_size_seven..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "サイズ7をお願いします (さいずななをおねがいします)",
+            "audio": "さいずななをおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "7 사이즈로 주세요. (chil saijeulo juseyo.)",
+            "audio": "7_사이즈로_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi cỡ số bảy.",
+            "audio": "Vui_lòng_cho_tôi_cỡ_số_bảy..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀七號碼我。 (maa4 faan4 bei2 cat1 hou6 maa5 ngo5.)",
+            "audio": "麻煩畀七號碼我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Donnez-moi la taille sept, s'il vous plaît.",
+            "audio": "Donnez-moi_la_taille_sept,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir Größe sieben.",
+            "audio": "Bitte_geben_Sie_mir_Größe_sieben..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, deme la talla siete.",
+            "audio": "Por_favor,_deme_la_talla_siete..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне седьмой размер. (Pozhaluysta, dayte mne sed'moy razmer.)",
+            "audio": "Пожалуйста,_дайте_мне_седьмой_размер..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอไซส์เจ็ดครับ/ค่ะ (kǒr sai jèt kráp/kâ)",
+            "audio": "ขอไซส์เจ็ดครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya ukuran tujuh.",
+            "audio": "Tolong_beri_saya_ukuran_tujuh..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我七號的尺寸。",
+            "audio": "請給我七號的尺寸。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen163",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這雙鞋有點太緊了。",
+        "CN_ENG": {
+            "word": "These shoes are a bit too tight.",
+            "audio": "These_shoes_are_a_bit_too_tight..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この靴は少しきつすぎます (このくつはすこしきつすぎます)",
+            "audio": "このくつはすこしきつすぎます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 신발은 조금 너무 꽉 껴요. (i sinbal-eun jogeum neomu kkwag kkyeoyo.)",
+            "audio": "이_신발은_조금_너무_꽉_껴요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đôi giày này hơi chật quá.",
+            "audio": "Đôi_giày_này_hơi_chật_quá..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢對鞋有啲太緊。 (ni1 deoi3 haai4 jau5 di1 taai3 gan2.)",
+            "audio": "呢對鞋有啲太緊。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ces chaussures sont un peu trop serrées.",
+            "audio": "Ces_chaussures_sont_un_peu_trop_serrées..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Diese Schuhe sind etwas zu eng.",
+            "audio": "Diese_Schuhe_sind_etwas_zu_eng..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estos zapatos me quedan un poco apretados.",
+            "audio": "Estos_zapatos_me_quedan_un_poco_apretados..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эти туфли немного тесноваты. (Eti tufli nemnogo tesnovaty.)",
+            "audio": "Эти_туфли_немного_тесноваты..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รองเท้าคู่นี้คับเกินไปหน่อย (rong-táo kôo née káp gern bpai nòi)",
+            "audio": "รองเท้าคู่นี้คับเกินไปหน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sepatu ini sedikit terlalu ketat.",
+            "audio": "Sepatu_ini_sedikit_terlalu_ketat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這雙鞋有點太緊了。",
+            "audio": "這雙鞋有點太緊了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen164",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "鞋子穿起來很不舒服。",
+        "CN_ENG": {
+            "word": "The shoes are very uncomfortable to wear.",
+            "audio": "The_shoes_are_very_uncomfortable_to_wear..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "靴の履き心地がとても悪いです (くつのはきごこちがとてもわるいです)",
+            "audio": "くつのはきごこちがとてもわるいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "신발이 신기에 너무 불편해요. (sinbal-i singie neomu bulpyeonhaeyo.)",
+            "audio": "신발이_신기에_너무_불편해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Giày đi rất không thoải mái.",
+            "audio": "Giày_đi_rất_không_thoải_mái..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "對鞋著落好唔舒服。 (deoi3 haai4 zoek3 lok6 hou2 m4 syu1 fuk6.)",
+            "audio": "對鞋著落好唔舒服。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Les chaussures sont très inconfortables à porter.",
+            "audio": "Les_chaussures_sont_très_inconfortables_à_porter..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Schuhe sind sehr unbequem zu tragen.",
+            "audio": "Die_Schuhe_sind_sehr_unbequem_zu_tragen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Los zapatos son muy incómodos de llevar.",
+            "audio": "Los_zapatos_son_muy_incómodos_de_llevar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В этих туфлях очень неудобно. (V etikh tuflyakh ochen' neudobno.)",
+            "audio": "В_этих_туфлях_очень_неудобно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รองเท้าใส่ไม่สบายเลย (rong-táo sài mâi sà-baai loey)",
+            "audio": "รองเท้าใส่ไม่สบายเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sepatu ini sangat tidak nyaman dipakai.",
+            "audio": "Sepatu_ini_sangat_tidak_nyaman_dipakai..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "鞋子穿起來很不舒服。",
+            "audio": "鞋子穿起來很不舒服。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen165",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有更寬的版型嗎？",
+        "CN_ENG": {
+            "word": "Do you have a wider fit?",
+            "audio": "Do_you_have_a_wider_fit.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう少し幅の広いタイプはありますか (もうすこしはばのひろいたいぷはありますか)",
+            "audio": "もうすこしはばのひろいたいぷはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "발볼이 더 넓은 디자인 있나요? (balbol-i deo neolb-eun dijain issnayo?)",
+            "audio": "발볼이_더_넓은_디자인_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có kiểu dáng rộng hơn không?",
+            "audio": "Có_kiểu_dáng_rộng_hơn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇闊身啲嘅版型呀？ (cing2 man6 jau5 mou5 fut3 san1 di1 ge3 baan2 jing4 aa3?)",
+            "audio": "請問有冇闊身啲嘅版型呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous une coupe plus large ?",
+            "audio": "Avez-vous_une_coupe_plus_large.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie eine breitere Passform?",
+            "audio": "Haben_Sie_eine_breitere_Passform.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienen un modelo más ancho?",
+            "audio": "¿Tienen_un_modelo_más_ancho.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть модель пошире? (U vas yest' model' poshire?)",
+            "audio": "У_вас_есть_модель_пошире.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีทรงที่กว้างกว่านี้ไหม (mee song têe gwâang gwàa née mǎi)",
+            "audio": "มีทรงที่กว้างกว่านี้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada model yang lebih lebar?",
+            "audio": "Apakah_ada_model_yang_lebih_lebar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有更寬的版型嗎？",
+            "audio": "請問有更寬的版型嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen166",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件毛衣摸起來很柔軟。",
+        "CN_ENG": {
+            "word": "This sweater feels very soft.",
+            "audio": "This_sweater_feels_very_soft..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このセーターはとても手触りが柔らかいです (このせーたーはとてもてざわりがやわらかいです)",
+            "audio": "このせーたーはとてもてざわりがやわらかいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 스웨터는 만졌을 때 매우 부드러워요. (i seuweteoneun manjyeoss-eul ttae maeu budeuleowoyo.)",
+            "audio": "이_스웨터는_만졌을_때_매우_부드러워요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc áo len này sờ vào rất mềm mại.",
+            "audio": "Chiếc_áo_len_này_sờ_vào_rất_mềm_mại..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件冷衫摸落好柔軟。 (ni1 gin6 laang1 saam1 mo2 lok6 hou2 jau4 jyun5.)",
+            "audio": "呢件冷衫摸落好柔軟。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce pull est très doux au toucher.",
+            "audio": "Ce_pull_est_très_doux_au_toucher..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieser Pullover fühlt sich sehr weich an.",
+            "audio": "Dieser_Pullover_fühlt_sich_sehr_weich_an..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este suéter se siente muy suave.",
+            "audio": "Este_suéter_se_siente_muy_suave..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот свитер на ощупь очень мягкий. (Etot sviter na oshchup' ochen' myagkiy.)",
+            "audio": "Этот_свитер_на_ощупь_очень_мягкий..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อสเวตเตอร์นี้สัมผัสนุ่มมาก (sêua sà-wáyt-dtêr née sǎm-pàt nûm mâak)",
+            "audio": "เสื้อสเวตเตอร์นี้สัมผัสนุ่มมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sweter ini terasa sangat lembut.",
+            "audio": "Sweter_ini_terasa_sangat_lembut..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件毛衣摸起來很柔軟。",
+            "audio": "這件毛衣摸起來很柔軟。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen167",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這個材質會縮水嗎？",
+        "CN_ENG": {
+            "word": "Will this material shrink?",
+            "audio": "Will_this_material_shrink.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この素材は縮みますか (このそざいはちぢみますか)",
+            "audio": "このそざいはちぢみますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 소재는 세탁하면 줄어드나요? (i sojaeneun setaghamyeon jul-eodeunayo?)",
+            "audio": "이_소재는_세탁하면_줄어드나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chất liệu này có bị co rút không?",
+            "audio": "Chất_liệu_này_có_bị_co_rút_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢種質地會唔會縮水呀？ (cing2 man6 ni1 zung2 zat1 dei2 wui5 m4 wui5 suk1 seoi2 aa3?)",
+            "audio": "請問呢種質地會唔會縮水呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce matériau va-t-il rétrécir ?",
+            "audio": "Ce_matériau_va-t-il_rétrécir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Läuft dieses Material ein?",
+            "audio": "Läuft_dieses_Material_ein.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este material se encoge?",
+            "audio": "¿Este_material_se_encoge.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот материал садится после стирки? (Etot material saditsya posle stirki?)",
+            "audio": "Этот_материал_садится_после_стирки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วัสดุนี้จะหดไหม (wát-sà-dù née jà hòt mǎi)",
+            "audio": "วัสดุนี้จะหดไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah bahan ini akan menyusut?",
+            "audio": "Apakah_bahan_ini_akan_menyusut.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個材質會縮水嗎？",
+            "audio": "請問這個材質會縮水嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen168",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "衣服的標籤在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the clothing label?",
+            "audio": "Where_is_the_clothing_label.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "服のタグはどこですか (ふくのたぐはどこですか)",
+            "audio": "ふくのたぐはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "옷 태그가 어디에 있나요? (os taegeuga eodie issnayo?)",
+            "audio": "옷_태그가_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nhãn mác quần áo ở đâu?",
+            "audio": "Nhãn_mác_quần_áo_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "件衫嘅標籤喺邊度呀？ (gin6 saam1 ge3 biu1 cin1 hai2 bin1 dou6 aa3?)",
+            "audio": "件衫嘅標籤喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est l'étiquette du vêtement ?",
+            "audio": "Où_est_l'étiquette_du_vêtement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist das Kleidungsetikett?",
+            "audio": "Wo_ist_das_Kleidungsetikett.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está la etiqueta de la ropa?",
+            "audio": "¿Dónde_está_la_etiqueta_de_la_ropa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где бирка на одежде? (Gde birka na odezhde?)",
+            "audio": "Где_бирка_на_одежде.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ป้ายเสื้อผ้าอยู่ที่ไหน (bpâai sêua-pâa yòo têe nǎi)",
+            "audio": "ป้ายเสื้อผ้าอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana label pakaiannya?",
+            "audio": "Di_mana_label_pakaiannya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "衣服的標籤在哪裡？",
+            "audio": "衣服的標籤在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen169",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這是當季的新款嗎？",
+        "CN_ENG": {
+            "word": "Is this the new arrival of the season?",
+            "audio": "Is_this_the_new_arrival_of_the_season.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これは今季の新作ですか (これはこんきのしんさくですか)",
+            "audio": "これはこんきのしんさくですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이거 이번 시즌 신상품인가요? (igeo ibeon sijeun sinsangpum-ingayo?)",
+            "audio": "이거_이번_시즌_신상품인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đây có phải là mẫu mới của mùa này không?",
+            "audio": "Đây_có_phải_là_mẫu_mới_của_mùa_này_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個係咪當季新款呀？ (cing2 man6 ni1 go3 hai6 mai6 dong1 gwai3 san1 fun2 aa3?)",
+            "audio": "請問呢個係咪當季新款呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Est-ce la nouvelle collection de la saison ?",
+            "audio": "Est-ce_la_nouvelle_collection_de_la_saison.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist das die Neuerscheinung dieser Saison?",
+            "audio": "Ist_das_die_Neuerscheinung_dieser_Saison.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Es esta la nueva llegada de la temporada?",
+            "audio": "¿Es_esta_la_nueva_llegada_de_la_temporada.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это новинка этого сезона? (Eto novinka etogo sezona?)",
+            "audio": "Это_новинка_этого_сезона.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นี่คือคอลเลกชันใหม่ของฤดูกาลนี้ไหม (nêe keu kon-lék-chân mài kǒng réu-doo-gaan née mǎi)",
+            "audio": "นี่คือคอลเลกชันใหม่ของฤดูกาลนี้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ini kedatangan baru musim ini?",
+            "audio": "Apakah_ini_kedatangan_baru_musim_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這是當季的新款嗎？",
+            "audio": "請問這是當季的新款嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen170",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件外套有防風功能嗎？",
+        "CN_ENG": {
+            "word": "Is this jacket windproof?",
+            "audio": "Is_this_jacket_windproof.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このジャケットは防風機能がありますか (このじゃけっとはぼうふうきのうがありますか)",
+            "audio": "このじゃけっとはぼうふうきのうがありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 재킷은 방풍 기능이 있나요? (i jaegis-eun bangpung gineung-i issnayo?)",
+            "audio": "이_재킷은_방풍_기능이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Áo khoác này có khả năng chống gió không?",
+            "audio": "Áo_khoác_này_có_khả_năng_chống_gió_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件外套防唔防風呀？ (ni1 gin6 ngoi6 tou3 fong4 m4 fong4 fung1 aa3?)",
+            "audio": "呢件外套防唔防風呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette veste est-elle coupe-vent ?",
+            "audio": "Cette_veste_est-elle_coupe-vent.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist diese Jacke winddicht?",
+            "audio": "Ist_diese_Jacke_winddicht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta chaqueta es a prueba de viento?",
+            "audio": "¿Esta_chaqueta_es_a_prueba_de_viento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта куртка ветрозащитная? (Eta kurtka vetrozashchitnaya?)",
+            "audio": "Эта_куртка_ветрозащитная.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อแจ็คเก็ตตัวนี้กันลมไหม (sêua jàek-gèt dtua née gan lom mǎi)",
+            "audio": "เสื้อแจ็คเก็ตตัวนี้กันลมไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah jaket ini tahan angin?",
+            "audio": "Apakah_jaket_ini_tahan_angin.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件外套有防風功能嗎？",
+            "audio": "這件外套有防風功能嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen171",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件雨衣防水嗎？",
+        "CN_ENG": {
+            "word": "Is this raincoat waterproof?",
+            "audio": "Is_this_raincoat_waterproof.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このレインコートは防水ですか (このれいんこーとはぼうすいですか)",
+            "audio": "このれいんこーとはぼうすいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 우비는 방수가 되나요? (i ubineun bangsuga doenayo?)",
+            "audio": "이_우비는_방수가_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Áo mưa này có chống nước không?",
+            "audio": "Áo_mưa_này_có_chống_nước_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件雨褸防唔防水呀？ (ni1 gin6 jyu5 lau1 fong4 m4 fong4 seoi2 aa3?)",
+            "audio": "呢件雨褸防唔防水呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cet imperméable est-il imperméable ?",
+            "audio": "Cet_imperméable_est-il_imperméable.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist dieser Regenmantel wasserdicht?",
+            "audio": "Ist_dieser_Regenmantel_wasserdicht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este impermeable es a prueba de agua?",
+            "audio": "¿Este_impermeable_es_a_prueba_de_agua.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот дождевик водонепроницаемый? (Etot dozhdevik vodonepronitsayemyy?)",
+            "audio": "Этот_дождевик_водонепроницаемый.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อกันฝนตัวนี้กันน้ำไหม (sêua gan fǒn dtua née gan náam mǎi)",
+            "audio": "เสื้อกันฝนตัวนี้กันน้ำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah jas hujan ini tahan air?",
+            "audio": "Apakah_jas_hujan_ini_tahan_air.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件雨衣防水嗎？",
+            "audio": "這件雨衣防水嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen172",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有賣搭配的皮帶嗎？",
+        "CN_ENG": {
+            "word": "Do you sell matching belts?",
+            "audio": "Do_you_sell_matching_belts.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "合わせるベルトは売っていますか (あわせるべるとはうっていますか)",
+            "audio": "あわせるべるとはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "어울리는 벨트도 판매하나요? (eoullineun belteudo panmaehanayo?)",
+            "audio": "어울리는_벨트도_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có bán thắt lưng kết hợp không?",
+            "audio": "Có_bán_thắt_lưng_kết_hợp_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇配搭嘅皮帶賣呀？ (cing2 man6 jau5 mou5 pui3 daap3 ge3 pei4 daai2 maai6 aa3?)",
+            "audio": "請問有冇配搭嘅皮帶賣呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des ceintures assorties ?",
+            "audio": "Vendez-vous_des_ceintures_assorties.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie passende Gürtel?",
+            "audio": "Verkaufen_Sie_passende_Gürtel.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden cinturones a juego?",
+            "audio": "¿Venden_cinturones_a_juego.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете подходящие ремни? (Vy prodayete podkhodyashchiye remni?)",
+            "audio": "Вы_продаете_подходящие_ремни.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีเข็มขัดที่เข้าชุดกันขายไหม (mee kěm-kàt têe kâo chút gan kǎai mǎi)",
+            "audio": "มีเข็มขัดที่เข้าชุดกันขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual ikat pinggang yang cocok?",
+            "audio": "Apakah_Anda_menjual_ikat_pinggang_yang_cocok.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有賣搭配的皮帶嗎？",
+            "audio": "請問有賣搭配的皮帶嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen173",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我想找一條配這套西裝的領帶。",
+        "CN_ENG": {
+            "word": "I'm looking for a tie to go with this suit.",
+            "audio": "I'm_looking_for_a_tie_to_go_with_this_suit..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このスーツに合うネクタイを探しています (このすーつにあうねくたいをさがしています)",
+            "audio": "このすーつにあうねくたいをさがしています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 정장에 어울리는 넥타이를 찾고 있어요. (i jeongjang-e eoullineun negtaileul chajgo iss-eoyo.)",
+            "audio": "이_정장에_어울리는_넥타이를_찾고_있어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn tìm một chiếc cà vạt hợp với bộ vest này.",
+            "audio": "Tôi_muốn_tìm_một_chiếc_cà_vạt_hợp_với_bộ_vest_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想搵一條襯呢套西裝嘅領帶。 (ngo5 soeng2 wan2 jat1 tiu4 can3 ni1 tou3 sai1 zong1 ge3 leng5 daai2.)",
+            "audio": "我想搵一條襯呢套西裝嘅領帶。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je cherche une cravate pour aller avec ce costume.",
+            "audio": "Je_cherche_une_cravate_pour_aller_avec_ce_costume..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich suche eine Krawatte, die zu diesem Anzug passt.",
+            "audio": "Ich_suche_eine_Krawatte,_die_zu_diesem_Anzug_passt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Busco una corbata que combine con este traje.",
+            "audio": "Busco_una_corbata_que_combine_con_este_traje..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я ищу галстук к этому костюму. (Ya ishchu galstuk k etomu kostyumu.)",
+            "audio": "Я_ищу_галстук_к_этому_костюму..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันกำลังหาเนคไทที่เข้ากับชุดสูทนี้ (chǎn gam-lang hǎa nêk-tai têe kâo gàp chút sòot née)",
+            "audio": "ฉันกำลังหาเนคไทที่เข้ากับชุดสูทนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya mencari dasi yang cocok dengan setelan ini.",
+            "audio": "Saya_mencari_dasi_yang_cocok_dengan_setelan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想找一條配這套西裝的領帶。",
+            "audio": "我想找一條配這套西裝的領帶。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen174",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "你們有賣棉質的襪子嗎？",
+        "CN_ENG": {
+            "word": "Do you sell cotton socks?",
+            "audio": "Do_you_sell_cotton_socks.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "綿の靴下は売っていますか (めんのくつしたはうっていますか)",
+            "audio": "めんのくつしたはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "면 양말도 판매하나요? (myeon yangmaldo panmaehanayo?)",
+            "audio": "면_양말도_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Các bạn có bán tất cotton không?",
+            "audio": "Các_bạn_có_bán_tất_cotton_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你哋有冇賣棉質襪呀？ (nei5 dei6 jau5 mou5 maai6 min4 zat1 mat6 aa3?)",
+            "audio": "你哋有冇賣棉質襪呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des chaussettes en coton ?",
+            "audio": "Vendez-vous_des_chaussettes_en_coton.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie Baumwollsocken?",
+            "audio": "Verkaufen_Sie_Baumwollsocken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden calcetines de algodón?",
+            "audio": "¿Venden_calcetines_de_algodón.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете хлопковые носки? (Vy prodayete khlopkovye noski?)",
+            "audio": "Вы_продаете_хлопковые_носки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณมีถุงเท้าผ้าฝ้ายขายไหม (kun mee tǔng-táo pâa-fâai kǎai mǎi)",
+            "audio": "คุณมีถุงเท้าผ้าฝ้ายขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual kaus kaki katun?",
+            "audio": "Apakah_Anda_menjual_kaus_kaki_katun.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你們有賣棉質的襪子嗎？",
+            "audio": "你們有賣棉質的襪子嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen175",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有賣保暖的手套嗎？",
+        "CN_ENG": {
+            "word": "Do you sell warm gloves?",
+            "audio": "Do_you_sell_warm_gloves.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "暖かい手袋は売っていますか (あたたかいてぶくろはうっていますか)",
+            "audio": "あたたかいてぶくろはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "따뜻한 장갑도 판매하나요? (ttatteushan jang-gabdo panmaehanayo?)",
+            "audio": "따뜻한_장갑도_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có bán găng tay giữ ấm không?",
+            "audio": "Có_bán_găng_tay_giữ_ấm_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇賣保暖手套呀？ (cing2 man6 jau5 mou5 maai6 bou2 nyun5 sau2 tou3 aa3?)",
+            "audio": "請問有冇賣保暖手套呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des gants chauds ?",
+            "audio": "Vendez-vous_des_gants_chauds.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie warme Handschuhe?",
+            "audio": "Verkaufen_Sie_warme_Handschuhe.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden guantes abrigados?",
+            "audio": "¿Venden_guantes_abrigados.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете теплые перчатки? (Vy prodayete teplyye perchatki?)",
+            "audio": "Вы_продаете_теплые_перчатки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีถุงมือกันหนาวขายไหม (mee tǔng-meu gan nǎao kǎai mǎi)",
+            "audio": "มีถุงมือกันหนาวขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual sarung tangan hangat?",
+            "audio": "Apakah_Anda_menjual_sarung_tangan_hangat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有賣保暖的手套嗎？",
+            "audio": "請問有賣保暖的手套嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen176",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我需要一頂遮陽帽。",
+        "CN_ENG": {
+            "word": "I need a sun hat.",
+            "audio": "I_need_a_sun_hat..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "日よけ帽子が必要です (ひよけぼうしがひつようです)",
+            "audio": "ひよけぼうしがひつようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "햇빛을 가릴 모자가 필요해요. (haesbich-eul galil mojaga pil-yohaeyo.)",
+            "audio": "햇빛을_가릴_모자가_필요해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần một chiếc mũ che nắng.",
+            "audio": "Tôi_cần_một_chiếc_mũ_che_nắng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要一頂太陽帽。 (ngo5 seoi1 jiu3 jat1 deng2 taai3 joeng4 mou2.)",
+            "audio": "我需要一頂太陽帽。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin d'un chapeau de soleil.",
+            "audio": "J'ai_besoin_d'un_chapeau_de_soleil..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich brauche einen Sonnenhut.",
+            "audio": "Ich_brauche_einen_Sonnenhut..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito un sombrero para el sol.",
+            "audio": "Necesito_un_sombrero_para_el_sol..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужна шляпа от солнца. (Mne nuzhna shlyapa ot solntsa.)",
+            "audio": "Мне_нужна_шляпа_от_солнца..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการหมวกกันแดดหนึ่งใบ (chǎn dtông-gaan mùak gan dàet nèung bai)",
+            "audio": "ฉันต้องการหมวกกันแดดหนึ่งใบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya butuh topi matahari.",
+            "audio": "Saya_butuh_topi_matahari..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要一頂遮陽帽。",
+            "audio": "我需要一頂遮陽帽。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen177",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個款式現在很流行。",
+        "CN_ENG": {
+            "word": "This style is very popular right now.",
+            "audio": "This_style_is_very_popular_right_now..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このデザインは今とても流行っています (このでざいんは今とてもはやっています)",
+            "audio": "このでざいんは今とてもはやっています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 스타일이 요즘 아주 유행입니다. (i seutail-i yojeum aju yuhaeng-ibnida.)",
+            "audio": "이_스타일이_요즘_아주_유행입니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kiểu dáng này hiện nay rất thịnh hành.",
+            "audio": "Kiểu_dáng_này_hiện_nay_rất_thịnh_hành..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個款式而家好流行。 (ni1 go3 fun2 sik1 ji4 gaa1 hou2 lau4 hang4.)",
+            "audio": "呢個款式而家好流行。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce style est très populaire en ce moment.",
+            "audio": "Ce_style_est_très_populaire_en_ce_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieser Stil ist im Moment sehr beliebt.",
+            "audio": "Dieser_Stil_ist_im_Moment_sehr_beliebt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este estilo es muy popular ahora mismo.",
+            "audio": "Este_estilo_es_muy_popular_ahora_mismo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот стиль сейчас очень популярен. (Etot stil' seychas ochen' populyaren.)",
+            "audio": "Этот_стиль_сейчас_очень_популярен..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สไตล์นี้กำลังเป็นที่นิยมมาก (sà-dtai née gam-lang bpen têe ní-yom mâak)",
+            "audio": "สไตล์นี้กำลังเป็นที่นิยมมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Gaya ini sangat populer saat ini.",
+            "audio": "Gaya_ini_sangat_populer_saat_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個款式現在很流行。",
+            "audio": "這個款式現在很流行。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen178",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個設計非常獨特。",
+        "CN_ENG": {
+            "word": "This design is very unique.",
+            "audio": "This_design_is_very_unique..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このデザインは非常にユニークです (このでざいんはひじょうにゆにーくです)",
+            "audio": "このでざいんはひじょうにゆにーくです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 디자인은 매우 독특하네요. (i dijain-eun maeu dogteughaneyo.)",
+            "audio": "이_디자인은_매우_독특하네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thiết kế này vô cùng độc đáo.",
+            "audio": "Thiết_kế_này_vô_cùng_độc_đáo..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個設計非常獨特。 (ni1 go3 cit3 gai3 fei1 soeng4 duk6 dak6.)",
+            "audio": "呢個設計非常獨特。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce design est très unique.",
+            "audio": "Ce_design_est_très_unique..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieses Design ist sehr einzigartig.",
+            "audio": "Dieses_Design_ist_sehr_einzigartig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este diseño es muy único.",
+            "audio": "Este_diseño_es_muy_único..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот дизайн очень уникален. (Etot dizayn ochen' unikalen.)",
+            "audio": "Этот_дизайн_очень_уникален..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "การออกแบบนี้มีเอกลักษณ์มาก (gaan òk-bàep née mee àyk-gà-lák mâak)",
+            "audio": "การออกแบบนี้มีเอกลักษณ์มาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Desain ini sangat unik.",
+            "audio": "Desain_ini_sangat_unik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個設計非常獨特。",
+            "audio": "這個設計非常獨特。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen179",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件衣服的剪裁很好看。",
+        "CN_ENG": {
+            "word": "The cut of this clothing looks great.",
+            "audio": "The_cut_of_this_clothing_looks_great..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服のシルエットはとても綺麗です (このふくのしるえっとはとてもきれいです)",
+            "audio": "このふくのしるえっとはとてもきれいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷은 재단이 아주 예쁘게 잘 되었어요. (i os-eun jaedan-i aju yeppeuge jal doeeoss-eoyo.)",
+            "audio": "이_옷은_재단이_아주_예쁘게_잘_되었어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đường cắt của chiếc áo này trông rất đẹp.",
+            "audio": "Đường_cắt_của_chiếc_áo_này_trông_rất_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件衫嘅剪裁好好睇。 (ni1 gin6 saam1 ge3 zin2 coi4 hou2 hou2 tai2.)",
+            "audio": "呢件衫嘅剪裁好好睇。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "La coupe de ce vêtement est très belle.",
+            "audio": "La_coupe_de_ce_vêtement_est_très_belle..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Der Schnitt dieses Kleidungsstücks sieht toll aus.",
+            "audio": "Der_Schnitt_dieses_Kleidungsstücks_sieht_toll_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El corte de esta prenda se ve genial.",
+            "audio": "El_corte_de_esta_prenda_se_ve_genial..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Крой этой одежды выглядит отлично. (Kroy etoy odezhdy vyglyadit otlichno.)",
+            "audio": "Крой_этой_одежды_выглядит_отлично..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทรงของเสื้อตัวนี้สวยมาก (song kǒng sêua dtua née sǔay mâak)",
+            "audio": "ทรงของเสื้อตัวนี้สวยมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Potongan pakaian ini terlihat bagus.",
+            "audio": "Potongan_pakaian_ini_terlihat_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件衣服的剪裁很好看。",
+            "audio": "這件衣服的剪裁很好看。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen180",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我覺得這個顏色不適合我。",
+        "CN_ENG": {
+            "word": "I don't think this color suits me.",
+            "audio": "I_don't_think_this_color_suits_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この色は私には合わないと思います (このいろはわたしにはあわないとおもいます)",
+            "audio": "このいろはわたしにはあわないとおもいます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 색상은 저한테 안 어울리는 것 같아요. (i saegsang-eun jeohante an eoullineun geos gat-ayo.)",
+            "audio": "이_색상은_저한테_안_어울리는_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi thấy màu này không hợp với mình.",
+            "audio": "Tôi_thấy_màu_này_không_hợp_với_mình..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我覺得呢隻顏色唔係好啱我。 (ngo5 gok3 dak1 ni1 zek3 ngaan4 sik1 m4 hai6 hou2 ngaam1 ngo5.)",
+            "audio": "我覺得呢隻顏色唔係好啱我。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne pense pas que cette couleur m'aille.",
+            "audio": "Je_ne_pense_pas_que_cette_couleur_m'aille..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich glaube nicht, dass mir diese Farbe steht.",
+            "audio": "Ich_glaube_nicht,_dass_mir_diese_Farbe_steht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No creo que este color me quede bien.",
+            "audio": "No_creo_que_este_color_me_quede_bien..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не думаю, что этот цвет мне идет. (Ya ne dumayu, chto etot tsvet mne idet.)",
+            "audio": "Я_не_думаю,_что_этот_цвет_мне_идет..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันคิดว่าสีนี้ไม่เหมาะกับฉัน (chǎn kít wâa sěe née mâi mǒr gàp chǎn)",
+            "audio": "ฉันคิดว่าสีนี้ไม่เหมาะกับฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya rasa warna ini tidak cocok untuk saya.",
+            "audio": "Saya_rasa_warna_ini_tidak_cocok_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我覺得這個顏色不適合我。",
+            "audio": "我覺得這個顏色不適合我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen181",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問這件衣服可以退換嗎？",
+        "CN_ENG": {
+            "word": "Can this clothing be returned or exchanged?",
+            "audio": "Can_this_clothing_be_returned_or_exchanged.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服は返品や交換ができますか (このふくはへんぴんやこうかんができますか)",
+            "audio": "このふくはへんぴんやこうかんができますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷 교환이나 환불 되나요? (i os gyohwan-이나 hwanbul doenayo?)",
+            "audio": "이_옷_교환이나_환불_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bộ quần áo này có thể đổi trả không?",
+            "audio": "Bộ_quần_áo_này_có_thể_đổi_trả_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢件衫可唔可以退換呀？ (cing2 man6 ni1 gin6 saam1 ho2 m4 ho2 ji5 teoi3 wun6 aa3?)",
+            "audio": "請問呢件衫可唔可以退換呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce vêtement peut-il être retourné ou échangé ?",
+            "audio": "Ce_vêtement_peut-il_être_retourné_ou_échangé.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann dieses Kleidungsstück umgetauscht werden?",
+            "audio": "Kann_dieses_Kleidungsstück_umgetauscht_werden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Se puede devolver o cambiar esta ropa?",
+            "audio": "¿Se_puede_devolver_o_cambiar_esta_ropa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эту одежду можно вернуть или обменять? (Etu odezhdu mozhno vernut' ili obmenyat'?)",
+            "audio": "Эту_одежду_можно_вернуть_или_обменять.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้คืนหรือเปลี่ยนได้ไหม (sêua dtua née keun rěu bplìan dâi mǎi)",
+            "audio": "เสื้อตัวนี้คืนหรือเปลี่ยนได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah pakaian ini dikembalikan atau ditukar?",
+            "audio": "Bisakah_pakaian_ini_dikembalikan_atau_ditukar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這件衣服可以退換嗎？",
+            "audio": "請問這件衣服可以退換嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen182",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "如果尺寸不合可以換嗎？",
+        "CN_ENG": {
+            "word": "Can I exchange it if the size doesn't fit?",
+            "audio": "Can_I_exchange_it_if_the_size_doesn't_fit.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "サイズが合わない場合、交換できますか (さいずがあわないばあい、こうかんできますか)",
+            "audio": "さいずがあわないばあい、こうかんできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "사이즈가 안 맞으면 교환할 수 있나요? (saijeuga an maj-eumyeon gyohwanhal su issnayo?)",
+            "audio": "사이즈가_안_맞으면_교환할_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nếu không vừa kích cỡ có thể đổi không?",
+            "audio": "Nếu_không_vừa_kích_cỡ_có_thể_đổi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "如果個碼唔啱可唔可以換呀？ (jyu4 gwo2 go3 maa5 m4 ngaam1 ho2 m4 ho2 ji5 wun6 aa3?)",
+            "audio": "如果個碼唔啱可唔可以換呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je l'échanger si la taille ne convient pas ?",
+            "audio": "Puis-je_l'échanger_si_la_taille_ne_convient_pas.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich es umtauschen, wenn die Größe nicht passt?",
+            "audio": "Kann_ich_es_umtauschen,_wenn_die_Größe_nicht_passt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo cambiarlo si la talla no me queda?",
+            "audio": "¿Puedo_cambiarlo_si_la_talla_no_me_queda.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу ли я обменять, если размер не подойдет? (Mogu li ya obmenyat', yesli razmer ne podoydet?)",
+            "audio": "Могу_ли_я_обменять,_если_размер_не_подойдет.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถ้าไซส์ไม่พอดีเปลี่ยนได้ไหม (tâa sai mâi por-dee bplìan dâi mǎi)",
+            "audio": "ถ้าไซส์ไม่พอดีเปลี่ยนได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya menukarnya jika ukurannya tidak pas?",
+            "audio": "Bolehkah_saya_menukarnya_jika_ukurannya_tidak_pas.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "如果尺寸不合可以換嗎？",
+            "audio": "如果尺寸不合可以換嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen183",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "退換貨需要帶收據嗎？",
+        "CN_ENG": {
+            "word": "Do I need to bring the receipt for returns or exchanges?",
+            "audio": "Do_I_need_to_bring_the_receipt_for_returns_or_exchanges.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "返品・交換にはレシートが必要ですか (へんぴん・こうかんにはれしーとがひつようですか)",
+            "audio": "へんぴん・こうかんにはれしーとがひつようですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "교환이나 환불 시 영수증이 필요한가요? (gyohwan-이나 hwanbul si yeongsujeung-i pil-yohangayo?)",
+            "audio": "교환이나_환불_시_영수증이_필요한가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đổi trả có cần mang theo hóa đơn không?",
+            "audio": "Đổi_trả_có_cần_mang_theo_hóa_đơn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "退換貨使唔使帶收據呀？ (teoi3 wun6 fo3 sai2 m4 sai2 daai3 sau1 geoi3 aa3?)",
+            "audio": "退換貨使唔使帶收據呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Dois-je apporter le reçu pour les retours ?",
+            "audio": "Dois-je_apporter_le_reçu_pour_les_retours.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Muss ich für Rückgaben die Quittung mitbringen?",
+            "audio": "Muss_ich_für_Rückgaben_die_Quittung_mitbringen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Necesito traer el recibo para devoluciones?",
+            "audio": "¿Necesito_traer_el_recibo_para_devoluciones.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нужно ли приносить чек для возврата? (Nuzhno li prinosit' chek dlya vozvrata?)",
+            "audio": "Нужно_ли_приносить_чек_для_возврата.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "การคืนหรือเปลี่ยนสินค้าต้องนำใบเสร็จมาด้วยไหม (gaan keun rěu bplìan sǐn-káa dtông nam bai-sèt maa dûay mǎi)",
+            "audio": "การคืนหรือเปลี่ยนสินค้าต้องนำใบเสร็จมาด้วยไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah saya perlu membawa struk untuk pengembalian?",
+            "audio": "Apakah_saya_perlu_membawa_struk_untuk_pengembalian.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "退換貨需要帶收據嗎？",
+            "audio": "退換貨需要帶收據嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen184",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問退貨的期限是幾天？",
+        "CN_ENG": {
+            "word": "What is the time limit for returns?",
+            "audio": "What_is_the_time_limit_for_returns.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "返品の期限は何日間ですか (へんぴんのきげんはなんにちかんですか)",
+            "audio": "へんぴんのきげんはなんにちかんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "환불 기한은 며칠까지인가요? (hwanbul gihan-eun myeochilkajiingayo?)",
+            "audio": "환불_기한은_며칠까지인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thời hạn trả hàng là bao nhiêu ngày?",
+            "audio": "Thời_hạn_trả_hàng_là_bao_nhiêu_ngày.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問退貨嘅限期係幾多日呀？ (cing2 man6 teoi3 fo3 ge3 haan6 kei4 hai6 gei2 do1 jat6 aa3?)",
+            "audio": "請問退貨嘅限期係幾多日呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quel est le délai pour les retours ?",
+            "audio": "Quel_est_le_délai_pour_les_retours.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was ist die Frist für Rückgaben?",
+            "audio": "Was_ist_die_Frist_für_Rückgaben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuál es el plazo para las devoluciones?",
+            "audio": "¿Cuál_es_el_plazo_para_las_devoluciones.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Каков срок возврата товара? (Kakov srok vozvrata tovara?)",
+            "audio": "Каков_срок_возврата_товара.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กำหนดเวลาการคืนสินค้าคือกี่วัน (gam-nòt way-laa gaan keun sǐn-káa keu gèe wan)",
+            "audio": "กำหนดเวลาการคืนสินค้าคือกี่วัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa batas waktu untuk pengembalian?",
+            "audio": "Berapa_batas_waktu_untuk_pengembalian.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問退貨的期限是幾天？",
+            "audio": "請問退貨的期限是幾天？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen185",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我想要退掉這件衣服。",
+        "CN_ENG": {
+            "word": "I want to return this clothing.",
+            "audio": "I_want_to_return_this_clothing..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服を返品したいです (このふくをへんぴんしたいです)",
+            "audio": "このふくをへんぴんしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷 환불하고 싶어요. (i os hwanbulhago sip-eoyo.)",
+            "audio": "이_옷_환불하고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn trả lại bộ quần áo này.",
+            "audio": "Tôi_muốn_trả_lại_bộ_quần_áo_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想退咗呢件衫。 (ngo5 soeng2 teoi3 zo2 ni1 gin6 saam1.)",
+            "audio": "我想退咗呢件衫。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux retourner ce vêtement.",
+            "audio": "Je_veux_retourner_ce_vêtement..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte dieses Kleidungsstück zurückgeben.",
+            "audio": "Ich_möchte_dieses_Kleidungsstück_zurückgeben..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero devolver esta ropa.",
+            "audio": "Quiero_devolver_esta_ropa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу вернуть эту одежду. (Ya khochu vernut' etu odezhdu.)",
+            "audio": "Я_хочу_вернуть_эту_одежду..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการคืนเสื้อตัวนี้ (chǎn dtông-gaan keun sêua dtua née)",
+            "audio": "ฉันต้องการคืนเสื้อตัวนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin mengembalikan pakaian ini.",
+            "audio": "Saya_ingin_mengembalikan_pakaian_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想要退掉這件衣服。",
+            "audio": "我想要退掉這件衣服。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen186",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我發現這件衣服上有瑕疵。",
+        "CN_ENG": {
+            "word": "I found a flaw on this clothing.",
+            "audio": "I_found_a_flaw_on_this_clothing..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服に欠陥を見つけました (このふくにけっかんをみつけました)",
+            "audio": "このふくにけっかんをみつけました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷에 하자가 있는 걸 발견했어요. (i os-e hajaga issneun geol balgyeonhaess-eoyo.)",
+            "audio": "이_옷에_하자가_있는_걸_발견했어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi phát hiện áo này có lỗi.",
+            "audio": "Tôi_phát_hiện_áo_này_có_lỗi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我發現呢件衫有瑕疵。 (ngo5 faat3 jin6 ni1 gin6 saam1 jau5 haa4 ci1.)",
+            "audio": "我發現呢件衫有瑕疵。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai trouvé un défaut sur ce vêtement.",
+            "audio": "J'ai_trouvé_un_défaut_sur_ce_vêtement..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe einen Fehler an diesem Kleidungsstück gefunden.",
+            "audio": "Ich_habe_einen_Fehler_an_diesem_Kleidungsstück_gefunden..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Encontré un defecto en esta ropa.",
+            "audio": "Encontré_un_defecto_en_esta_ropa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я нашел брак на этой одежде. (Ya nashel brak na etoy odezhde.)",
+            "audio": "Я_нашел_брак_на_этой_одежде..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันพบตำหนิบนเสื้อตัวนี้ (chǎn póp dtam-nì bon sêua dtua née)",
+            "audio": "ฉันพบตำหนิบนเสื้อตัวนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya menemukan cacat pada pakaian ini.",
+            "audio": "Saya_menemukan_cacat_pada_pakaian_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我發現這件衣服上有瑕疵。",
+            "audio": "我發現這件衣服上有瑕疵。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen187",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這裡的扣子掉下來了。",
+        "CN_ENG": {
+            "word": "The button here fell off.",
+            "audio": "The_button_here_fell_off..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここのボタンが取れています (ここのぼたんがとれています)",
+            "audio": "ここのぼたんがとれています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기 단추가 떨어졌어요. (yeogi danchuga tteol-eojyeoss-eoyo.)",
+            "audio": "여기_단추가_떨어졌어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cúc áo ở đây bị rớt ra rồi.",
+            "audio": "Cúc_áo_ở_đây_bị_rớt_ra_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢度粒鈕甩咗。 (ni1 dou6 nap1 nau2 lat1 zo2.)",
+            "audio": "呢度粒鈕甩咗。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Le bouton ici est tombé.",
+            "audio": "Le_bouton_ici_est_tombé..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Der Knopf hier ist abgefallen.",
+            "audio": "Der_Knopf_hier_ist_abgefallen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El botón de aquí se cayó.",
+            "audio": "El_botón_de_aquí_se_cayó..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пуговица здесь оторвалась. (Pugovitsa zdes' otorvalas'.)",
+            "audio": "Пуговица_здесь_оторвалась..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระดุมตรงนี้หลุดออก (grà-dum dtrong née lùt òk)",
+            "audio": "กระดุมตรงนี้หลุดออก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kancing di sini lepas.",
+            "audio": "Kancing_di_sini_lepas..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這裡的扣子掉下來了。",
+            "audio": "這裡的扣子掉下來了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen188",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "拉鍊好像壞掉了。",
+        "CN_ENG": {
+            "word": "The zipper seems to be broken.",
+            "audio": "The_zipper_seems_to_be_broken..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ファスナーが壊れているようです (ふぁすなーがこわれているようです)",
+            "audio": "ふぁすなーがこわれているようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지퍼가 고장 난 것 같아요. (jipeoga gojang nan geos gat-ayo.)",
+            "audio": "지퍼가_고장_난_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dây kéo hình như bị hỏng rồi.",
+            "audio": "Dây_kéo_hình_như_bị_hỏng_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "條拉鍊好似壞咗。 (tiu4 laa1 lin2 hou2 ci5 waai6 zo2.)",
+            "audio": "條拉鍊好似壞咗。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "La fermeture éclair semble cassée.",
+            "audio": "La_fermeture_éclair_semble_cassée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Der Reißverschluss scheint kaputt zu sein.",
+            "audio": "Der_Reißverschluss_scheint_kaputt_zu_sein..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "La cremallera parece estar rota.",
+            "audio": "La_cremallera_parece_estar_rota..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Молния кажется сломанной. (Molniya kazhetsya slomannoy.)",
+            "audio": "Молния_кажется_сломанной..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ซิปดูเหมือนจะพัง (síp doo měuan jà pang)",
+            "audio": "ซิปดูเหมือนจะพัง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Resletingnya sepertinya rusak.",
+            "audio": "Resletingnya_sepertinya_rusak..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "拉鍊好像壞掉了。",
+            "audio": "拉鍊好像壞掉了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen189",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "可以幫我包裝成禮物嗎？",
+        "CN_ENG": {
+            "word": "Can you gift wrap this for me?",
+            "audio": "Can_you_gift_wrap_this_for_me.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ギフト用にラッピングしてもらえますか (ぎふとようにらっぴんぐしてもらえますか)",
+            "audio": "ぎふとようにらっぴんぐしてもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "선물용으로 포장해 주실 수 있나요? (seonmulyong-eulo pojanghae jusil su issnayo?)",
+            "audio": "선물용으로_포장해_주실_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể gói thành quà giúp tôi không?",
+            "audio": "Có_thể_gói_thành_quà_giúp_tôi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫我包成禮物呀？ (ho2 m4 ho2 ji5 bong1 ngo5 baau1 sing4 lai5 mat6 aa3?)",
+            "audio": "可唔可以幫我包成禮物呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous l'emballer comme cadeau ?",
+            "audio": "Pouvez-vous_l'emballer_comme_cadeau.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können Sie das für mich als Geschenk verpacken?",
+            "audio": "Können_Sie_das_für_mich_als_Geschenk_verpacken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Me lo puede envolver para regalo?",
+            "audio": "¿Me_lo_puede_envolver_para_regalo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Можете завернуть это в подарочную упаковку? (Mozhete zavernut' eto v podarochnuyu upakovku?)",
+            "audio": "Можете_завернуть_это_в_подарочную_упаковку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยห่อเป็นของขวัญให้หน่อยได้ไหม (chûay hòr bpen kǒng-kwǎn hâi nòi dâi mǎi)",
+            "audio": "ช่วยห่อเป็นของขวัญให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisa tolong bungkus ini sebagai kado?",
+            "audio": "Bisa_tolong_bungkus_ini_sebagai_kado.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以幫我包裝成禮物嗎？",
+            "audio": "可以幫我包裝成禮物嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen190",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有附贈提袋嗎？",
+        "CN_ENG": {
+            "word": "Does it come with a shopping bag?",
+            "audio": "Does_it_come_with_a_shopping_bag.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "手提げ袋はついていますか (てさげぶくろはついていますか)",
+            "audio": "てさげぶくろはついていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "쇼핑백도 같이 주시나요? (syopingbaegdo gat-i jusinayo?)",
+            "audio": "쇼핑백도_같이_주시나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có kèm theo túi xách không?",
+            "audio": "Có_kèm_theo_túi_xách_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇送購物袋呀？ (cing2 man6 jau5 mou5 sung3 gau3 mat6 doi2 aa3?)",
+            "audio": "請問有冇送購物袋呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Est-il livré avec un sac de courses ?",
+            "audio": "Est-il_livré_avec_un_sac_de_courses.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist eine Einkaufstasche dabei?",
+            "audio": "Ist_eine_Einkaufstasche_dabei.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Viene con una bolsa de compras?",
+            "audio": "¿Viene_con_una_bolsa_de_compras.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "К нему прилагается пакет? (K nemu prilagayetsya paket?)",
+            "audio": "К_нему_прилагается_пакет.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีถุงกระดาษแถมให้ด้วยไหม (mee tǔng grà-dàat tǎem hâi dûay mǎi)",
+            "audio": "มีถุงกระดาษแถมให้ด้วยไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ini dilengkapi dengan tas belanja?",
+            "audio": "Apakah_ini_dilengkapi_dengan_tas_belanja.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有附贈提袋嗎？",
+            "audio": "請問有附贈提袋嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen191",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這裡可以刷卡嗎？",
+        "CN_ENG": {
+            "word": "Can I pay by credit card here?",
+            "audio": "Can_I_pay_by_credit_card_here.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここはクレジットカードが使えますか (ここはくれじっとかーどがつかえますか)",
+            "audio": "ここはくれじっとかーどがつかえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기서 카드 결제 되나요? (yeogiseo kadeu gyeolje doenayo?)",
+            "audio": "여기서_카드_결제_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ở đây có thể quẹt thẻ không?",
+            "audio": "Ở_đây_có_thể_quẹt_thẻ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢度可唔可以碌卡呀？ (cing2 man6 ni1 dou6 ho2 m4 ho2 ji5 luk1 kaat1 aa3?)",
+            "audio": "請問呢度可唔可以碌卡呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je payer par carte de crédit ici ?",
+            "audio": "Puis-je_payer_par_carte_de_crédit_ici.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich hier mit Kreditkarte bezahlen?",
+            "audio": "Kann_ich_hier_mit_Kreditkarte_bezahlen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo pagar con tarjeta de crédito aquí?",
+            "audio": "¿Puedo_pagar_con_tarjeta_de_crédito_aquí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здесь можно расплатиться картой? (Zdes' mozhno rasplatit'sya kartoy?)",
+            "audio": "Здесь_можно_расплатиться_картой.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ที่นี่รับบัตรเครดิตไหม (têe-nêe ráp bàt kray-dìt mǎi)",
+            "audio": "ที่นี่รับบัตรเครดิตไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah bisa bayar pakai kartu kredit di sini?",
+            "audio": "Apakah_bisa_bayar_pakai_kartu_kredit_di_sini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這裡可以刷卡嗎？",
+            "audio": "這裡可以刷卡嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen192",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有免稅服務嗎？",
+        "CN_ENG": {
+            "word": "Do you offer tax-free service?",
+            "audio": "Do_you_offer_tax-free_service.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "免税サービスはありますか (めんぜいさーびすはありますか)",
+            "audio": "めんぜいさーびすはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "면세 서비스가 있나요? (myeonse seobiseuga issnayo?)",
+            "audio": "면세_서비스가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có dịch vụ miễn thuế không?",
+            "audio": "Xin_hỏi_có_dịch_vụ_miễn_thuế_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇免稅服務呀？ (cing2 man6 jau5 mou5 min5 seoi3 fuk6 mou6 aa3?)",
+            "audio": "請問有冇免稅服務呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Proposez-vous un service détaxé ?",
+            "audio": "Proposez-vous_un_service_détaxé.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bieten Sie einen Tax-Free-Service an?",
+            "audio": "Bieten_Sie_einen_Tax-Free-Service_an.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Ofrecen servicio libre de impuestos?",
+            "audio": "¿Ofrecen_servicio_libre_de_impuestos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть услуга Tax Free? (U vas yest' usluga Tax Free?)",
+            "audio": "У_вас_есть_услуга_Tax_Free.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีบริการปลอดภาษีไหม (mee bor-rí-gaan bpòt paa-sěe mǎi)",
+            "audio": "มีบริการปลอดภาษีไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menawarkan layanan bebas pajak?",
+            "audio": "Apakah_Anda_menawarkan_layanan_bebas_pajak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有免稅服務嗎？",
+            "audio": "請問有免稅服務嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen193",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我需要辦理退稅。",
+        "CN_ENG": {
+            "word": "I need to process a tax refund.",
+            "audio": "I_need_to_process_a_tax_refund..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "免税手続きをお願いします (めんぜいてつづきをおねがいします)",
+            "audio": "めんぜいてつづきをおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "택스 리펀드를 받고 싶어요. (taegseu lipeondeuleul badgo sip-eoyo.)",
+            "audio": "택스_리펀드를_받고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần làm thủ tục hoàn thuế.",
+            "audio": "Tôi_cần_làm_thủ_tục_hoàn_thuế..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要搞退稅手續。 (ngo5 seoi1 jiu3 gaau2 teoi3 seoi3 sau2 zuk6.)",
+            "audio": "我需要搞退稅手續。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin de faire une détaxe.",
+            "audio": "J'ai_besoin_de_faire_une_détaxe..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich muss eine Steuerrückerstattung beantragen.",
+            "audio": "Ich_muss_eine_Steuerrückerstattung_beantragen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito tramitar la devolución de impuestos.",
+            "audio": "Necesito_tramitar_la_devolución_de_impuestos..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужно оформить возврат налога. (Mne nuzhno oformit' vozvrat naloga.)",
+            "audio": "Мне_нужно_оформить_возврат_налога..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการทำเรื่องขอคืนภาษี (chǎn dtông-gaan tam rêuang kǒr keun paa-sěe)",
+            "audio": "ฉันต้องการทำเรื่องขอคืนภาษี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya perlu mengurus pengembalian pajak.",
+            "audio": "Saya_perlu_mengurus_pengembalian_pajak..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要辦理退稅。",
+            "audio": "我需要辦理退稅。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen194",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "退稅櫃台在哪裡？",
+        "CN_ENG": {
+            "word": "Where is the tax refund counter?",
+            "audio": "Where_is_the_tax_refund_counter.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "免税カウンターはどこですか (めんぜいかうんたーはどこですか)",
+            "audio": "めんぜいかうんたーはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "택스 리펀드 카운터가 어디에 있나요? (taegseu lipeondeu kainteoga eodie issnayo?)",
+            "audio": "택스_리펀드_카운터가_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quầy hoàn thuế ở đâu?",
+            "audio": "Quầy_hoàn_thuế_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "退稅櫃位喺邊度呀？ (teoi3 seoi3 gwai6 wai2 hai2 bin1 dou6 aa3?)",
+            "audio": "退稅櫃位喺邊度呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où est le comptoir de détaxe ?",
+            "audio": "Où_est_le_comptoir_de_détaxe.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo ist der Schalter für die Steuerrückerstattung?",
+            "audio": "Wo_ist_der_Schalter_für_die_Steuerrückerstattung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde está el mostrador de devolución de impuestos?",
+            "audio": "¿Dónde_está_el_mostrador_de_devolución_de_impuestos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где стойка возврата налога? (Gde stoyka vozvrata naloga?)",
+            "audio": "Где_стойка_возврата_налога.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เคาน์เตอร์คืนภาษีอยู่ที่ไหน (kao-dtêr keun paa-sěe yòo têe nǎi)",
+            "audio": "เคาน์เตอร์คืนภาษีอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana loket pengembalian pajak?",
+            "audio": "Di_mana_loket_pengembalian_pajak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "退稅櫃台在哪裡？",
+            "audio": "退稅櫃台在哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen195",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請給我一張明細。",
+        "CN_ENG": {
+            "word": "Please give me an itemized receipt.",
+            "audio": "Please_give_me_an_itemized_receipt..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "明細書をいただけますか (めいさいしょをいただけますか)",
+            "audio": "めいさいしょをいただけますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상세 내역 영수증 좀 주세요. (sangse naeyeog yeongsujeung jom juseyo.)",
+            "audio": "상세_내역_영수증_좀_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng cho tôi hóa đơn chi tiết.",
+            "audio": "Vui_lòng_cho_tôi_hóa_đơn_chi_tiết..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀張明細我呀。 (maa4 faan4 bei2 zoeng1 ming4 sai3 ngo5 aa3.)",
+            "audio": "麻煩畀張明細我呀。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez me donner un reçu détaillé.",
+            "audio": "Veuillez_me_donner_un_reçu_détaillé..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie mir einen detaillierten Beleg.",
+            "audio": "Bitte_geben_Sie_mir_einen_detaillierten_Beleg..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, deme un recibo detallado.",
+            "audio": "Por_favor,_deme_un_recibo_detallado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне детализированный чек. (Pozhaluysta, dayte mne detalizirovannyy chek.)",
+            "audio": "Пожалуйста,_дайте_мне_детализированный_чек..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอใบเสร็จแบบแจกแจงรายการด้วยครับ/ค่ะ (kǒr bai-sèt bàep jàek-jaeng raai-gaan dûay kráp/kâ)",
+            "audio": "ขอใบเสร็จแบบแจกแจงรายการด้วยครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya tanda terima yang terperinci.",
+            "audio": "Tolong_beri_saya_tanda_terima_yang_terperinci..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一張明細。",
+            "audio": "請給我一張明細。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen196",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有會員優惠嗎？",
+        "CN_ENG": {
+            "word": "Are there any member discounts?",
+            "audio": "Are_there_any_member_discounts.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "会員割引はありますか (かいいんわりびきはありますか)",
+            "audio": "かいいんわりびきはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "회원 할인이 있나요? (hoewon hal-in-i issnayo?)",
+            "audio": "회원_할인이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có ưu đãi cho hội viên không?",
+            "audio": "Xin_hỏi_có_ưu_đãi_cho_hội_viên_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇會員優惠呀？ (cing2 man6 jau5 mou5 wui2 jyun4 jau1 wai6 aa3?)",
+            "audio": "請問有冇會員優惠呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des réductions pour les membres ?",
+            "audio": "Y_a-t-il_des_réductions_pour_les_membres.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es Mitgliederrabatte?",
+            "audio": "Gibt_es_Mitgliederrabatte.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay descuentos para miembros?",
+            "audio": "¿Hay_descuentos_para_miembros.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли скидки для участников? (Yest' li skidki dlya uchastnikov?)",
+            "audio": "Есть_ли_скидки_для_участников.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีส่วนลดสำหรับสมาชิกไหม (mee sùan-lót sǎm-ràp sà-maa-chík mǎi)",
+            "audio": "มีส่วนลดสำหรับสมาชิกไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada diskon anggota?",
+            "audio": "Apakah_ada_diskon_anggota.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有會員優惠嗎？",
+            "audio": "請問有會員優惠嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen197",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我想辦一張會員卡。",
+        "CN_ENG": {
+            "word": "I want to apply for a membership card.",
+            "audio": "I_want_to_apply_for_a_membership_card..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "メンバーズカードを作りたいです (めんばーずかーどをつくりたいです)",
+            "audio": "めんばーずかーどをつくりたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "회원 카드를 만들고 싶어요. (hoewon kadeuleul mandeulgo sip-eoyo.)",
+            "audio": "회원_카드를_만들고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn làm thẻ hội viên.",
+            "audio": "Tôi_muốn_làm_thẻ_hội_viên..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想申請一張會員卡。 (ngo5 soeng2 san1 cing2 jat1 zoeng1 wui2 jyun4 kaat1.)",
+            "audio": "我想申請一張會員卡。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux demander une carte de membre.",
+            "audio": "Je_veux_demander_une_carte_de_membre..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte eine Mitgliedskarte beantragen.",
+            "audio": "Ich_möchte_eine_Mitgliedskarte_beantragen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero solicitar una tarjeta de membresía.",
+            "audio": "Quiero_solicitar_una_tarjeta_de_membresía..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу оформить карту постоянного клиента. (Ya khochu oformit' kartu postoyannogo klyenta.)",
+            "audio": "Я_хочу_оформить_карту_постоянного_клиента..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการสมัครบัตรสมาชิก (chǎn dtông-gaan sà-màk bàt sà-maa-chík)",
+            "audio": "ฉันต้องการสมัครบัตรสมาชิก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin mendaftar kartu keanggotaan.",
+            "audio": "Saya_ingin_mendaftar_kartu_keanggotaan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想辦一張會員卡。",
+            "audio": "我想辦一張會員卡。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen198",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "可以幫我剪掉吊牌嗎？",
+        "CN_ENG": {
+            "word": "Can you cut off the price tag for me?",
+            "audio": "Can_you_cut_off_the_price_tag_for_me.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "値札を切ってもらえますか (ねふだをきってもらえますか)",
+            "audio": "ねふだをきってもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가격표 좀 잘라 주실 수 있나요? (gagyeogpyo jom jalla jusil su issnayo?)",
+            "audio": "가격표_좀_잘라_주실_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể cắt giúp tôi mác giá không?",
+            "audio": "Có_thể_cắt_giúp_tôi_mác_giá_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫我剪走個吊牌呀？ (ho2 m4 ho2 ji5 bong1 ngo5 zin2 zau2 go3 diu3 paai4 aa3?)",
+            "audio": "可唔可以幫我剪走個吊牌呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous couper l'étiquette pour moi ?",
+            "audio": "Pouvez-vous_couper_l'étiquette_pour_moi.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können Sie das Preisschild für mich abschneiden?",
+            "audio": "Können_Sie_das_Preisschild_für_mich_abschneiden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedes cortarme la etiqueta del precio?",
+            "audio": "¿Puedes_cortarme_la_etiqueta_del_precio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы срезать ценник? (Ne mogli by vy srezat' tsennik?)",
+            "audio": "Не_могли_бы_вы_срезать_ценник.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยตัดป้ายราคาออกให้หน่อยได้ไหม (chûay dtàt bpâai raa-kaa òk hâi nòi dâi mǎi)",
+            "audio": "ช่วยตัดป้ายราคาออกให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda memotong label harganya untuk saya?",
+            "audio": "Bisakah_Anda_memotong_label_harganya_untuk_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以幫我剪掉吊牌嗎？",
+            "audio": "可以幫我剪掉吊牌嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen199",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件衣服有抗UV功能嗎？",
+        "CN_ENG": {
+            "word": "Does this clothing have UV protection?",
+            "audio": "Does_this_clothing_have_UV_protection.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服はUVカット機能がありますか (このふくはゆーぶいかっときのうがありますか)",
+            "audio": "このふくはゆーぶいかっときのうがありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷은 자외선 차단 기능이 있나요? (i os-eun jaoeseon chadan gineung-i issnayo?)",
+            "audio": "이_옷은_자외선_차단_기능이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Áo này có chức năng chống tia UV không?",
+            "audio": "Áo_này_có_chức_năng_chống_tia_UV_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件衫有冇防UV功能呀？ (ni1 gin6 saam1 jau5 mou5 fong4 UV gung1 nang4 aa3?)",
+            "audio": "呢件衫有冇防UV功能呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce vêtement a-t-il une protection UV ?",
+            "audio": "Ce_vêtement_a-t-il_une_protection_UV.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hat diese Kleidung einen UV-Schutz?",
+            "audio": "Hat_diese_Kleidung_einen_UV-Schutz.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta ropa tiene protección UV?",
+            "audio": "¿Esta_ropa_tiene_protección_UV.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этой одежды есть защита от ультрафиолета? (U etoy odezhdy yest' zashchita ot ul'trafioleta?)",
+            "audio": "У_этой_одежды_есть_защита_от_ультрафиолета.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้มีคุณสมบัติกันยูวีไหม (sêua dtua née mee kun-ná-sǒm-bàt gan yoo-wee mǎi)",
+            "audio": "เสื้อตัวนี้มีคุณสมบัติกันยูวีไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah pakaian ini memiliki perlindungan UV?",
+            "audio": "Apakah_pakaian_ini_memiliki_perlindungan_UV.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件衣服有抗UV功能嗎？",
+            "audio": "這件衣服有抗UV功能嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen200",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這雙襪子是純棉的嗎？",
+        "CN_ENG": {
+            "word": "Are these socks pure cotton?",
+            "audio": "Are_these_socks_pure_cotton.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この靴下は綿100パーセントですか (このくつしたはめんひゃくぱーせんとですか)",
+            "audio": "このくつしたはめんひゃくぱーせんとですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 양말은 100% 면인가요? (i yangmal-eun 100% myeon-ingayo?)",
+            "audio": "이_양말은_100%_면인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đôi tất này có phải là cotton nguyên chất không?",
+            "audio": "Đôi_tất_này_có_phải_là_cotton_nguyên_chất_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢對襪係咪純棉㗎？ (ni1 deoi3 mat6 hai6 mai6 seon4 min4 gaa3?)",
+            "audio": "呢對襪係咪純棉㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ces chaussettes sont-elles en pur coton ?",
+            "audio": "Ces_chaussettes_sont-elles_en_pur_coton.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sind diese Socken aus reiner Baumwolle?",
+            "audio": "Sind_diese_Socken_aus_reiner_Baumwolle.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Estos calcetines son de algodón puro?",
+            "audio": "¿Estos_calcetines_son_de_algodón_puro.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эти носки из чистого хлопка? (Eti noski iz chistogo khlopka?)",
+            "audio": "Эти_носки_из_чистого_хлопка.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถุงเท้าคู่นี้เป็นผ้าฝ้ายร้อยเปอร์เซ็นต์ไหม (tǔng-táo kôo née bpen pâa-fâai rói bper-sen mǎi)",
+            "audio": "ถุงเท้าคู่นี้เป็นผ้าฝ้ายร้อยเปอร์เซ็นต์ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kaus kaki ini katun murni?",
+            "audio": "Apakah_kaus_kaki_ini_katun_murni.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這雙襪子是純棉的嗎？",
+            "audio": "這雙襪子是純棉的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen201",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有賣男士內衣嗎？",
+        "CN_ENG": {
+            "word": "Do you sell men's underwear?",
+            "audio": "Do_you_sell_men's_underwear.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "紳士用の下着は売っていますか (しんし用のしたぎはうっていますか)",
+            "audio": "しんし用のしたぎはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "남성용 속옷도 판매하나요? (namseong-yong sog-osdo panmaehanayo?)",
+            "audio": "남성용_속옷도_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có bán đồ lót nam không?",
+            "audio": "Xin_hỏi_có_bán_đồ_lót_nam_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇賣男裝內衣呀？ (cing2 man6 jau5 mou5 maai6 naam4 zong1 noi6 ji1 aa3?)",
+            "audio": "請問有冇賣男裝內衣呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des sous-vêtements pour hommes ?",
+            "audio": "Vendez-vous_des_sous-vêtements_pour_hommes.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie Herrenunterwäsche?",
+            "audio": "Verkaufen_Sie_Herrenunterwäsche.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden ropa interior para hombres?",
+            "audio": "¿Venden_ropa_interior_para_hombres.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете мужское нижнее белье? (Vy prodayete muzhskoye nizhneye bel'ye?)",
+            "audio": "Вы_продаете_мужское_нижнее_белье.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีชุดชั้นในผู้ชายขายไหม (mee chút chán-nai pôo-chaai kǎai mǎi)",
+            "audio": "มีชุดชั้นในผู้ชายขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual pakaian dalam pria?",
+            "audio": "Apakah_Anda_menjual_pakaian_dalam_pria.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有賣男士內衣嗎？",
+            "audio": "請問有賣男士內衣嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen202",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有賣女士內衣嗎？",
+        "CN_ENG": {
+            "word": "Do you sell women's underwear?",
+            "audio": "Do_you_sell_women's_underwear.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "婦人用の下着は売っていますか (ふじん用のしたぎはうっていますか)",
+            "audio": "ふじん用のしたぎはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여성용 속옷도 판매하나요? (yeoseong-yong sog-osdo panmaehanayo?)",
+            "audio": "여성용_속옷도_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có bán đồ lót nữ không?",
+            "audio": "Xin_hỏi_có_bán_đồ_lót_nữ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇賣女裝內衣呀？ (cing2 man6 jau5 mou5 maai6 neoi5 zong1 noi6 ji1 aa3?)",
+            "audio": "請問有冇賣女裝內衣呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des sous-vêtements pour femmes ?",
+            "audio": "Vendez-vous_des_sous-vêtements_pour_femmes.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie Damenunterwäsche?",
+            "audio": "Verkaufen_Sie_Damenunterwäsche.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden ropa interior para mujeres?",
+            "audio": "¿Venden_ropa_interior_para_mujeres.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете женское нижнее белье? (Vy prodayete zhenskoye nizhneye bel'ye?)",
+            "audio": "Вы_продаете_женское_нижнее_белье.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีชุดชั้นในผู้หญิงขายไหม (mee chút chán-nai pôo-yǐng kǎai mǎi)",
+            "audio": "มีชุดชั้นในผู้หญิงขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual pakaian dalam wanita?",
+            "audio": "Apakah_Anda_menjual_pakaian_dalam_wanita.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有賣女士內衣嗎？",
+            "audio": "請問有賣女士內衣嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen203",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個款式有大尺碼嗎？",
+        "CN_ENG": {
+            "word": "Does this style come in plus sizes?",
+            "audio": "Does_this_style_come_in_plus_sizes.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このデザインの大きいサイズはありますか (このでざいんのおおきいさいずはありますか)",
+            "audio": "このでざいんのおおきいさいずはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 디자인으로 빅 사이즈가 있나요? (i dijain-eulo big saijeuga issnayo?)",
+            "audio": "이_디자인으로_빅_사이즈가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mẫu này có kích cỡ lớn không?",
+            "audio": "Mẫu_này_có_kích_cỡ_lớn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個款有冇加大碼呀？ (ni1 go3 fun2 jau5 mou5 gaa1 daai6 maa5 aa3?)",
+            "audio": "呢個款有冇加大碼呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce modèle existe-t-il en grandes tailles ?",
+            "audio": "Ce_modèle_existe-t-il_en_grandes_tailles.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es diesen Stil in Übergrößen?",
+            "audio": "Gibt_es_diesen_Stil_in_Übergrößen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este estilo viene en tallas grandes?",
+            "audio": "¿Este_estilo_viene_en_tallas_grandes.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот фасон бывает больших размеров? (Etot fason byvayet bol'shikh razmerov?)",
+            "audio": "Этот_фасон_бывает_больших_размеров.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แบบนี้มีไซส์ใหญ่พิเศษไหม (bàep née mee sai yài pí-sàyt mǎi)",
+            "audio": "แบบนี้มีไซส์ใหญ่พิเศษไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah model ini tersedia dalam ukuran besar?",
+            "audio": "Apakah_model_ini_tersedia_dalam_ukuran_besar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個款式有大尺碼嗎？",
+            "audio": "這個款式有大尺碼嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen204",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這件外套可以雙面穿嗎？",
+        "CN_ENG": {
+            "word": "Is this jacket reversible?",
+            "audio": "Is_this_jacket_reversible.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このジャケットはリバーシブルですか (このじゃけっとはりばーしぶるですか)",
+            "audio": "このじゃけっとはりばーしぶるですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 재킷은 양면으로 입을 수 있나요? (i jaegis-eun yangmyeon-eulo ib-eul su issnayo?)",
+            "audio": "이_재킷은_양면으로_입을_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Áo khoác này có thể mặc hai mặt không?",
+            "audio": "Áo_khoác_này_có_thể_mặc_hai_mặt_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件外套可唔可以兩面著呀？ (ni1 gin6 ngoi6 tou3 ho2 m4 ho2 ji5 loeng5 min6 zoek3 aa3?)",
+            "audio": "呢件外套可唔可以兩面著呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette veste est-elle réversible ?",
+            "audio": "Cette_veste_est-elle_réversible.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist diese Jacke wendbar?",
+            "audio": "Ist_diese_Jacke_wendbar.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta chaqueta es reversible?",
+            "audio": "¿Esta_chaqueta_es_reversible.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта куртка двусторонняя? (Eta kurtka dvustoronnyaya?)",
+            "audio": "Эта_куртка_двусторонняя.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อแจ็คเก็ตนี้ใส่ได้สองด้านไหม (sêua jàek-gèt née sài dâi sǒng dâan mǎi)",
+            "audio": "เสื้อแจ็คเก็ตนี้ใส่ได้สองด้านไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah jaket ini bisa dipakai bolak-balik?",
+            "audio": "Apakah_jaket_ini_bisa_dipakai_bolak-balik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件外套可以雙面穿嗎？",
+            "audio": "這件外套可以雙面穿嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen205",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這條褲子可以改短嗎？",
+        "CN_ENG": {
+            "word": "Can these pants be shortened?",
+            "audio": "Can_these_pants_be_shortened.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このズボンの丈を詰められますか (このずぼんのたけをつめられますか)",
+            "audio": "このずぼんのたけをつめられますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 바지 기장을 줄일 수 있나요? (i baji gijang-eul jul-il su issnayo?)",
+            "audio": "이_바지_기장을_줄일_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quần này có thể cắt ngắn lại không?",
+            "audio": "Quần_này_có_thể_cắt_ngắn_lại_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢條褲可唔可以改短呀？ (ni1 tiu4 fu3 ho2 m4 ho2 ji5 goi2 dyun2 aa3?)",
+            "audio": "呢條褲可唔可以改短呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce pantalon peut-il être raccourci ?",
+            "audio": "Ce_pantalon_peut-il_être_raccourci.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann diese Hose gekürzt werden?",
+            "audio": "Kann_diese_Hose_gekürzt_werden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Se pueden acortar estos pantalones?",
+            "audio": "¿Se_pueden_acortar_estos_pantalones.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Можно ли укоротить эти брюки? (Mozhno li ukorotit' eti bryuki?)",
+            "audio": "Можно_ли_укоротить_эти_брюки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กางเกงตัวนี้ตัดขาให้สั้นลงได้ไหม (gaang-gayng dtua née dtàt kǎa hâi sân long dâi mǎi)",
+            "audio": "กางเกงตัวนี้ตัดขาให้สั้นลงได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah celana ini dipendekkan?",
+            "audio": "Bolehkah_celana_ini_dipendekkan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這條褲子可以改短嗎？",
+            "audio": "這條褲子可以改短嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen206",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "修改衣服需要多少錢？",
+        "CN_ENG": {
+            "word": "How much does clothing alteration cost?",
+            "audio": "How_much_does_clothing_alteration_cost.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お直しにはいくらかかりますか (おなおしにはいくらかかりますか)",
+            "audio": "おなおしにはいくらかかりますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수선비는 얼마인가요? (suseonbineun eolmaingayo?)",
+            "audio": "수선비는_얼마인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sửa quần áo mất bao nhiêu tiền?",
+            "audio": "Sửa_quần_áo_mất_bao_nhiêu_tiền.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "改衫要幾多錢呀？ (goi2 saam1 jiu3 gei2 do1 cin2 aa3?)",
+            "audio": "改衫要幾多錢呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien coûte la retouche de vêtements ?",
+            "audio": "Combien_coûte_la_retouche_de_vêtements.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie viel kostet die Änderung der Kleidung?",
+            "audio": "Wie_viel_kostet_die_Änderung_der_Kleidung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto cuesta el arreglo de ropa?",
+            "audio": "¿Cuánto_cuesta_el_arreglo_de_ropa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько стоит переделка одежды? (Skol'ko stoit peredelka odezhdy?)",
+            "audio": "Сколько_стоит_переделка_одежды.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ค่าแก้เสื้อผ้าราคาเท่าไหร่ (kâa gâe sêua-pâa raa-kaa tâo-rài)",
+            "audio": "ค่าแก้เสื้อผ้าราคาเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa biaya permak pakaian?",
+            "audio": "Berapa_biaya_permak_pakaian.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "修改衣服需要多少錢？",
+            "audio": "修改衣服需要多少錢？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen207",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "修改大約需要等多久？",
+        "CN_ENG": {
+            "word": "How long does the alteration take?",
+            "audio": "How_long_does_the_alteration_take.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お直しにはどのくらい時間がかかりますか (おなおしにはどのくらいじかんがかかりますか)",
+            "audio": "おなおしにはどのくらいじかんがかかりますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "수선하는 데 시간이 얼마나 걸리나요? (suseonhaneun de sigan-i eolmana geollinayo?)",
+            "audio": "수선하는_데_시간이_얼마나_걸리나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sửa đồ khoảng bao lâu thì xong?",
+            "audio": "Sửa_đồ_khoảng_bao_lâu_thì_xong.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "改衫大約要等幾耐呀？ (goi2 saam1 daai6 joek3 jiu3 dang2 gei2 noi6 aa3?)",
+            "audio": "改衫大約要等幾耐呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien de temps prend la retouche ?",
+            "audio": "Combien_de_temps_prend_la_retouche.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lange dauert die Änderung?",
+            "audio": "Wie_lange_dauert_die_Änderung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto tiempo toma el arreglo?",
+            "audio": "¿Cuánto_tiempo_toma_el_arreglo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько времени занимает переделка? (Skol'ko vremeni zanimayet peredelka?)",
+            "audio": "Сколько_времени_занимает_переделка.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แก้ชุดต้องรอนานแค่ไหน (gâe chút dtông ror naan kâe nǎi)",
+            "audio": "แก้ชุดต้องรอนานแค่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa lama waktu untuk permak?",
+            "audio": "Berapa_lama_waktu_untuk_permak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "修改大約需要等多久？",
+            "audio": "修改大約需要等多久？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen208",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我明天再來拿可以嗎？",
+        "CN_ENG": {
+            "word": "Can I pick it up tomorrow?",
+            "audio": "Can_I_pick_it_up_tomorrow.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "明日取りに来てもいいですか (あしたとりにきてもいいですか)",
+            "audio": "あしたとりにきてもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "내일 찾으러 와도 될까요? (naeil chaj-euleo wado doelkkayo?)",
+            "audio": "내일_찾으러_와도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ngày mai tôi quay lại lấy được không?",
+            "audio": "Ngày_mai_tôi_quay_lại_lấy_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我聽日再嚟攞得唔得呀？ (ngo5 ting1 jat6 zoi3 lai4 lo2 dak1 m4 dak1 aa3?)",
+            "audio": "我聽日再嚟攞得唔得呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je venir le chercher demain ?",
+            "audio": "Puis-je_venir_le_chercher_demain.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich es morgen abholen?",
+            "audio": "Kann_ich_es_morgen_abholen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo recogerlo mañana?",
+            "audio": "¿Puedo_recogerlo_mañana.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу ли я забрать это завтра? (Mogu li ya zabrat' eto zavtra?)",
+            "audio": "Могу_ли_я_забрать_это_завтра.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันมารับพรุ่งนี้ได้ไหม (chǎn maa ráp prûng-née dâi mǎi)",
+            "audio": "ฉันมารับพรุ่งนี้ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah saya mengambilnya besok?",
+            "audio": "Bisakah_saya_mengambilnya_besok.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我明天再來拿可以嗎？",
+            "audio": "我明天再來拿可以嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen209",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這副墨鏡有偏光嗎？",
+        "CN_ENG": {
+            "word": "Are these sunglasses polarized?",
+            "audio": "Are_these_sunglasses_polarized.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このサングラスは偏光レンズですか (このさんぐらすはへんこうれんずですか)",
+            "audio": "このさんぐらすはへんこうれんずですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 선글라스는 편광 렌즈인가요? (i seongeullaseuneun pyeongwang lenjeuingayo?)",
+            "audio": "이_선글라스는_편광_렌즈인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Kính râm này có phân cực không?",
+            "audio": "Kính_râm_này_có_phân_cực_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢副太陽眼鏡有冇偏光呀？ (ni1 fu3 taai3 joeng4 ngaan5 geng3 jau5 mou5 pin1 gwong1 aa3?)",
+            "audio": "呢副太陽眼鏡有冇偏光呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ces lunettes de soleil sont-elles polarisées ?",
+            "audio": "Ces_lunettes_de_soleil_sont-elles_polarisées.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sind diese Sonnenbrillen polarisiert?",
+            "audio": "Sind_diese_Sonnenbrillen_polarisiert.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Estas gafas de sol están polarizadas?",
+            "audio": "¿Estas_gafas_de_sol_están_polarizadas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этих солнцезащитных очков поляризованные линзы? (U etikh solntsezashchitnykh ochkov polyarizovannyye linzy?)",
+            "audio": "У_этих_солнцезащитных_очков_поляризованные_линзы.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แว่นกันแดดนี้เลนส์โพลาไรซ์ไหม (wâen gan dàet née lens poh-laa-rái mǎi)",
+            "audio": "แว่นกันแดดนี้เลนส์โพลาไรซ์ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kacamata hitam ini terpolarisasi?",
+            "audio": "Apakah_kacamata_hitam_ini_terpolarisasi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這副墨鏡有偏光嗎？",
+            "audio": "這副墨鏡有偏光嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen210",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這只手錶防水嗎？",
+        "CN_ENG": {
+            "word": "Is this watch waterproof?",
+            "audio": "Is_this_watch_waterproof.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この時計は防水ですか (このとけいはぼうすいですか)",
+            "audio": "このとけいはぼうすいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 시계는 방수가 되나요? (i sigyeneun bangsuga doenayo?)",
+            "audio": "이_시계는_방수가_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc đồng hồ này có chống nước không?",
+            "audio": "Chiếc_đồng_hồ_này_có_chống_nước_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢隻錶防唔防水呀？ (ni1 zek3 biu1 fong4 m4 fong4 seoi2 aa3?)",
+            "audio": "呢隻錶防唔防水呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette montre est-elle étanche ?",
+            "audio": "Cette_montre_est-elle_étanche.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist diese Uhr wasserdicht?",
+            "audio": "Ist_diese_Uhr_wasserdicht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este reloj es resistente al agua?",
+            "audio": "¿Este_reloj_es_resistente_al_agua.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эти часы водонепроницаемые? (Eti chasy vodonepronitsayemyye?)",
+            "audio": "Эти_часы_водонепроницаемые.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นาฬิกาเรือนนี้กันน้ำไหม (naa-lí-gaa reuan née gan náam mǎi)",
+            "audio": "นาฬิกาเรือนนี้กันน้ำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah jam tangan ini tahan air?",
+            "audio": "Apakah_jam_tangan_ini_tahan_air.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這只手錶防水嗎？",
+            "audio": "這只手錶防水嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen211",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這條項鍊是純銀的嗎？",
+        "CN_ENG": {
+            "word": "Is this necklace sterling silver?",
+            "audio": "Is_this_necklace_sterling_silver.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このネックレスは純銀ですか (このねっくれすはじゅんぎんですか)",
+            "audio": "このねっくれすはじゅんぎんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 목걸이는 순은인가요? (i moggeolineun sun-eun-ingayo?)",
+            "audio": "이_목걸이는_순은인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dây chuyền này có phải là bạc nguyên chất không?",
+            "audio": "Dây_chuyền_này_có_phải_là_bạc_nguyên_chất_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢條頸鍊係咪純銀㗎？ (ni1 tiu4 geng2 lin2 hai6 mai6 seon4 ngan4 gaa3?)",
+            "audio": "呢條頸鍊係咪純銀㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce collier est-il en argent massif ?",
+            "audio": "Ce_collier_est-il_en_argent_massif.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist diese Halskette aus Sterlingsilber?",
+            "audio": "Ist_diese_Halskette_aus_Sterlingsilber.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este collar es de plata de ley?",
+            "audio": "¿Este_collar_es_de_plata_de_ley.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это ожерелье из стерлингового серебра? (Eto ozherel'ye iz sterlingovogo serebra?)",
+            "audio": "Это_ожерелье_из_стерлингового_серебра.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สร้อยคอเส้นนี้เป็นเงินแท้ไหม (sôi kor sên née bpen ngern táe mǎi)",
+            "audio": "สร้อยคอเส้นนี้เป็นเงินแท้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kalung ini perak murni?",
+            "audio": "Apakah_kalung_ini_perak_murni.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這條項鍊是純銀的嗎？",
+            "audio": "這條項鍊是純銀的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen212",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有其他的包裝盒嗎？",
+        "CN_ENG": {
+            "word": "Do you have other packaging boxes?",
+            "audio": "Do_you_have_other_packaging_boxes.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "他のギフトボックスはありますか (ほかのぎふとぼっくすはありますか)",
+            "audio": "ほかのぎふとぼっくすはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다른 포장 상자가 있나요? (daleun pojang sangjaga issnayo?)",
+            "audio": "다른_포장_상자가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có hộp đóng gói nào khác không?",
+            "audio": "Xin_hỏi_có_hộp_đóng_gói_nào_khác_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇其他包裝盒呀？ (cing2 man6 jau5 mou5 kei4 taa1 baau1 zong1 hap2 aa3?)",
+            "audio": "請問有冇其他包裝盒呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avez-vous d'autres boîtes d'emballage ?",
+            "audio": "Avez-vous_d'autres_boîtes_d'emballage.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben Sie andere Verpackungsschachteln?",
+            "audio": "Haben_Sie_andere_Verpackungsschachteln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienen otras cajas de embalaje?",
+            "audio": "¿Tienen_otras_cajas_de_embalaje.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть другие упаковочные коробки? (U vas yest' drugiye upakovochnyye korobki?)",
+            "audio": "У_вас_есть_другие_упаковочные_коробки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีกล่องบรรจุภัณฑ์แบบอื่นไหม (mee glòng ban-jù-pan bàep èun mǎi)",
+            "audio": "มีกล่องบรรจุภัณฑ์แบบอื่นไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda memiliki kotak kemasan lainnya?",
+            "audio": "Apakah_Anda_memiliki_kotak_kemasan_lainnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有其他的包裝盒嗎？",
+            "audio": "請問有其他的包裝盒嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen213",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個材質容易起毛球嗎？",
+        "CN_ENG": {
+            "word": "Does this material pill easily?",
+            "audio": "Does_this_material_pill_easily.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この素材は毛玉ができやすいですか (このそざいはけだまができやすいですか)",
+            "audio": "このそざいはけだまができやすいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 소재는 보풀이 잘 일어나나요? (i sojaeneun bopul-i jal il-eonanayo?)",
+            "audio": "이_소재는_보풀이_잘_일어나나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chất liệu này có dễ bị xù lông không?",
+            "audio": "Chất_liệu_này_có_dễ_bị_xù_lông_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢種質地容易起毛粒嗎？ (ni1 zung2 zat1 dei2 jung4 ji6 hei2 mou4 nap1 maa1?)",
+            "audio": "呢種質地容易起毛粒嗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce matériau bouloche-t-il facilement ?",
+            "audio": "Ce_matériau_bouloche-t-il_facilement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bildet dieses Material leicht Fusseln?",
+            "audio": "Bildet_dieses_Material_leicht_Fusseln.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este material hace bolitas fácilmente?",
+            "audio": "¿Este_material_hace_bolitas_fácilmente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На этом материале легко образуются катышки? (Na etom materiale legko obrazuyutsya katyshki?)",
+            "audio": "На_этом_материале_легко_образуются_катышки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วัสดุนี้เป็นขุยง่ายไหม (wát-sà-dù née bpen kǔi ngâai mǎi)",
+            "audio": "วัสดุนี้เป็นขุยง่ายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah bahan ini mudah berbulu?",
+            "audio": "Apakah_bahan_ini_mudah_berbulu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個材質容易起毛球嗎？",
+            "audio": "這個材質容易起毛球嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen214",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個顏色洗了會褪色嗎？",
+        "CN_ENG": {
+            "word": "Will this color fade after washing?",
+            "audio": "Will_this_color_fade_after_washing.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この色は洗うと色落ちしますか (このいろはあらうといろおちしますか)",
+            "audio": "このいろはあらうといろおちしますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 색상은 세탁하면 물이 빠지나요? (i saegsang-eun setaghamyeon mul-i ppajinayo?)",
+            "audio": "이_색상은_세탁하면_물이_빠지나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Màu này giặt có bị phai không?",
+            "audio": "Màu_này_giặt_có_bị_phai_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢隻色洗完會唔會甩色呀？ (ni1 zek3 sik1 sai2 jyun4 wui5 m4 wui5 lat1 sik1 aa3?)",
+            "audio": "呢隻色洗完會唔會甩色呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette couleur s'estompera-t-elle au lavage ?",
+            "audio": "Cette_couleur_s'estompera-t-elle_au_lavage.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wird diese Farbe nach dem Waschen verblassen?",
+            "audio": "Wird_diese_Farbe_nach_dem_Waschen_verblassen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este color se desvanecerá después del lavado?",
+            "audio": "¿Este_color_se_desvanecerá_después_del_lavado.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот цвет полиняет после стирки? (Etot tsvet polinyayet posle stirki?)",
+            "audio": "Этот_цвет_полиняет_после_стирки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สีนี้ซักแล้วจะตกไหม (sěe née sák láew jà dtòk mǎi)",
+            "audio": "สีนี้ซักแล้วจะตกไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah warna ini akan luntur setelah dicuci?",
+            "audio": "Apakah_warna_ini_akan_luntur_setelah_dicuci.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個顏色洗了會褪色嗎？",
+            "audio": "這個顏色洗了會褪色嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen215",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問有賣兒童裝嗎？",
+        "CN_ENG": {
+            "word": "Do you sell children's clothing?",
+            "audio": "Do_you_sell_children's_clothing.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "子供服は売っていますか (こどもふくはうっていますか)",
+            "audio": "こどもふくはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "아동복도 판매하나요? (adongbogdo panmaehanayo?)",
+            "audio": "아동복도_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi có bán quần áo trẻ em không?",
+            "audio": "Xin_hỏi_có_bán_quần_áo_trẻ_em_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇賣童裝呀？ (cing2 man6 jau5 mou5 maai6 tung4 zong1 aa3?)",
+            "audio": "請問有冇賣童裝呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des vêtements pour enfants ?",
+            "audio": "Vendez-vous_des_vêtements_pour_enfants.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie Kinderkleidung?",
+            "audio": "Verkaufen_Sie_Kinderkleidung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden ropa de niños?",
+            "audio": "¿Venden_ropa_de_niños.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете детскую одежду? (Vy prodayete detskuyu odezhdu?)",
+            "audio": "Вы_продаете_детскую_одежду.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีเสื้อผ้าเด็กขายไหม (mee sêua-pâa dèk kǎai mǎi)",
+            "audio": "มีเสื้อผ้าเด็กขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual pakaian anak-anak?",
+            "audio": "Apakah_Anda_menjual_pakaian_anak-anak.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有賣兒童裝嗎？",
+            "audio": "請問有賣兒童裝嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen216",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "嬰兒服飾在哪個區域？",
+        "CN_ENG": {
+            "word": "Which section has baby clothing?",
+            "audio": "Which_section_has_baby_clothing.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ベビー服のコーナーはどこですか (べびーふくのこーなーはどこですか)",
+            "audio": "べびーふくのこーなーはどこですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "유아복 코너는 어디에 있나요? (yuabog koneoneun eodie issnayo?)",
+            "audio": "유아복_코너는_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khu vực quần áo trẻ sơ sinh ở đâu?",
+            "audio": "Khu_vực_quần_áo_trẻ_sơ_sinh_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "嬰兒衫喺邊個區域呀？ (jing1 ji4 saam1 hai2 bin1 go3 keoi1 wik6 aa3?)",
+            "audio": "嬰兒衫喺邊個區域呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Dans quelle section se trouvent les vêtements pour bébés ?",
+            "audio": "Dans_quelle_section_se_trouvent_les_vêtements_pour_bébés.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "In welcher Abteilung ist die Babykleidung?",
+            "audio": "In_welcher_Abteilung_ist_die_Babykleidung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿En qué sección está la ropa de bebé?",
+            "audio": "¿En_qué_sección_está_la_ropa_de_bebé.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "В каком отделе одежда для малышей? (V kakom otdele odezhda dlya malyshey?)",
+            "audio": "В_каком_отделе_одежда_для_малышей.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แผนกเสื้อผ้าเด็กอ่อนอยู่ที่ไหน (pà-nàek sêua-pâa dèk-òn yòo têe nǎi)",
+            "audio": "แผนกเสื้อผ้าเด็กอ่อนอยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di bagian mana pakaian bayi?",
+            "audio": "Di_bagian_mana_pakaian_bayi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "嬰兒服飾在哪個區域？",
+            "audio": "嬰兒服飾在哪個區域？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen217",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我想買一雙運動鞋。",
+        "CN_ENG": {
+            "word": "I want to buy a pair of sports shoes.",
+            "audio": "I_want_to_buy_a_pair_of_sports_shoes..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "スニーカーを一足買いたいです (すにーかーをいっそくかいたいです)",
+            "audio": "すにーかーをいっそくかいたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "운동화 한 켤레 사고 싶어요. (undonghwa han kyeolle sago sip-eoyo.)",
+            "audio": "운동화_한_켤레_사고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn mua một đôi giày thể thao.",
+            "audio": "Tôi_muốn_mua_một_đôi_giày_thể_thao..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想買一對波鞋。 (ngo5 soeng2 maai5 jat1 deoi3 bo1 haai4.)",
+            "audio": "我想買一對波鞋。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux acheter une paire de chaussures de sport.",
+            "audio": "Je_veux_acheter_une_paire_de_chaussures_de_sport..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte ein Paar Sportschuhe kaufen.",
+            "audio": "Ich_möchte_ein_Paar_Sportschuhe_kaufen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero comprar un par de zapatos deportivos.",
+            "audio": "Quiero_comprar_un_par_de_zapatos_deportivos..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу купить пару спортивной обуви. (Ya khochu kupit' paru sportivnoy obuvi.)",
+            "audio": "Я_хочу_купить_пару_спортивной_обуви..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการซื้อรองเท้าผ้าใบหนึ่งคู่ (chǎn dtông-gaan séu rong-táo pâa-bai nèung kôo)",
+            "audio": "ฉันต้องการซื้อรองเท้าผ้าใบหนึ่งคู่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin membeli sepasang sepatu olahraga.",
+            "audio": "Saya_ingin_membeli_sepasang_sepatu_olahraga..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想買一雙運動鞋。",
+            "audio": "我想買一雙運動鞋。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen218",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這雙鞋適合跑步穿嗎？",
+        "CN_ENG": {
+            "word": "Are these shoes good for running?",
+            "audio": "Are_these_shoes_good_for_running.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この靴はランニングに適していますか (このくつはらんにんぐにてきしていますか)",
+            "audio": "このくつはらんにんぐにてきしていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 신발은 러닝용으로 적합한가요? (i sinbal-eun leoning-yong-eulo jeoghabhangayo?)",
+            "audio": "이_신발은_러닝용으로_적합한가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đôi giày này có phù hợp để chạy bộ không?",
+            "audio": "Đôi_giày_này_có_phù_hợp_để_chạy_bộ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢對鞋啱唔啱跑步著呀？ (ni1 deoi3 haai4 ngaam1 m4 ngaam1 paau2 bou6 zoek3 aa3?)",
+            "audio": "呢對鞋啱唔啱跑步著呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ces chaussures sont-elles bonnes pour courir ?",
+            "audio": "Ces_chaussures_sont-elles_bonnes_pour_courir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sind diese Schuhe gut zum Laufen?",
+            "audio": "Sind_diese_Schuhe_gut_zum_Laufen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Estos zapatos son buenos para correr?",
+            "audio": "¿Estos_zapatos_son_buenos_para_correr.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эти кроссовки подходят для бега? (Eti krossovki podkhodyat dlya bega?)",
+            "audio": "Эти_кроссовки_подходят_для_бега.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รองเท้าคู่นี้เหมาะสำหรับใส่วิ่งไหม (rong-táo kôo née mǒr sǎm-ràp sài wîng mǎi)",
+            "audio": "รองเท้าคู่นี้เหมาะสำหรับใส่วิ่งไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah sepatu ini cocok untuk berlari?",
+            "audio": "Apakah_sepatu_ini_cocok_untuk_berlari.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這雙鞋適合跑步穿嗎？",
+            "audio": "這雙鞋適合跑步穿嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen219",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "我可以試戴這頂帽子嗎？",
+        "CN_ENG": {
+            "word": "Can I try on this hat?",
+            "audio": "Can_I_try_on_this_hat.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この帽子を試着してもいいですか (このぼうしをしちゃくしてもいいですか)",
+            "audio": "このぼうしをしちゃくしてもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 모자 써봐도 될까요? (i moja sseobwado doelkkayo?)",
+            "audio": "이_모자_써봐도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể đội thử chiếc mũ này không?",
+            "audio": "Tôi_có_thể_đội_thử_chiếc_mũ_này_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以試戴呢頂帽呀？ (ngo5 ho2 m4 ho2 ji5 si3 daai3 ni1 deng2 mou2 aa3?)",
+            "audio": "我可唔可以試戴呢頂帽呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je essayer ce chapeau ?",
+            "audio": "Puis-je_essayer_ce_chapeau.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich diesen Hut anprobieren?",
+            "audio": "Kann_ich_diesen_Hut_anprobieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo probarme este sombrero?",
+            "audio": "¿Puedo_probarme_este_sombrero.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я примерить эту шляпу? (Mogu ya primerit' etu shlyapu?)",
+            "audio": "Могу_я_примерить_эту_шляпу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอลองใส่หมวกใบนี้ได้ไหม (chǎn kǒr long sài mùak bai née dâi mǎi)",
+            "audio": "ฉันขอลองใส่หมวกใบนี้ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya mencoba topi ini?",
+            "audio": "Bolehkah_saya_mencoba_topi_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以試戴這頂帽子嗎？",
+            "audio": "我可以試戴這頂帽子嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen220",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個戒指對我來說太鬆了。",
+        "CN_ENG": {
+            "word": "This ring is too loose for me.",
+            "audio": "This_ring_is_too_loose_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この指輪は私には緩すぎます (このゆびわはわたしにはゆるすぎます)",
+            "audio": "このゆびわはわたしにはゆるすぎます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 반지는 저에게 너무 헐렁해요. (i banjineun jeoege neomu heolleonghaeyo.)",
+            "audio": "이_반지는_저에게_너무_헐렁해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc nhẫn này quá lỏng đối với tôi.",
+            "audio": "Chiếc_nhẫn_này_quá_lỏng_đối_với_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢隻戒指對我嚟講太鬆啦。 (ni1 zek3 gaai3 zi2 deoi3 ngo5 lai4 gong2 taai3 sung1 laa1.)",
+            "audio": "呢隻戒指對我嚟講太鬆啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette bague est trop lâche pour moi.",
+            "audio": "Cette_bague_est_trop_lâche_pour_moi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieser Ring ist mir zu locker.",
+            "audio": "Dieser_Ring_ist_mir_zu_locker..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este anillo me queda muy flojo.",
+            "audio": "Este_anillo_me_queda_muy_flojo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это кольцо мне слишком велико. (Eto kol'tso mne slishkom veliko.)",
+            "audio": "Это_кольцо_мне_слишком_велико..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แหวนวงนี้หลวมเกินไปสำหรับฉัน (wǎen wong née lǔam gern bpai sǎm-ràp chǎn)",
+            "audio": "แหวนวงนี้หลวมเกินไปสำหรับฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cincin ini terlalu longgar untuk saya.",
+            "audio": "Cincin_ini_terlalu_longgar_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個戒指對我來說太鬆了。",
+            "audio": "這個戒指對我來說太鬆了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen221",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個戒指對我來說太緊了。",
+        "CN_ENG": {
+            "word": "This ring is too tight for me.",
+            "audio": "This_ring_is_too_tight_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この指輪は私にはきつすぎます (このゆびわはわたしにはきつすぎます)",
+            "audio": "このゆびわはわたしにはきつすぎます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 반지는 저에게 너무 꽉 껴요. (i banjineun jeoege neomu kkwag kkyeoyo.)",
+            "audio": "이_반지는_저에게_너무_꽉_껴요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc nhẫn này quá chật đối với tôi.",
+            "audio": "Chiếc_nhẫn_này_quá_chật_đối_với_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢隻戒指對我嚟講太緊啦。 (ni1 zek3 gaai3 zi2 deoi3 ngo5 lai4 gong2 taai3 gan2 laa1.)",
+            "audio": "呢隻戒指對我嚟講太緊啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette bague est trop serrée pour moi.",
+            "audio": "Cette_bague_est_trop_serrée_pour_moi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieser Ring ist mir zu eng.",
+            "audio": "Dieser_Ring_ist_mir_zu_eng..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este anillo me queda muy apretado.",
+            "audio": "Este_anillo_me_queda_muy_apretado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это кольцо мне слишком мало. (Eto kol'tso mne slishkom malo.)",
+            "audio": "Это_кольцо_мне_слишком_мало..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แหวนวงนี้คับเกินไปสำหรับฉัน (wǎen wong née káp gern bpai sǎm-ràp chǎn)",
+            "audio": "แหวนวงนี้คับเกินไปสำหรับฉัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cincin ini terlalu ketat untuk saya.",
+            "audio": "Cincin_ini_terlalu_ketat_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個戒指對我來說太緊了。",
+            "audio": "這個戒指對我來說太緊了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen222",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "你們有賣帆布包嗎？",
+        "CN_ENG": {
+            "word": "Do you sell canvas bags?",
+            "audio": "Do_you_sell_canvas_bags.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "キャンバストートバッグは売っていますか (きゃんばすとーとばっぐはうっていますか)",
+            "audio": "きゃんばすとーとばっぐはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "캔버스 에코백도 판매하나요? (kaenbeoseu ekobaegdo panmaehanayo?)",
+            "audio": "캔버스_에코백도_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Các bạn có bán túi vải bố không?",
+            "audio": "Các_bạn_có_bán_túi_vải_bố_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你哋有冇賣帆布袋呀？ (nei5 dei6 jau5 mou5 maai6 faan4 bou3 doi2 aa3?)",
+            "audio": "你哋有冇賣帆布袋呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des sacs en toile ?",
+            "audio": "Vendez-vous_des_sacs_en_toile.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie Leinentaschen?",
+            "audio": "Verkaufen_Sie_Leinentaschen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden bolsas de lona?",
+            "audio": "¿Venden_bolsas_de_lona.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете холщовые сумки? (Vy prodayete kholshchovyye sumki?)",
+            "audio": "Вы_продаете_холщовые_сумки.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณมีกระเป๋าผ้าแคนวาสขายไหม (kun mee grà-bpǎo pâa kaen-wâat kǎai mǎi)",
+            "audio": "คุณมีกระเป๋าผ้าแคนวาสขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual tas kanvas?",
+            "audio": "Apakah_Anda_menjual_tas_kanvas.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你們有賣帆布包嗎？",
+            "audio": "你們有賣帆布包嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen223",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個行李箱有多重？",
+        "CN_ENG": {
+            "word": "How much does this suitcase weigh?",
+            "audio": "How_much_does_this_suitcase_weigh.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このスーツケースの重さはどれくらいですか (このすーつけーすのおもさはどれくらいですか)",
+            "audio": "このすーつけーすのおもさはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 캐리어 무게가 얼마나 되나요? (i kaelieo mugega eolmana doenayo?)",
+            "audio": "이_캐리어_무게가_얼마나_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc vali này nặng bao nhiêu?",
+            "audio": "Chiếc_vali_này_nặng_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個喼有幾重呀？ (ni1 go3 gip1 jau5 gei2 cung5 aa3?)",
+            "audio": "呢個喼有幾重呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien pèse cette valise ?",
+            "audio": "Combien_pèse_cette_valise.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie viel wiegt dieser Koffer?",
+            "audio": "Wie_viel_wiegt_dieser_Koffer.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto pesa esta maleta?",
+            "audio": "¿Cuánto_pesa_esta_maleta.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько весит этот чемодан? (Skol'ko vesit etot chemodan?)",
+            "audio": "Сколько_весит_этот_чемодан.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระเป๋าเดินทางใบนี้หนักเท่าไหร่ (grà-bpǎo dern-taang bai née nàk tâo-rài)",
+            "audio": "กระเป๋าเดินทางใบนี้หนักเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa berat koper ini?",
+            "audio": "Berapa_berat_koper_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個行李箱有多重？",
+            "audio": "這個行李箱有多重？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen224",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "輪子推起來很順暢。",
+        "CN_ENG": {
+            "word": "The wheels roll very smoothly.",
+            "audio": "The_wheels_roll_very_smoothly..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "キャスターがとてもスムーズに動きます (きゃすたーがとてもすむーずにうごきます)",
+            "audio": "きゃすたーがとてもすむーずにうごきます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "바퀴가 아주 부드럽게 굴러가네요. (bakwiga aju budeuleobge gulleoganeyo.)",
+            "audio": "바퀴가_아주_부드럽게_굴러가네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bánh xe đẩy rất mượt mà.",
+            "audio": "Bánh_xe_đẩy_rất_mượt_mà..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "啲轆推起上嚟好順。 (di1 luk1 teoi1 hei2 soeng5 lai4 hou2 seon6.)",
+            "audio": "啲轆推起上嚟好順。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Les roues roulent très bien.",
+            "audio": "Les_roues_roulent_très_bien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Rollen laufen sehr reibungslos.",
+            "audio": "Die_Rollen_laufen_sehr_reibungslos..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Las ruedas ruedan muy suavemente.",
+            "audio": "Las_ruedas_ruedan_muy_suavemente..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Колеса катятся очень плавно. (Kolesa katyatsya ochen' plavno.)",
+            "audio": "Колеса_катятся_очень_плавно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ล้อเข็นได้ลื่นไหลมาก (lór kěn dâi lêun lǎi mâak)",
+            "audio": "ล้อเข็นได้ลื่นไหลมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Rodanya berputar dengan sangat lancar.",
+            "audio": "Rodanya_berputar_dengan_sangat_lancar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "輪子推起來很順暢。",
+            "audio": "輪子推起來很順暢。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen225",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個包包的容量很大。",
+        "CN_ENG": {
+            "word": "This bag has a large capacity.",
+            "audio": "This_bag_has_a_large_capacity..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このバッグは容量がとても大きいです (このばっぐはようりょうがとてもおおきいです)",
+            "audio": "このばっぐはようりょうがとてもおおきいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 가방은 수납 공간이 아주 넓어요. (i gabang-eun sunab gong-gan-i aju neolb-eoyo.)",
+            "audio": "이_가방은_수납_공간이_아주_넓어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc túi này có sức chứa rất lớn.",
+            "audio": "Chiếc_túi_này_có_sức_chứa_rất_lớn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個袋嘅容量好大。 (ni1 go3 doi2 ge3 jung4 loeng6 hou2 daai6.)",
+            "audio": "呢個袋嘅容量好大。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce sac a une grande capacité.",
+            "audio": "Ce_sac_a_une_grande_capacité..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Diese Tasche hat ein großes Fassungsvermögen.",
+            "audio": "Diese_Tasche_hat_ein_großes_Fassungsvermögen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este bolso tiene una gran capacidad.",
+            "audio": "Este_bolso_tiene_una_gran_capacidad..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этой сумки большая вместимость. (U etoy sumki bol'shaya vmestimost'.)",
+            "audio": "У_этой_сумки_большая_вместимость..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระเป๋าใบนี้มีความจุมาก (grà-bpǎo bai née mee kwaam jù mâak)",
+            "audio": "กระเป๋าใบนี้มีความจุมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tas ini memiliki kapasitas yang besar.",
+            "audio": "Tas_ini_memiliki_kapasitas_yang_besar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個包包的容量很大。",
+            "audio": "這個包包的容量很大。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen226",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "請問拉鍊有保固嗎？",
+        "CN_ENG": {
+            "word": "Is there a warranty for the zipper?",
+            "audio": "Is_there_a_warranty_for_the_zipper.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ファスナーの保証はありますか (ふぁすなーのほしょうはありますか)",
+            "audio": "ふぁすなーのほしょうはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지퍼에 대한 보증이 있나요? (jipeoe daehan bojeung-i issnayo?)",
+            "audio": "지퍼에_대한_보증이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi dây kéo có bảo hành không?",
+            "audio": "Xin_hỏi_dây_kéo_có_bảo_hành_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問拉鍊有冇保養呀？ (cing2 man6 laa1 lin2 jau5 mou5 bou2 joeng5 aa3?)",
+            "audio": "請問拉鍊有冇保養呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il une garantie pour la fermeture éclair ?",
+            "audio": "Y_a-t-il_une_garantie_pour_la_fermeture_éclair.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es eine Garantie für den Reißverschluss?",
+            "audio": "Gibt_es_eine_Garantie_für_den_Reißverschluss.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay garantía para la cremallera?",
+            "audio": "¿Hay_garantía_para_la_cremallera.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На молнию есть гарантия? (Na molniyu yest' garantiya?)",
+            "audio": "На_молнию_есть_гарантия.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ซิปมีการรับประกันไหม (síp mee gaan ráp-bprà-gan mǎi)",
+            "audio": "ซิปมีการรับประกันไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada garansi untuk resletingnya?",
+            "audio": "Apakah_ada_garansi_untuk_resletingnya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問拉鍊有保固嗎？",
+            "audio": "請問拉鍊有保固嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen227",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個設計非常有質感。",
+        "CN_ENG": {
+            "word": "This design has a premium feel.",
+            "audio": "This_design_has_a_premium_feel..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このデザインはとても高級感があります (このでざいんはとてもこうきゅうかんがあります)",
+            "audio": "このでざいんはとてもこうきゅうかんがあります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 디자인은 퀄리티가 아주 좋아 보여요. (i dijain-eun kwollitiga aju joh-a boyeoyo.)",
+            "audio": "이_디자인은_퀄리티가_아주_좋아_보여요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thiết kế này trông rất có chất lượng.",
+            "audio": "Thiết_kế_này_trông_rất_có_chất_lượng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個設計非常有質感。 (ni1 go3 cit3 gai3 fei1 soeng4 jau5 zat1 gam2.)",
+            "audio": "呢個設計非常有質感。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce design donne une impression de qualité.",
+            "audio": "Ce_design_donne_une_impression_de_qualité..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieses Design fühlt sich sehr hochwertig an.",
+            "audio": "Dieses_Design_fühlt_sich_sehr_hochwertig_an..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este diseño se siente de muy alta calidad.",
+            "audio": "Este_diseño_se_siente_de_muy_alta_calidad..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот дизайн выглядит очень качественно. (Etot dizayn vyglyadit ochen' kachestvenno.)",
+            "audio": "Этот_дизайн_выглядит_очень_качественно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "การออกแบบนี้ดูมีระดับมาก (gaan òk-bàep née doo mee rá-dàp mâak)",
+            "audio": "การออกแบบนี้ดูมีระดับมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Desain ini terasa sangat premium.",
+            "audio": "Desain_ini_terasa_sangat_premium..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個設計非常有質感。",
+            "audio": "這個設計非常有質感。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen228",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "可以幫我拿新的嗎？",
+        "CN_ENG": {
+            "word": "Can you get a new one for me?",
+            "audio": "Can_you_get_a_new_one_for_me.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "新しいものを出してもらえますか (あたらしいものをだしてもらえますか)",
+            "audio": "あたらしいものをだしてもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "새 상품으로 가져다주시겠어요? (sae sangpum-eulo gajyeodajusigess-eoyo?)",
+            "audio": "새_상품으로_가져다주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể lấy cho tôi cái mới không?",
+            "audio": "Có_thể_lấy_cho_tôi_cái_mới_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫我攞過件新嘅呀？ (ho2 m4 ho2 ji5 bong1 ngo5 lo2 gwo3 gin6 san1 ge3 aa3?)",
+            "audio": "可唔可以幫我攞過件新嘅呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous m'en donner un nouveau ?",
+            "audio": "Pouvez-vous_m'en_donner_un_nouveau.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können Sie mir ein neues Exemplar holen?",
+            "audio": "Können_Sie_mir_ein_neues_Exemplar_holen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedes traerme uno nuevo?",
+            "audio": "¿Puedes_traerme_uno_nuevo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Можете принести мне новый? (Mozhete prinesti mne novyy?)",
+            "audio": "Можете_принести_мне_новый.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยหยิบของใหม่ให้หน่อยได้ไหม (chûay yìp kǒng mài hâi nòi dâi mǎi)",
+            "audio": "ช่วยหยิบของใหม่ให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda mengambilkan yang baru untuk saya?",
+            "audio": "Bisakah_Anda_mengambilkan_yang_baru_untuk_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以幫我拿新的嗎？",
+            "audio": "可以幫我拿新的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen229",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "這個材質很透氣。",
+        "CN_ENG": {
+            "word": "This material is very breathable.",
+            "audio": "This_material_is_very_breathable..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この素材はとても通気性が良いです (このそざいはとてもつうきせいがよいです)",
+            "audio": "このそざいはとてもつうきせいがよいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 소재는 통기성이 아주 좋습니다. (i sojaeneun tong-giseong-i aju johseubnida.)",
+            "audio": "이_소재는_통기성이_아주_좋습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chất liệu này rất thoáng khí.",
+            "audio": "Chất_liệu_này_rất_thoáng_khí..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢種質地好透氣。 (ni1 zung2 zat1 dei2 hou2 tau3 hei3.)",
+            "audio": "呢種質地好透氣。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce matériau est très respirant.",
+            "audio": "Ce_matériau_est_très_respirant..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieses Material ist sehr atmungsaktiv.",
+            "audio": "Dieses_Material_ist_sehr_atmungsaktiv..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este material es muy transpirable.",
+            "audio": "Este_material_es_muy_transpirable..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот материал очень дышащий. (Etot material ochen' dyshashchiy.)",
+            "audio": "Этот_материал_очень_дышащий..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วัสดุนี้ระบายอากาศได้ดีมาก (wát-sà-dù née rá-baai aa-gàat dâi dee mâak)",
+            "audio": "วัสดุนี้ระบายอากาศได้ดีมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bahan ini sangat menyerap keringat dan bersirkulasi udara.",
+            "audio": "Bahan_ini_sangat_menyerap_keringat_dan_bersirkulasi_udara..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個材質很透氣。",
+            "audio": "這個材質很透氣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen230",
+        "category": "購物消費",
+        "subcategory": "服飾購物",
+        "cn": "謝謝你的推薦。",
+        "CN_ENG": {
+            "word": "Thank you for your recommendation.",
+            "audio": "Thank_you_for_your_recommendation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おすすめしてくれてありがとうございます (おすすめしてくれてありがとうございます)",
+            "audio": "おすすめしてくれてありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천해 주셔서 감사합니다. (chucheonhae jusyeoseo gamsahabnida.)",
+            "audio": "추천해_주셔서_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn lời giới thiệu của bạn.",
+            "audio": "Cảm_ơn_lời_giới_thiệu_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅推薦。 (do1 ze6 nei5 ge3 teoi1 zin3.)",
+            "audio": "多謝你嘅推薦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour votre recommandation.",
+            "audio": "Merci_pour_votre_recommandation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen Dank für Ihre Empfehlung.",
+            "audio": "Vielen_Dank_für_Ihre_Empfehlung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu recomendación.",
+            "audio": "Gracias_por_tu_recomendación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за вашу рекомендацию. (Spasibo za vashu rekomendatsiyu.)",
+            "audio": "Спасибо_за_вашу_рекомендацию..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับคำแนะนำ (kòp-kun sǎm-ràp kam náe-nam)",
+            "audio": "ขอบคุณสำหรับคำแนะนำ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas rekomendasi Anda.",
+            "audio": "Terima_kasih_atas_rekomendasi_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的推薦。",
+            "audio": "謝謝你的推薦。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen231",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問在哪裡可以找到手機配件？",
+        "CN_ENG": {
+            "word": "Where can I find mobile phone accessories?",
+            "audio": "Where_can_I_find_mobile_phone_accessories.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "携帯電話のアクセサリーはどこにありますか (けいたいでんわのあくせさりーはどこにありますか)",
+            "audio": "けいたいでんわのあくせさりーはどこにありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "휴대폰 액세서리는 어디에 있나요? (hyudaepon aegseseolineun eodie issnayo?)",
+            "audio": "휴대폰_액세서리는_어디에_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phụ kiện điện thoại ở đâu?",
+            "audio": "Phụ_kiện_điện_thoại_ở_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問喺邊度可以搵到手機配件呀？ (cing2 man6 hai2 bin1 dou6 ho2 ji5 wan2 dou3 sau2 gei1 pui3 gin2 aa3?)",
+            "audio": "請問喺邊度可以搵到手機配件呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où puis-je trouver des accessoires pour téléphones portables ?",
+            "audio": "Où_puis-je_trouver_des_accessoires_pour_téléphones_portables.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo finde ich Handyzubehör?",
+            "audio": "Wo_finde_ich_Handyzubehör.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde puedo encontrar accesorios para teléfonos móviles?",
+            "audio": "¿Dónde_puedo_encontrar_accesorios_para_teléfonos_móviles.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где я могу найти аксессуары для мобильных телефонов? (Gde ya mogu nayti aksessuary dlya mobil'nykh telefonov?)",
+            "audio": "Где_я_могу_найти_аксессуары_для_мобильных_телефонов.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อุปกรณ์เสริมมือถืออยู่ที่ไหน (ùp-bpà-gon sěrm meu-těu yòo têe nǎi)",
+            "audio": "อุปกรณ์เสริมมือถืออยู่ที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana saya bisa menemukan aksesori ponsel?",
+            "audio": "Di_mana_saya_bisa_menemukan_aksesori_ponsel.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問在哪裡可以找到手機配件？",
+            "audio": "請問在哪裡可以找到手機配件？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen232",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "我想看最新款的智慧型手機。",
+        "CN_ENG": {
+            "word": "I want to see the latest smartphones.",
+            "audio": "I_want_to_see_the_latest_smartphones..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "最新のスマートフォンを見たいです (さいしんのすまーとふぉんをみたいです)",
+            "audio": "さいしんのすまーとふぉんをみたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "최신 스마트폰을 보고 싶어요. (choesin seumateuponeul bogo sip-eoyo.)",
+            "audio": "최신_스마트폰을_보고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn xem những mẫu điện thoại thông minh mới nhất.",
+            "audio": "Tôi_muốn_xem_những_mẫu_điện_thoại_thông_minh_mới_nhất..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想睇最新款嘅智能手機。 (ngo5 soeng2 tai2 zeoi3 san1 fun2 ge3 zi3 nang4 sau2 gei1.)",
+            "audio": "我想睇最新款嘅智能手機。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je veux voir les derniers smartphones.",
+            "audio": "Je_veux_voir_les_derniers_smartphones..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte die neuesten Smartphones sehen.",
+            "audio": "Ich_möchte_die_neuesten_Smartphones_sehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Quiero ver los últimos teléfonos inteligentes.",
+            "audio": "Quiero_ver_los_últimos_teléfonos_inteligentes..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хочу посмотреть новейшие смартфоны. (Ya khochu posmotret' noveyshiye smartfony.)",
+            "audio": "Я_хочу_посмотреть_новейшие_смартфоны..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันอยากดูสมาร์ทโฟนรุ่นล่าสุด (chǎn yàak doo sà-máat-fohn rûn lâa-sùt)",
+            "audio": "ฉันอยากดูสมาร์ทโฟนรุ่นล่าสุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin melihat ponsel pintar terbaru.",
+            "audio": "Saya_ingin_melihat_ponsel_pintar_terbaru..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想看最新款的智慧型手機。",
+            "audio": "我想看最新款的智慧型手機。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen233",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這台筆記型電腦的重量是多少？",
+        "CN_ENG": {
+            "word": "How much does this laptop weigh?",
+            "audio": "How_much_does_this_laptop_weigh.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このノートパソコンの重さはどれくらいですか (こののーとぱそこんのおもさはどれくらいですか)",
+            "audio": "こののーとぱそこんのおもさはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 노트북 무게가 얼마나 되나요? (i noteubug mugega eolmana doenayo?)",
+            "audio": "이_노트북_무게가_얼마나_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc máy tính xách tay này nặng bao nhiêu?",
+            "audio": "Chiếc_máy_tính_xách_tay_này_nặng_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢部手提電腦有幾重呀？ (ni1 bou6 sau2 tai4 din6 nou5 jau5 gei2 cung5 aa3?)",
+            "audio": "呢部手提電腦有幾重呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien pèse cet ordinateur portable ?",
+            "audio": "Combien_pèse_cet_ordinateur_portable.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie viel wiegt dieser Laptop?",
+            "audio": "Wie_viel_wiegt_dieser_Laptop.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto pesa esta computadora portátil?",
+            "audio": "¿Cuánto_pesa_esta_computadora_portátil.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько весит этот ноутбук? (Skol'ko vesit etot noutbuk?)",
+            "audio": "Сколько_весит_этот_ноутбук.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แล็ปท็อปเครื่องนี้หนักเท่าไหร่ (láep-tóp krêuang née nàk tâo-rài)",
+            "audio": "แล็ปท็อปเครื่องนี้หนักเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa berat laptop ini?",
+            "audio": "Berapa_berat_laptop_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這台筆記型電腦的重量是多少？",
+            "audio": "這台筆記型電腦的重量是多少？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen234",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這台平板電腦的容量有多大？",
+        "CN_ENG": {
+            "word": "What is the storage capacity of this tablet?",
+            "audio": "What_is_the_storage_capacity_of_this_tablet.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このタブレットの容量はどれくらいですか (このたぶれっとのようりょうはどれくらいですか)",
+            "audio": "このたぶれっとのようりょうはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 태블릿 용량이 얼마나 되나요? (i taebeullis yonglyang-i eolmana doenayo?)",
+            "audio": "이_태블릿_용량이_얼마나_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dung lượng của chiếc máy tính bảng này là bao nhiêu?",
+            "audio": "Dung_lượng_của_chiếc_máy_tính_bảng_này_là_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢部平板電腦容量有幾大呀？ (ni1 bou6 ping4 baan2 din6 nou5 jung4 loeng6 jau5 gei2 daai6 aa3?)",
+            "audio": "呢部平板電腦容量有幾大呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est la capacité de stockage de cette tablette ?",
+            "audio": "Quelle_est_la_capacité_de_stockage_de_cette_tablette.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie groß ist die Speicherkapazität dieses Tablets?",
+            "audio": "Wie_groß_ist_die_Speicherkapazität_dieses_Tablets.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuál es la capacidad de almacenamiento de esta tableta?",
+            "audio": "¿Cuál_es_la_capacidad_de_almacenamiento_de_esta_tableta.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Каков объем памяти этого планшета? (Kakov ob\"yem pamyati etogo plansheta?)",
+            "audio": "Каков_объем_памяти_этого_планшета.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แท็บเล็ตนี้มีความจุเท่าไหร่ (táep-lèt née mee kwaam jù tâo-rài)",
+            "audio": "แท็บเล็ตนี้มีความจุเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa kapasitas penyimpanan tablet ini?",
+            "audio": "Berapa_kapasitas_penyimpanan_tablet_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這台平板電腦的容量有多大？",
+            "audio": "這台平板電腦的容量有多大？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen235",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這款相機適合初學者嗎？",
+        "CN_ENG": {
+            "word": "Is this camera suitable for beginners?",
+            "audio": "Is_this_camera_suitable_for_beginners.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このカメラは初心者向けですか (このかめらはしょしんしゃむけですか)",
+            "audio": "このかめらはしょしんしゃむけですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 카메라는 초보자에게 적합한가요? (i kamelaneun choboja-ege jeoghabhangayo?)",
+            "audio": "이_카메라는_초보자에게_적합한가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Máy ảnh này có phù hợp cho người mới bắt đầu không?",
+            "audio": "Máy_ảnh_này_có_phù_hợp_cho_người_mới_bắt_đầu_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢款相機啱唔啱初學者用呀？ (ni1 fun2 soeng2 gei1 ngaam1 m4 ngaam1 co1 hok6 ze2 jung6 aa3?)",
+            "audio": "呢款相機啱唔啱初學者用呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cet appareil photo convient-il aux débutants ?",
+            "audio": "Cet_appareil_photo_convient-il_aux_débutants.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist diese Kamera für Anfänger geeignet?",
+            "audio": "Ist_diese_Kamera_für_Anfänger_geeignet.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta cámara es adecuada para principiantes?",
+            "audio": "¿Esta_cámara_es_adecuada_para_principiantes.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта камера подходит для начинающих? (Eta kamera podkhodit dlya nachinayushchikh?)",
+            "audio": "Эта_камера_подходит_для_начинающих.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กล้องรุ่นนี้เหมาะสำหรับมือใหม่ไหม (glông rûn née mǒr sǎm-ràp meu mài mǎi)",
+            "audio": "กล้องรุ่นนี้เหมาะสำหรับมือใหม่ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kamera ini cocok untuk pemula?",
+            "audio": "Apakah_kamera_ini_cocok_untuk_pemula.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這款相機適合初學者嗎？",
+            "audio": "這款相機適合初學者嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen236",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問這台電視有上網功能嗎？",
+        "CN_ENG": {
+            "word": "Does this TV have internet access?",
+            "audio": "Does_this_TV_have_internet_access.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このテレビはインターネットに接続できますか (このてれびはいんたーねっとにせつぞくできますか)",
+            "audio": "このてれびはいんたーねっとにせつぞくできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 TV는 인터넷 연결이 되나요? (i TVneun inteones yeongyeol-i doenayo?)",
+            "audio": "이_TV는_인터넷_연결이_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tivi này có kết nối internet không?",
+            "audio": "Tivi_này_có_kết_nối_internet_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢部電視有冇上網功能呀？ (cing2 man6 ni1 bou6 din6 si6 jau5 mou5 soeng5 mong5 gung1 nang4 aa3?)",
+            "audio": "請問呢部電視有冇上網功能呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette télévision a-t-elle un accès à internet ?",
+            "audio": "Cette_télévision_a-t-elle_un_accès_à_internet.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hat dieser Fernseher einen Internetanschluss?",
+            "audio": "Hat_dieser_Fernseher_einen_Internetanschluss.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta televisión tiene acceso a internet?",
+            "audio": "¿Esta_televisión_tiene_acceso_a_internet.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этого телевизора есть доступ в интернет? (U etogo televizora yest' dostup v internet?)",
+            "audio": "У_этого_телевизора_есть_доступ_в_интернет.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทีวีเครื่องนี้ต่ออินเทอร์เน็ตได้ไหม (tee-wee krêuang née dtòr in-ter-nèt dâi mǎi)",
+            "audio": "ทีวีเครื่องนี้ต่ออินเทอร์เน็ตได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah TV ini memiliki akses internet?",
+            "audio": "Apakah_TV_ini_memiliki_akses_internet.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這台電視有上網功能嗎？",
+            "audio": "請問這台電視有上網功能嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen237",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這副耳機是無線的嗎？",
+        "CN_ENG": {
+            "word": "Are these headphones wireless?",
+            "audio": "Are_these_headphones_wireless.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このイヤホンはワイヤレスですか (このいやほんはわいやれすですか)",
+            "audio": "このいやほんはわいやれすですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 이어폰은 무선인가요? (i ieopon-eun museon-ingayo?)",
+            "audio": "이_이어폰은_무선인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tai nghe này có phải là không dây không?",
+            "audio": "Tai_nghe_này_có_phải_là_không_dây_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢副耳機係咪無線㗎？ (ni1 fu3 ji5 gei1 hai6 mai6 mou4 sin3 gaa3?)",
+            "audio": "呢副耳機係咪無線㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ces écouteurs sont-ils sans fil ?",
+            "audio": "Ces_écouteurs_sont-ils_sans_fil.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sind diese Kopfhörer kabellos?",
+            "audio": "Sind_diese_Kopfhörer_kabellos.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Estos auriculares son inalámbricos?",
+            "audio": "¿Estos_auriculares_son_inalámbricos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эти наушники беспроводные? (Eti naushniki besprovodnyye?)",
+            "audio": "Эти_наушники_беспроводные.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หูฟังนี้เป็นแบบไร้สายไหม (hǔu-fang née bpen bàep rái sǎai mǎi)",
+            "audio": "หูฟังนี้เป็นแบบไร้สายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah headphone ini nirkabel?",
+            "audio": "Apakah_headphone_ini_nirkabel.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這副耳機是無線的嗎？",
+            "audio": "這副耳機是無線的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen238",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這副耳機有降噪功能嗎？",
+        "CN_ENG": {
+            "word": "Do these headphones have noise cancellation?",
+            "audio": "Do_these_headphones_have_noise_cancellation.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このイヤホンはノイズキャンセリング機能がありますか (このいやほんはのいずきゃんせりんぐきのうがありますか)",
+            "audio": "このいやほんはのいずきゃんせりんぐきのうがありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 이어폰은 노이즈 캔슬링 기능이 있나요? (i ieopon-eun noijeu kaenseulling gineung-i issnayo?)",
+            "audio": "이_이어폰은_노이즈_캔슬링_기능이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tai nghe này có tính năng chống ồn không?",
+            "audio": "Tai_nghe_này_có_tính_năng_chống_ồn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢副耳機有冇降噪功能呀？ (ni1 fu3 ji5 gei1 jau5 mou5 gong3 cou3 gung1 nang4 aa3?)",
+            "audio": "呢副耳機有冇降噪功能呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ces écouteurs ont-ils la réduction de bruit ?",
+            "audio": "Ces_écouteurs_ont-ils_la_réduction_de_bruit.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Haben diese Kopfhörer eine Geräuschunterdrückung?",
+            "audio": "Haben_diese_Kopfhörer_eine_Geräuschunterdrückung.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Estos auriculares tienen cancelación de ruido?",
+            "audio": "¿Estos_auriculares_tienen_cancelación_de_ruido.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этих наушников есть активное шумоподавление? (U etikh naushnikov yest' aktivnoye shumopodavleniye?)",
+            "audio": "У_этих_наушников_есть_активное_шумоподавление.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หูฟังนี้มีระบบตัดเสียงรบกวนไหม (hǔu-fang née mee rá-bòp dtàt sǐang róp-guan mǎi)",
+            "audio": "หูฟังนี้มีระบบตัดเสียงรบกวนไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah headphone ini memiliki fitur peredam bising?",
+            "audio": "Apakah_headphone_ini_memiliki_fitur_peredam_bising.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這副耳機有降噪功能嗎？",
+            "audio": "這副耳機有降噪功能嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen239",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這顆行動電源可以充幾次電？",
+        "CN_ENG": {
+            "word": "How many times can this power bank charge a phone?",
+            "audio": "How_many_times_can_this_power_bank_charge_a_phone.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このモバイルバッテリーは何回充電できますか (このもばいるばってりーはなんかいじゅうでんできますか)",
+            "audio": "このもばいるばってりーはなんかいじゅうでんできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 보조배터리는 몇 번 충전할 수 있나요? (i bojobaeteolineun myeoch beon chungjeonhal su issnayo?)",
+            "audio": "이_보조배터리는_몇_번_충전할_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sạc dự phòng này có thể sạc được mấy lần?",
+            "audio": "Sạc_dự_phòng_này_có_thể_sạc_được_mấy_lần.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個尿袋可以充幾多次電呀？ (ni1 go3 niu6 doi2 ho2 ji5 cung1 gei2 do1 ci3 din6 aa3?)",
+            "audio": "呢個尿袋可以充幾多次電呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien de fois cette batterie externe peut-elle charger un téléphone ?",
+            "audio": "Combien_de_fois_cette_batterie_externe_peut-elle_charger_un_téléphone.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie oft kann diese Powerbank ein Telefon aufladen?",
+            "audio": "Wie_oft_kann_diese_Powerbank_ein_Telefon_aufladen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuántas veces puede este banco de energía cargar un teléfono?",
+            "audio": "¿Cuántas_veces_puede_este_banco_de_energía_cargar_un_teléfono.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько раз этот повербанк может зарядить телефон? (Skol'ko raz etot poverbank mozhet zaryadit' telefon?)",
+            "audio": "Сколько_раз_этот_повербанк_может_зарядить_телефон.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พาวเวอร์แบงค์นี้ชาร์จได้กี่รอบ (paao-wêr-baeng née cháat dâi gèe rôp)",
+            "audio": "พาวเวอร์แบงค์นี้ชาร์จได้กี่รอบ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa kali power bank ini bisa mengisi daya ponsel?",
+            "audio": "Berapa_kali_power_bank_ini_bisa_mengisi_daya_ponsel.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這顆行動電源可以充幾次電？",
+            "audio": "這顆行動電源可以充幾次電？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen240",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問有賣萬用轉接頭嗎？",
+        "CN_ENG": {
+            "word": "Do you sell universal adapters?",
+            "audio": "Do_you_sell_universal_adapters.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "万能変換プラグは売っていますか (ばんのうへんかんぷらぐはうっていますか)",
+            "audio": "ばんのうへんかんぷらぐはうっていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "멀티 어댑터 판매하나요? (meolti eodaebteo panmaehanayo?)",
+            "audio": "멀티_어댑터_판매하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có bán phích cắm chuyển đổi đa năng không?",
+            "audio": "Có_bán_phích_cắm_chuyển_đổi_đa_năng_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇賣萬能插頭呀？ (cing2 man6 jau5 mou5 maai6 maan6 nang4 caap3 tau2 aa3?)",
+            "audio": "請問有冇賣萬能插頭呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Vendez-vous des adaptateurs universels ?",
+            "audio": "Vendez-vous_des_adaptateurs_universels.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verkaufen Sie Universaladapter?",
+            "audio": "Verkaufen_Sie_Universaladapter.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Venden adaptadores universales?",
+            "audio": "¿Venden_adaptadores_universales.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы продаете универсальные адаптеры? (Vy prodayete universal'nyye adaptery?)",
+            "audio": "Вы_продаете_универсальные_адаптеры.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีหัวแปลงปลั๊กไฟอเนกประสงค์ขายไหม (mee hǔa bplaeng bplák fai a-nèhk-bprà-sǒng kǎai mǎi)",
+            "audio": "มีหัวแปลงปลั๊กไฟอเนกประสงค์ขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menjual adaptor universal?",
+            "audio": "Apakah_Anda_menjual_adaptor_universal.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有賣萬用轉接頭嗎？",
+            "audio": "請問有賣萬用轉接頭嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen241",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問這個充電線有多長？",
+        "CN_ENG": {
+            "word": "How long is this charging cable?",
+            "audio": "How_long_is_this_charging_cable.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この充電ケーブルの長さはどれくらいですか (このじゅうでんけーぶるのながさはどれくらいですか)",
+            "audio": "このじゅうでんけーぶるのながさはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 충전 케이블 길이는 얼마나 되나요? (i chungjeon keibeul gilineun eolmana doenayo?)",
+            "audio": "이_충전_케이블_길이는_얼마나_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dây sạc này dài bao nhiêu?",
+            "audio": "Dây_sạc_này_dài_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢條充電線有幾長呀？ (cing2 man6 ni1 tiu4 cung1 din6 sin3 jau5 gei2 coeng4 aa3?)",
+            "audio": "請問呢條充電線有幾長呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est la longueur de ce câble de charge ?",
+            "audio": "Quelle_est_la_longueur_de_ce_câble_de_charge.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lang ist dieses Ladekabel?",
+            "audio": "Wie_lang_ist_dieses_Ladekabel.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué tan largo es este cable de carga?",
+            "audio": "¿Qué_tan_largo_es_este_cable_de_carga.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Какова длина этого зарядного кабеля? (Kakova dlina etogo zaryadnogo kabelya?)",
+            "audio": "Какова_длина_этого_зарядного_кабеля.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สายชาร์จนี้ยาวเท่าไหร่ (sǎai cháat née yaao tâo-rài)",
+            "audio": "สายชาร์จนี้ยาวเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa panjang kabel pengisi daya ini?",
+            "audio": "Berapa_panjang_kabel_pengisi_daya_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個充電線有多長？",
+            "audio": "請問這個充電線有多長？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen242",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這個螢幕的解析度是多少？",
+        "CN_ENG": {
+            "word": "What is the resolution of this monitor?",
+            "audio": "What_is_the_resolution_of_this_monitor.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このモニターの解像度はどれくらいですか (このもにたーのかいぞうどはどれくらいですか)",
+            "audio": "このもにたーのかいぞうどはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 모니터의 해상도는 어떻게 되나요? (i moniteoui haesangdoneun eotteohge doenayo?)",
+            "audio": "이_모니터의_해상도는_어떻게_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Độ phân giải của màn hình này là bao nhiêu?",
+            "audio": "Độ_phân_giải_của_màn_hình_này_là_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個螢幕嘅解像度係幾多呀？ (ni1 go3 jing4 mok6 ge3 gaai2 zoeng6 dou6 hai6 gei2 do1 aa3?)",
+            "audio": "呢個螢幕嘅解像度係幾多呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est la résolution de cet écran ?",
+            "audio": "Quelle_est_la_résolution_de_cet_écran.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie hoch ist die Auflösung dieses Monitors?",
+            "audio": "Wie_hoch_ist_die_Auflösung_dieses_Monitors.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuál es la resolución de este monitor?",
+            "audio": "¿Cuál_es_la_resolución_de_este_monitor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Каково разрешение этого монитора? (Kakovo razresheniye etogo monitora?)",
+            "audio": "Каково_разрешение_этого_монитора.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หน้าจอนี้ความละเอียดเท่าไหร่ (nâa-jor née kwaam lá-ìat tâo-rài)",
+            "audio": "หน้าจอนี้ความละเอียดเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa resolusi monitor ini?",
+            "audio": "Berapa_resolusi_monitor_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個螢幕的解析度是多少？",
+            "audio": "這個螢幕的解析度是多少？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen243",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這台機器的電池續航力有多久？",
+        "CN_ENG": {
+            "word": "How long is the battery life of this machine?",
+            "audio": "How_long_is_the_battery_life_of_this_machine.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この機器のバッテリー駆動時間はどれくらいですか (このききのばってりーくどうじかんはどれくらいですか)",
+            "audio": "このききのばってりーくどうじかんはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 기기의 배터리 수명은 얼마나 되나요? (i gigiui baeteoli sumyeong-eun eolmana doenayo?)",
+            "audio": "이_기기의_배터리_수명은_얼마나_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thời lượng pin của máy này là bao lâu?",
+            "audio": "Thời_lượng_pin_của_máy_này_là_bao_lâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢部機嘅電池續航力有幾耐呀？ (ni1 bou6 gei1 ge3 din6 ci4 zuk6 hong4 lik6 jau5 gei2 noi6 aa3?)",
+            "audio": "呢部機嘅電池續航力有幾耐呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est l'autonomie de la batterie de cette machine ?",
+            "audio": "Quelle_est_l'autonomie_de_la_batterie_de_cette_machine.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lang ist die Akkulaufzeit dieses Geräts?",
+            "audio": "Wie_lang_ist_die_Akkulaufzeit_dieses_Geräts.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto dura la batería de esta máquina?",
+            "audio": "¿Cuánto_dura_la_batería_de_esta_máquina.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Каково время автономной работы этого устройства? (Kakovo vremya avtonomnoy raboty etogo ustroystva?)",
+            "audio": "Каково_время_автономной_работы_этого_устройства.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องนี้แบตเตอรี่ใช้งานได้นานแค่ไหน (krêuang née bàet-dter-rêe chái ngaan dâi naan kâe nǎi)",
+            "audio": "เครื่องนี้แบตเตอรี่ใช้งานได้นานแค่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa lama daya tahan baterai mesin ini?",
+            "audio": "Berapa_lama_daya_tahan_baterai_mesin_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這台機器的電池續航力有多久？",
+            "audio": "這台機器的電池續航力有多久？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen244",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這個產品有支援藍牙嗎？",
+        "CN_ENG": {
+            "word": "Does this product support Bluetooth?",
+            "audio": "Does_this_product_support_Bluetooth.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この製品はBluetoothに対応していますか (このせいひんはぶるーとぅーすにたいおうしていますか)",
+            "audio": "このせいひんはぶるーとぅーすにたいおうしていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 제품은 블루투스를 지원하나요? (i jepum-eun beullutuseuleul jiwonhanayo?)",
+            "audio": "이_제품은_블루투스를_지원하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sản phẩm này có hỗ trợ Bluetooth không?",
+            "audio": "Sản_phẩm_này_có_hỗ_trợ_Bluetooth_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個產品支唔支援藍牙呀？ (ni1 go3 caan2 ban2 zi1 m4 zi1 jyun4 laam4 ngaa4 aa3?)",
+            "audio": "呢個產品支唔支援藍牙呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce produit prend-il en charge le Bluetooth ?",
+            "audio": "Ce_produit_prend-il_en_charge_le_Bluetooth.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unterstützt dieses Produkt Bluetooth?",
+            "audio": "Unterstützt_dieses_Produkt_Bluetooth.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este producto soporta Bluetooth?",
+            "audio": "¿Este_producto_soporta_Bluetooth.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот продукт поддерживает Bluetooth? (Etot produkt podderzhivayet Bluetooth?)",
+            "audio": "Этот_продукт_поддерживает_Bluetooth.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สินค้านี้รองรับบลูทูธไหม (sǐn-káa née rong-ráp bloo-tôot mǎi)",
+            "audio": "สินค้านี้รองรับบลูทูธไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah produk ini mendukung Bluetooth?",
+            "audio": "Apakah_produk_ini_mendukung_Bluetooth.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個產品有支援藍牙嗎？",
+            "audio": "這個產品有支援藍牙嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen245",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問這個設備可以連接Wi-Fi嗎？",
+        "CN_ENG": {
+            "word": "Can this device connect to Wi-Fi?",
+            "audio": "Can_this_device_connect_to_Wi-Fi.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このデバイスはWi-Fiに接続できますか (このでばいすはわいふぁいにせつぞくできますか)",
+            "audio": "このでばいすはわいふぁいにせつぞくできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 기기는 와이파이 연결이 되나요? (i gigineun waipai yeongyeol-i doenayo?)",
+            "audio": "이_기기는_와이파이_연결이_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thiết bị này có kết nối Wi-Fi được không?",
+            "audio": "Thiết_bị_này_có_kết_nối_Wi-Fi_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個設備可唔可以連Wi-Fi呀？ (cing2 man6 ni1 go3 cit3 bei6 ho2 m4 ho2 ji5 lin4 Wi-Fi aa3?)",
+            "audio": "請問呢個設備可唔可以連Wi-Fi呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cet appareil peut-il se connecter au Wi-Fi ?",
+            "audio": "Cet_appareil_peut-il_se_connecter_au_Wi-Fi.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann sich dieses Gerät mit dem WLAN verbinden?",
+            "audio": "Kann_sich_dieses_Gerät_mit_dem_WLAN_verbinden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Se puede conectar este dispositivo a Wi-Fi?",
+            "audio": "¿Se_puede_conectar_este_dispositivo_a_Wi-Fi.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это устройство может подключаться к Wi-Fi? (Eto ustroystvo mozhet podklyuchat'sya k Wi-Fi?)",
+            "audio": "Это_устройство_может_подключаться_к_Wi-Fi.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อุปกรณ์นี้เชื่อมต่อไวไฟได้ไหม (ùp-bpà-gon née chêum-dtòr wai-fai dâi mǎi)",
+            "audio": "อุปกรณ์นี้เชื่อมต่อไวไฟได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah perangkat ini terhubung ke Wi-Fi?",
+            "audio": "Bisakah_perangkat_ini_terhubung_ke_Wi-Fi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個設備可以連接Wi-Fi嗎？",
+            "audio": "請問這個設備可以連接Wi-Fi嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen246",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這個產品的保固期是多久？",
+        "CN_ENG": {
+            "word": "How long is the warranty period for this product?",
+            "audio": "How_long_is_the_warranty_period_for_this_product.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この製品の保証期間はどれくらいですか (このせいひんのほしょうきかんはどれくらいですか)",
+            "audio": "このせいひんのほしょうきかんはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 제품의 보증 기간은 얼마나 되나요? (i jepum-ui bojeung gigan-eun eolmana doenayo?)",
+            "audio": "이_제품의_보증_기간은_얼마나_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thời gian bảo hành của sản phẩm này là bao lâu?",
+            "audio": "Thời_gian_bảo_hành_của_sản_phẩm_này_là_bao_lâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個產品保養期有幾耐呀？ (ni1 go3 caan2 ban2 bou2 joeng5 kei4 jau5 gei2 noi6 aa3?)",
+            "audio": "呢個產品保養期有幾耐呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est la période de garantie de ce produit ?",
+            "audio": "Quelle_est_la_période_de_garantie_de_ce_produit.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lang ist die Garantiezeit für dieses Produkt?",
+            "audio": "Wie_lang_ist_die_Garantiezeit_für_dieses_Produkt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto dura el período de garantía de este producto?",
+            "audio": "¿Cuánto_dura_el_período_de_garantía_de_este_producto.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Каков гарантийный срок на этот продукт? (Kakov garantiynyy srok na etot produkt?)",
+            "audio": "Каков_гарантийный_срок_на_этот_продукт.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สินค้านี้รับประกันนานแค่ไหน (sǐn-káa née ráp-bprà-gan naan kâe nǎi)",
+            "audio": "สินค้านี้รับประกันนานแค่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa lama masa garansi untuk produk ini?",
+            "audio": "Berapa_lama_masa_garansi_untuk_produk_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個產品的保固期是多久？",
+            "audio": "這個產品的保固期是多久？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen247",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "保固涵蓋哪些範圍？",
+        "CN_ENG": {
+            "word": "What does the warranty cover?",
+            "audio": "What_does_the_warranty_cover.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "保証の範囲はどこまでですか (ほしょうのはんいはどこまでですか)",
+            "audio": "ほしょうのはんいはどこまでですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "보증 범위는 어떻게 되나요? (bojeung beomwineun eotteohge doenayo?)",
+            "audio": "보증_범위는_어떻게_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bảo hành bao gồm những gì?",
+            "audio": "Bảo_hành_bao_gồm_những_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "保養包啲咩範圍呀？ (bou2 joeng5 baau1 di1 me1 faan6 wai4 aa3?)",
+            "audio": "保養包啲咩範圍呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Que couvre la garantie ?",
+            "audio": "Que_couvre_la_garantie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was deckt die Garantie ab?",
+            "audio": "Was_deckt_die_Garantie_ab.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué cubre la garantía?",
+            "audio": "¿Qué_cubre_la_garantía.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Что покрывает гарантия? (Chto pokryvayet garantiya?)",
+            "audio": "Что_покрывает_гарантия.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "การรับประกันครอบคลุมอะไรบ้าง (gaan ráp-bprà-gan krôp-klum a-rai bâang)",
+            "audio": "การรับประกันครอบคลุมอะไรบ้าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa saja yang dicakup oleh garansi?",
+            "audio": "Apa_saja_yang_dicakup_oleh_garansi.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "保固涵蓋哪些範圍？",
+            "audio": "保固涵蓋哪些範圍？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen248",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "如果商品有瑕疵可以換新嗎？",
+        "CN_ENG": {
+            "word": "Can I get a replacement if the product is defective?",
+            "audio": "Can_I_get_a_replacement_if_the_product_is_defective.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "商品に欠陥がある場合、新品と交換できますか (しょうひんにけっかんがあるばあい、しんぴんとこうかんできますか)",
+            "audio": "しょうひんにけっかんがあるばあい、しんぴんとこうかんできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "상품에 하자가 있으면 새 제품으로 교환되나요? (sangpum-e hajaga iss-eumyeon sae jepum-eulo gyohwandoenayo?)",
+            "audio": "상품에_하자가_있으면_새_제품으로_교환되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nếu sản phẩm bị lỗi có thể đổi mới không?",
+            "audio": "Nếu_sản_phẩm_bị_lỗi_có_thể_đổi_mới_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "如果件貨有瑕疵可唔可以換新呀？ (jyu4 gwo2 gin6 fo3 jau5 haa4 ci1 ho2 m4 ho2 ji5 wun6 san1 aa3?)",
+            "audio": "如果件貨有瑕疵可唔可以換新呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je obtenir un remplacement si le produit est défectueux ?",
+            "audio": "Puis-je_obtenir_un_remplacement_si_le_produit_est_défectueux.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich einen Ersatz bekommen, wenn das Produkt defekt ist?",
+            "audio": "Kann_ich_einen_Ersatz_bekommen,_wenn_das_Produkt_defekt_ist.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo obtener un reemplazo si el producto es defectuoso?",
+            "audio": "¿Puedo_obtener_un_reemplazo_si_el_producto_es_defectuoso.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу ли я получить замену, если товар бракованный? (Mogu li ya poluchit' zamenu, yesli tovar brakovannyy?)",
+            "audio": "Могу_ли_я_получить_замену,_если_товар_бракованный.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ถ้าสินค้ามีตำหนิเปลี่ยนเครื่องใหม่ได้ไหม (tâa sǐn-káa mee dtam-nì bplìan krêuang mài dâi mǎi)",
+            "audio": "ถ้าสินค้ามีตำหนิเปลี่ยนเครื่องใหม่ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah saya mendapatkan pengganti jika produknya cacat?",
+            "audio": "Bisakah_saya_mendapatkan_pengganti_jika_produknya_cacat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "如果商品有瑕疵可以換新嗎？",
+            "audio": "如果商品有瑕疵可以換新嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen249",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問有提供售後維修服務嗎？",
+        "CN_ENG": {
+            "word": "Do you provide after-sales repair services?",
+            "audio": "Do_you_provide_after-sales_repair_services.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "アフターケアや修理のサービスはありますか (あふたーけあやしゅうりのさーびすはありますか)",
+            "audio": "あふたーけあやしゅうりのさーびすはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "AS 수리 서비스를 제공하나요? (AS suli seobiseuleul jegonghanayo?)",
+            "audio": "AS_수리_서비스를_제공하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có cung cấp dịch vụ sửa chữa sau bán hàng không?",
+            "audio": "Có_cung_cấp_dịch_vụ_sửa_chữa_sau_bán_hàng_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇提供售後維修服務呀？ (cing2 man6 jau5 mou5 tai4 gung1 sau6 hau6 wai4 sau1 fuk6 mou6 aa3?)",
+            "audio": "請問有冇提供售後維修服務呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Proposez-vous des services de réparation après-vente ?",
+            "audio": "Proposez-vous_des_services_de_réparation_après-vente.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bieten Sie einen Kundendienst für Reparaturen an?",
+            "audio": "Bieten_Sie_einen_Kundendienst_für_Reparaturen_an.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Ofrecen servicios de reparación posventa?",
+            "audio": "¿Ofrecen_servicios_de_reparación_posventa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы предоставляете послепродажное обслуживание и ремонт? (Vy predostavlyayete posleprodazhnoye obsluzhivaniye i remont?)",
+            "audio": "Вы_предоставляете_послепродажное_обслуживание_и_ремонт.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีบริการซ่อมหลังการขายไหม (mee bor-rí-gaan sôm lǎng gaan kǎai mǎi)",
+            "audio": "มีบริการซ่อมหลังการขายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menyediakan layanan perbaikan purna jual?",
+            "audio": "Apakah_Anda_menyediakan_layanan_perbaikan_purna_jual.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有提供售後維修服務嗎？",
+            "audio": "請問有提供售後維修服務嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen250",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問這款遊戲機可以試玩嗎？",
+        "CN_ENG": {
+            "word": "Can I try playing this game console?",
+            "audio": "Can_I_try_playing_this_game_console.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このゲーム機は試遊できますか (このげーむきはしゆうできますか)",
+            "audio": "このげーむきはしゆうできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 게임기 체험해 볼 수 있나요? (i geimgi cheheomhae bol su issnayo?)",
+            "audio": "이_게임기_체험해_볼_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Máy chơi game này có thể chơi thử không?",
+            "audio": "Máy_chơi_game_này_có_thể_chơi_thử_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢部遊戲機可唔可以試玩呀？ (cing2 man6 ni1 bou6 jau4 hei3 gei1 ho2 m4 ho2 ji5 si3 waan2 aa3?)",
+            "audio": "請問呢部遊戲機可唔可以試玩呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je essayer cette console de jeu ?",
+            "audio": "Puis-je_essayer_cette_console_de_jeu.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kann ich diese Spielkonsole ausprobieren?",
+            "audio": "Kann_ich_diese_Spielkonsole_ausprobieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo probar esta consola de juegos?",
+            "audio": "¿Puedo_probar_esta_consola_de_juegos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я попробовать поиграть на этой игровой консоли? (Mogu ya poprobovat' poigrat' na etoy igrovoy konsoli?)",
+            "audio": "Могу_я_попробовать_поиграть_на_этой_игровой_консоли.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องเกมนี้ทดลองเล่นได้ไหม (krêuang gaym née tót-long lên dâi mǎi)",
+            "audio": "เครื่องเกมนี้ทดลองเล่นได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya mencoba bermain konsol game ini?",
+            "audio": "Bolehkah_saya_mencoba_bermain_konsol_game_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這款遊戲機可以試玩嗎？",
+            "audio": "請問這款遊戲機可以試玩嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen251",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這個鍵盤是機械式的嗎？",
+        "CN_ENG": {
+            "word": "Is this keyboard mechanical?",
+            "audio": "Is_this_keyboard_mechanical.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このキーボードはメカニカル式ですか (このきーぼーどはめかにかるしきですか)",
+            "audio": "このきーぼーどはめかにかるしきですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 키보드는 기계식인가요? (i kibodeuneun gigyelig-ingayo?)",
+            "audio": "이_키보드는_기계식인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bàn phím này có phải là bàn phím cơ không?",
+            "audio": "Bàn_phím_này_có_phải_là_bàn_phím_cơ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個鍵盤係咪機械式㗎？ (ni1 go3 gin6 pun4 hai6 mai6 gei1 haai6 sik1 gaa3?)",
+            "audio": "呢個鍵盤係咪機械式㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce clavier est-il mécanique ?",
+            "audio": "Ce_clavier_est-il_mécanique.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist diese Tastatur mechanisch?",
+            "audio": "Ist_diese_Tastatur_mechanisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este teclado es mecánico?",
+            "audio": "¿Este_teclado_es_mecánico.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта клавиатура механическая? (Eta klaviatura mekhanicheskaya?)",
+            "audio": "Эта_клавиатура_механическая.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คีย์บอร์ดนี้เป็นแบบแมคคานิคอลไหม (kee-bòt née bpen bàep máek-kaa-ní-kon mǎi)",
+            "audio": "คีย์บอร์ดนี้เป็นแบบแมคคานิคอลไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah keyboard ini mekanis?",
+            "audio": "Apakah_keyboard_ini_mekanis.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個鍵盤是機械式的嗎？",
+            "audio": "這個鍵盤是機械式的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen252",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這顆滑鼠是靜音的嗎？",
+        "CN_ENG": {
+            "word": "Is this mouse silent?",
+            "audio": "Is_this_mouse_silent.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このマウスは静音タイプですか (このまうすはせいおんたいぷですか)",
+            "audio": "このまうすはせいおんたいぷですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 마우스는 무소음인가요? (i mauseuneun musoeum-ingayo?)",
+            "audio": "이_마우스는_무소음인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chuột này có phải là loại chống ồn không?",
+            "audio": "Chuột_này_có_phải_là_loại_chống_ồn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢隻滑鼠係咪靜音㗎？ (ni1 zek3 waat6 syu2 hai6 mai6 zing6 jam1 gaa3?)",
+            "audio": "呢隻滑鼠係咪靜音㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette souris est-elle silencieuse ?",
+            "audio": "Cette_souris_est-elle_silencieuse.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist diese Maus geräuschlos?",
+            "audio": "Ist_diese_Maus_geräuschlos.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este ratón es silencioso?",
+            "audio": "¿Este_ratón_es_silencioso.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта мышь бесшумная? (Eta mysh' besshumnaya?)",
+            "audio": "Эта_мышь_бесшумная.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เมาส์นี้เป็นแบบไร้เสียงคลิกไหม (mao née bpen bàep rái sǐang klík mǎi)",
+            "audio": "เมาส์นี้เป็นแบบไร้เสียงคลิกไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah mouse ini senyap?",
+            "audio": "Apakah_mouse_ini_senyap.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這顆滑鼠是靜音的嗎？",
+            "audio": "這顆滑鼠是靜音的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen253",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問這台印表機支援無線列印嗎？",
+        "CN_ENG": {
+            "word": "Does this printer support wireless printing?",
+            "audio": "Does_this_printer_support_wireless_printing.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このプリンターはワイヤレス印刷に対応していますか (このぷりんたーはわいやれすいんさつにたいおうしていますか)",
+            "audio": "このぷりんたーはわいやれすいんさつにたいおうしていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 프린터는 무선 인쇄를 지원하나요? (i peulinteoneun museon inswaeleul jiwonhanayo?)",
+            "audio": "이_프린터는_무선_인쇄를_지원하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Máy in này có hỗ trợ in không dây không?",
+            "audio": "Máy_in_này_có_hỗ_trợ_in_không_dây_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢部打印機支唔支援無線打印呀？ (cing2 man6 ni1 bou6 daa2 jan3 gei1 zi1 m4 zi1 jyun4 mou4 sin3 daa2 jan3 aa3?)",
+            "audio": "請問呢部打印機支唔支援無線打印呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette imprimante prend-elle en charge l'impression sans fil ?",
+            "audio": "Cette_imprimante_prend-elle_en_charge_l'impression_sans_fil.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Unterstützt dieser Drucker kabelloses Drucken?",
+            "audio": "Unterstützt_dieser_Drucker_kabelloses_Drucken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta impresora soporta impresión inalámbrica?",
+            "audio": "¿Esta_impresora_soporta_impresión_inalámbrica.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот принтер поддерживает беспроводную печать? (Etot printer podderzhivayet besprovodnuyu pechat'?)",
+            "audio": "Этот_принтер_поддерживает_беспроводную_печать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องพิมพ์นี้รองรับการพิมพ์ไร้สายไหม (krêuang pim née rong-ráp gaan pim rái sǎai mǎi)",
+            "audio": "เครื่องพิมพ์นี้รองรับการพิมพ์ไร้สายไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah printer ini mendukung pencetakan nirkabel?",
+            "audio": "Apakah_printer_ini_mendukung_pencetakan_nirkabel.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這台印表機支援無線列印嗎？",
+            "audio": "請問這台印表機支援無線列印嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen254",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這台空氣清淨機的適用坪數是多少？",
+        "CN_ENG": {
+            "word": "What is the applicable room size for this air purifier?",
+            "audio": "What_is_the_applicable_room_size_for_this_air_purifier.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この空気清浄機の適用床面積はどれくらいですか (このくうきせいじょうきのてきようゆかめんせきはどれくらいですか)",
+            "audio": "このくうきせいじょうきのてきようゆかめんせきはどれくらいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 공기청정기의 사용 면적은 어떻게 되나요? (i gong-gicheongjeong-giui sayong myeonjeog-eun eotteohge doenayo?)",
+            "audio": "이_공기청정기의_사용_면적은_어떻게_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Diện tích phòng phù hợp cho máy lọc không khí này là bao nhiêu?",
+            "audio": "Diện_tích_phòng_phù_hợp_cho_máy_lọc_không_khí_này_là_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢部空氣清新機適用幾大空間呀？ (ni1 bou6 hung1 hei3 cing1 san1 gei1 sik1 jung6 gei2 daai6 hung1 gaan1 aa3?)",
+            "audio": "呢部空氣清新機適用幾大空間呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est la taille de pièce applicable pour ce purificateur d'air ?",
+            "audio": "Quelle_est_la_taille_de_pièce_applicable_pour_ce_purificateur_d'air.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Für welche Raumgröße ist dieser Luftreiniger geeignet?",
+            "audio": "Für_welche_Raumgröße_ist_dieser_Luftreiniger_geeignet.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuál es el tamaño de habitación aplicable para este purificador de aire?",
+            "audio": "¿Cuál_es_el_tamaño_de_habitación_aplicable_para_este_purificador_de_aire.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На какую площадь рассчитан этот очиститель воздуха? (Na kakuyu ploshchad' rasschitan etot ochistitel' vozdukha?)",
+            "audio": "На_какую_площадь_рассчитан_этот_очиститель_воздуха.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องฟอกอากาศนี้เหมาะกับห้องขนาดเท่าไหร่ (krêuang fôk aa-gàat née mǒr gàp hông kà-nàat tâo-rài)",
+            "audio": "เครื่องฟอกอากาศนี้เหมาะกับห้องขนาดเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa ukuran ruangan yang berlaku untuk pembersih udara ini?",
+            "audio": "Berapa_ukuran_ruangan_yang_berlaku_untuk_pembersih_udara_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這台空氣清淨機的適用坪數是多少？",
+            "audio": "這台空氣清淨機的適用坪數是多少？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen255",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這台吹風機的風量大嗎？",
+        "CN_ENG": {
+            "word": "Does this hair dryer have strong airflow?",
+            "audio": "Does_this_hair_dryer_have_strong_airflow.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このドライヤーの風量は強いですか (このどらいやーのふうりょうはつよいですか)",
+            "audio": "このどらいやーのふうりょうはつよいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 헤어드라이어는 바람이 센 편인가요? (i heeodeulaieoneun balam-i sen pyeon-ingayo?)",
+            "audio": "이_헤어드라이어는_바람이_센_편인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Máy sấy tóc này gió có mạnh không?",
+            "audio": "Máy_sấy_tóc_này_gió_có_mạnh_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個風筒啲風大唔大呀？ (ni1 go3 fung1 tung2 di1 fung1 daai6 m4 daai6 aa3?)",
+            "audio": "呢個風筒啲風大唔大呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce sèche-cheveux a-t-il un flux d'air puissant ?",
+            "audio": "Ce_sèche-cheveux_a-t-il_un_flux_d'air_puissant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hat dieser Haartrockner einen starken Luftstrom?",
+            "audio": "Hat_dieser_Haartrockner_einen_starken_Luftstrom.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este secador de pelo tiene un flujo de aire fuerte?",
+            "audio": "¿Este_secador_de_pelo_tiene_un_flujo_de_aire_fuerte.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У этого фена сильный поток воздуха? (U etogo fena sil'nyy potok vozdukha?)",
+            "audio": "У_этого_фена_сильный_поток_воздуха.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไดร์เป่าผมนี้ลมแรงไหม (dai bpào pǒm née lom raeng mǎi)",
+            "audio": "ไดร์เป่าผมนี้ลมแรงไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah pengering rambut ini memiliki aliran udara yang kuat?",
+            "audio": "Apakah_pengering_rambut_ini_memiliki_aliran_udara_yang_kuat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這台吹風機的風量大嗎？",
+            "audio": "這台吹風機的風量大嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen256",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問這個微波爐有多少種模式？",
+        "CN_ENG": {
+            "word": "How many modes does this microwave have?",
+            "audio": "How_many_modes_does_this_microwave_have.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この電子レンジにはいくつのモードがありますか (このでんしれんじにはいくつのもーどがありますか)",
+            "audio": "このでんしれんじにはいくつのもーどがありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 전자레인지는 모드가 몇 가지인가요? (i jeonjaleinjineun modeuga myeoch gajiingayo?)",
+            "audio": "이_전자레인지는_모드가_몇_가지인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lò vi sóng này có bao nhiêu chế độ?",
+            "audio": "Lò_vi_sóng_này_có_bao_nhiêu_chế_độ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個微波爐有幾多種模式呀？ (cing2 man6 ni1 go3 mei4 bo1 lou4 jau5 gei2 do1 zung2 mou4 sik1 aa3?)",
+            "audio": "請問呢個微波爐有幾多種模式呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien de modes ce micro-ondes possède-t-il ?",
+            "audio": "Combien_de_modes_ce_micro-ondes_possède-t-il.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie viele Modi hat diese Mikrowelle?",
+            "audio": "Wie_viele_Modi_hat_diese_Mikrowelle.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuántos modos tiene este microondas?",
+            "audio": "¿Cuántos_modos_tiene_este_microondas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько режимов у этой микроволновой печи? (Skol'ko rezhimov u etoy mikrovolnovoy pechi?)",
+            "audio": "Сколько_режимов_у_этой_микроволновой_печи.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไมโครเวฟนี้มีกี่โหมดการใช้งาน (mai-kroh-wáyf née mee gèe mòht gaan chái ngaan)",
+            "audio": "ไมโครเวฟนี้มีกี่โหมดการใช้งาน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa banyak mode yang dimiliki microwave ini?",
+            "audio": "Berapa_banyak_mode_yang_dimiliki_microwave_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個微波爐有多少種模式？",
+            "audio": "請問這個微波爐有多少種模式？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen257",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這台吸塵器是充電式的嗎？",
+        "CN_ENG": {
+            "word": "Is this vacuum cleaner rechargeable?",
+            "audio": "Is_this_vacuum_cleaner_rechargeable.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この掃除機は充電式ですか (このそうじきはじゅうでんしきですか)",
+            "audio": "このそうじきはじゅうでんしきですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 청소기는 충전식인가요? (i cheongsogineun chungjeonsig-ingayo?)",
+            "audio": "이_청소기는_충전식인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Máy hút bụi này có phải loại sạc điện không?",
+            "audio": "Máy_hút_bụi_này_có_phải_loại_sạc_điện_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢部吸塵機係咪充電式㗎？ (ni1 bou6 kap1 can4 gei1 hai6 mai6 cung1 din6 sik1 gaa3?)",
+            "audio": "呢部吸塵機係咪充電式㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cet aspirateur est-il rechargeable ?",
+            "audio": "Cet_aspirateur_est-il_rechargeable.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist dieser Staubsauger wiederaufladbar?",
+            "audio": "Ist_dieser_Staubsauger_wiederaufladbar.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Esta aspiradora es recargable?",
+            "audio": "¿Esta_aspiradora_es_recargable.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот пылесос аккумуляторный? (Etot pylesos akkumulyatornyy?)",
+            "audio": "Этот_пылесос_аккумуляторный.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องดูดฝุ่นนี้เป็นแบบชาร์จแบตเตอรี่ไหม (krêuang dòot fùn née bpen bàep cháat bàet-dter-rêe mǎi)",
+            "audio": "เครื่องดูดฝุ่นนี้เป็นแบบชาร์จแบตเตอรี่ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah penyedot debu ini dapat diisi ulang?",
+            "audio": "Apakah_penyedot_debu_ini_dapat_diisi_ulang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這台吸塵器是充電式的嗎？",
+            "audio": "這台吸塵器是充電式的嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen258",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "我需要買這台機器的濾網。",
+        "CN_ENG": {
+            "word": "I need to buy filters for this machine.",
+            "audio": "I_need_to_buy_filters_for_this_machine..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この機器のフィルターを買いたいです (このききのふぃるたーをかいたいです)",
+            "audio": "このききのふぃるたーをかいたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 기기의 필터를 사야 해요. (i gigiui pilteoleul saya haeyo.)",
+            "audio": "이_기기의_필터를_사야_해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần mua lõi lọc cho máy này.",
+            "audio": "Tôi_cần_mua_lõi_lọc_cho_máy_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要買呢部機嘅濾網。 (ngo5 seoi1 jiu3 maai5 ni1 bou6 gei1 ge3 leoi6 mong5.)",
+            "audio": "我需要買呢部機嘅濾網。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin d'acheter des filtres pour cette machine.",
+            "audio": "J'ai_besoin_d'acheter_des_filtres_pour_cette_machine..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich muss Filter für dieses Gerät kaufen.",
+            "audio": "Ich_muss_Filter_für_dieses_Gerät_kaufen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito comprar filtros para esta máquina.",
+            "audio": "Necesito_comprar_filtros_para_esta_máquina..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужно купить фильтры для этого устройства. (Mne nuzhno kupit' fil'try dlya etogo ustroystva.)",
+            "audio": "Мне_нужно_купить_фильтры_для_этого_устройства..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการซื้อแผ่นกรองสำหรับเครื่องนี้ (chǎn dtông-gaan séu pàen grong sǎm-ràp krêuang née)",
+            "audio": "ฉันต้องการซื้อแผ่นกรองสำหรับเครื่องนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya perlu membeli filter untuk mesin ini.",
+            "audio": "Saya_perlu_membeli_filter_untuk_mesin_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要買這台機器的濾網。",
+            "audio": "我需要買這台機器的濾網。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen259",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "請問你們有提供到府安裝的服務嗎？",
+        "CN_ENG": {
+            "word": "Do you offer in-home installation services?",
+            "audio": "Do_you_offer_in-home_installation_services.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご自宅までの設置サービスはありますか (ごじたくまでのせっちさーびすはありますか)",
+            "audio": "ごじたくまでのせっちさーびすはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "방문 설치 서비스도 제공하나요? (bangmun seolchi seobiseudo jegonghanayo?)",
+            "audio": "방문_설치_서비스도_제공하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có cung cấp dịch vụ lắp đặt tận nhà không?",
+            "audio": "Có_cung_cấp_dịch_vụ_lắp_đặt_tận_nhà_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問你哋有冇提供上門安裝服務呀？ (cing2 man6 nei5 dei6 jau5 mou5 tai4 gung1 soeng5 mun4 on1 zong1 fuk6 mou6 aa3?)",
+            "audio": "請問你哋有冇提供上門安裝服務呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Proposez-vous des services d'installation à domicile ?",
+            "audio": "Proposez-vous_des_services_d'installation_à_domicile.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bieten Sie Installationsdienste zu Hause an?",
+            "audio": "Bieten_Sie_Installationsdienste_zu_Hause_an.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Ofrecen servicios de instalación a domicilio?",
+            "audio": "¿Ofrecen_servicios_de_instalación_a_domicilio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы предоставляете услуги по установке на дому? (Vy predostavlyayete uslugi po ustanovke na domu?)",
+            "audio": "Вы_предоставляете_услуги_по_установке_на_дому.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีบริการติดตั้งถึงบ้านไหม (mee bor-rí-gaan dtìt-dtâng těung bâan mǎi)",
+            "audio": "มีบริการติดตั้งถึงบ้านไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda menawarkan layanan instalasi di rumah?",
+            "audio": "Apakah_Anda_menawarkan_layanan_instalasi_di_rumah.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問你們有提供到府安裝的服務嗎？",
+            "audio": "請問你們有提供到府安裝的服務嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen260",
+        "category": "購物消費",
+        "subcategory": "電子產品",
+        "cn": "這台機器的操作手冊有中文版嗎？",
+        "CN_ENG": {
+            "word": "Is there a Chinese version of the user manual for this machine?",
+            "audio": "Is_there_a_Chinese_version_of_the_user_manual_for_this_machine.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この機器の取扱説明書に中国語版はありますか (このききのとりあつかいせつめいしょにちゅうごくごばんはありますか)",
+            "audio": "このききのとりあつかいせつめいしょにちゅうごくごばんはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 기기의 사용 설명서 중국어 버전이 있나요? (i gigiui sayong seolmyeongseo jung-gug-eo beojeon-i issnayo?)",
+            "audio": "이_기기의_사용_설명서_중국어_버전이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Sổ tay hướng dẫn của máy này có bản tiếng Trung không?",
+            "audio": "Sổ_tay_hướng_dẫn_của_máy_này_có_bản_tiếng_Trung_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢部機嘅說明書有冇中文版呀？ (ni1 bou6 gei1 ge3 syut3 ming4 syu1 jau5 mou5 zung1 man4 baan2 aa3?)",
+            "audio": "呢部機嘅說明書有冇中文版呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il une version chinoise du manuel d'utilisation de cette machine ?",
+            "audio": "Y_a-t-il_une_version_chinoise_du_manuel_d'utilisation_de_cette_machine.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es eine chinesische Version der Bedienungsanleitung für dieses Gerät?",
+            "audio": "Gibt_es_eine_chinesische_Version_der_Bedienungsanleitung_für_dieses_Gerät.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay una versión en chino del manual de usuario de esta máquina?",
+            "audio": "¿Hay_una_versión_en_chino_del_manual_de_usuario_de_esta_máquina.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли руководство пользователя для этого устройства на китайском языке? (Yest' li rukovodstvo pol'zovatelya dlya etogo ustroystva na kitayskom yazyke?)",
+            "audio": "Есть_ли_руководство_пользователя_для_этого_устройства_на_китайском_языке.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คู่มือการใช้งานเครื่องนี้มีภาษาจีนไหม (kôo-meu gaan chái ngaan krêuang née mee paa-sǎa jeen mǎi)",
+            "audio": "คู่มือการใช้งานเครื่องนี้มีภาษาจีนไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada versi bahasa Mandarin dari manual pengguna untuk mesin ini?",
+            "audio": "Apakah_ada_versi_bahasa_Mandarin_dari_manual_pengguna_untuk_mesin_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這台機器的操作手冊有中文版嗎？",
+            "audio": "這台機器的操作手冊有中文版嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen261",
+        "category": "日常交際",
+        "subcategory": "基本問候",
+        "cn": "早安，你好。",
+        "CN_ENG": {
+            "word": "Good morning, hello.",
+            "audio": "Good_morning,_hello..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おはようございます (おはようございます)",
+            "audio": "おはようございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 아침입니다, 안녕하세요. (joh-eun achim-ibnida, annyeonghaseyo.)",
+            "audio": "좋은_아침입니다,_안녕하세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chào buổi sáng, xin chào.",
+            "audio": "Chào_buổi_sáng,_xin_chào..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "早晨，你好。 (zou2 san4, nei5 hou2.)",
+            "audio": "早晨，你好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonjour, salut.",
+            "audio": "Bonjour,_salut..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Guten Morgen, hallo.",
+            "audio": "Guten_Morgen,_hallo..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Buenos días, hola.",
+            "audio": "Buenos_días,_hola..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Доброе утро, здравствуйте. (Dobroye utro, zdravstvuyte.)",
+            "audio": "Доброе_утро,_здравствуйте..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อรุณสวัสดิ์ สวัสดีครับ/ค่ะ (a-run sà-wàt sà-wàt-dee kráp/kâ)",
+            "audio": "อรุณสวัสดิ์_สวัสดีครับ,_ค่ะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat pagi, halo.",
+            "audio": "Selamat_pagi,_halo..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "早安，你好。",
+            "audio": "早安，你好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen262",
+        "category": "日常交際",
+        "subcategory": "基本問候",
+        "cn": "午安，你好嗎？",
+        "CN_ENG": {
+            "word": "Good afternoon, how are you?",
+            "audio": "Good_afternoon,_how_are_you.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "こんにちは、お元気ですか (こんにちは、おげんきですか)",
+            "audio": "こんにちは、おげんきですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 오후입니다, 잘 지내시죠? (joh-eun ohuibnida, jal jinaesijyo?)",
+            "audio": "좋은_오후입니다,_잘_지내시죠.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chào buổi chiều, bạn khỏe không?",
+            "audio": "Chào_buổi_chiều,_bạn_khỏe_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "午安，你好嗎？ (ng5 on1, nei5 hou2 maa1?)",
+            "audio": "午安，你好嗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonjour, comment ça va ?",
+            "audio": "Bonjour,_comment_ça_va.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Guten Tag, wie geht es Ihnen?",
+            "audio": "Guten_Tag,_wie_geht_es_Ihnen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Buenas tardes, ¿cómo estás?",
+            "audio": "Buenas_tardes,_¿cómo_estás.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Добрый день, как дела? (Dobryy den', kak dela?)",
+            "audio": "Добрый_день,_как_дела.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สวัสดีตอนบ่าย สบายดีไหม (sà-wàt-dee dton-bàai sà-baai dee mǎi)",
+            "audio": "สวัสดีตอนบ่าย_สบายดีไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat siang, apa kabar?",
+            "audio": "Selamat_siang,_apa_kabar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "午安，你好嗎？",
+            "audio": "午安，你好嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen263",
+        "category": "日常交際",
+        "subcategory": "基本問候",
+        "cn": "晚安，祝你有個好夢。",
+        "CN_ENG": {
+            "word": "Good evening, sweet dreams.",
+            "audio": "Good_evening,_sweet_dreams..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "こんばんは、良い夢を (こんばんは、いいゆめを)",
+            "audio": "こんばんは、いいゆめを.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 저녁입니다, 좋은 꿈 꾸세요. (joh-eun jeonyeog-ibnida, joh-eun kkum kkuseyo.)",
+            "audio": "좋은_저녁입니다,_좋은_꿈_꾸세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chào buổi tối, chúc bạn những giấc mơ đẹp.",
+            "audio": "Chào_buổi_tối,_chúc_bạn_những_giấc_mơ_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "晚安，祝你發個好夢。 (maan5 on1, zuk1 nei5 faat3 go3 hou2 mung6.)",
+            "audio": "晚安，祝你發個好夢。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonsoir, fais de beaux rêves.",
+            "audio": "Bonsoir,_fais_de_beaux_rêves..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Guten Abend, träum süß.",
+            "audio": "Guten_Abend,_träum_süß..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Buenas noches, dulces sueños.",
+            "audio": "Buenas_noches,_dulces_sueños..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Добрый вечер, сладких снов. (Dobryy vecher, sladkikh snov.)",
+            "audio": "Добрый_вечер,_сладких_снов..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สวัสดีตอนเย็น ขอให้ฝันดี (sà-wàt-dee dton yen kǒr hâi fǎn dee)",
+            "audio": "สวัสดีตอนเย็น_ขอให้ฝันดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat malam, semoga mimpi indah.",
+            "audio": "Selamat_malam,_semoga_mimpi_indah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "晚安，祝你有個好夢。",
+            "audio": "晚安，祝你有個好夢。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen264",
+        "category": "日常交際",
+        "subcategory": "基本問候",
+        "cn": "好久不見了。",
+        "CN_ENG": {
+            "word": "Long time no see.",
+            "audio": "Long_time_no_see..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お久しぶりです (おひさしぶりです)",
+            "audio": "おひさしぶりです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오랜만이네요. (olaenman-ineyo.)",
+            "audio": "오랜만이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lâu rồi không gặp.",
+            "audio": "Lâu_rồi_không_gặp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好耐冇見。 (hou2 noi6 mou5 gin3.)",
+            "audio": "好耐冇見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ça fait longtemps qu'on ne s'est pas vus.",
+            "audio": "Ça_fait_longtemps_qu'on_ne_s'est_pas_vus..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lange nicht gesehen.",
+            "audio": "Lange_nicht_gesehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Cuánto tiempo sin verte.",
+            "audio": "Cuánto_tiempo_sin_verte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Давно не виделись. (Davno ne videlis'.)",
+            "audio": "Давно_не_виделись..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไม่ได้เจอกันนานเลยนะ (mâi dâi jer gan naan loey ná)",
+            "audio": "ไม่ได้เจอกันนานเลยนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Lama tidak berjumpa.",
+            "audio": "Lama_tidak_berjumpa..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "好久不見了。",
+            "audio": "好久不見了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen265",
+        "category": "日常交際",
+        "subcategory": "基本問候",
+        "cn": "最近過得怎麼樣？",
+        "CN_ENG": {
+            "word": "How have you been lately?",
+            "audio": "How_have_you_been_lately.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "最近どうですか (さいきんどうですか)",
+            "audio": "さいきんどうですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "요즘 어떻게 지내세요? (yojeum eotteohge jinaeseyo?)",
+            "audio": "요즘_어떻게_지내세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Dạo này bạn thế nào?",
+            "audio": "Dạo_này_bạn_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "最近過成點呀？ (zeoi3 gan6 gwo3 sing4 dim2 aa3?)",
+            "audio": "最近過成點呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment vas-tu ces derniers temps ?",
+            "audio": "Comment_vas-tu_ces_derniers_temps.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie geht es dir in letzter Zeit?",
+            "audio": "Wie_geht_es_dir_in_letzter_Zeit.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo te ha ido últimamente?",
+            "audio": "¿Cómo_te_ha_ido_últimamente.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как поживаешь в последнее время? (Kak pozhivayesh' v posledneye vremya?)",
+            "audio": "Как_поживаешь_в_последнее_время.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วงนี้เป็นยังไงบ้าง (chûang née bpen yang-ngai bâang)",
+            "audio": "ช่วงนี้เป็นยังไงบ้าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana kabarmu akhir-akhir ini?",
+            "audio": "Bagaimana_kabarmu_akhir-akhir_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "最近過得怎麼樣？",
+            "audio": "最近過得怎麼樣？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen266",
+        "category": "日常交際",
+        "subcategory": "基本問候",
+        "cn": "我過得很好，謝謝。",
+        "CN_ENG": {
+            "word": "I am doing very well, thank you.",
+            "audio": "I_am_doing_very_well,_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "とても元気です、ありがとう (とてもげんきです、ありがとう)",
+            "audio": "とてもげんきです、ありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "아주 잘 지내고 있어요, 감사합니다. (aju jal jinaego iss-eoyo, gamsahabnida.)",
+            "audio": "아주_잘_지내고_있어요,_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi vẫn rất khỏe, cảm ơn.",
+            "audio": "Tôi_vẫn_rất_khỏe,_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我過得幾好，多謝。 (ngo5 gwo3 dak1 gei2 hou2, do1 ze6.)",
+            "audio": "我過得幾好，多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je vais très bien, merci.",
+            "audio": "Je_vais_très_bien,_merci..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Mir geht es sehr gut, danke.",
+            "audio": "Mir_geht_es_sehr_gut,_danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy muy bien, gracias.",
+            "audio": "Estoy_muy_bien,_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я в порядке, спасибо. (Ya v poryadke, spasibo.)",
+            "audio": "Я_в_порядке,_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันสบายดี ขอบคุณ (chǎn sà-baai dee kòp-kun)",
+            "audio": "ฉันสบายดี_ขอบคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya baik-baik saja, terima kasih.",
+            "audio": "Saya_baik-baik_saja,_terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我過得很好，謝謝。",
+            "audio": "我過得很好，謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen267",
+        "category": "日常交際",
+        "subcategory": "自我介紹",
+        "cn": "你好，我叫大衛。",
+        "CN_ENG": {
+            "word": "Hello, my name is David.",
+            "audio": "Hello,_my_name_is_David..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "こんにちは、デビッドと申します (こんにちは、でびっどともうします)",
+            "audio": "こんにちは、でびっどともうします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "안녕하세요, 제 이름은 데이비드입니다. (annyeonghaseyo, je ileum-eun deibideuibnida.)",
+            "audio": "안녕하세요,_제_이름은_데이비드입니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin chào, tôi tên là David.",
+            "audio": "Xin_chào,_tôi_tên_là_David..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你好，我叫大衛。 (nei5 hou2, ngo5 giu3 daai6 wai6.)",
+            "audio": "你好，我叫大衛。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonjour, je m'appelle David.",
+            "audio": "Bonjour,_je_m'appelle_David..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hallo, mein Name ist David.",
+            "audio": "Hallo,_mein_Name_ist_David..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hola, me llamo David.",
+            "audio": "Hola,_me_llamo_David..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здравствуйте, меня зовут Дэвид. (Zdravstvuyte, menya zovut Devid.)",
+            "audio": "Здравствуйте,_меня_зовут_Дэвид..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สวัสดี ฉันชื่อเดวิด (sà-wàt-dee chǎn chêu day-wìt)",
+            "audio": "สวัสดี_ฉันชื่อเดวิด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Halo, nama saya David.",
+            "audio": "Halo,_nama_saya_David..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你好，我叫大衛。",
+            "audio": "你好，我叫大衛。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen268",
+        "category": "日常交際",
+        "subcategory": "自我介紹",
+        "cn": "很高興認識你。",
+        "CN_ENG": {
+            "word": "Nice to meet you.",
+            "audio": "Nice_to_meet_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お会いできて嬉しいです (おあいできてうれしいです)",
+            "audio": "おあいできてうれしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "만나서 반갑습니다. (mannaseo bangabseubnida.)",
+            "audio": "만나서_반갑습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được gặp bạn.",
+            "audio": "Rất_vui_được_gặp_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好高興認識你。 (hou2 gou1 hing3 jing6 sik1 nei5.)",
+            "audio": "好高興認識你。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Enchanté.",
+            "audio": "Enchanté..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schön, Sie kennenzulernen.",
+            "audio": "Schön,_Sie_kennenzulernen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Encantado de conocerte.",
+            "audio": "Encantado_de_conocerte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рад встрече. (Rad vstreche.)",
+            "audio": "Рад_встрече..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยินดีที่ได้รู้จัก (yin-dee têe dâi róo-jàk)",
+            "audio": "ยินดีที่ได้รู้จัก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang bertemu dengan Anda.",
+            "audio": "Senang_bertemu_dengan_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興認識你。",
+            "audio": "很高興認識你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen269",
+        "category": "日常交際",
+        "subcategory": "自我介紹",
+        "cn": "我是從台灣來的。",
+        "CN_ENG": {
+            "word": "I am from Taiwan.",
+            "audio": "I_am_from_Taiwan..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私は台湾から来ました (わたしはたいわんからきました)",
+            "audio": "わたしはたいわんからきました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저는 대만에서 왔습니다. (jeoneun daeman-eseo wassseubnida.)",
+            "audio": "저는_대만에서_왔습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi đến từ Đài Loan.",
+            "audio": "Tôi_đến_từ_Đài_Loan..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我喺台灣嚟嘅。 (ngo5 hai2 toi4 waan1 lai4 ge3.)",
+            "audio": "我喺台灣嚟嘅。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je viens de Taïwan.",
+            "audio": "Je_viens_de_Taïwan..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich komme aus Taiwan.",
+            "audio": "Ich_komme_aus_Taiwan..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Soy de Taiwán.",
+            "audio": "Soy_de_Taiwán..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я из Тайваня. (Ya iz Tayvanya.)",
+            "audio": "Я_из_Тайваня..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันมาจากไต้หวัน (chǎn maa jàak dtâi-wǎn)",
+            "audio": "ฉันมาจากไต้หวัน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya dari Taiwan.",
+            "audio": "Saya_dari_Taiwan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我是從台灣來的。",
+            "audio": "我是從台灣來的。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen270",
+        "category": "日常交際",
+        "subcategory": "自我介紹",
+        "cn": "你來自哪裡？",
+        "CN_ENG": {
+            "word": "Where are you from?",
+            "audio": "Where_are_you_from.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "どちらの出身ですか (どちらのしゅっしんですか)",
+            "audio": "どちらのしゅっしんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "어디서 오셨나요? (eodiseo osyeossnayo?)",
+            "audio": "어디서_오셨나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn đến từ đâu?",
+            "audio": "Bạn_đến_từ_đâu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你喺邊度嚟㗎？ (nei5 hai2 bin1 dou6 lai4 gaa3?)",
+            "audio": "你喺邊度嚟㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "D'où venez-vous ?",
+            "audio": "D'où_venez-vous.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Woher kommst du?",
+            "audio": "Woher_kommst_du.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿De dónde eres?",
+            "audio": "¿De_dónde_eres.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Откуда вы? (Otkuda vy?)",
+            "audio": "Откуда_вы.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณมาจากไหน (kun maa jàak nǎi)",
+            "audio": "คุณมาจากไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kamu berasal dari mana?",
+            "audio": "Kamu_berasal_dari_mana.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你來自哪裡？",
+            "audio": "你來自哪裡？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen271",
+        "category": "日常交際",
+        "subcategory": "自我介紹",
+        "cn": "我的工作是工程師。",
+        "CN_ENG": {
+            "word": "My job is an engineer.",
+            "audio": "My_job_is_an_engineer..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私の仕事はエンジニアです (わたしのしごとはえんじにあです)",
+            "audio": "わたしのしごとはえんじにあです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "제 직업은 엔지니어입니다. (je jig-eob-eun enjinieoibnida.)",
+            "audio": "제_직업은_엔지니어입니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Công việc của tôi là kỹ sư.",
+            "audio": "Công_việc_của_tôi_là_kỹ_sư..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我嘅工作係工程師。 (ngo5 ge3 gung1 zok3 hai6 gung1 cing4 si1.)",
+            "audio": "我嘅工作係工程師。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Mon travail est ingénieur.",
+            "audio": "Mon_travail_est_ingénieur..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Mein Job ist Ingenieur.",
+            "audio": "Mein_Job_ist_Ingenieur..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Mi trabajo es ingeniero.",
+            "audio": "Mi_trabajo_es_ingeniero..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Моя работа - инженер. (Moya rabota - inzhener.)",
+            "audio": "Моя_работа_-_инженер..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "งานของฉันคือวิศวกร (ngaan kǒng chǎn keu wít-sà-wá-gon)",
+            "audio": "งานของฉันคือวิศวกร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Pekerjaan saya adalah insinyur.",
+            "audio": "Pekerjaan_saya_adalah_insinyur..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我的工作是工程師。",
+            "audio": "我的工作是工程師。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen272",
+        "category": "日常交際",
+        "subcategory": "自我介紹",
+        "cn": "你做什麼工作？",
+        "CN_ENG": {
+            "word": "What do you do for a living?",
+            "audio": "What_do_you_do_for_a_living.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お仕事は何をされていますか (おしごとはなにをされていますか)",
+            "audio": "おしごとはなにをされていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무슨 일을 하시나요? (museun il-eul hasinayo?)",
+            "audio": "무슨_일을_하시나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn làm nghề gì?",
+            "audio": "Bạn_làm_nghề_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你做咩工作㗎？ (nei5 zou6 me1 gung1 zok3 gaa3?)",
+            "audio": "你做咩工作㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Que faites-vous dans la vie ?",
+            "audio": "Que_faites-vous_dans_la_vie.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was machen Sie beruflich?",
+            "audio": "Was_machen_Sie_beruflich.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿A qué te dedicas?",
+            "audio": "¿A_qué_te_dedicas.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кем вы работаете? (Kem vy rabotayete?)",
+            "audio": "Кем_вы_работаете.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณทำงานอะไร (kun tam ngaan a-rai)",
+            "audio": "คุณทำงานอะไร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa pekerjaan Anda?",
+            "audio": "Apa_pekerjaan_Anda.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你做什麼工作？",
+            "audio": "你做什麼工作？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen273",
+        "category": "日常交際",
+        "subcategory": "感謝與道歉",
+        "cn": "非常感謝你的幫忙。",
+        "CN_ENG": {
+            "word": "Thank you very much for your help.",
+            "audio": "Thank_you_very_much_for_your_help..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "手伝ってくれて本当にありがとう (てつだってくれてほんとうにありがとう)",
+            "audio": "てつだってくれてほんとうにありがとう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "도와주셔서 정말 감사합니다. (dowajusyeoseo jeongmal gamsahabnida.)",
+            "audio": "도와주셔서_정말_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất cảm ơn bạn đã giúp đỡ.",
+            "audio": "Rất_cảm_ơn_bạn_đã_giúp_đỡ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "非常多謝你嘅幫忙。 (fei1 soeng4 do1 ze6 nei5 ge3 bong1 mong4.)",
+            "audio": "非常多謝你嘅幫忙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci beaucoup pour votre aide.",
+            "audio": "Merci_beaucoup_pour_votre_aide..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen Dank für Ihre Hilfe.",
+            "audio": "Vielen_Dank_für_Ihre_Hilfe..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Muchas gracias por tu ayuda.",
+            "audio": "Muchas_gracias_por_tu_ayuda..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Большое спасибо за вашу помощь. (Bol'shoye spasibo za vashu pomoshch'.)",
+            "audio": "Большое_спасибо_за_вашу_помощь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณมากสำหรับความช่วยเหลือ (kòp-kun mâak sǎm-ràp kwaam chûay-hěua)",
+            "audio": "ขอบคุณมากสำหรับความช่วยเหลือ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih banyak atas bantuan Anda.",
+            "audio": "Terima_kasih_banyak_atas_bantuan_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "非常感謝你的幫忙。",
+            "audio": "非常感謝你的幫忙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen274",
+        "category": "日常交際",
+        "subcategory": "感謝與道歉",
+        "cn": "不客氣，這是小事。",
+        "CN_ENG": {
+            "word": "You're welcome, it's no big deal.",
+            "audio": "You're_welcome,_it's_no_big_deal..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "どういたしまして、大したことありません (どういたしまして、たいしたことありません)",
+            "audio": "どういたしまして、たいしたことありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "천만에요, 별일 아니에요. (cheonman-eyo, byeol-il anieyo.)",
+            "audio": "천만에요,_별일_아니에요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không có chi, chuyện nhỏ thôi.",
+            "audio": "Không_có_chi,_chuyện_nhỏ_thôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔使客氣，小事一樁。 (m4 sai2 haak3 hei3, siu2 si6 jat1 zong1.)",
+            "audio": "唔使客氣，小事一樁。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "De rien, ce n'est pas grand-chose.",
+            "audio": "De_rien,_ce_n'est_pas_grand-chose..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gern geschehen, das ist keine große Sache.",
+            "audio": "Gern_geschehen,_das_ist_keine_große_Sache..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "De nada, no es gran cosa.",
+            "audio": "De_nada,_no_es_gran_cosa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, это пустяки. (Pozhaluysta, eto pustyaki.)",
+            "audio": "Пожалуйста,_это_пустяки..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ด้วยความยินดี เรื่องเล็กน้อย (dûay kwaam yin-dee rêuang lék-nói)",
+            "audio": "ด้วยความยินดี_เรื่องเล็กน้อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sama-sama, bukan masalah besar.",
+            "audio": "Sama-sama,_bukan_masalah_besar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不客氣，這是小事。",
+            "audio": "不客氣，這是小事。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen275",
+        "category": "日常交際",
+        "subcategory": "感謝與道歉",
+        "cn": "真的很抱歉。",
+        "CN_ENG": {
+            "word": "I am really sorry.",
+            "audio": "I_am_really_sorry..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本当に申し訳ありません (ほんとうにもうしわけありません)",
+            "audio": "ほんとうにもうしわけありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정말 죄송합니다. (jeongmal joesonghabnida.)",
+            "audio": "정말_죄송합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thực sự xin lỗi.",
+            "audio": "Thực_sự_xin_lỗi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "真係好抱歉。 (zan1 hai6 hou2 pou5 hip3.)",
+            "audio": "真係好抱歉。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis vraiment désolé.",
+            "audio": "Je_suis_vraiment_désolé..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es tut mir wirklich leid.",
+            "audio": "Es_tut_mir_wirklich_leid..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Lo siento muchísimo.",
+            "audio": "Lo_siento_muchísimo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне правда очень жаль. (Mne pravda ochen' zhal'.)",
+            "audio": "Мне_правда_очень_жаль..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอโทษจริงๆ (kǒr-tôht jing-jing)",
+            "audio": "ขอโทษจริงๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya benar-benar minta maaf.",
+            "audio": "Saya_benar-benar_minta_maaf..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "真的很抱歉。",
+            "audio": "真的很抱歉。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen276",
+        "category": "日常交際",
+        "subcategory": "感謝與道歉",
+        "cn": "沒關係，別放在心上。",
+        "CN_ENG": {
+            "word": "That's okay, don't worry about it.",
+            "audio": "That's_okay,_don't_worry_about_it..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "気にしないでください (きにしないでください)",
+            "audio": "きにしないでください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "괜찮아요, 신경 쓰지 마세요. (gwaenchanh-ayo, sing-gyeong sseuji maseyo.)",
+            "audio": "괜찮아요,_신경_쓰지_마세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Không sao đâu, đừng bận tâm.",
+            "audio": "Không_sao_đâu,_đừng_bận_tâm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "冇關係，唔好擺喺心度。 (mou5 gwaan1 hai6, m4 hou2 baai2 hai2 sam1 dou6.)",
+            "audio": "冇關係，唔好擺喺心度。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce n'est pas grave, ne t'en fais pas.",
+            "audio": "Ce_n'est_pas_grave,_ne_t'en_fais_pas..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist okay, mach dir keine Sorgen.",
+            "audio": "Das_ist_okay,_mach_dir_keine_Sorgen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Está bien, no te preocupes.",
+            "audio": "Está_bien,_no_te_preocupes..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ничего страшного, не бери в голову. (Nichego strashnogo, ne beri v golovu.)",
+            "audio": "Ничего_страшного,_не_бери_в_голову..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไม่เป็นไร อย่าคิดมากเลย (mâi bpen rai yàa kít mâak loey)",
+            "audio": "ไม่เป็นไร_อย่าคิดมากเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tidak apa-apa, jangan khawatir.",
+            "audio": "Tidak_apa-apa,_jangan_khawatir..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "沒關係，別放在心上。",
+            "audio": "沒關係，別放在心上。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen277",
+        "category": "日常交際",
+        "subcategory": "邀請與約會",
+        "cn": "你這個週末有空嗎？",
+        "CN_ENG": {
+            "word": "Are you free this weekend?",
+            "audio": "Are_you_free_this_weekend.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今週末は空いていますか (こんしゅうまつはあいていますか)",
+            "audio": "こんしゅうまつはあいていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이번 주말에 시간 있으세요? (ibeon jumal-e sigan iss-euseyo?)",
+            "audio": "이번_주말에_시간_있으세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cuối tuần này bạn có rảnh không?",
+            "audio": "Cuối_tuần_này_bạn_có_rảnh_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你今個週末得唔得閒呀？ (nei5 gam1 go3 zau1 mut6 dak1 m4 dak1 haan4 aa3?)",
+            "audio": "你今個週末得唔得閒呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Es-tu libre ce week-end ?",
+            "audio": "Es-tu_libre_ce_week-end.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hast du dieses Wochenende Zeit?",
+            "audio": "Hast_du_dieses_Wochenende_Zeit.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Estás libre este fin de semana?",
+            "audio": "¿Estás_libre_este_fin_de_semana.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы свободны в эти выходные? (Vy svobodni v eti vykhodnyye?)",
+            "audio": "Вы_свободны_в_эти_выходные.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสาร์อาทิตย์นี้คุณว่างไหม (sǎo aa-tít née kun wâang mǎi)",
+            "audio": "เสาร์อาทิตย์นี้คุณว่างไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kamu ada waktu akhir pekan ini?",
+            "audio": "Apakah_kamu_ada_waktu_akhir_pekan_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你這個週末有空嗎？",
+            "audio": "你這個週末有空嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen278",
+        "category": "日常交際",
+        "subcategory": "邀請與約會",
+        "cn": "我們一起去喝杯咖啡吧。",
+        "CN_ENG": {
+            "word": "Let's go grab a cup of coffee together.",
+            "audio": "Let's_go_grab_a_cup_of_coffee_together..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "一緒にコーヒーでも飲みに行きませんか (いっしょにこーひーでものみにいきませんか)",
+            "audio": "いっしょにこーひーでものみにいきませんか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "같이 커피 한잔하러 가요. (gat-i keopi hanjanhaleo gayo.)",
+            "audio": "같이_커피_한잔하러_가요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng ta cùng đi uống cà phê nhé.",
+            "audio": "Chúng_ta_cùng_đi_uống_cà_phê_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋一齊去飲杯咖啡啦。 (ngo5 dei6 jat1 cai4 heoi3 jam2 bui1 ga3 fe1 laa1.)",
+            "audio": "我哋一齊去飲杯咖啡啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Allons prendre un café ensemble.",
+            "audio": "Allons_prendre_un_café_ensemble..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns zusammen einen Kaffee trinken gehen.",
+            "audio": "Lass_uns_zusammen_einen_Kaffee_trinken_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vamos a tomar un café juntos.",
+            "audio": "Vamos_a_tomar_un_café_juntos..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Давай сходим выпьем кофе. (Davay skhodim vyp'yem kofe.)",
+            "audio": "Давай_сходим_выпьем_кофе..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไปดื่มกาแฟด้วยกันเถอะ (rao bpai dèum gaa-fae dûay gan tòe)",
+            "audio": "เราไปดื่มกาแฟด้วยกันเถอะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ayo kita pergi minum kopi bersama.",
+            "audio": "Ayo_kita_pergi_minum_kopi_bersama..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們一起去喝杯咖啡吧。",
+            "audio": "我們一起去喝杯咖啡吧。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen279",
+        "category": "日常交際",
+        "subcategory": "邀請與約會",
+        "cn": "我很樂意，幾點見？",
+        "CN_ENG": {
+            "word": "I would love to, what time should we meet?",
+            "audio": "I_would_love_to,_what_time_should_we_meet.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "喜んで、何時に会いましょうか (よろこんで、なんじにあいましょうか)",
+            "audio": "よろこんで、なんじにあいましょうか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋아요, 몇 시에 만날까요? (joh-ayo, myeoch sie mannalkkayo?)",
+            "audio": "좋아요,_몇_시에_만날까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi rất sẵn lòng, mấy giờ gặp?",
+            "audio": "Tôi_rất_sẵn_lòng,_mấy_giờ_gặp.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我好樂意，幾點見呀？ (ngo5 hou2 lok6 ji3, gei2 dim2 gin3 aa3?)",
+            "audio": "我好樂意，幾點見呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Avec plaisir, à quelle heure on se voit ?",
+            "audio": "Avec_plaisir,_à_quelle_heure_on_se_voit.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sehr gerne, um wie viel Uhr treffen wir uns?",
+            "audio": "Sehr_gerne,_um_wie_viel_Uhr_treffen_wir_uns.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me encantaría, ¿a qué hora nos vemos?",
+            "audio": "Me_encantaría,_¿a_qué_hora_nos_vemos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "С удовольствием, во сколько встретимся? (S udovol'stviyem, vo skol'ko vstretimsya?)",
+            "audio": "С_удовольствием,_во_сколько_встретимся.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันยินดีมาก เจอกันกี่โมงดี (chǎn yin-dee mâak jer gan gèe mohng dee)",
+            "audio": "ฉันยินดีมาก_เจอกันกี่โมงดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya mau, jam berapa kita bertemu?",
+            "audio": "Saya_mau,_jam_berapa_kita_bertemu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我很樂意，幾點見？",
+            "audio": "我很樂意，幾點見？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen280",
+        "category": "日常交際",
+        "subcategory": "邀請與約會",
+        "cn": "抱歉，我那天有安排了。",
+        "CN_ENG": {
+            "word": "Sorry, I have plans that day.",
+            "audio": "Sorry,_I_have_plans_that_day..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "すみません、その日は予定があります (すみません、そのひはよていがあります)",
+            "audio": "すみません、そのひはよていがあります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "죄송해요, 그날은 약속이 있어요. (joesonghaeyo, geunal-eun yagsog-i iss-eoyo.)",
+            "audio": "죄송해요,_그날은_약속이_있어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin lỗi, hôm đó tôi có kế hoạch rồi.",
+            "audio": "Xin_lỗi,_hôm_đó_tôi_có_kế_hoạch_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "抱歉，我嗰日有安排啦。 (pou5 hip3, ngo5 go2 jat6 jau5 on1 paai4 laa1.)",
+            "audio": "抱歉，我嗰日有安排啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Désolé, j'ai déjà des projets ce jour-là.",
+            "audio": "Désolé,_j'ai_déjà_des_projets_ce_jour-là..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tut mir leid, an dem Tag habe ich schon etwas vor.",
+            "audio": "Tut_mir_leid,_an_dem_Tag_habe_ich_schon_etwas_vor..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Lo siento, tengo planes para ese día.",
+            "audio": "Lo_siento,_tengo_planes_para_ese_día..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Извините, у меня планы на этот день. (Izvinite, u menya plany na etot den'.)",
+            "audio": "Извините,_у_меня_планы_на_этот_день..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอโทษนะ วันนั้นฉันมีนัดแล้ว (kǒr-tôht ná wan nán chǎn mee nát láew)",
+            "audio": "ขอโทษนะ_วันนั้นฉันมีนัดแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Maaf, saya ada acara hari itu.",
+            "audio": "Maaf,_saya_ada_acara_hari_itu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "抱歉，我那天有安排了。",
+            "audio": "抱歉，我那天有安排了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen281",
+        "category": "日常交際",
+        "subcategory": "天氣與季節",
+        "cn": "今天天氣真好。",
+        "CN_ENG": {
+            "word": "The weather is really nice today.",
+            "audio": "The_weather_is_really_nice_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日は本当にいい天気ですね (きょうはほんとうにいいてんきですね)",
+            "audio": "きょうはほんとうにいいてんきですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 날씨가 정말 좋네요. (oneul nalssiga jeongmal johneyo.)",
+            "audio": "오늘_날씨가_정말_좋네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thời tiết hôm nay thật đẹp.",
+            "audio": "Thời_tiết_hôm_nay_thật_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "今日天氣真係好。 (gam1 jat6 tin1 hei3 zan1 hai6 hou2.)",
+            "audio": "今日天氣真係好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il fait vraiment beau aujourd'hui.",
+            "audio": "Il_fait_vraiment_beau_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das Wetter ist heute wirklich schön.",
+            "audio": "Das_Wetter_ist_heute_wirklich_schön..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hace muy buen tiempo hoy.",
+            "audio": "Hace_muy_buen_tiempo_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сегодня действительно хорошая погода. (Segodnya deystvitel'no khoroshaya pogoda.)",
+            "audio": "Сегодня_действительно_хорошая_погода..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้อากาศดีจัง (wan-née aa-gàat dee jang)",
+            "audio": "วันนี้อากาศดีจัง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cuaca hari ini sangat bagus.",
+            "audio": "Cuaca_hari_ini_sangat_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "今天天氣真好。",
+            "audio": "今天天氣真好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen282",
+        "category": "日常交際",
+        "subcategory": "天氣與季節",
+        "cn": "看樣子快要下雨了。",
+        "CN_ENG": {
+            "word": "It looks like it's going to rain soon.",
+            "audio": "It_looks_like_it's_going_to_rain_soon..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もうすぐ雨が降りそうです (もうすぐあめがふりそうです)",
+            "audio": "もうすぐあめがふりそうです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "비가 올 것 같아요. (biga ol geos gat-ayo.)",
+            "audio": "비가_올_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trông có vẻ như sắp mưa rồi.",
+            "audio": "Trông_có_vẻ_như_sắp_mưa_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "睇落好似就嚟落雨。 (tai2 lok6 hou2 ci5 zau6 lai4 lok6 jyu5.)",
+            "audio": "睇落好似就嚟落雨。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "On dirait qu'il va bientôt pleuvoir.",
+            "audio": "On_dirait_qu'il_va_bientôt_pleuvoir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es sieht so aus, als würde es bald regnen.",
+            "audio": "Es_sieht_so_aus,_als_würde_es_bald_regnen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Parece que va a llover pronto.",
+            "audio": "Parece_que_va_a_llover_pronto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Похоже, скоро пойдет дождь. (Pokhozhe, skoro poydet dozhd'.)",
+            "audio": "Похоже,_скоро_пойдет_дождь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดูเหมือนฝนกำลังจะตก (doo měuan fǒn gam-lang jà dtòk)",
+            "audio": "ดูเหมือนฝนกำลังจะตก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sepertinya akan segera turun hujan.",
+            "audio": "Sepertinya_akan_segera_turun_hujan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "看樣子快要下雨了。",
+            "audio": "看樣子快要下雨了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen283",
+        "category": "日常交際",
+        "subcategory": "天氣與季節",
+        "cn": "外面非常冷，多穿點。",
+        "CN_ENG": {
+            "word": "It is very cold outside, wear more clothes.",
+            "audio": "It_is_very_cold_outside,_wear_more_clothes..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "外はとても寒いので、厚着をしてください (そとはとてもさむいので、あつぎをしてください)",
+            "audio": "そとはとてもさむいので、あつぎをしてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "밖이 너무 추우니 옷을 따뜻하게 입으세요. (bakk-i neomu chuuni os-eul ttatteushage ib-euseyo.)",
+            "audio": "밖이_너무_추우니_옷을_따뜻하게_입으세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bên ngoài rất lạnh, mặc thêm áo vào.",
+            "audio": "Bên_ngoài_rất_lạnh,_mặc_thêm_áo_vào..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "出面好凍呀，著多件衫啦。 (ceot1 min6 hou2 dung3 aa3, zoek3 do1 gin6 saam1 laa1.)",
+            "audio": "出面好凍呀，著多件衫啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il fait très froid dehors, couvre-toi bien.",
+            "audio": "Il_fait_très_froid_dehors,_couvre-toi_bien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Draußen ist es sehr kalt, zieh dich warm an.",
+            "audio": "Draußen_ist_es_sehr_kalt,_zieh_dich_warm_an..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hace mucho frío afuera, abrígate más.",
+            "audio": "Hace_mucho_frío_afuera,_abrígate_más..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На улице очень холодно, одевайся теплее. (Na ulitse ochen' kholodno, odevaysya tepleye.)",
+            "audio": "На_улице_очень_холодно,_одевайся_теплее..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ข้างนอกหนาวมาก ใส่เสื้อผ้าให้อบอุ่นนะ (kâang nòk nǎao mâak sài sêua-pâa hâi òp-ùn ná)",
+            "audio": "ข้างนอกหนาวมาก_ใส่เสื้อผ้าให้อบอุ่นนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di luar sangat dingin, pakailah baju lebih tebal.",
+            "audio": "Di_luar_sangat_dingin,_pakailah_baju_lebih_tebal..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "外面非常冷，多穿點。",
+            "audio": "外面非常冷，多穿點。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen284",
+        "category": "日常交際",
+        "subcategory": "天氣與季節",
+        "cn": "夏天我最喜歡去游泳。",
+        "CN_ENG": {
+            "word": "I like swimming the most in summer.",
+            "audio": "I_like_swimming_the_most_in_summer..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "夏は泳ぎに行くのが一番好きです (なつはおよぎにいくのがいちばんすきです)",
+            "audio": "なつはおよぎにいくのがいちばんすきです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여름에는 수영하러 가는 것을 가장 좋아해요. (yeoleum-eneun suyeonghaleo ganeun geos-eul gajang joh-ahaeyo.)",
+            "audio": "여름에는_수영하러_가는_것을_가장_좋아해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Mùa hè tôi thích đi bơi nhất.",
+            "audio": "Mùa_hè_tôi_thích_đi_bơi_nhất..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "夏天我最鍾意去游水。 (ha6 tin1 ngo5 zeoi3 zung1 ji3 heoi3 jau4 seoi2.)",
+            "audio": "夏天我最鍾意去游水。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'aime le plus nager en été.",
+            "audio": "J'aime_le_plus_nager_en_été..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Im Sommer gehe ich am liebsten schwimmen.",
+            "audio": "Im_Sommer_gehe_ich_am_liebsten_schwimmen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Lo que más me gusta en verano es ir a nadar.",
+            "audio": "Lo_que_más_me_gusta_en_verano_es_ir_a_nadar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Летом я больше всего люблю плавать. (Letom ya bol'she vsego lyublyu plavat'.)",
+            "audio": "Летом_я_больше_всего_люблю_плавать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฤดูร้อนฉันชอบไปว่ายน้ำที่สุด (réu-doo rón chǎn chôp bpai wâai náam têe-sùt)",
+            "audio": "ฤดูร้อนฉันชอบไปว่ายน้ำที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di musim panas, saya paling suka berenang.",
+            "audio": "Di_musim_panas,_saya_paling_suka_berenang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "夏天我最喜歡去游泳。",
+            "audio": "夏天我最喜歡去游泳。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen285",
+        "category": "日常交際",
+        "subcategory": "興趣與愛好",
+        "cn": "你平時喜歡做什麼？",
+        "CN_ENG": {
+            "word": "What do you like to do in your free time?",
+            "audio": "What_do_you_like_to_do_in_your_free_time.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "普段は何をするのが好きですか (ふだんはなにをするのがすきですか)",
+            "audio": "ふだんはなにをするのがすきですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "평소에 무엇을 하는 것을 좋아하나요? (pyeongso-e mueos-eul haneun geos-eul joh-ahanayo?)",
+            "audio": "평소에_무엇을_하는_것을_좋아하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bình thường bạn thích làm gì?",
+            "audio": "Bình_thường_bạn_thích_làm_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你平時鍾意做啲咩呀？ (nei5 ping4 si4 zung1 ji3 zou6 di1 me1 aa3?)",
+            "audio": "你平時鍾意做啲咩呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Qu'aimes-tu faire pendant ton temps libre ?",
+            "audio": "Qu'aimes-tu_faire_pendant_ton_temps_libre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was machst du gerne in deiner Freizeit?",
+            "audio": "Was_machst_du_gerne_in_deiner_Freizeit.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué te gusta hacer en tu tiempo libre?",
+            "audio": "¿Qué_te_gusta_hacer_en_tu_tiempo_libre.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Что тебе нравится делать в свободное время? (Chto tebe nravitsya delat' v svobodnoye vremya?)",
+            "audio": "Что_тебе_нравится_делать_в_свободное_время.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปกติคุณชอบทำอะไรเวลาว่าง (bpòk-gà-dtì kun chôp tam a-rai way-laa wâang)",
+            "audio": "ปกติคุณชอบทำอะไรเวลาว่าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa yang suka kamu lakukan di waktu luang?",
+            "audio": "Apa_yang_suka_kamu_lakukan_di_waktu_luang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你平時喜歡做什麼？",
+            "audio": "你平時喜歡做什麼？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen286",
+        "category": "日常交際",
+        "subcategory": "興趣與愛好",
+        "cn": "我很喜歡看書和聽音樂。",
+        "CN_ENG": {
+            "word": "I really like reading books and listening to music.",
+            "audio": "I_really_like_reading_books_and_listening_to_music..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本を読んだり音楽を聴いたりするのが大好きです (ほんをよんだりおんがくをきいたりするのがだいすきです)",
+            "audio": "ほんをよんだりおんがくをきいたりするのがだいすきです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "독서와 음악 감상을 아주 좋아해요. (dogseowa eum-ag gamsang-eul aju joh-ahaeyo.)",
+            "audio": "독서와_음악_감상을_아주_좋아해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi rất thích đọc sách và nghe nhạc.",
+            "audio": "Tôi_rất_thích_đọc_sách_và_nghe_nhạc..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我好鍾意睇書同埋聽歌。 (ngo5 hou2 zung1 ji3 tai2 syu1 tung4 maai4 ting1 go1.)",
+            "audio": "我好鍾意睇書同埋聽歌。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'aime beaucoup lire des livres et écouter de la musique.",
+            "audio": "J'aime_beaucoup_lire_des_livres_et_écouter_de_la_musique..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich lese sehr gerne Bücher und höre Musik.",
+            "audio": "Ich_lese_sehr_gerne_Bücher_und_höre_Musik..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me gusta mucho leer libros y escuchar música.",
+            "audio": "Me_gusta_mucho_leer_libros_y_escuchar_música..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я очень люблю читать книги и слушать музыку. (Ya ochen' lyublyu chitat' knigi i slushat' muziku.)",
+            "audio": "Я_очень_люблю_читать_книги_и_слушать_музыку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันชอบอ่านหนังสือและฟังเพลงมาก (chǎn chôp àan nǎng-sěu láe fang playng mâak)",
+            "audio": "ฉันชอบอ่านหนังสือและฟังเพลงมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sangat suka membaca buku dan mendengarkan musik.",
+            "audio": "Saya_sangat_suka_membaca_buku_dan_mendengarkan_musik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我很喜歡看書和聽音樂。",
+            "audio": "我很喜歡看書和聽音樂。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen287",
+        "category": "日常交際",
+        "subcategory": "興趣與愛好",
+        "cn": "你會打籃球嗎？",
+        "CN_ENG": {
+            "word": "Do you know how to play basketball?",
+            "audio": "Do_you_know_how_to_play_basketball.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "バスケットボールはできますか (ばすけっとぼーるはできますか)",
+            "audio": "ばすけっとぼーるはできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "농구 할 줄 아세요? (nong-gu hal jul aseyo?)",
+            "audio": "농구_할_줄_아세요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có biết chơi bóng rổ không?",
+            "audio": "Bạn_có_biết_chơi_bóng_rổ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你識唔識打籃球呀？ (nei5 sik1 m4 sik1 daa2 laam4 kau4 aa3?)",
+            "audio": "你識唔識打籃球呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sais-tu jouer au basket ?",
+            "audio": "Sais-tu_jouer_au_basket.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kannst du Basketball spielen?",
+            "audio": "Kannst_du_Basketball_spielen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Sabes jugar al baloncesto?",
+            "audio": "¿Sabes_jugar_al_baloncesto.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ты умеешь играть в баскетбол? (Ty umeyesh' igrat' v basketbol?)",
+            "audio": "Ты_умеешь_играть_в_баскетбол.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณเล่นบาสเกตบอลเป็นไหม (kun lên bàat-gèt-bon bpen mǎi)",
+            "audio": "คุณเล่นบาสเกตบอลเป็นไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kamu bisa bermain bola basket?",
+            "audio": "Apakah_kamu_bisa_bermain_bola_basket.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你會打籃球嗎？",
+            "audio": "你會打籃球嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen288",
+        "category": "日常交際",
+        "subcategory": "興趣與愛好",
+        "cn": "我週末常去爬山。",
+        "CN_ENG": {
+            "word": "I often go hiking on weekends.",
+            "audio": "I_often_go_hiking_on_weekends..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "週末はよく山登りに行きます (しゅうまつはよくやまのぼりにいきます)",
+            "audio": "しゅうまつはよくやまのぼりにいきます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주말에는 자주 등산을 가요. (jumal-eneun jaju deungsan-eul gayo.)",
+            "audio": "주말에는_자주_등산을_가요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi thường đi leo núi vào cuối tuần.",
+            "audio": "Tôi_thường_đi_leo_núi_vào_cuối_tuần..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我週末成日去行山。 (ngo5 zau1 mut6 sing4 jat6 heoi3 haang4 saan1.)",
+            "audio": "我週末成日去行山。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je fais souvent de la randonnée le week-end.",
+            "audio": "Je_fais_souvent_de_la_randonnée_le_week-end..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Am Wochenende gehe ich oft wandern.",
+            "audio": "Am_Wochenende_gehe_ich_oft_wandern..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "A menudo voy de excursión a la montaña los fines de semana.",
+            "audio": "A_menudo_voy_de_excursión_a_la_montaña_los_fines_de_semana..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "По выходным я часто хожу в горы. (Po vykhodnym ya chasto khozhu v gory.)",
+            "audio": "По_выходным_я_часто_хожу_в_горы..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันมักจะไปปีนเขาในวันหยุดสุดสัปดาห์ (chǎn mák jà bpai bpeen kǎo nai wan yùt sùt sàp-daa)",
+            "audio": "ฉันมักจะไปปีนเขาในวันหยุดสุดสัปดาห์.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sering mendaki gunung di akhir pekan.",
+            "audio": "Saya_sering_mendaki_gunung_di_akhir_pekan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我週末常去爬山。",
+            "audio": "我週末常去爬山。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen289",
+        "category": "日常交際",
+        "subcategory": "贊同與反對",
+        "cn": "我完全同意你的看法。",
+        "CN_ENG": {
+            "word": "I completely agree with your opinion.",
+            "audio": "I_completely_agree_with_your_opinion..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "あなたの意見に完全に賛成します (あのたいけんにかんぜんにさんせいします)",
+            "audio": "あのたいけんにかんぜんにさんせいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당신의 의견에 전적으로 동의합니다. (dangsin-ui uigyeon-e jeonjeog-eulo dong-uihabnida.)",
+            "audio": "당신의_의견에_전적으로_동의합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi hoàn toàn đồng ý với ý kiến của bạn.",
+            "audio": "Tôi_hoàn_toàn_đồng_ý_với_ý_kiến_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我完全同意你嘅睇法。 (ngo5 jyun4 cyun4 tung4 ji3 nei5 ge3 tai2 faat3.)",
+            "audio": "我完全同意你嘅睇法。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis tout à fait d'accord avec ton opinion.",
+            "audio": "Je_suis_tout_à_fait_d'accord_avec_ton_opinion..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich stimme deiner Meinung völlig zu.",
+            "audio": "Ich_stimme_deiner_Meinung_völlig_zu..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy completamente de acuerdo con tu opinión.",
+            "audio": "Estoy_completamente_de_acuerdo_con_tu_opinión..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я полностью согласен с твоим мнением. (Ya polnost'yu soglasen s tvoim mneniyem.)",
+            "audio": "Я_полностью_согласен_с_твоим_мнением..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันเห็นด้วยกับความคิดเห็นของคุณอย่างยิ่ง (chǎn hěn dûay gàp kwaam kít-hěn kǒng kun yàang yîng)",
+            "audio": "ฉันเห็นด้วยกับความคิดเห็นของคุณอย่างยิ่ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sepenuhnya setuju dengan pendapat Anda.",
+            "audio": "Saya_sepenuhnya_setuju_dengan_pendapat_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我完全同意你的看法。",
+            "audio": "我完全同意你的看法。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen290",
+        "category": "日常交際",
+        "subcategory": "贊同與反對",
+        "cn": "那是個好主意。",
+        "CN_ENG": {
+            "word": "That is a good idea.",
+            "audio": "That_is_a_good_idea..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それはいいアイデアですね (それはいいあいであですね)",
+            "audio": "それはいいあいであですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그거 좋은 생각이네요. (geugeo joh-eun saeng-gag-ineyo.)",
+            "audio": "그거_좋은_생각이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đó là một ý kiến hay.",
+            "audio": "Đó_là_một_ý_kiến_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "嗰個係個好主意。 (go2 go3 hai6 go3 hou2 zyu2 ji3.)",
+            "audio": "嗰個係個好主意。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est une bonne idée.",
+            "audio": "C'est_une_bonne_idée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist eine gute Idee.",
+            "audio": "Das_ist_eine_gute_Idee..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esa es una buena idea.",
+            "audio": "Esa_es_una_buena_idea..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это хорошая идея. (Eto khoroshaya ideya.)",
+            "audio": "Это_хорошая_идея..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นั่นเป็นความคิดที่ดีเลย (nân bpen kwaam kít têe dee loey)",
+            "audio": "นั่นเป็นความคิดที่ดีเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu ide yang bagus.",
+            "audio": "Itu_ide_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "那是個好主意。",
+            "audio": "那是個好主意。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen291",
+        "category": "日常交際",
+        "subcategory": "贊同與反對",
+        "cn": "我不這麼認為。",
+        "CN_ENG": {
+            "word": "I do not think so.",
+            "audio": "I_do_not_think_so..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私はそうは思いません (わたしはそうはおもいません)",
+            "audio": "わたしはそうはおもいません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저는 그렇게 생각하지 않아요. (jeoneun geuleohge saeng-gaghaji anh-ayo.)",
+            "audio": "저는_그렇게_생각하지_않아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không nghĩ vậy.",
+            "audio": "Tôi_không_nghĩ_vậy..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔係咁認為。 (ngo5 m4 hai6 gam2 jing6 wai4.)",
+            "audio": "我唔係咁認為。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne pense pas.",
+            "audio": "Je_ne_pense_pas..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich glaube nicht.",
+            "audio": "Ich_glaube_nicht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No lo creo.",
+            "audio": "No_lo_creo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я так не думаю. (Ya tak ne dumayu.)",
+            "audio": "Я_так_не_думаю..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่คิดอย่างนั้นนะ (chǎn mâi kít yàang nán ná)",
+            "audio": "ฉันไม่คิดอย่างนั้นนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak berpikir begitu.",
+            "audio": "Saya_tidak_berpikir_begitu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不這麼認為。",
+            "audio": "我不這麼認為。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen292",
+        "category": "日常交際",
+        "subcategory": "贊同與反對",
+        "cn": "也許我們該換個方式。",
+        "CN_ENG": {
+            "word": "Maybe we should try another way.",
+            "audio": "Maybe_we_should_try_another_way..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "別の方法を試した方がいいかもしれません (べつのほうほうをためしたほうがいいかもしれません)",
+            "audio": "べつのほうほうをためしたほうがいいかもしれません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다른 방법을 시도해 보는 게 좋을 것 같아요. (daleun bangbeob-eul sidohae boneun ge joh-eul geos gat-ayo.)",
+            "audio": "다른_방법을_시도해_보는_게_좋을_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có lẽ chúng ta nên thử cách khác.",
+            "audio": "Có_lẽ_chúng_ta_nên_thử_cách_khác..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可能我哋應該換個方式。 (ho2 nang4 ngo5 dei6 jing1 goi1 wun6 go3 fong1 sik1.)",
+            "audio": "可能我哋應該換個方式。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Peut-être devrions-nous essayer une autre méthode.",
+            "audio": "Peut-être_devrions-nous_essayer_une_autre_méthode..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielleicht sollten wir es auf eine andere Weise versuchen.",
+            "audio": "Vielleicht_sollten_wir_es_auf_eine_andere_Weise_versuchen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tal vez deberíamos probar de otra manera.",
+            "audio": "Tal_vez_deberíamos_probar_de_otra_manera..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Может быть, нам стоит попробовать другой способ. (Mozhet byt', nam stoit poprobovat' drugoy sposob.)",
+            "audio": "Может_быть,_нам_стоит_попробовать_другой_способ..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "บางทีเราควรลองวิธีอื่นดู (baang-tee rao kuan long wí-tee èun doo)",
+            "audio": "บางทีเราควรลองวิธีอื่นดู.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mungkin kita harus mencoba cara lain.",
+            "audio": "Mungkin_kita_harus_mencoba_cara_lain..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "也許我們該換個方式。",
+            "audio": "也許我們該換個方式。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen293",
+        "category": "日常交際",
+        "subcategory": "祝賀與祝福",
+        "cn": "祝你生日快樂。",
+        "CN_ENG": {
+            "word": "Happy birthday to you.",
+            "audio": "Happy_birthday_to_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お誕生日おめでとうございます (おたんじょうびおめでとうございます)",
+            "audio": "おたんじょうびおめでとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "생일 축하해요. (saeng-il chukhahaeyo.)",
+            "audio": "생일_축하해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc bạn sinh nhật vui vẻ.",
+            "audio": "Chúc_bạn_sinh_nhật_vui_vẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你生日快樂。 (zuk1 nei5 sang1 jat6 faai3 lok6.)",
+            "audio": "祝你生日快樂。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Joyeux anniversaire.",
+            "audio": "Joyeux_anniversaire..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Herzlichen Glückwunsch zum Geburtstag.",
+            "audio": "Herzlichen_Glückwunsch_zum_Geburtstag..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Feliz cumpleaños.",
+            "audio": "Feliz_cumpleaños..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "С днем рождения. (S dnem rozhdeniya.)",
+            "audio": "С_днем_рождения..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สุขสันต์วันเกิดนะ (sùk-sǎn wan gèrt ná)",
+            "audio": "สุขสันต์วันเกิดนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat ulang tahun.",
+            "audio": "Selamat_ulang_tahun..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你生日快樂。",
+            "audio": "祝你生日快樂。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen294",
+        "category": "日常交際",
+        "subcategory": "祝賀與祝福",
+        "cn": "恭喜你升職了。",
+        "CN_ENG": {
+            "word": "Congratulations on your promotion.",
+            "audio": "Congratulations_on_your_promotion..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "昇進おめでとうございます (しょうしんおめでとうございます)",
+            "audio": "しょうしんおめでとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "승진을 축하합니다. (seungjin-eul chukhahabnida.)",
+            "audio": "승진을_축하합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc mừng bạn đã được thăng chức.",
+            "audio": "Chúc_mừng_bạn_đã_được_thăng_chức..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "恭喜你升職呀。 (gung1 hei2 nei5 sing1 zik1 aa3.)",
+            "audio": "恭喜你升職呀。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Félicitations pour ta promotion.",
+            "audio": "Félicitations_pour_ta_promotion..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Herzlichen Glückwunsch zur Beförderung.",
+            "audio": "Herzlichen_Glückwunsch_zur_Beförderung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Felicitaciones por tu ascenso.",
+            "audio": "Felicitaciones_por_tu_ascenso..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Поздравляю с повышением. (Pozdravlyayu s povysheniyem.)",
+            "audio": "Поздравляю_с_повышением..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอแสดงความยินดีกับการเลื่อนตำแหน่งนะ (kǒr sà-daeng kwaam yin-dee gàp gaan lêuan dtam-nàeng ná)",
+            "audio": "ขอแสดงความยินดีกับการเลื่อนตำแหน่งนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat atas promosi Anda.",
+            "audio": "Selamat_atas_promosi_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "恭喜你升職了。",
+            "audio": "恭喜你升職了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen295",
+        "category": "日常交際",
+        "subcategory": "祝賀與祝福",
+        "cn": "祝你好運！",
+        "CN_ENG": {
+            "word": "Good luck!",
+            "audio": "Good_luck!.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "幸運を祈ります (こううんをいのります)",
+            "audio": "こううんをいのります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "행운을 빕니다! (haeng-un-eul bibnida!)",
+            "audio": "행운을_빕니다!.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc may mắn!",
+            "audio": "Chúc_may_mắn!.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你好運呀！ (zuk1 nei5 hou2 wan6 aa3!)",
+            "audio": "祝你好運呀！.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonne chance !",
+            "audio": "Bonne_chance_!.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Viel Glück!",
+            "audio": "Viel_Glück!.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¡Buena suerte!",
+            "audio": "¡Buena_suerte!.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Удачи! (Udachi!)",
+            "audio": "Удачи!.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้โชคดีนะ (kǒr hâi chôhk dee ná)",
+            "audio": "ขอให้โชคดีนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga berhasil!",
+            "audio": "Semoga_berhasil!.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你好運！",
+            "audio": "祝你好運！.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen296",
+        "category": "日常交際",
+        "subcategory": "祝賀與祝福",
+        "cn": "新年快樂，萬事如意。",
+        "CN_ENG": {
+            "word": "Happy New Year, and all the best.",
+            "audio": "Happy_New_Year,_and_all_the_best..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "明けましておめでとうございます、万事順調でありますように (あけましておめでとうございます、ばんじじゅんちょうでありますように)",
+            "audio": "あけましておめでとうございます、ばんじじゅんちょうでありますように.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "새해 복 많이 받으시고, 모든 일이 잘 되기를 바랍니다. (saehae bog manh-i bad-eusigo, modeun il-i jal doegileul balabnida.)",
+            "audio": "새해_복_많이_받으시고,_모든_일이_잘_되기를_바랍니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc mừng năm mới, vạn sự như ý.",
+            "audio": "Chúc_mừng_năm_mới,_vạn_sự_như_ý..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "新年快樂，萬事如意。 (san1 nin4 faai3 lok6, maan6 si6 jyu4 ji3.)",
+            "audio": "新年快樂，萬事如意。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bonne année et meilleurs vœux.",
+            "audio": "Bonne_année_et_meilleurs_vœux..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Frohes neues Jahr und alles Gute.",
+            "audio": "Frohes_neues_Jahr_und_alles_Gute..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Feliz año nuevo y que todo te vaya bien.",
+            "audio": "Feliz_año_nuevo_y_que_todo_te_vaya_bien..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "С Новым годом, всего наилучшего. (S Novym godom, vsego nailuchshego.)",
+            "audio": "С_Новым_годом,_всего_наилучшего..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สวัสดีปีใหม่ ขอให้สมหวังทุกประการ (sà-wàt-dee bpee mài kǒr hâi sǒm-wǎng túk bprà-gaan)",
+            "audio": "สวัสดีปีใหม่_ขอให้สมหวังทุกประการ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Selamat Tahun Baru, dan semua yang terbaik.",
+            "audio": "Selamat_Tahun_Baru,_dan_semua_yang_terbaik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "新年快樂，萬事如意。",
+            "audio": "新年快樂，萬事如意。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen297",
+        "category": "日常交際",
+        "subcategory": "請求與許可",
+        "cn": "我可以借用一下你的電話嗎？",
+        "CN_ENG": {
+            "word": "May I borrow your phone for a moment?",
+            "audio": "May_I_borrow_your_phone_for_a_moment.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "電話を少し借りてもいいですか (でんわをすこしかりてもいいですか)",
+            "audio": "でんわをすこしかりてもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "전화기 좀 빌려도 될까요? (jeonhwagi jom billyeodo doelkkayo?)",
+            "audio": "전화기_좀_빌려도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thể mượn điện thoại của bạn một lát được không?",
+            "audio": "Tôi_có_thể_mượn_điện_thoại_của_bạn_một_lát_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我可唔可以借你個電話用下呀？ (ngo5 ho2 m4 ho2 ji5 ze3 nei5 go3 din6 waa2 jung6 haa5 aa3?)",
+            "audio": "我可唔可以借你個電話用下呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je emprunter votre téléphone un instant ?",
+            "audio": "Puis-je_emprunter_votre_téléphone_un_instant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Darf ich mir kurz dein Telefon ausleihen?",
+            "audio": "Darf_ich_mir_kurz_dein_Telefon_ausleihen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo tomar prestado tu teléfono un momento?",
+            "audio": "¿Puedo_tomar_prestado_tu_teléfono_un_momento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я одолжить твой телефон на минутку? (Mogu ya odolzhit' tvoy telefon na minutku?)",
+            "audio": "Могу_я_одолжить_твой_телефон_на_минутку.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอยืมโทรศัพท์คุณสักครู่ได้ไหม (chǎn kǒr yeum toh-rá-sàp kun sàk krôo dâi mǎi)",
+            "audio": "ฉันขอยืมโทรศัพท์คุณสักครู่ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya meminjam telepon Anda sebentar?",
+            "audio": "Bolehkah_saya_meminjam_telepon_Anda_sebentar.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我可以借用一下你的電話嗎？",
+            "audio": "我可以借用一下你的電話嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen298",
+        "category": "日常交際",
+        "subcategory": "請求與許可",
+        "cn": "請你再說一遍好嗎？",
+        "CN_ENG": {
+            "word": "Could you say that again, please?",
+            "audio": "Could_you_say_that_again,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう一度言っていただけますか (もういちどいっていただけますか)",
+            "audio": "もういちどいっていただけますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다시 한번 말씀해 주시겠어요? (dasi hanbeon malsseumhae jusigess-eoyo?)",
+            "audio": "다시_한번_말씀해_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể nói lại lần nữa được không?",
+            "audio": "Bạn_có_thể_nói_lại_lần_nữa_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩你講多一次好冇呀？ (maa4 faan4 nei5 gong2 do1 jat1 ci3 hou2 mou2 aa3?)",
+            "audio": "麻煩你講多一次好冇呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous répéter, s'il vous plaît ?",
+            "audio": "Pourriez-vous_répéter,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könntest du das bitte noch einmal sagen?",
+            "audio": "Könntest_du_das_bitte_noch_einmal_sagen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podrías repetir eso, por favor?",
+            "audio": "¿Podrías_repetir_eso,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы повторить это еще раз? (Ne mogli by vy povtorit' eto yeshche raz?)",
+            "audio": "Не_могли_бы_вы_повторить_это_еще_раз.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยพูดอีกครั้งได้ไหม (chûay pôot èek kráng dâi mǎi)",
+            "audio": "ช่วยพูดอีกครั้งได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda mengulanginya?",
+            "audio": "Bisakah_Anda_mengulanginya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請你再說一遍好嗎？",
+            "audio": "請你再說一遍好嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen299",
+        "category": "日常交際",
+        "subcategory": "請求與許可",
+        "cn": "我現在可以進去嗎？",
+        "CN_ENG": {
+            "word": "Can I go in now?",
+            "audio": "Can_I_go_in_now.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今、入ってもいいですか (いま、はいってもいいですか)",
+            "audio": "いま、はいってもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금 들어가도 될까요? (jigeum deul-eogado doelkkayo?)",
+            "audio": "지금_들어가도_될까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bây giờ tôi có thể vào được không?",
+            "audio": "Bây_giờ_tôi_có_thể_vào_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我而家可唔可以入去呀？ (ngo5 ji4 gaa1 ho2 m4 ho2 ji5 jap6 heoi3 aa3?)",
+            "audio": "我而家可唔可以入去呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Puis-je entrer maintenant ?",
+            "audio": "Puis-je_entrer_maintenant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Darf ich jetzt hineingehen?",
+            "audio": "Darf_ich_jetzt_hineingehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedo entrar ahora?",
+            "audio": "¿Puedo_entrar_ahora.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Могу я войти сейчас? (Mogu ya voyti seychas?)",
+            "audio": "Могу_я_войти_сейчас.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันเข้าไปตอนนี้ได้ไหม (chǎn kâo bpai dton-née dâi mǎi)",
+            "audio": "ฉันเข้าไปตอนนี้ได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah saya masuk sekarang?",
+            "audio": "Bisakah_saya_masuk_sekarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我現在可以進去嗎？",
+            "audio": "我現在可以進去嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen300",
+        "category": "日常交際",
+        "subcategory": "請求與許可",
+        "cn": "請問這附近有洗手間嗎？",
+        "CN_ENG": {
+            "word": "Is there a restroom nearby?",
+            "audio": "Is_there_a_restroom_nearby.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この近くにトイレはありますか (このちかくにといれはありますか)",
+            "audio": "このちかくにといれはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 근처에 화장실이 있나요? (i geuncheoe hwajangsil-i issnayo?)",
+            "audio": "이_근처에_화장실이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi gần đây có nhà vệ sinh không?",
+            "audio": "Xin_hỏi_gần_đây_có_nhà_vệ_sinh_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問附近有冇洗手間呀？ (cing2 man6 fu6 gan6 jau5 mou5 sai2 sau2 gaan1 aa3?)",
+            "audio": "請問附近有冇洗手間呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des toilettes à proximité ?",
+            "audio": "Y_a-t-il_des_toilettes_à_proximité.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es hier in der Nähe eine Toilette?",
+            "audio": "Gibt_es_hier_in_der_Nähe_eine_Toilette.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay un baño cerca de aquí?",
+            "audio": "¿Hay_un_baño_cerca_de_aquí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здесь поблизости есть туалет? (Zdes' poblizosti yest' tualet?)",
+            "audio": "Здесь_поблизости_есть_туалет.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แถวนี้มีห้องน้ำไหม (tǎew née mee hông-náam mǎi)",
+            "audio": "แถวนี้มีห้องน้ำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada toilet di dekat sini?",
+            "audio": "Apakah_ada_toilet_di_dekat_sini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這附近有洗手間嗎？",
+            "audio": "請問這附近有洗手間嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen301",
+        "category": "日常交際",
+        "subcategory": "尋求幫助",
+        "cn": "請問你可以幫我嗎？",
+        "CN_ENG": {
+            "word": "Can you help me, please?",
+            "audio": "Can_you_help_me,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "手伝っていただけますか (てつだっていただけますか)",
+            "audio": "てつだっていただけますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저를 좀 도와주시겠어요? (jeoleul jom dowajusigess-eoyo?)",
+            "audio": "저를_좀_도와주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể giúp tôi được không?",
+            "audio": "Bạn_có_thể_giúp_tôi_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問你可唔可以幫下我呀？ (cing2 man6 nei5 ho2 m4 ho2 ji5 bong1 haa5 ngo5 aa3?)",
+            "audio": "請問你可唔可以幫下我呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous m'aider, s'il vous plaît ?",
+            "audio": "Pouvez-vous_m'aider,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können Sie mir bitte helfen?",
+            "audio": "Können_Sie_mir_bitte_helfen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedes ayudarme, por favor?",
+            "audio": "¿Puedes_ayudarme,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы мне помочь? (Ne mogli by vy mne pomoch'?)",
+            "audio": "Не_могли_бы_вы_мне_помочь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณช่วยฉันหน่อยได้ไหม (kun chûay chǎn nòi dâi mǎi)",
+            "audio": "คุณช่วยฉันหน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda membantu saya?",
+            "audio": "Bisakah_Anda_membantu_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問你可以幫我嗎？",
+            "audio": "請問你可以幫我嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen302",
+        "category": "日常交際",
+        "subcategory": "尋求幫助",
+        "cn": "我需要你的建議。",
+        "CN_ENG": {
+            "word": "I need your advice.",
+            "audio": "I_need_your_advice..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "あなたのアドバイスが必要です (あどばいすがひつようです)",
+            "audio": "あどばいすがひつようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당신의 조언이 필요해요. (dangsin-ui jo-eon-i pil-yohaeyo.)",
+            "audio": "당신의_조언이_필요해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần lời khuyên của bạn.",
+            "audio": "Tôi_cần_lời_khuyên_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要你嘅建議。 (ngo5 seoi1 jiu3 nei5 ge3 gin3 ji5.)",
+            "audio": "我需要你嘅建議。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin de vos conseils.",
+            "audio": "J'ai_besoin_de_vos_conseils..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich brauche deinen Rat.",
+            "audio": "Ich_brauche_deinen_Rat..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito tu consejo.",
+            "audio": "Necesito_tu_consejo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужен твой совет. (Mne nuzhen tvoy sovet.)",
+            "audio": "Мне_нужен_твой_совет..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการคำแนะนำจากคุณ (chǎn dtông-gaan kam náe-nam jàak kun)",
+            "audio": "ฉันต้องการคำแนะนำจากคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya butuh saran Anda.",
+            "audio": "Saya_butuh_saran_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要你的建議。",
+            "audio": "我需要你的建議。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen303",
+        "category": "日常交際",
+        "subcategory": "尋求幫助",
+        "cn": "你能幫我拿一下這個嗎？",
+        "CN_ENG": {
+            "word": "Could you hold this for me?",
+            "audio": "Could_you_hold_this_for_me.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これを持っていてもらえますか (これをもっていってもらえますか)",
+            "audio": "これをもっていってもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이것 좀 들어주시겠어요? (igeos jom deul-eojusigess-eoyo?)",
+            "audio": "이것_좀_들어주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể cầm giúp tôi cái này không?",
+            "audio": "Bạn_có_thể_cầm_giúp_tôi_cái_này_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你可唔可以幫我拎住呢個呀？ (nei5 ho2 m4 ho2 ji5 bong1 ngo5 ling1 zyu6 ni1 go3 aa3?)",
+            "audio": "你可唔可以幫我拎住呢個呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous tenir ça pour moi ?",
+            "audio": "Pourriez-vous_tenir_ça_pour_moi.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könntest du das für mich halten?",
+            "audio": "Könntest_du_das_für_mich_halten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podrías sostener esto por mí?",
+            "audio": "¿Podrías_sostener_esto_por_mí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не мог бы ты подержать это для меня? (Ne mog by ty poderzhat' eto dlya menya?)",
+            "audio": "Не_мог_бы_ты_подержать_это_для_меня.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยถืออันนี้ให้ฉันหน่อยได้ไหม (chûay těu an née hâi chǎn nòi dâi mǎi)",
+            "audio": "ช่วยถืออันนี้ให้ฉันหน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda memegang ini untuk saya?",
+            "audio": "Bisakah_Anda_memegang_ini_untuk_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你能幫我拿一下這個嗎？",
+            "audio": "你能幫我拿一下這個嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen304",
+        "category": "日常交際",
+        "subcategory": "尋求幫助",
+        "cn": "請問這要怎麼用？",
+        "CN_ENG": {
+            "word": "How do I use this?",
+            "audio": "How_do_I_use_this.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これはどうやって使うのですか (これはどうやってつかうのですか)",
+            "audio": "これはどうやってつかうのですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이거 어떻게 사용하는 건가요? (igeo eotteohge sayonghaneun geongayo?)",
+            "audio": "이거_어떻게_사용하는_건가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi cái này dùng như thế nào?",
+            "audio": "Xin_hỏi_cái_này_dùng_như_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個要點用呀？ (cing2 man6 ni1 go3 jiu3 dim2 jung6 aa3?)",
+            "audio": "請問呢個要點用呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment est-ce que j'utilise ça ?",
+            "audio": "Comment_est-ce_que_j'utilise_ça.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie benutze ich das?",
+            "audio": "Wie_benutze_ich_das.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo se usa esto?",
+            "audio": "¿Cómo_se_usa_esto.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как этим пользоваться? (Kak etim pol'zovat'sya?)",
+            "audio": "Как_этим_пользоваться.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อันนี้ใช้ยังไง (an née chái yang-ngai)",
+            "audio": "อันนี้ใช้ยังไง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana cara menggunakan ini?",
+            "audio": "Bagaimana_cara_menggunakan_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這要怎麼用？",
+            "audio": "請問這要怎麼用？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen305",
+        "category": "日常交際",
+        "subcategory": "尋求幫助",
+        "cn": "可以教我怎麼做嗎？",
+        "CN_ENG": {
+            "word": "Can you teach me how to do it?",
+            "audio": "Can_you_teach_me_how_to_do_it.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "どうやるのか教えてもらえますか (どうやるのかおしえてもらえますか)",
+            "audio": "どうやるのかおしえてもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "어떻게 하는지 가르쳐 주시겠어요? (eotteohge haneunji galeuchyeo jusigess-eoyo?)",
+            "audio": "어떻게_하는지_가르쳐_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể dạy tôi cách làm không?",
+            "audio": "Có_thể_dạy_tôi_cách_làm_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以教我點做呀？ (ho2 m4 ho2 ji5 gaau3 ngo5 dim2 zou6 aa3?)",
+            "audio": "可唔可以教我點做呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous m'apprendre comment faire ?",
+            "audio": "Pouvez-vous_m'apprendre_comment_faire.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kannst du mir beibringen, wie das geht?",
+            "audio": "Kannst_du_mir_beibringen,_wie_das_geht.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Puedes enseñarme cómo hacerlo?",
+            "audio": "¿Puedes_enseñarme_cómo_hacerlo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Можешь научить меня, как это делать? (Mozhesh' nauchit' menya, kak eto delat'?)",
+            "audio": "Можешь_научить_меня,_как_это_делать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยสอนฉันทำหน่อยได้ไหม (chûay sǒn chǎn tam nòi dâi mǎi)",
+            "audio": "ช่วยสอนฉันทำหน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda mengajari saya cara melakukannya?",
+            "audio": "Bisakah_Anda_mengajari_saya_cara_melakukannya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以教我怎麼做嗎？",
+            "audio": "可以教我怎麼做嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen306",
+        "category": "日常交際",
+        "subcategory": "尋求幫助",
+        "cn": "我不小心把水打翻了。",
+        "CN_ENG": {
+            "word": "I accidentally spilled the water.",
+            "audio": "I_accidentally_spilled_the_water..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "うっかり水をこぼしてしまいました (うっかりみずをこぼしてしまいました)",
+            "audio": "うっかりみずをこぼしてしまいました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "실수로 물을 엎질렀어요. (silsulo mul-eul eopjilleoss-eoyo.)",
+            "audio": "실수로_물을_엎질렀어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi lỡ làm đổ nước rồi.",
+            "audio": "Tôi_lỡ_làm_đổ_nước_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔小心倒瀉水呀。 (ngo5 m4 siu2 sam1 dou2 se3 seoi2 aa3.)",
+            "audio": "我唔小心倒瀉水呀。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai renversé l'eau par accident.",
+            "audio": "J'ai_renversé_l'eau_par_accident..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe versehentlich das Wasser verschüttet.",
+            "audio": "Ich_habe_versehentlich_das_Wasser_verschüttet..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Derramé el agua accidentalmente.",
+            "audio": "Derramé_el_agua_accidentalmente..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я случайно пролил воду. (Ya sluchayno prolil vodu.)",
+            "audio": "Я_случайно_пролил_воду..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันเผลอทำน้ำหก (chǎn plěr tam náam hòk)",
+            "audio": "ฉันเผลอทำน้ำหก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak sengaja menumpahkan air.",
+            "audio": "Saya_tidak_sengaja_menumpahkan_air..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不小心把水打翻了。",
+            "audio": "我不小心把水打翻了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen307",
+        "category": "日常交際",
+        "subcategory": "尋求幫助",
+        "cn": "麻煩你幫我開門。",
+        "CN_ENG": {
+            "word": "Please open the door for me.",
+            "audio": "Please_open_the_door_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ドアを開けてもらえますか (どあをあけてもらえますか)",
+            "audio": "どあをあけてもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "문 좀 열어 주시겠어요? (mun jom yeol-eo jusigess-eoyo?)",
+            "audio": "문_좀_열어_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phiền bạn mở cửa giúp tôi.",
+            "audio": "Phiền_bạn_mở_cửa_giúp_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩你幫我開門呀。 (maa4 faan4 nei5 bong1 ngo5 hoi1 mun4 aa3.)",
+            "audio": "麻煩你幫我開門呀。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous m'ouvrir la porte, s'il vous plaît ?",
+            "audio": "Pouvez-vous_m'ouvrir_la_porte,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte öffne die Tür für mich.",
+            "audio": "Bitte_öffne_die_Tür_für_mich..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, ábreme la puerta.",
+            "audio": "Por_favor,_ábreme_la_puerta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, открой мне дверь. (Pozhaluysta, otkroy mne dver'.)",
+            "audio": "Пожалуйста,_открой_мне_дверь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รบกวนช่วยเปิดประตูให้หน่อย (róp-guan chûay bpèrt bprà-dtoo hâi nòi)",
+            "audio": "รบกวนช่วยเปิดประตูให้หน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong bukakan pintu untuk saya.",
+            "audio": "Tolong_bukakan_pintu_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "麻煩你幫我開門。",
+            "audio": "麻煩你幫我開門。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen308",
+        "category": "日常交際",
+        "subcategory": "表達意見",
+        "cn": "我覺得這是一個好主意。",
+        "CN_ENG": {
+            "word": "I think this is a good idea.",
+            "audio": "I_think_this_is_a_good_idea..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それは良いアイデアだと思います (それはよいあいであだとおもいます)",
+            "audio": "それはよいあいであだとおもいます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이것은 좋은 생각인 것 같아요. (igeos-eun joh-eun saeng-gag-in geos gat-ayo.)",
+            "audio": "이것은_좋은_생각인_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi nghĩ đây là một ý kiến hay.",
+            "audio": "Tôi_nghĩ_đây_là_một_ý_kiến_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我覺得呢個係個好主意。 (ngo5 gok3 dak1 ni1 go3 hai6 go3 hou2 zyu2 ji3.)",
+            "audio": "我覺得呢個係個好主意。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je pense que c'est une bonne idée.",
+            "audio": "Je_pense_que_c'est_une_bonne_idée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich denke, das ist eine gute Idee.",
+            "audio": "Ich_denke,_das_ist_eine_gute_Idee..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Creo que es una buena idea.",
+            "audio": "Creo_que_es_una_buena_idea..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я думаю, это хорошая идея. (Ya dumayu, eto khoroshaya ideya.)",
+            "audio": "Я_думаю,_это_хорошая_идея..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันคิดว่านี่เป็นความคิดที่ดี (chǎn kít wâa nêe bpen kwaam kít têe dee)",
+            "audio": "ฉันคิดว่านี่เป็นความคิดที่ดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya pikir ini adalah ide yang bagus.",
+            "audio": "Saya_pikir_ini_adalah_ide_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我覺得這是一個好主意。",
+            "audio": "我覺得這是一個好主意。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen309",
+        "category": "日常交際",
+        "subcategory": "表達意見",
+        "cn": "我不太確定這件事。",
+        "CN_ENG": {
+            "word": "I am not so sure about this.",
+            "audio": "I_am_not_so_sure_about_this..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このことについてはよくわかりません (このことについてはよくわかりません)",
+            "audio": "このことについてはよくわかりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 일에 대해서는 잘 모르겠어요. (i il-e daehaeseoneun jal moleugess-eoyo.)",
+            "audio": "이_일에_대해서는_잘_모르겠어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không chắc chắn lắm về chuyện này.",
+            "audio": "Tôi_không_chắc_chắn_lắm_về_chuyện_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔係好確定呢件事。 (ngo5 m4 hai6 hou2 kok3 ding6 ni1 gin6 si6.)",
+            "audio": "我唔係好確定呢件事。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne suis pas très sûr de ça.",
+            "audio": "Je_ne_suis_pas_très_sûr_de_ça..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin mir da nicht so sicher.",
+            "audio": "Ich_bin_mir_da_nicht_so_sicher..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No estoy muy seguro de esto.",
+            "audio": "No_estoy_muy_seguro_de_esto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не совсем уверен в этом. (Ya ne sovsem uveren v etom.)",
+            "audio": "Я_не_совсем_уверен_в_этом..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่ค่อยแน่ใจเรื่องนี้เท่าไหร่ (chǎn mâi kôi nâe-jai rêuang née tâo-rài)",
+            "audio": "ฉันไม่ค่อยแน่ใจเรื่องนี้เท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak terlalu yakin tentang hal ini.",
+            "audio": "Saya_tidak_terlalu_yakin_tentang_hal_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不太確定這件事。",
+            "audio": "我不太確定這件事。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen310",
+        "category": "日常交際",
+        "subcategory": "表達意見",
+        "cn": "就我看來，這沒有問題。",
+        "CN_ENG": {
+            "word": "As far as I can see, this is fine.",
+            "audio": "As_far_as_I_can_see,_this_is_fine..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私の見る限り、これは問題ありません (わたしのみるかぎり、これはもんだいありません)",
+            "audio": "わたしのみるかぎり、これはもんだいありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "제가 보기에는 문제없어요. (jega bogieneun munje-eobs-eoyo.)",
+            "audio": "제가_보기에는_문제없어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Theo tôi thấy thì không có vấn đề gì.",
+            "audio": "Theo_tôi_thấy_thì_không_có_vấn_đề_gì..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "就我睇嚟，呢個冇問題。 (zau6 ngo5 tai2 lai4, ni1 go3 mou5 mun6 tai4.)",
+            "audio": "就我睇嚟，呢個冇問題。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pour autant que je sache, c'est bon.",
+            "audio": "Pour_autant_que_je_sache,_c'est_bon..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Soweit ich sehen kann, ist das in Ordnung.",
+            "audio": "Soweit_ich_sehen_kann,_ist_das_in_Ordnung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por lo que veo, esto está bien.",
+            "audio": "Por_lo_que_veo,_esto_está_bien..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "На мой взгляд, все в порядке. (Na moy vzglyad, vse v poryadke.)",
+            "audio": "На_мой_взгляд,_все_в_порядке..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เท่าที่ฉันเห็น ก็ไม่มีปัญหาอะไรนะ (tâo têe chǎn hěn gôr mâi mee bpan-hǎa a-rai ná)",
+            "audio": "เท่าที่ฉันเห็น_ก็ไม่มีปัญหาอะไรนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sejauh yang saya tahu, ini tidak masalah.",
+            "audio": "Sejauh_yang_saya_tahu,_ini_tidak_masalah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "就我看來，這沒有問題。",
+            "audio": "就我看來，這沒有問題。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen311",
+        "category": "日常交際",
+        "subcategory": "表達意見",
+        "cn": "你能理解我的意思嗎？",
+        "CN_ENG": {
+            "word": "Do you understand what I mean?",
+            "audio": "Do_you_understand_what_I_mean.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私の言っている意味がわかりますか (わたしのいっているいみがわかりますか)",
+            "audio": "わたしのいっているいみがわかりますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "제 말 무슨 뜻인지 이해하시겠어요? (je mal museun tteus-inji ihaehasigess-eoyo?)",
+            "audio": "제_말_무슨_뜻인지_이해하시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có hiểu ý tôi không?",
+            "audio": "Bạn_có_hiểu_ý_tôi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你明唔明白我嘅意思呀？ (nei5 ming4 m4 ming4 baak6 ngo5 ge3 ji3 si1 aa3?)",
+            "audio": "你明唔明白我嘅意思呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comprenez-vous ce que je veux dire ?",
+            "audio": "Comprenez-vous_ce_que_je_veux_dire.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Verstehst du, was ich meine?",
+            "audio": "Verstehst_du,_was_ich_meine.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Entiendes lo que quiero decir?",
+            "audio": "¿Entiendes_lo_que_quiero_decir.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ты понимаешь, что я имею в виду? (Ty ponimayesh', chto ya imeyu v vidu?)",
+            "audio": "Ты_понимаешь,_что_я_имею_в_виду.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณเข้าใจที่ฉันหมายถึงไหม (kun kâo-jai têe chǎn mǎai-těung mǎi)",
+            "audio": "คุณเข้าใจที่ฉันหมายถึงไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda mengerti maksud saya?",
+            "audio": "Apakah_Anda_mengerti_maksud_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你能理解我的意思嗎？",
+            "audio": "你能理解我的意思嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen312",
+        "category": "日常交際",
+        "subcategory": "表達意見",
+        "cn": "我對這個提議很感興趣。",
+        "CN_ENG": {
+            "word": "I am very interested in this proposal.",
+            "audio": "I_am_very_interested_in_this_proposal..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この提案にとても興味があります (このていあんにとてもきょうみがあります)",
+            "audio": "このていあんにとてもきょうみがあります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 제안에 아주 관심이 많아요. (i je-an-e aju gwansim-i manh-ayo.)",
+            "audio": "이_제안에_아주_관심이_많아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi rất hứng thú với đề xuất này.",
+            "audio": "Tôi_rất_hứng_thú_với_đề_xuất_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我對呢個提議好感興趣。 (ngo5 deoi3 ni1 go3 tai4 ji5 hou2 gam2 hing3 ceoi3.)",
+            "audio": "我對呢個提議好感興趣。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis très intéressé par cette proposition.",
+            "audio": "Je_suis_très_intéressé_par_cette_proposition..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin sehr interessiert an diesem Vorschlag.",
+            "audio": "Ich_bin_sehr_interessiert_an_diesem_Vorschlag..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy muy interesado en esta propuesta.",
+            "audio": "Estoy_muy_interesado_en_esta_propuesta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я очень заинтересован в этом предложении. (Ya ochen' zainteresovan v etom predlozhenii.)",
+            "audio": "Я_очень_заинтересован_в_этом_предложении..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันสนใจข้อเสนอนี้มาก (chǎn sǒn-jai kôr sě-nǒr née mâak)",
+            "audio": "ฉันสนใจข้อเสนอนี้มาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sangat tertarik dengan proposal ini.",
+            "audio": "Saya_sangat_tertarik_dengan_proposal_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我對這個提議很感興趣。",
+            "audio": "我對這個提議很感興趣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen313",
+        "category": "日常交際",
+        "subcategory": "表達意見",
+        "cn": "聽起來是個不錯的選擇。",
+        "CN_ENG": {
+            "word": "That sounds like a good choice.",
+            "audio": "That_sounds_like_a_good_choice..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それは良い選択のように聞こえます (それはよいせんたくのようにきこえます)",
+            "audio": "それはよいせんたくのようにきこえます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "괜찮은 선택인 것 같네요. (gwaenchanh-eun seontaeg-in geos gatneyo.)",
+            "audio": "괜찮은_선택인_것_같네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nghe có vẻ là một lựa chọn không tồi.",
+            "audio": "Nghe_có_vẻ_là_một_lựa_chọn_không_tồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "聽落係個唔錯嘅選擇。 (ting1 lok6 hai6 go3 m4 co3 ge3 syun2 zaak6.)",
+            "audio": "聽落係個唔錯嘅選擇。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ça semble être un bon choix.",
+            "audio": "Ça_semble_être_un_bon_choix..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das klingt nach einer guten Wahl.",
+            "audio": "Das_klingt_nach_einer_guten_Wahl..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Suena como una buena elección.",
+            "audio": "Suena_como_una_buena_elección..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Звучит как хороший выбор. (Zvuchit kak khoroshiy vybor.)",
+            "audio": "Звучит_как_хороший_выбор..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฟังดูเป็นทางเลือกที่ดีนะ (fang doo bpen taang lêuak têe dee ná)",
+            "audio": "ฟังดูเป็นทางเลือกที่ดีนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kedengarannya seperti pilihan yang bagus.",
+            "audio": "Kedengarannya_seperti_pilihan_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "聽起來是個不錯的選擇。",
+            "audio": "聽起來是個不錯的選擇。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen314",
+        "category": "日常交際",
+        "subcategory": "表達意見",
+        "cn": "我完全沒有想到這一點。",
+        "CN_ENG": {
+            "word": "I didn't think of that at all.",
+            "audio": "I_didn't_think_of_that_at_all..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "そのことには全く思い至りませんでした (そのことにはまったくおもいいたりませんでした)",
+            "audio": "そのことにはまったくおもいいたりませんでした.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그 점은 미처 생각하지 못했어요. (geu jeom-eun micheo saeng-gaghaji moshaess-eoyo.)",
+            "audio": "그_점은_미처_생각하지_못했어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi hoàn toàn chưa nghĩ đến điều đó.",
+            "audio": "Tôi_hoàn_toàn_chưa_nghĩ_đến_điều_đó..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我完全冇諗到呢一點。 (ngo5 jyun4 cyun4 mou5 nam2 dou3 ni1 jat1 dim2.)",
+            "audio": "我完全冇諗到呢一點。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je n'y avais pas du tout pensé.",
+            "audio": "Je_n'y_avais_pas_du_tout_pensé..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Daran habe ich gar nicht gedacht.",
+            "audio": "Daran_habe_ich_gar_nicht_gedacht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No había pensado en eso en absoluto.",
+            "audio": "No_había_pensado_en_eso_en_absoluto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я об этом совершенно не подумал. (Ya ob etom sovershenno ne podumal.)",
+            "audio": "Я_об_этом_совершенно_не_подумал..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่ได้คิดถึงเรื่องนี้เลย (chǎn mâi dâi kít těung rêuang née loey)",
+            "audio": "ฉันไม่ได้คิดถึงเรื่องนี้เลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sama sekali tidak memikirkan hal itu.",
+            "audio": "Saya_sama_sekali_tidak_memikirkan_hal_itu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我完全沒有想到這一點。",
+            "audio": "我完全沒有想到這一點。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen315",
+        "category": "日常交際",
+        "subcategory": "讚美鼓勵",
+        "cn": "你今天看起來真漂亮。",
+        "CN_ENG": {
+            "word": "You look really beautiful today.",
+            "audio": "You_look_really_beautiful_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日はとても綺麗ですね (きょうはとてもきれいですね)",
+            "audio": "きょうはとてもきれいですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 정말 예뻐 보여요. (oneul jeongmal yeppeo boyeoyo.)",
+            "audio": "오늘_정말_예뻐_보여요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay trông bạn thật đẹp.",
+            "audio": "Hôm_nay_trông_bạn_thật_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你今日睇落真係靚。 (nei5 gam1 jat6 tai2 lok6 zan1 hai6 leng3.)",
+            "audio": "你今日睇落真係靚。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu es vraiment belle aujourd'hui.",
+            "audio": "Tu_es_vraiment_belle_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du siehst heute wirklich schön aus.",
+            "audio": "Du_siehst_heute_wirklich_schön_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Te ves muy hermosa hoy.",
+            "audio": "Te_ves_muy_hermosa_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ты сегодня выглядишь очень красиво. (Ty segodnya vyglyadish' ochen' krasivo.)",
+            "audio": "Ты_сегодня_выглядишь_очень_красиво..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้คุณดูสวยมากเลย (wan-née kun doo sǔay mâak loey)",
+            "audio": "วันนี้คุณดูสวยมากเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kamu terlihat sangat cantik hari ini.",
+            "audio": "Kamu_terlihat_sangat_cantik_hari_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你今天看起來真漂亮。",
+            "audio": "你今天看起來真漂亮。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen316",
+        "category": "日常交際",
+        "subcategory": "讚美鼓勵",
+        "cn": "你的衣服在哪裡買的？",
+        "CN_ENG": {
+            "word": "Where did you buy your clothes?",
+            "audio": "Where_did_you_buy_your_clothes.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "その服はどこで買ったのですか (そのふくはどこでかったのですか)",
+            "audio": "そのふくはどこでかったのですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그 옷 어디서 샀어요? (geu os eodiseo sass-eoyo?)",
+            "audio": "그_옷_어디서_샀어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Quần áo của bạn mua ở đâu vậy?",
+            "audio": "Quần_áo_của_bạn_mua_ở_đâu_vậy.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你件衫喺邊度買㗎？ (nei5 gin6 saam1 hai2 bin1 dou6 maai5 gaa3?)",
+            "audio": "你件衫喺邊度買㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Où as-tu acheté tes vêtements ?",
+            "audio": "Où_as-tu_acheté_tes_vêtements.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wo hast du deine Kleidung gekauft?",
+            "audio": "Wo_hast_du_deine_Kleidung_gekauft.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Dónde compraste tu ropa?",
+            "audio": "¿Dónde_compraste_tu_ropa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Где ты купил свою одежду? (Gde ty kupil svoyu odezhdu?)",
+            "audio": "Где_ты_купил_свою_одежду.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อผ้าของคุณซื้อที่ไหน (sêua-pâa kǒng kun séu têe nǎi)",
+            "audio": "เสื้อผ้าของคุณซื้อที่ไหน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Di mana kamu membeli pakaianmu?",
+            "audio": "Di_mana_kamu_membeli_pakaianmu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你的衣服在哪裡買的？",
+            "audio": "你的衣服在哪裡買的？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen317",
+        "category": "日常交際",
+        "subcategory": "讚美鼓勵",
+        "cn": "你做得非常好，繼續保持。",
+        "CN_ENG": {
+            "word": "You did a great job, keep it up.",
+            "audio": "You_did_a_great_job,_keep_it_up..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "よくやりました、その調子で頑張って (よくやりました、そのちょうしでがんばって)",
+            "audio": "よくやりました、そのちょうしでがんばって.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정말 잘했어요, 계속 이렇게만 하세요. (jeongmal jalhaess-eoyo, gyesog ileohgeman haseyo.)",
+            "audio": "정말_잘했어요,_계속_이렇게만_하세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn làm rất tốt, tiếp tục phát huy nhé.",
+            "audio": "Bạn_làm_rất_tốt,_tiếp_tục_phát_huy_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你做得非常好，繼續保持。 (nei5 zou6 dak1 fei1 soeng4 hou2, gai3 zuk6 bou2 ci4.)",
+            "audio": "你做得非常好，繼續保持。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu as fait du bon travail, continue comme ça.",
+            "audio": "Tu_as_fait_du_bon_travail,_continue_comme_ça..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du hast tolle Arbeit geleistet, weiter so.",
+            "audio": "Du_hast_tolle_Arbeit_geleistet,_weiter_so..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hiciste un gran trabajo, sigue así.",
+            "audio": "Hiciste_un_gran_trabajo,_sigue_así..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Отличная работа, так держать. (Otlichnaya rabota, tak derzhat'.)",
+            "audio": "Отличная_работа,_так_держать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณทำได้ดีมาก ทำต่อไปนะ (kun tam dâi dee mâak tam dtòr bpai ná)",
+            "audio": "คุณทำได้ดีมาก_ทำต่อไปนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kamu melakukan pekerjaan yang luar biasa, pertahankan.",
+            "audio": "Kamu_melakukan_pekerjaan_yang_luar_biasa,_pertahankan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你做得非常好，繼續保持。",
+            "audio": "你做得非常好，繼續保持。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen318",
+        "category": "日常交際",
+        "subcategory": "讚美鼓勵",
+        "cn": "不要放棄，你可以的！",
+        "CN_ENG": {
+            "word": "Don't give up, you can do it!",
+            "audio": "Don't_give_up,_you_can_do_it!.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "諦めないで、あなたならできるよ！ (あきらめないで、あなたならできるよ！)",
+            "audio": "あきらめないで、あなたならできるよ！.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "포기하지 마세요, 할 수 있어요! (pogihaji maseyo, hal su iss-eoyo!)",
+            "audio": "포기하지_마세요,_할_수_있어요!.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đừng bỏ cuộc, bạn làm được mà!",
+            "audio": "Đừng_bỏ_cuộc,_bạn_làm_được_mà!.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔好放棄，你得㗎！ (m4 hou2 fong3 hei3, nei5 dak1 gaa3!)",
+            "audio": "唔好放棄，你得㗎！.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "N'abandonne pas, tu peux le faire !",
+            "audio": "N'abandonne_pas,_tu_peux_le_faire_!.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gib nicht auf, du schaffst das!",
+            "audio": "Gib_nicht_auf,_du_schaffst_das!.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¡No te rindas, tú puedes hacerlo!",
+            "audio": "¡No_te_rindas,_tú_puedes_hacerlo!.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не сдавайся, ты сможешь! (Ne sdavaysya, ty smozhesh'!)",
+            "audio": "Не_сдавайся,_ты_сможешь!.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่ายอมแพ้ คุณทำได้! (yàa yom páe kun tam dâi!)",
+            "audio": "อย่ายอมแพ้_คุณทำได้!.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jangan menyerah, kamu pasti bisa!",
+            "audio": "Jangan_menyerah,_kamu_pasti_bisa!.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "不要放棄，你可以的！",
+            "audio": "不要放棄，你可以的！.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen319",
+        "category": "日常交際",
+        "subcategory": "讚美鼓勵",
+        "cn": "我為你感到驕傲。",
+        "CN_ENG": {
+            "word": "I am proud of you.",
+            "audio": "I_am_proud_of_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "あなたのことを誇りに思います (あなたのことをほこりにおもいます)",
+            "audio": "あなたのことをほこりにおもいます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당신이 자랑스러워요. (dangsin-i jalangseuleowoyo.)",
+            "audio": "당신이_자랑스러워요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi rất tự hào về bạn.",
+            "audio": "Tôi_rất_tự_hào_về_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我為你感到驕傲。 (ngo5 wai6 nei5 gam2 dou3 giu1 ngou6.)",
+            "audio": "我為你感到驕傲。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis fier de toi.",
+            "audio": "Je_suis_fier_de_toi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin stolz auf dich.",
+            "audio": "Ich_bin_stolz_auf_dich..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy orgulloso de ti.",
+            "audio": "Estoy_orgulloso_de_ti..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я горжусь тобой. (Ya gorzhus' toboy.)",
+            "audio": "Я_горжусь_тобой..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันภูมิใจในตัวคุณนะ (chǎn poom-jai nai dtua kun ná)",
+            "audio": "ฉันภูมิใจในตัวคุณนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya bangga padamu.",
+            "audio": "Saya_bangga_padamu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我為你感到驕傲。",
+            "audio": "我為你感到驕傲。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen320",
+        "category": "日常交際",
+        "subcategory": "讚美鼓勵",
+        "cn": "這頓飯真是太好吃了。",
+        "CN_ENG": {
+            "word": "This meal is absolutely delicious.",
+            "audio": "This_meal_is_absolutely_delicious..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この食事は本当に美味しいです (このしょくじはほんとうにおいしいです)",
+            "audio": "このしょくじはほんとうにおいしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 음식 정말 맛있네요. (i eumsig jeongmal mas-issneyo.)",
+            "audio": "이_음식_정말_맛있네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bữa ăn này thực sự quá ngon.",
+            "audio": "Bữa_ăn_này_thực_sự_quá_ngon..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢餐飯真係好好食。 (ni1 caan1 faan6 zan1 hai6 hou2 hou2 sik6.)",
+            "audio": "呢餐飯真係好好食。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce repas est absolument délicieux.",
+            "audio": "Ce_repas_est_absolument_délicieux..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieses Essen ist absolut köstlich.",
+            "audio": "Dieses_Essen_ist_absolut_köstlich..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esta comida es absolutamente deliciosa.",
+            "audio": "Esta_comida_es_absolutamente_deliciosa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Эта еда просто восхитительна. (Eta yeda prosto voskhititel'na.)",
+            "audio": "Эта_еда_просто_восхитительна..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารมื้อนี้อร่อยมากเลย (aa-hǎan méu née a-ròi mâak loey)",
+            "audio": "อาหารมื้อนี้อร่อยมากเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Makanan ini benar-benar lezat.",
+            "audio": "Makanan_ini_benar-benar_lezat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這頓飯真是太好吃了。",
+            "audio": "這頓飯真是太好吃了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen321",
+        "category": "日常交際",
+        "subcategory": "情緒表達",
+        "cn": "我今天覺得有點累。",
+        "CN_ENG": {
+            "word": "I feel a bit tired today.",
+            "audio": "I_feel_a_bit_tired_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日は少し疲れています (きょうはすこしつかれています)",
+            "audio": "きょうはすこしつかれています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 조금 피곤하네요. (oneul jogeum pigonhaneyo.)",
+            "audio": "오늘_조금_피곤하네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay tôi cảm thấy hơi mệt.",
+            "audio": "Hôm_nay_tôi_cảm_thấy_hơi_mệt..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我今日覺得有啲攰。 (ngo5 gam1 jat6 gok3 dak1 jau5 di1 gui6.)",
+            "audio": "我今日覺得有啲攰。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je me sens un peu fatigué aujourd'hui.",
+            "audio": "Je_me_sens_un_peu_fatigué_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich fühle mich heute ein wenig müde.",
+            "audio": "Ich_fühle_mich_heute_ein_wenig_müde..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me siento un poco cansado hoy.",
+            "audio": "Me_siento_un_poco_cansado_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я сегодня немного устал. (Ya segodnya nemnogo ustal.)",
+            "audio": "Я_сегодня_немного_устал..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้ฉันรู้สึกเหนื่อยหน่อยๆ (wan-née chǎn rู้-sèuk nèuay nòi-nòi)",
+            "audio": "วันนี้ฉันรู้สึกเหนื่อยหน่อยๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya merasa sedikit lelah hari ini.",
+            "audio": "Saya_merasa_sedikit_lelah_hari_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我今天覺得有點累。",
+            "audio": "我今天覺得有點累。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen322",
+        "category": "日常交際",
+        "subcategory": "情緒表達",
+        "cn": "聽到這個消息我很高興。",
+        "CN_ENG": {
+            "word": "I am very happy to hear this news.",
+            "audio": "I_am_very_happy_to_hear_this_news..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "その知らせを聞いてとても嬉しいです (そのしらせをきいてとてもうれしいです)",
+            "audio": "そのしらせをきいてとてもうれしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그 소식을 들으니 정말 기쁘네요. (geu sosig-eul deul-euni jeongmal gippeuneyo.)",
+            "audio": "그_소식을_들으니_정말_기쁘네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Nghe tin này tôi rất vui.",
+            "audio": "Nghe_tin_này_tôi_rất_vui..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "聽到呢個消息我好開心。 (ting1 dou3 ni1 go3 siu1 sik1 ngo5 hou2 hoi1 sam1.)",
+            "audio": "聽到呢個消息我好開心。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis très heureux d'entendre cette nouvelle.",
+            "audio": "Je_suis_très_heureux_d'entendre_cette_nouvelle..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich freue mich sehr, diese Nachricht zu hören.",
+            "audio": "Ich_freue_mich_sehr,_diese_Nachricht_zu_hören..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy muy feliz de escuchar esta noticia.",
+            "audio": "Estoy_muy_feliz_de_escuchar_esta_noticia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я очень рад слышать эту новость. (Ya ochen' rad slyshat' etu novost'.)",
+            "audio": "Я_очень_рад_слышать_эту_новость..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดีใจมากที่ได้ยินข่าวนี้ (dee-jai mâak têe dâi yin kǎao née)",
+            "audio": "ดีใจมากที่ได้ยินข่าวนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sangat senang mendengar berita ini.",
+            "audio": "Saya_sangat_senang_mendengar_berita_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "聽到這個消息我很高興。",
+            "audio": "聽到這個消息我很高興。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen323",
+        "category": "日常交際",
+        "subcategory": "情緒表達",
+        "cn": "別生氣，我們冷靜一下。",
+        "CN_ENG": {
+            "word": "Don't be angry, let's calm down.",
+            "audio": "Don't_be_angry,_let's_calm_down..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "怒らないで、落ち着きましょう (おこらないで、おちつきましょう)",
+            "audio": "おこらないで、おちつきましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "화내지 마시고, 우리 진정해요. (hwa-naeji masigo, uli jinjeonghaeyo.)",
+            "audio": "화내지_마시고,_우리_진정해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đừng tức giận, chúng ta hãy bình tĩnh lại.",
+            "audio": "Đừng_tức_giận,_chúng_ta_hãy_bình_tĩnh_lại..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔好勞氣，我哋冷靜下先。 (m4 hou2 lou4 hei3, ngo5 dei6 laang5 zing6 haa5 sin1.)",
+            "audio": "唔好勞氣，我哋冷靜下先。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ne te fâche pas, calmons-nous.",
+            "audio": "Ne_te_fâche_pas,_calmons-nous..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Sei nicht wütend, lass uns uns beruhigen.",
+            "audio": "Sei_nicht_wütend,_lass_uns_uns_beruhigen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No te enojes, vamos a calmarnos.",
+            "audio": "No_te_enojes,_vamos_a_calmarnos..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не сердись, давай успокоимся. (Ne serdis', davay uspokoimsya.)",
+            "audio": "Не_сердись,_давай_успокоимся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่าโกรธเลย เรามาใจเย็นๆ กันก่อน (yàa gròht loey rao maa jai yen-yen gan gòn)",
+            "audio": "อย่าโกรธเลย_เรามาใจเย็นๆ_กันก่อน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jangan marah, mari kita tenang.",
+            "audio": "Jangan_marah,_mari_kita_tenang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "別生氣，我們冷靜一下。",
+            "audio": "別生氣，我們冷靜一下。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen324",
+        "category": "日常交際",
+        "subcategory": "情緒表達",
+        "cn": "這件事讓我非常驚訝。",
+        "CN_ENG": {
+            "word": "This matter surprised me a lot.",
+            "audio": "This_matter_surprised_me_a_lot..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この事にはとても驚きました (このことにはとてもおどろきました)",
+            "audio": "このことにはとてもおどろきました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 일은 저를 아주 놀라게 했어요. (i il-eun jeoleul aju nollage haess-eoyo.)",
+            "audio": "이_일은_저를_아주_놀라게_했어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chuyện này làm tôi vô cùng ngạc nhiên.",
+            "audio": "Chuyện_này_làm_tôi_vô_cùng_ngạc_nhiên..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件事令我好驚訝。 (ni1 gin6 si6 ling6 ngo5 hou2 geng1 ngaa6.)",
+            "audio": "呢件事令我好驚訝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette affaire m'a beaucoup surpris.",
+            "audio": "Cette_affaire_m'a_beaucoup_surpris..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Diese Angelegenheit hat mich sehr überrascht.",
+            "audio": "Diese_Angelegenheit_hat_mich_sehr_überrascht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Este asunto me sorprendió mucho.",
+            "audio": "Este_asunto_me_sorprendió_mucho..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это дело меня очень удивило. (Eto delo menya ochen' udivilo.)",
+            "audio": "Это_дело_меня_очень_удивило..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เรื่องนี้ทำให้ฉันประหลาดใจมาก (rêuang née tam hâi chǎn bprà-làat-jai mâak)",
+            "audio": "เรื่องนี้ทำให้ฉันประหลาดใจมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Masalah ini sangat mengejutkan saya.",
+            "audio": "Masalah_ini_sangat_mengejutkan_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件事讓我非常驚訝。",
+            "audio": "這件事讓我非常驚訝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen325",
+        "category": "日常交際",
+        "subcategory": "情緒表達",
+        "cn": "我現在感到非常緊張。",
+        "CN_ENG": {
+            "word": "I am feeling very nervous right now.",
+            "audio": "I_am_feeling_very_nervous_right_now..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今、とても緊張しています (いま、とてもきんちょうしています)",
+            "audio": "いま、とてもきんちょうしています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금 너무 긴장돼요. (jigeum neomu ginjangdwaeyo.)",
+            "audio": "지금_너무_긴장돼요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bây giờ tôi cảm thấy rất căng thẳng.",
+            "audio": "Bây_giờ_tôi_cảm_thấy_rất_căng_thẳng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我而家覺得好緊張。 (ngo5 ji4 gaa1 gok3 dak1 hou2 gan2 zoeng1.)",
+            "audio": "我而家覺得好緊張。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je me sens très nerveux en ce moment.",
+            "audio": "Je_me_sens_très_nerveux_en_ce_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich fühle mich gerade sehr nervös.",
+            "audio": "Ich_fühle_mich_gerade_sehr_nervös..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me siento muy nervioso ahora mismo.",
+            "audio": "Me_siento_muy_nervioso_ahora_mismo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я сейчас очень нервничаю. (Ya seychas ochen' nervnichayu.)",
+            "audio": "Я_сейчас_очень_нервничаю..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอนนี้ฉันรู้สึกตื่นเต้นและประหม่ามาก (dton-née chǎn rู้-sèuk dtèun-dtên láe bprà-mǎa mâak)",
+            "audio": "ตอนนี้ฉันรู้สึกตื่นเต้นและประหม่ามาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya merasa sangat gugup sekarang.",
+            "audio": "Saya_merasa_sangat_gugup_sekarang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我現在感到非常緊張。",
+            "audio": "我現在感到非常緊張。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen326",
+        "category": "日常交際",
+        "subcategory": "情緒表達",
+        "cn": "真是個令人遺憾的消息。",
+        "CN_ENG": {
+            "word": "That is such regrettable news.",
+            "audio": "That_is_such_regrettable_news..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "本当に残念な知らせですね (ほんとうにざんねんなしらせですね)",
+            "audio": "ほんとうにざんねんなしらせですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정말 유감스러운 소식이네요. (jeongmal yugamseuleoun sosig-ineyo.)",
+            "audio": "정말_유감스러운_소식이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Thật là một tin đáng tiếc.",
+            "audio": "Thật_là_một_tin_đáng_tiếc..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "真係個令人遺憾嘅消息。 (zan1 hai6 go3 ling6 jan4 wai4 ham6 ge3 siu1 sik1.)",
+            "audio": "真係個令人遺憾嘅消息。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est une nouvelle tellement regrettable.",
+            "audio": "C'est_une_nouvelle_tellement_regrettable..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist eine sehr bedauerliche Nachricht.",
+            "audio": "Das_ist_eine_sehr_bedauerliche_Nachricht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Es una noticia tan lamentable.",
+            "audio": "Es_una_noticia_tan_lamentable..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Какая досадная новость. (Kakaya dosadnaya novost'.)",
+            "audio": "Какая_досадная_новость..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เป็นข่าวที่น่าเสียดายจริงๆ (bpen kǎao têe nâa sǐa-daai jing-jing)",
+            "audio": "เป็นข่าวที่น่าเสียดายจริงๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu adalah berita yang sangat disayangkan.",
+            "audio": "Itu_adalah_berita_yang_sangat_disayangkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "真是個令人遺憾的消息。",
+            "audio": "真是個令人遺憾的消息。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen327",
+        "category": "日常交際",
+        "subcategory": "情緒表達",
+        "cn": "我對此感到非常抱歉。",
+        "CN_ENG": {
+            "word": "I feel very sorry about this.",
+            "audio": "I_feel_very_sorry_about_this..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この件については本当に申し訳なく思います (このけんについてはほんとうにもうしわけなくおもいます)",
+            "audio": "このけんについてはほんとうにもうしわけなくおもいます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 점에 대해 정말 죄송하게 생각합니다. (i jeom-e daehae jeongmal joesonghage saeng-gaghabnida.)",
+            "audio": "이_점에_대해_정말_죄송하게_생각합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cảm thấy rất có lỗi về việc này.",
+            "audio": "Tôi_cảm_thấy_rất_có_lỗi_về_việc_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我對此感到好抱歉。 (ngo5 deoi3 ci2 gam2 dou3 hou2 pou5 hip3.)",
+            "audio": "我對此感到好抱歉。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis vraiment désolé pour cela.",
+            "audio": "Je_suis_vraiment_désolé_pour_cela..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das tut mir sehr leid.",
+            "audio": "Das_tut_mir_sehr_leid..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Lo siento mucho por esto.",
+            "audio": "Lo_siento_mucho_por_esto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне очень жаль из-за этого. (Mne ochen' zhal' iz-za etogo.)",
+            "audio": "Мне_очень_жаль_из-за_этого..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันรู้สึกเสียใจกับเรื่องนี้มาก (chǎn rู้-sèuk sǐa-jai gàp rêuang née mâak)",
+            "audio": "ฉันรู้สึกเสียใจกับเรื่องนี้มาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya merasa sangat menyesal tentang hal ini.",
+            "audio": "Saya_merasa_sangat_menyesal_tentang_hal_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我對此感到非常抱歉。",
+            "audio": "我對此感到非常抱歉。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen328",
+        "category": "日常交際",
+        "subcategory": "日常生活",
+        "cn": "你今天早餐吃了什麼？",
+        "CN_ENG": {
+            "word": "What did you have for breakfast today?",
+            "audio": "What_did_you_have_for_breakfast_today.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日の朝ごはんは何を食べましたか (きょうのあさごはんはなにをたべましたか)",
+            "audio": "きょうのあさごはんはなにをたべましたか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 아침에 뭐 드셨어요? (oneul achim-e mwo deusyeoss-eoyo?)",
+            "audio": "오늘_아침에_뭐_드셨어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay bạn ăn sáng món gì?",
+            "audio": "Hôm_nay_bạn_ăn_sáng_món_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你今日早餐食咗咩呀？ (nei5 gam1 jat6 zou2 caan1 sik6 zo2 me1 aa3?)",
+            "audio": "你今日早餐食咗咩呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Qu'avez-vous mangé pour le petit déjeuner aujourd'hui ?",
+            "audio": "Qu'avez-vous_mangé_pour_le_petit_déjeuner_aujourd'hui.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was hast du heute gefrühstückt?",
+            "audio": "Was_hast_du_heute_gefrühstückt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué desayunaste hoy?",
+            "audio": "¿Qué_desayunaste_hoy.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Что ты ел сегодня на завтрак? (Chto ty yel segodnya na zavtrak?)",
+            "audio": "Что_ты_ел_сегодня_на_завтрак.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้คุณกินอะไรเป็นอาหารเช้า (wan-née kun gin a-rai bpen aa-hǎan cháo)",
+            "audio": "วันนี้คุณกินอะไรเป็นอาหารเช้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa yang kamu makan untuk sarapan hari ini?",
+            "audio": "Apa_yang_kamu_makan_untuk_sarapan_hari_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你今天早餐吃了什麼？",
+            "audio": "你今天早餐吃了什麼？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen329",
+        "category": "日常交際",
+        "subcategory": "日常生活",
+        "cn": "我習慣每天早上喝咖啡。",
+        "CN_ENG": {
+            "word": "I am used to drinking coffee every morning.",
+            "audio": "I_am_used_to_drinking_coffee_every_morning..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "毎朝コーヒーを飲むのが習慣です (まいあさこーひーをのむのがしゅうかんです)",
+            "audio": "まいあさこーひーをのむのがしゅうかんです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "매일 아침 커피를 마시는 게 습관이에요. (maeil achim keopileul masineun ge seubgwan-ieyo.)",
+            "audio": "매일_아침_커피를_마시는_게_습관이에요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi có thói quen uống cà phê mỗi sáng.",
+            "audio": "Tôi_có_thói_quen_uống_cà_phê_mỗi_sáng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我習慣每日朝早飲咖啡。 (ngo5 zaap6 gwaan3 mui5 jat6 ziu1 zou2 jam2 ga3 fe1.)",
+            "audio": "我習慣每日朝早飲咖啡。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai l'habitude de boire du café tous les matins.",
+            "audio": "J'ai_l'habitude_de_boire_du_café_tous_les_matins..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin es gewohnt, jeden Morgen Kaffee zu trinken.",
+            "audio": "Ich_bin_es_gewohnt,_jeden_Morgen_Kaffee_zu_trinken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy acostumbrado a tomar café todas las mañanas.",
+            "audio": "Estoy_acostumbrado_a_tomar_café_todas_las_mañanas..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я привык пить кофе каждое утро. (Ya privyk pit' kofe kazhdoye utro.)",
+            "audio": "Я_привык_пить_кофе_каждое_утро..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันติดนิสัยดื่มกาแฟทุกเช้า (chǎn dtìt ní-sǎi dèum gaa-fae túk cháo)",
+            "audio": "ฉันติดนิสัยดื่มกาแฟทุกเช้า.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya terbiasa minum kopi setiap pagi.",
+            "audio": "Saya_terbiasa_minum_kopi_setiap_pagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我習慣每天早上喝咖啡。",
+            "audio": "我習慣每天早上喝咖啡。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen330",
+        "category": "日常交際",
+        "subcategory": "日常生活",
+        "cn": "昨晚你幾點睡覺的？",
+        "CN_ENG": {
+            "word": "What time did you go to bed last night?",
+            "audio": "What_time_did_you_go_to_bed_last_night.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "昨日の夜は何時に寝ましたか (きのうのよるはなんじにねましたか)",
+            "audio": "きのうのよるはなんじにねましたか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "어젯밤에 몇 시에 주무셨어요? (eojesbam-e myeoch sie jumusyeoss-eoyo?)",
+            "audio": "어젯밤에_몇_시에_주무셨어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tối qua bạn ngủ lúc mấy giờ?",
+            "audio": "Tối_qua_bạn_ngủ_lúc_mấy_giờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "尋晚你幾點瞓覺㗎？ (cam4 maan5 nei5 gei2 dim2 fan3 gaau3 gaa3?)",
+            "audio": "尋晚你幾點瞓覺㗎？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À quelle heure t'es-tu couché la nuit dernière ?",
+            "audio": "À_quelle_heure_t'es-tu_couché_la_nuit_dernière.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Um wie viel Uhr bist du gestern Abend ins Bett gegangen?",
+            "audio": "Um_wie_viel_Uhr_bist_du_gestern_Abend_ins_Bett_gegangen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿A qué hora te acostaste anoche?",
+            "audio": "¿A_qué_hora_te_acostaste_anoche.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Во сколько ты лег спать прошлой ночью? (Vo skol'ko ty leg spat' proshloy noch'yu?)",
+            "audio": "Во_сколько_ты_лег_спать_прошлой_ночью.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เมื่อคืนคุณเข้านอนกี่โมง (mêua keun kun kâo non gèe mohng)",
+            "audio": "เมื่อคืนคุณเข้านอนกี่โมง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jam berapa kamu tidur tadi malam?",
+            "audio": "Jam_berapa_kamu_tidur_tadi_malam.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "昨晚你幾點睡覺的？",
+            "audio": "昨晚你幾點睡覺的？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen331",
+        "category": "日常交際",
+        "subcategory": "日常生活",
+        "cn": "我通常晚上十一點休息。",
+        "CN_ENG": {
+            "word": "I usually rest at eleven in the evening.",
+            "audio": "I_usually_rest_at_eleven_in_the_evening..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "普段は夜11時に休みます (ふだんはよるじゅういちじにやすみます)",
+            "audio": "ふだんはよるじゅういちじにやすみます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저는 보통 밤 11시에 잡니다. (jeoneun botong bam sibil-sie jabnida.)",
+            "audio": "저는_보통_밤_11시에_잡니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi thường nghỉ ngơi lúc 11 giờ tối.",
+            "audio": "Tôi_thường_nghỉ_ngơi_lúc_11_giờ_tối..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我通常夜晚十一點休息。 (ngo5 tung1 soeng4 je6 maan5 sap6 jat1 dim2 jau1 sik1.)",
+            "audio": "我通常夜晚十一點休息。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je me repose généralement à onze heures du soir.",
+            "audio": "Je_me_repose_généralement_à_onze_heures_du_soir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich ruhe mich normalerweise um elf Uhr abends aus.",
+            "audio": "Ich_ruhe_mich_normalerweise_um_elf_Uhr_abends_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Normalmente descanso a las once de la noche.",
+            "audio": "Normalmente_descanso_a_las_once_de_la_noche..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обычно я ложусь отдыхать в одиннадцать вечера. (Obychno ya lozhus' otdykhat' v odinnadtsat' vechera.)",
+            "audio": "Обычно_я_ложусь_отдыхать_в_одиннадцать_вечера..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปกติฉันพักผ่อนตอนห้าทุ่ม (bpòk-gà-dtì chǎn pák-pòn dton hâa tûm)",
+            "audio": "ปกติฉันพักผ่อนตอนห้าทุ่ม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya biasanya beristirahat pada jam sebelas malam.",
+            "audio": "Saya_biasanya_beristirahat_pada_jam_sebelas_malam..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我通常晚上十一點休息。",
+            "audio": "我通常晚上十一點休息。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen332",
+        "category": "日常交際",
+        "subcategory": "日常生活",
+        "cn": "週末你打算做什麼？",
+        "CN_ENG": {
+            "word": "What are you planning to do this weekend?",
+            "audio": "What_are_you_planning_to_do_this_weekend.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "週末は何をする予定ですか (しゅうまつはなにをするよていですか)",
+            "audio": "しゅうまつはなにをするよていですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이번 주말에 뭐 할 계획이에요? (ibeon jumal-e mwo hal gyehoeg-ieyo?)",
+            "audio": "이번_주말에_뭐_할_계획이에요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cuối tuần bạn dự định làm gì?",
+            "audio": "Cuối_tuần_bạn_dự_định_làm_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "週末你打算做咩呀？ (zau1 mut6 nei5 daa2 syun3 zou6 me1 aa3?)",
+            "audio": "週末你打算做咩呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Qu'avez-vous prévu de faire ce week-end ?",
+            "audio": "Qu'avez-vous_prévu_de_faire_ce_week-end.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was hast du dieses Wochenende vor?",
+            "audio": "Was_hast_du_dieses_Wochenende_vor.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué planeas hacer este fin de semana?",
+            "audio": "¿Qué_planeas_hacer_este_fin_de_semana.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Что ты планируешь делать в эти выходные? (Chto ty planiruyesh' delat' v eti vykhodnyye?)",
+            "audio": "Что_ты_планируешь_делать_в_эти_выходные.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสาร์อาทิตย์นี้คุณวางแผนจะทำอะไร (sǎo aa-tít née kun waang pǎen jà tam a-rai)",
+            "audio": "เสาร์อาทิตย์นี้คุณวางแผนจะทำอะไร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa rencanamu akhir pekan ini?",
+            "audio": "Apa_rencanamu_akhir_pekan_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "週末你打算做什麼？",
+            "audio": "週末你打算做什麼？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen333",
+        "category": "日常交際",
+        "subcategory": "日常生活",
+        "cn": "我打算在家打掃房間。",
+        "CN_ENG": {
+            "word": "I plan to clean my room at home.",
+            "audio": "I_plan_to_clean_my_room_at_home..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "家で部屋の掃除をするつもりです (いえでへやのそうじをするつもりです)",
+            "audio": "いえでへやのそうじをするつもりです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "집에서 방 청소를 할 계획이에요. (jib-eseo bang cheongsoleul hal gyehoeg-ieyo.)",
+            "audio": "집에서_방_청소를_할_계획이에요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi định dọn dẹp phòng ở nhà.",
+            "audio": "Tôi_định_dọn_dẹp_phòng_ở_nhà..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我打算喺屋企執房。 (ngo5 daa2 syun3 hai2 uk1 kei2 zap1 fong2.)",
+            "audio": "我打算喺屋企執房。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je prévois de nettoyer ma chambre à la maison.",
+            "audio": "Je_prévois_de_nettoyer_ma_chambre_à_la_maison..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich plane, mein Zimmer zu Hause aufzuräumen.",
+            "audio": "Ich_plane,_mein_Zimmer_zu_Hause_aufzuräumen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Planeo limpiar mi habitación en casa.",
+            "audio": "Planeo_limpiar_mi_habitación_en_casa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я планирую убраться в комнате дома. (Ya planiruyu ubrat'sya v komnate doma.)",
+            "audio": "Я_планирую_убраться_в_комнате_дома..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันตั้งใจจะทำความสะอาดห้องที่บ้าน (chǎn dtâng-jai jà tam kwaam sà-àat hông têe bâan)",
+            "audio": "ฉันตั้งใจจะทำความสะอาดห้องที่บ้าน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya berencana membersihkan kamar saya di rumah.",
+            "audio": "Saya_berencana_membersihkan_kamar_saya_di_rumah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我打算在家打掃房間。",
+            "audio": "我打算在家打掃房間。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen334",
+        "category": "日常交際",
+        "subcategory": "交通詢問",
+        "cn": "請問捷運站怎麼走？",
+        "CN_ENG": {
+            "word": "How do I get to the MRT station?",
+            "audio": "How_do_I_get_to_the_MRT_station.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "MRTの駅へはどう行けばいいですか (えむあーるてぃーのえきへはどういけばいいですか)",
+            "audio": "えむあーるてぃーのえきへはどういけばいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지하철역으로 가려면 어떻게 가야 하나요? (jihacheol-yeog-eulo galyeomyeon eotteohge gaya hanayo?)",
+            "audio": "지하철역으로_가려면_어떻게_가야_하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi đi đến trạm MRT như thế nào?",
+            "audio": "Xin_hỏi_đi_đến_trạm_MRT_như_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問捷運站點去呀？ (cing2 man6 zit3 wan6 zaam6 dim2 heoi3 aa3?)",
+            "audio": "請問捷運站點去呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment puis-je me rendre à la station de métro ?",
+            "audio": "Comment_puis-je_me_rendre_à_la_station_de_métro.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie komme ich zur U-Bahn-Station?",
+            "audio": "Wie_komme_ich_zur_U-Bahn-Station.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo llego a la estación de metro?",
+            "audio": "¿Cómo_llego_a_la_estación_de_metro.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как мне добраться до станции метро? (Kak mne dobrat'sya do stantsii metro?)",
+            "audio": "Как_мне_добраться_до_станции_метро.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สถานีรถไฟฟ้าไปทางไหนครับ/คะ (sà-tǎa-nee rót fai fâa bpai taang nǎi kráp/ká)",
+            "audio": "สถานีรถไฟฟ้าไปทางไหนครับ,_คะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana cara saya menuju stasiun MRT?",
+            "audio": "Bagaimana_cara_saya_menuju_stasiun_MRT.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問捷運站怎麼走？",
+            "audio": "請問捷運站怎麼走？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen335",
+        "category": "日常交際",
+        "subcategory": "交通詢問",
+        "cn": "走路過去大約要十分鐘。",
+        "CN_ENG": {
+            "word": "It takes about ten minutes to walk there.",
+            "audio": "It_takes_about_ten_minutes_to_walk_there..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "歩いて大体10分くらいかかります (あるいてだいたいじゅっぷんくらいかかります)",
+            "audio": "あるいてだいたいじゅっぷんくらいかかります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "걸어서 대략 10분 정도 걸립니다. (geol-eoseo daelyag sib-bun jeongdo geollibnida.)",
+            "audio": "걸어서_대략_10분_정도_걸립니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đi bộ qua đó mất khoảng mười phút.",
+            "audio": "Đi_bộ_qua_đó_mất_khoảng_mười_phút..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "行過去大約要十分鐘。 (haang4 gwo3 heoi3 daai6 joek3 jiu3 sap6 fan1 zung1.)",
+            "audio": "行過去大約要十分鐘。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il faut environ dix minutes pour y aller à pied.",
+            "audio": "Il_faut_environ_dix_minutes_pour_y_aller_à_pied..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es dauert etwa zehn Minuten zu Fuß dorthin.",
+            "audio": "Es_dauert_etwa_zehn_Minuten_zu_Fuß_dorthin..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Se tarda unos diez minutos caminando hasta allí.",
+            "audio": "Se_tarda_unos_diez_minutos_caminando_hasta_allí..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Идти туда пешком около десяти минут. (Idti tuda peshkom okolo desyati minut.)",
+            "audio": "Идти_туда_пешком_около_десяти_минут..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เดินไปประมาณสิบนาที (dern bpai bprà-maan sìp naa-tee)",
+            "audio": "เดินไปประมาณสิบนาที.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Dibutuhkan sekitar sepuluh menit berjalan kaki ke sana.",
+            "audio": "Dibutuhkan_sekitar_sepuluh_menit_berjalan_kaki_ke_sana..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "走路過去大約要十分鐘。",
+            "audio": "走路過去大約要十分鐘。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen336",
+        "category": "日常交際",
+        "subcategory": "交通詢問",
+        "cn": "你可以搭公車去。",
+        "CN_ENG": {
+            "word": "You can take a bus there.",
+            "audio": "You_can_take_a_bus_there..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "バスで行くことができます (ばすでいくことができます)",
+            "audio": "ばすでいくことができます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "버스를 타고 가시면 돼요. (beoseuleul tago gasimyeon dwaeyo.)",
+            "audio": "버스를_타고_가시면_돼요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể đi xe buýt đến đó.",
+            "audio": "Bạn_có_thể_đi_xe_buýt_đến_đó..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你可以搭巴士去。 (nei5 ho2 ji5 daap3 baa1 si2 heoi3.)",
+            "audio": "你可以搭巴士去。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu peux y aller en bus.",
+            "audio": "Tu_peux_y_aller_en_bus..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du kannst den Bus dorthin nehmen.",
+            "audio": "Du_kannst_den_Bus_dorthin_nehmen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Puedes tomar un autobús allí.",
+            "audio": "Puedes_tomar_un_autobús_allí..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Вы можете доехать туда на автобусе. (Vy mozhete doyekhat' tuda na avtobuse.)",
+            "audio": "Вы_можете_доехать_туда_на_автобусе..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณสามารถนั่งรถเมล์ไปได้ (kun sǎa-mâat nǎng rót-may bpai dâi)",
+            "audio": "คุณสามารถนั่งรถเมล์ไปได้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Anda bisa naik bus ke sana.",
+            "audio": "Anda_bisa_naik_bus_ke_sana..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你可以搭公車去。",
+            "audio": "你可以搭公車去。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen337",
+        "category": "日常交際",
+        "subcategory": "休閒娛樂",
+        "cn": "這部電影真是太好看了。",
+        "CN_ENG": {
+            "word": "This movie is really great.",
+            "audio": "This_movie_is_really_great..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この映画は本当に素晴らしいです (このえいがはほんとうにすばらしいです)",
+            "audio": "このえいがはほんとうにすばらしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 영화 정말 재밌네요. (i yeonghwa jeongmal jaemissneyo.)",
+            "audio": "이_영화_정말_재밌네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bộ phim này thực sự quá hay.",
+            "audio": "Bộ_phim_này_thực_sự_quá_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢部戲真係太好睇啦。 (ni1 bou6 hei3 zan1 hai6 taai3 hou2 tai2 laa1.)",
+            "audio": "呢部戲真係太好睇啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce film est vraiment génial.",
+            "audio": "Ce_film_est_vraiment_génial..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Dieser Film ist wirklich großartig.",
+            "audio": "Dieser_Film_ist_wirklich_großartig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esta película es realmente genial.",
+            "audio": "Esta_película_es_realmente_genial..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этот фильм действительно отличный. (Etot fil'm deystvitel'no otlichnyy.)",
+            "audio": "Этот_фильм_действительно_отличный..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หนังเรื่องนี้สนุกมากๆ เลย (nǎng rêuang née sà-nùk mâak-mâak loey)",
+            "audio": "หนังเรื่องนี้สนุกมากๆ_เลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Film ini benar-benar bagus.",
+            "audio": "Film_ini_benar-benar_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這部電影真是太好看了。",
+            "audio": "這部電影真是太好看了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen338",
+        "category": "日常交際",
+        "subcategory": "休閒娛樂",
+        "cn": "你有推薦的音樂嗎？",
+        "CN_ENG": {
+            "word": "Do you have any music recommendations?",
+            "audio": "Do_you_have_any_music_recommendations.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おすすめの音楽はありますか (おすすめのおんがくはありますか)",
+            "audio": "おすすめのおんがくはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천할 만한 음악 있나요? (chucheonhal manhan eum-ag issnayo?)",
+            "audio": "추천할_만한_음악_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có bài nhạc nào muốn giới thiệu không?",
+            "audio": "Bạn_có_bài_nhạc_nào_muốn_giới_thiệu_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你有冇咩音樂推薦呀？ (nei5 jau5 mou5 me1 jam1 ngok6 teoi1 zin3 aa3?)",
+            "audio": "你有冇咩音樂推薦呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "As-tu des recommandations de musique ?",
+            "audio": "As-tu_des_recommandations_de_musique.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hast du Musikempfehlungen?",
+            "audio": "Hast_du_Musikempfehlungen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienes alguna recomendación de música?",
+            "audio": "¿Tienes_alguna_recomendación_de_música.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У тебя есть какие-нибудь музыкальные рекомендации? (U tebya yest' kakiye-nibud' muzykal'nyye rekomendatsii?)",
+            "audio": "У_тебя_есть_какие-нибудь_музыкальные_рекомендации.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณมีเพลงแนะนำไหม (kun mee playng náe-nam mǎi)",
+            "audio": "คุณมีเพลงแนะนำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah Anda punya rekomendasi musik?",
+            "audio": "Apakah_Anda_punya_rekomendasi_musik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你有推薦的音樂嗎？",
+            "audio": "你有推薦的音樂嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen339",
+        "category": "日常交際",
+        "subcategory": "休閒娛樂",
+        "cn": "我們去公園散散步吧。",
+        "CN_ENG": {
+            "word": "Let's go for a walk in the park.",
+            "audio": "Let's_go_for_a_walk_in_the_park..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "公園へ散歩に行きましょう (こうえんへさんぽにいきましょう)",
+            "audio": "こうえんへさんぽにいきましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "공원에 산책하러 가요. (gong-won-e sanchaeghaleo gayo.)",
+            "audio": "공원에_산책하러_가요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng ta đi dạo ở công viên nhé.",
+            "audio": "Chúng_ta_đi_dạo_ở_công_viên_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋去公園散下步啦。 (ngo5 dei6 heoi3 gung1 jyun2 saan3 haa5 bou6 laa1.)",
+            "audio": "我哋去公園散下步啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Allons faire une promenade dans le parc.",
+            "audio": "Allons_faire_une_promenade_dans_le_parc..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns im Park spazieren gehen.",
+            "audio": "Lass_uns_im_Park_spazieren_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vamos a dar un paseo por el parque.",
+            "audio": "Vamos_a_dar_un_paseo_por_el_parque..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Давай погуляем в парке. (Davay pogulyayem v parke.)",
+            "audio": "Давай_погуляем_в_парке..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไปเดินเล่นที่สวนสาธารณะกันเถอะ (rao bpai dern lên têe sǔan sǎa-taa-rá-ná gan tòe)",
+            "audio": "เราไปเดินเล่นที่สวนสาธารณะกันเถอะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ayo kita jalan-jalan di taman.",
+            "audio": "Ayo_kita_jalan-jalan_di_taman..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們去公園散散步吧。",
+            "audio": "我們去公園散散步吧。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen340",
+        "category": "日常交際",
+        "subcategory": "休閒娛樂",
+        "cn": "我平常喜歡玩電動遊戲。",
+        "CN_ENG": {
+            "word": "I usually like to play video games.",
+            "audio": "I_usually_like_to_play_video_games..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "普段はビデオゲームをするのが好きです (ふだんはびでおげーむをするのがすきです)",
+            "audio": "ふだんはびでおげーむをするのがすきです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저는 평소에 비디오 게임 하는 걸 좋아해요. (jeoneun pyeongso-e bidio geim haneun geol joh-ahaeyo.)",
+            "audio": "저는_평소에_비디오_게임_하는_걸_좋아해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi thường thích chơi trò chơi điện tử.",
+            "audio": "Tôi_thường_thích_chơi_trò_chơi_điện_tử..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我平時鍾意打機。 (ngo5 ping4 si4 zung1 ji3 daa2 gei1.)",
+            "audio": "我平時鍾意打機。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'aime généralement jouer aux jeux vidéo.",
+            "audio": "J'aime_généralement_jouer_aux_jeux_vidéo..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich spiele normalerweise gerne Videospiele.",
+            "audio": "Ich_spiele_normalerweise_gerne_Videospiele..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Normalmente me gusta jugar videojuegos.",
+            "audio": "Normalmente_me_gusta_jugar_videojuegos..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Обычно мне нравится играть в видеоигры. (Obychno mne nravitsya igrat' v videoigry.)",
+            "audio": "Обычно_мне_нравится_играть_в_видеоигры..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ปกติฉันชอบเล่นวิดีโอเกม (bpòk-gà-dtì chǎn chôp lên wí-dee-oh gaym)",
+            "audio": "ปกติฉันชอบเล่นวิดีโอเกม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya biasanya suka bermain video game.",
+            "audio": "Saya_biasanya_suka_bermain_video_game..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我平常喜歡玩電動遊戲。",
+            "audio": "我平常喜歡玩電動遊戲。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen341",
+        "category": "日常交際",
+        "subcategory": "表達拒絕",
+        "cn": "很抱歉，我目前不需要。",
+        "CN_ENG": {
+            "word": "I'm sorry, I don't need it at the moment.",
+            "audio": "I'm_sorry,_I_don't_need_it_at_the_moment..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "申し訳ありませんが、今は必要ありません (もうしわけありませんが、いまはひつようありません)",
+            "audio": "もうしわけありませんが、いまはひつようありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "죄송하지만, 지금은 필요 없어요. (joesonghajiman, jigeum-eun pil-yo eobs-eoyo.)",
+            "audio": "죄송하지만,_지금은_필요_없어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất xin lỗi, hiện tại tôi không cần.",
+            "audio": "Rất_xin_lỗi,_hiện_tại_tôi_không_cần..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好抱歉，我目前唔需要。 (hou2 pou5 hip3, ngo5 muk6 cin4 m4 seoi1 jiu3.)",
+            "audio": "好抱歉，我目前唔需要。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis désolé, je n'en ai pas besoin pour le moment.",
+            "audio": "Je_suis_désolé,_je_n'en_ai_pas_besoin_pour_le_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es tut mir leid, ich brauche das im Moment nicht.",
+            "audio": "Es_tut_mir_leid,_ich_brauche_das_im_Moment_nicht..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Lo siento, no lo necesito por el momento.",
+            "audio": "Lo_siento,_no_lo_necesito_por_el_momento..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Извините, сейчас мне это не нужно. (Izvinite, seychas mne eto ne nuzhno.)",
+            "audio": "Извините,_сейчас_мне_это_не_нужно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอโทษนะ ตอนนี้ฉันยังไม่ต้องการ (kǒr-tôht ná dton-née chǎn yang mâi dtông-gaan)",
+            "audio": "ขอโทษนะ_ตอนนี้ฉันยังไม่ต้องการ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Maaf, saya tidak membutuhkannya saat ini.",
+            "audio": "Maaf,_saya_tidak_membutuhkannya_saat_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很抱歉，我目前不需要。",
+            "audio": "很抱歉，我目前不需要。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen342",
+        "category": "日常交際",
+        "subcategory": "表達拒絕",
+        "cn": "謝謝你的邀請，但我去不了。",
+        "CN_ENG": {
+            "word": "Thank you for the invitation, but I can't make it.",
+            "audio": "Thank_you_for_the_invitation,_but_I_can't_make_it..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご招待ありがとうございます、でも行けません (ごしょうたいありがとうございます、でもいけません)",
+            "audio": "ごしょうたいありがとうございます、でもいけません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "초대해 주셔서 감사하지만, 갈 수 없을 것 같아요. (chodaehae jusyeoseo gamsahajiman, gal su eobs-eul geos gat-ayo.)",
+            "audio": "초대해_주셔서_감사하지만,_갈_수_없을_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn lời mời của bạn, nhưng tôi không đi được.",
+            "audio": "Cảm_ơn_lời_mời_của_bạn,_nhưng_tôi_không_đi_được..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅邀請，但我去唔到呀。 (do1 ze6 nei5 ge3 jiu1 cing2, daan6 ngo5 heoi3 m4 dou2 aa3.)",
+            "audio": "多謝你嘅邀請，但我去唔到呀。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour l'invitation, mais je ne pourrai pas venir.",
+            "audio": "Merci_pour_l'invitation,_mais_je_ne_pourrai_pas_venir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für die Einladung, aber ich kann leider nicht kommen.",
+            "audio": "Danke_für_die_Einladung,_aber_ich_kann_leider_nicht_kommen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por la invitación, pero no podré asistir.",
+            "audio": "Gracias_por_la_invitación,_pero_no_podré_asistir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за приглашение, но я не смогу прийти. (Spasibo za priglasheniye, no ya ne smogu priyti.)",
+            "audio": "Спасибо_за_приглашение,_но_я_не_смогу_прийти..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณที่ชวนนะ แต่ฉันไปไม่ได้ (kòp-kun têe chuan ná dtàe chǎn bpai mâi dâi)",
+            "audio": "ขอบคุณที่ชวนนะ_แต่ฉันไปไม่ได้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas undangannya, tapi saya tidak bisa datang.",
+            "audio": "Terima_kasih_atas_undangannya,_tapi_saya_tidak_bisa_datang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的邀請，但我去不了。",
+            "audio": "謝謝你的邀請，但我去不了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen343",
+        "category": "日常交際",
+        "subcategory": "表達拒絕",
+        "cn": "我現在有點忙，稍後再說。",
+        "CN_ENG": {
+            "word": "I am a bit busy right now, let's talk later.",
+            "audio": "I_am_a_bit_busy_right_now,_let's_talk_later..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今は少し忙しいので、後で話しましょう (いまはすこしいそがしいので、あとではなしましょう)",
+            "audio": "いまはすこしいそがしいので、あとではなしましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금은 좀 바빠서 나중에 얘기해요. (jigeum-eun jom bappaseo najung-e yaegihaeyo.)",
+            "audio": "지금은_좀_바빠서_나중에_얘기해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bây giờ tôi hơi bận, để nói sau nhé.",
+            "audio": "Bây_giờ_tôi_hơi_bận,_để_nói_sau_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我而家有啲忙，遲啲再講。 (ngo5 ji4 gaa1 jau5 di1 mong4, ci4 di1 zoi3 gong2.)",
+            "audio": "我而家有啲忙，遲啲再講。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis un peu occupé en ce moment, on en reparlera plus tard.",
+            "audio": "Je_suis_un_peu_occupé_en_ce_moment,_on_en_reparlera_plus_tard..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin gerade etwas beschäftigt, lass uns später reden.",
+            "audio": "Ich_bin_gerade_etwas_beschäftigt,_lass_uns_später_reden..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy un poco ocupado ahora mismo, hablemos más tarde.",
+            "audio": "Estoy_un_poco_ocupado_ahora_mismo,_hablemos_más_tarde..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я сейчас немного занят, давай поговорим позже. (Ya seychas nemnogo zanyat, davay pogovorim pozzhe.)",
+            "audio": "Я_сейчас_немного_занят,_давай_поговорим_позже..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอนนี้ฉันยุ่งนิดหน่อย ไว้คุยกันทีหลังนะ (dton-née chǎn yûng nít-nòi wái kui gan tee-lǎng ná)",
+            "audio": "ตอนนี้ฉันยุ่งนิดหน่อย_ไว้คุยกันทีหลังนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya agak sibuk sekarang, mari kita bicara nanti.",
+            "audio": "Saya_agak_sibuk_sekarang,_mari_kita_bicara_nanti..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我現在有點忙，稍後再說。",
+            "audio": "我現在有點忙，稍後再說。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen344",
+        "category": "日常交際",
+        "subcategory": "日常詢問",
+        "cn": "請問你知道現在幾點嗎？",
+        "CN_ENG": {
+            "word": "Excuse me, do you know what time it is?",
+            "audio": "Excuse_me,_do_you_know_what_time_it_is.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "すみません、今何時かご存知ですか (すみません、いまなんじかごぞんじですか)",
+            "audio": "すみません、いまなんじかごぞんじですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "실례지만, 지금 몇 시인지 아시나요? (sillyejiman, jigeum myeoch siinji asinayo?)",
+            "audio": "실례지만,_지금_몇_시인지_아시나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi bạn có biết bây giờ là mấy giờ không?",
+            "audio": "Xin_hỏi_bạn_có_biết_bây_giờ_là_mấy_giờ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問你知唔知而家幾點呀？ (cing2 man6 nei5 zi1 m4 zi1 ji4 gaa1 gei2 dim2 aa3?)",
+            "audio": "請問你知唔知而家幾點呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Excusez-moi, savez-vous quelle heure il est ?",
+            "audio": "Excusez-moi,_savez-vous_quelle_heure_il_est.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Entschuldigung, wissen Sie, wie spät es ist?",
+            "audio": "Entschuldigung,_wissen_Sie,_wie_spät_es_ist.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Disculpe, ¿sabe qué hora es?",
+            "audio": "Disculpe,_¿sabe_qué_hora_es.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Простите, вы не подскажете, который час? (Prostite, vy ne podskazhete, kotoryy chas?)",
+            "audio": "Простите,_вы_не_подскажете,_который_час.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอโทษนะคะ/ครับ ทราบไหมว่าตอนนี้กี่โมงแล้ว (kǒr-tôht ná ká/kráp sâap mǎi wâa dton-née gèe mohng láew)",
+            "audio": "ขอโทษนะคะ,_ครับ_ทราบไหมว่าตอนนี้กี่โมงแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Permisi, tahukah Anda jam berapa sekarang?",
+            "audio": "Permisi,_tahukah_Anda_jam_berapa_sekarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問你知道現在幾點嗎？",
+            "audio": "請問你知道現在幾點嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen345",
+        "category": "日常交際",
+        "subcategory": "日常詢問",
+        "cn": "這個字用英文怎麼說？",
+        "CN_ENG": {
+            "word": "How do you say this word in English?",
+            "audio": "How_do_you_say_this_word_in_English.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この言葉は英語で何と言いますか (このことばはえいごでなんといいまか)",
+            "audio": "このことばはえいごでなんといいまか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 단어는 영어로 어떻게 말하나요? (i dan-eoneun yeong-eolo eotteohge malhanayo?)",
+            "audio": "이_단어는_영어로_어떻게_말하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Từ này trong tiếng Anh nói thế nào?",
+            "audio": "Từ_này_trong_tiếng_Anh_nói_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個字用英文點講呀？ (ni1 go3 zi6 jung6 jing1 man4 dim2 gong2 aa3?)",
+            "audio": "呢個字用英文點講呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment dit-on ce mot en anglais ?",
+            "audio": "Comment_dit-on_ce_mot_en_anglais.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie sagt man dieses Wort auf Englisch?",
+            "audio": "Wie_sagt_man_dieses_Wort_auf_Englisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo se dice esta palabra en inglés?",
+            "audio": "¿Cómo_se_dice_esta_palabra_en_inglés.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как это слово будет по-английски? (Kak eto slovo budet po-angliyski?)",
+            "audio": "Как_это_слово_будет_по-английски.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คำนี้ภาษาอังกฤษพูดว่ายังไง (kam née paa-sǎa ang-grìt pôot wâa yang-ngai)",
+            "audio": "คำนี้ภาษาอังกฤษพูดว่ายังไง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana Anda mengucapkan kata ini dalam bahasa Inggris?",
+            "audio": "Bagaimana_Anda_mengucapkan_kata_ini_dalam_bahasa_Inggris.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個字用英文怎麼說？",
+            "audio": "這個字用英文怎麼說？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen346",
+        "category": "日常交際",
+        "subcategory": "日常詢問",
+        "cn": "這裡可以拍照嗎？",
+        "CN_ENG": {
+            "word": "Is it allowed to take photos here?",
+            "audio": "Is_it_allowed_to_take_photos_here.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここは写真を撮ってもいいですか (ここはしゃしんをとってもいいですか)",
+            "audio": "ここはしゃしんをとってもいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기서 사진 찍어도 되나요? (yeogiseo sajin jjig-eodo doenayo?)",
+            "audio": "여기서_사진_찍어도_되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ở đây có được chụp ảnh không?",
+            "audio": "Ở_đây_có_được_chụp_ảnh_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢度可唔可以影相呀？ (ni1 dou6 ho2 m4 ho2 ji5 jing2 soeng2 aa3?)",
+            "audio": "呢度可唔可以影相呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Est-il permis de prendre des photos ici ?",
+            "audio": "Est-il_permis_de_prendre_des_photos_ici.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Darf man hier fotografieren?",
+            "audio": "Darf_man_hier_fotografieren.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Se permite tomar fotos aquí?",
+            "audio": "¿Se_permite_tomar_fotos_aquí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здесь можно фотографировать? (Zdes' mozhno fotografirovat'?)",
+            "audio": "Здесь_можно_фотографировать.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ที่นี่ถ่ายรูปได้ไหม (têe-nêe tàai rôop dâi mǎi)",
+            "audio": "ที่นี่ถ่ายรูปได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah di sini boleh mengambil foto?",
+            "audio": "Apakah_di_sini_boleh_mengambil_foto.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這裡可以拍照嗎？",
+            "audio": "這裡可以拍照嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen347",
+        "category": "日常交際",
+        "subcategory": "關心問候",
+        "cn": "你今天看起來氣色不錯。",
+        "CN_ENG": {
+            "word": "You look well today.",
+            "audio": "You_look_well_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日は顔色がいいですね (きょうはかおいろがいいですね)",
+            "audio": "きょうはかおいろがいいですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 안색이 좋아 보이네요. (oneul ansaeg-i joh-a boineyo.)",
+            "audio": "오늘_안색이_좋아_보이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay trông sắc mặt bạn rất tốt.",
+            "audio": "Hôm_nay_trông_sắc_mặt_bạn_rất_tốt..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你今日睇落面色幾好喎。 (nei5 gam1 jat6 tai2 lok6 min6 sik1 gei2 hou2 wo3.)",
+            "audio": "你今日睇落面色幾好喎。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu as bonne mine aujourd'hui.",
+            "audio": "Tu_as_bonne_mine_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du siehst heute gut aus.",
+            "audio": "Du_siehst_heute_gut_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Te ves bien hoy.",
+            "audio": "Te_ves_bien_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ты сегодня хорошо выглядишь. (Ty segodnya khorosho vyglyadish'.)",
+            "audio": "Ты_сегодня_хорошо_выглядишь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้คุณดูสีหน้าสดใสดีนะ (wan-née kun doo sěe-nâa sòt-sǎi dee ná)",
+            "audio": "วันนี้คุณดูสีหน้าสดใสดีนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kamu terlihat segar hari ini.",
+            "audio": "Kamu_terlihat_segar_hari_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你今天看起來氣色不錯。",
+            "audio": "你今天看起來氣色不錯。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen348",
+        "category": "日常交際",
+        "subcategory": "關心問候",
+        "cn": "你的感冒好一點了嗎？",
+        "CN_ENG": {
+            "word": "Is your cold getting any better?",
+            "audio": "Is_your_cold_getting_any_better.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "風邪は少し良くなりましたか (かぜはすこしよくなりましたか)",
+            "audio": "かぜはすこしよくなりましたか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "감기는 좀 나아졌어요? (gamgineun jom na-ajyeoss-eoyo?)",
+            "audio": "감기는_좀_나아졌어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bệnh cảm của bạn đã đỡ chút nào chưa?",
+            "audio": "Bệnh_cảm_của_bạn_đã_đỡ_chút_nào_chưa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你個感冒好啲未呀？ (nei5 go3 gam2 mou6 hou2 di1 mei6 aa3?)",
+            "audio": "你個感冒好啲未呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ton rhume va-t-il mieux ?",
+            "audio": "Ton_rhume_va-t-il_mieux.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist deine Erkältung besser geworden?",
+            "audio": "Ist_deine_Erkältung_besser_geworden.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tu resfriado está mejorando?",
+            "audio": "¿Tu_resfriado_está_mejorando.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Твоя простуда проходит? (Tvoya prostuda prokhodit?)",
+            "audio": "Твоя_простуда_проходит.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "หวัดคุณดีขึ้นบ้างหรือยัง (wàt kun dee kêun bâang rěu yang)",
+            "audio": "หวัดคุณดีขึ้นบ้างหรือยัง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah flu-mu sudah membaik?",
+            "audio": "Apakah_flu-mu_sudah_membaik.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你的感冒好一點了嗎？",
+            "audio": "你的感冒好一點了嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen349",
+        "category": "日常交際",
+        "subcategory": "關心問候",
+        "cn": "工作別太累了，注意休息。",
+        "CN_ENG": {
+            "word": "Don't work too hard, remember to rest.",
+            "audio": "Don't_work_too_hard,_remember_to_rest..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "仕事で無理をしないで、しっかり休んでください (しごとでむりをしないで、しっかりやすんでください)",
+            "audio": "しごとでむりをしないで、しっかりやすんでください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "일 너무 무리하지 말고, 쉬어가면서 해요. (il neomu mulihaji malgo, swieogamyeonseo haeyo.)",
+            "audio": "일_너무_무리하지_말고,_쉬어가면서_해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đừng làm việc mệt quá, chú ý nghỉ ngơi.",
+            "audio": "Đừng_làm_việc_mệt_quá,_chú_ý_nghỉ_ngơi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "做嘢唔好太辛苦，注意休息呀。 (zou6 je5 m4 hou2 taai3 san1 fu2, zyu3 ji3 jau1 sik1 aa3.)",
+            "audio": "做嘢唔好太辛苦，注意休息呀。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ne travaille pas trop dur, n'oublie pas de te reposer.",
+            "audio": "Ne_travaille_pas_trop_dur,_n'oublie_pas_de_te_reposer..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Arbeite nicht zu hart, denk daran, dich auszuruhen.",
+            "audio": "Arbeite_nicht_zu_hart,_denk_daran,_dich_auszuruhen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No trabajes demasiado, recuerda descansar.",
+            "audio": "No_trabajes_demasiado,_recuerda_descansar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не переутомляйся на работе, не забывай отдыхать. (Ne pereutomlyaysya na rabote, ne zabyvay otdykhat'.)",
+            "audio": "Не_переутомляйся_на_работе,_не_забывай_отдыхать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อย่าทำงานหนักเกินไปล่ะ หาเวลาพักผ่อนบ้างนะ (yàa tam ngaan nàk gern bpai là hǎa way-laa pák-pòn bâang ná)",
+            "audio": "อย่าทำงานหนักเกินไปล่ะ_หาเวลาพักผ่อนบ้างนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jangan bekerja terlalu keras, ingatlah untuk beristirahat.",
+            "audio": "Jangan_bekerja_terlalu_keras,_ingatlah_untuk_beristirahat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "工作別太累了，注意休息。",
+            "audio": "工作別太累了，注意休息。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen350",
+        "category": "日常交際",
+        "subcategory": "告別用語",
+        "cn": "我得走了，下次見。",
+        "CN_ENG": {
+            "word": "I have to go, see you next time.",
+            "audio": "I_have_to_go,_see_you_next_time..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう行かなくちゃ、また今度ね (もういかなくちゃ、またこんどね)",
+            "audio": "もういかなくちゃ、またこんどね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저 이제 가봐야 해요, 다음에 봐요. (jeo ije gabwaya haeyo, da-eum-e bwayo.)",
+            "audio": "저_이제_가봐야_해요,_다음에_봐요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi phải đi rồi, hẹn gặp lại lần sau.",
+            "audio": "Tôi_phải_đi_rồi,_hẹn_gặp_lại_lần_sau..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我要走啦，下次見。 (ngo5 jiu3 zau2 laa1, haa6 ci3 gin3.)",
+            "audio": "我要走啦，下次見。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je dois y aller, à la prochaine.",
+            "audio": "Je_dois_y_aller,_à_la_prochaine..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich muss jetzt gehen, bis zum nächsten Mal.",
+            "audio": "Ich_muss_jetzt_gehen,_bis_zum_nächsten_Mal..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me tengo que ir, hasta la próxima.",
+            "audio": "Me_tengo_que_ir,_hasta_la_próxima..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне пора идти, до следующего раза. (Mne pora idti, do sleduyushchego raza.)",
+            "audio": "Мне_пора_идти,_до_следующего_раза..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องไปแล้ว ไว้เจอกันใหม่นะ (chǎn dtông bpai láew wái jer gan mài ná)",
+            "audio": "ฉันต้องไปแล้ว_ไว้เจอกันใหม่นะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya harus pergi, sampai jumpa lain waktu.",
+            "audio": "Saya_harus_pergi,_sampai_jumpa_lain_waktu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我得走了，下次見。",
+            "audio": "我得走了，下次見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
     }
 ];
