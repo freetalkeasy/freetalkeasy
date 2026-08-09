@@ -263146,5 +263146,1985 @@ const vocabData = [
             "audio": "兄.mp3",
             "folder": "CN_ZH/audio"
         }
+    },
+    {
+        "id": "sen_res001",
+        "category": "餐廳短句",
+        "subcategory": "帶位與入座",
+        "cn": "請問現在有空位嗎？",
+        "CN_ENG": {
+            "word": "Are there any available seats now?",
+            "audio": "Are_there_any_available_seats_now.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今、空席はありますか (いま、くうせきはありますか)",
+            "audio": "いま、くうせきはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금 빈자리 있나요? (jigeum binjali issnayo?)",
+            "audio": "지금_빈자리_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bây giờ có chỗ trống không?",
+            "audio": "Bây_giờ_có_chỗ_trống_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問而家有冇位呀？ (cing2 man6 ji4 gaa1 jau5 mou5 wai2 aa3?)",
+            "audio": "請問而家有冇位呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des places disponibles maintenant ?",
+            "audio": "Y_a-t-il_des_places_disponibles_maintenant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es jetzt freie Plätze?",
+            "audio": "Gibt_es_jetzt_freie_Plätze.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay asientos disponibles ahora?",
+            "audio": "¿Hay_asientos_disponibles_ahora.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли сейчас свободные места? (Yest' li seychas svobodnyye mesta?)",
+            "audio": "Есть_ли_сейчас_свободные_места.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอนนี้มีที่นั่งว่างไหม (dton-née mee têe-nàng wâang mǎi)",
+            "audio": "ตอนนี้มีที่นั่งว่างไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada kursi kosong sekarang?",
+            "audio": "Apakah_ada_kursi_kosong_sekarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問現在有空位嗎？",
+            "audio": "請問現在有空位嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res002",
+        "category": "餐廳短句",
+        "subcategory": "帶位與入座",
+        "cn": "我們一共有四個人。",
+        "CN_ENG": {
+            "word": "We have four people in total.",
+            "audio": "We_have_four_people_in_total..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私たちは全部で4人です (わたしたちはぜんぶでよにんです)",
+            "audio": "わたしたちはぜんぶでよにんです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저희는 총 네 명입니다. (jeohuineun chong ne myeong-ibnida.)",
+            "audio": "저희는_총_네_명입니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi có tổng cộng bốn người.",
+            "audio": "Chúng_tôi_có_tổng_cộng_bốn_người..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋總共有四個人。 (ngo5 dei6 zung2 gung6 jau5 sei3 go3 jan4.)",
+            "audio": "我哋總共有四個人。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous sommes quatre en tout.",
+            "audio": "Nous_sommes_quatre_en_tout..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir sind insgesamt vier Personen.",
+            "audio": "Wir_sind_insgesamt_vier_Personen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Somos cuatro en total.",
+            "audio": "Somos_cuatro_en_total..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нас всего четыре человека. (Nas vsego chetyre cheloveka.)",
+            "audio": "Нас_всего_четыре_человека..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พวกเรามีทั้งหมดสี่คน (pûak-rao mee táng-mòt sèe kon)",
+            "audio": "พวกเรามีทั้งหมดสี่คน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami berempat totalnya.",
+            "audio": "Kami_berempat_totalnya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們一共有四個人。",
+            "audio": "我們一共有四個人。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res003",
+        "category": "餐廳短句",
+        "subcategory": "點餐服務",
+        "cn": "請給我一份菜單，謝謝。",
+        "CN_ENG": {
+            "word": "Please give me a menu, thank you.",
+            "audio": "Please_give_me_a_menu,_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "メニューを一つお願いします (めにゅーをひとつおねがいします)",
+            "audio": "めにゅーをひとつおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "메뉴판 하나 주세요, 감사합니다. (menyupan hana juseyo, gamsahabnida.)",
+            "audio": "메뉴판_하나_주세요,_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm ơn cho tôi một thực đơn, cảm ơn.",
+            "audio": "Làm_ơn_cho_tôi_một_thực_đơn,_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔該畀份餐牌我，多謝。 (m4 goi1 bei2 fan6 caan1 paai4 ngo5, do1 ze6.)",
+            "audio": "唔該畀份餐牌我，多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Un menu, s'il vous plaît, merci.",
+            "audio": "Un_menu,_s'il_vous_plaît,_merci..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Eine Speisekarte bitte, danke.",
+            "audio": "Eine_Speisekarte_bitte,_danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Un menú por favor, gracias.",
+            "audio": "Un_menú_por_favor,_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Дайте мне меню, пожалуйста, спасибо. (Dayte mne menyu, pozhaluysta, spasibo.)",
+            "audio": "Дайте_мне_меню,_пожалуйста,_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอเมนูหนึ่งที่ครับ ขอบคุณ (kǒr may-noo nèung têe kráp kòp-kun)",
+            "audio": "ขอเมนูหนึ่งที่ครับ_ขอบคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya menu, terima kasih.",
+            "audio": "Tolong_beri_saya_menu,_terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一份菜單，謝謝。",
+            "audio": "請給我一份菜單，謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res004",
+        "category": "餐廳短句",
+        "subcategory": "點餐服務",
+        "cn": "我們需要一點時間看菜單。",
+        "CN_ENG": {
+            "word": "We need some time to look at the menu.",
+            "audio": "We_need_some_time_to_look_at_the_menu..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "メニューを見る時間が少し必要です (めにゅーをみるじかんがすこしひつようです)",
+            "audio": "めにゅーをみるじかんがすこしひつようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "메뉴를 볼 시간이 조금 필요해요. (menyuleul bol sigan-i jogeum pil-yohaeyo.)",
+            "audio": "메뉴를_볼_시간이_조금_필요해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi cần chút thời gian xem thực đơn.",
+            "audio": "Chúng_tôi_cần_chút_thời_gian_xem_thực_đơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋需要少少時間睇餐牌。 (ngo5 dei6 seoi1 jiu3 siu2 siu2 si4 gaan3 tai2 caan1 paai4.)",
+            "audio": "我哋需要少少時間睇餐牌。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous avons besoin d'un peu de temps pour regarder le menu.",
+            "audio": "Nous_avons_besoin_d'un_peu_de_temps_pour_regarder_le_menu..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir brauchen etwas Zeit, um die Speisekarte anzusehen.",
+            "audio": "Wir_brauchen_etwas_Zeit,_um_die_Speisekarte_anzusehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesitamos algo de tiempo para mirar el menú.",
+            "audio": "Necesitamos_algo_de_tiempo_para_mirar_el_menú..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нам нужно немного времени, чтобы посмотреть меню. (Nam nuzhno nemnogo vremeni, chtoby posmotret' menyu.)",
+            "audio": "Нам_нужно_немного_времени,_чтобы_посмотреть_меню..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราขอเวลาดูเมนูสักครู่ (rao kǒr way-laa doo may-noo sàk krôo)",
+            "audio": "เราขอเวลาดูเมนูสักครู่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami butuh waktu sebentar untuk melihat menu.",
+            "audio": "Kami_butuh_waktu_sebentar_untuk_melihat_menu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們需要一點時間看菜單。",
+            "audio": "我們需要一點時間看菜單。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res005",
+        "category": "餐廳短句",
+        "subcategory": "點餐服務",
+        "cn": "請問有什麼推薦的招牌菜嗎？",
+        "CN_ENG": {
+            "word": "Are there any recommended signature dishes?",
+            "audio": "Are_there_any_recommended_signature_dishes.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おすすめの看板料理はありますか (おすすめのかんばんりょうりはありますか)",
+            "audio": "おすすめのかんばんりょうりはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천할 만한 대표 요리가 있나요? (chucheonhal manhan daepyo yoliga issnayo?)",
+            "audio": "추천할_만한_대표_요리가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có món ăn đặc trưng nào được giới thiệu không?",
+            "audio": "Có_món_ăn_đặc_trưng_nào_được_giới_thiệu_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇咩推薦嘅招牌菜呀？ (cing2 man6 jau5 mou5 me1 teoi1 zin3 ge3 ziu1 paai4 coi3 aa3?)",
+            "audio": "請問有冇咩推薦嘅招牌菜呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des plats signatures recommandés ?",
+            "audio": "Y_a-t-il_des_plats_signatures_recommandés.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es empfohlene Spezialitäten des Hauses?",
+            "audio": "Gibt_es_empfohlene_Spezialitäten_des_Hauses.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay algún plato de la casa recomendado?",
+            "audio": "¿Hay_algún_plato_de_la_casa_recomendado.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли какие-нибудь рекомендуемые фирменные блюда? (Yest' li kakiye-nibud' rekomenduyemyye firmennyye blyuda?)",
+            "audio": "Есть_ли_какие-нибудь_рекомендуемые_фирменные_блюда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีเมนูแนะนำที่เป็นอาหารจานเด็ดไหม (mee may-noo náe-nam têe bpen aa-hǎan jaan dèt mǎi)",
+            "audio": "มีเมนูแนะนำที่เป็นอาหารจานเด็ดไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada hidangan khas yang direkomendasikan?",
+            "audio": "Apakah_ada_hidangan_khas_yang_direkomendasikan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有什麼推薦的招牌菜嗎？",
+            "audio": "請問有什麼推薦的招牌菜嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res006",
+        "category": "餐廳短句",
+        "subcategory": "點餐服務",
+        "cn": "我想要點和這個一樣的。",
+        "CN_ENG": {
+            "word": "I would like to order the same as this.",
+            "audio": "I_would_like_to_order_the_same_as_this..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これと同じものを注文したいです (これとおなじものをちゅうもんしたいです)",
+            "audio": "これとおなじものをちゅうもんしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이것과 같은 걸로 주문할게요. (igeosgwa gat-eun geollo jumunhalgeyo.)",
+            "audio": "이것과_같은_걸로_주문할게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn gọi món giống thế này.",
+            "audio": "Tôi_muốn_gọi_món_giống_thế_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想叫一份同呢個一樣嘅。 (ngo5 soeng2 giu3 jat1 fan6 tung4 ni1 go3 jat1 joeng6 ge3.)",
+            "audio": "我想叫一份同呢個一樣嘅。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je voudrais commander la même chose que ça.",
+            "audio": "Je_voudrais_commander_la_même_chose_que_ça..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte das Gleiche wie das hier bestellen.",
+            "audio": "Ich_möchte_das_Gleiche_wie_das_hier_bestellen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me gustaría pedir lo mismo que esto.",
+            "audio": "Me_gustaría_pedir_lo_mismo_que_esto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хотел бы заказать то же самое, что и это. (Ya khotel by zakazat' to zhe samoye, chto i eto.)",
+            "audio": "Я_хотел_бы_заказать_то_же_самое,_что_и_это..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอสั่งเหมือนอันนี้ (chǎn kǒr sǎng měuan an-née)",
+            "audio": "ฉันขอสั่งเหมือนอันนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin memesan yang sama dengan ini.",
+            "audio": "Saya_ingin_memesan_yang_sama_dengan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想要點和這個一樣的。",
+            "audio": "我想要點和這個一樣的。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res007",
+        "category": "餐廳短句",
+        "subcategory": "特殊需求",
+        "cn": "這道菜會很辣嗎？",
+        "CN_ENG": {
+            "word": "Is this dish very spicy?",
+            "audio": "Is_this_dish_very_spicy.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この料理はとても辛いですか (このりょうりはとてもからいですか)",
+            "audio": "このりょうりはとてもからいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 요리는 많이 매운가요? (i yolineun manh-i maeungayo?)",
+            "audio": "이_요리는_많이_매운가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món này có cay lắm không?",
+            "audio": "Món_này_có_cay_lắm_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢味餸會唔會好辣呀？ (ni1 mei6 sung3 wui5 m4 wui5 hou2 laat6 aa3?)",
+            "audio": "呢味餸會唔會好辣呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce plat est-il très épicé ?",
+            "audio": "Ce_plat_est-il_très_épicé.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist dieses Gericht sehr scharf?",
+            "audio": "Ist_dieses_Gericht_sehr_scharf.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este plato es muy picante?",
+            "audio": "¿Este_plato_es_muy_picante.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это блюдо очень острое? (Eto blyudo ochen' ostroye?)",
+            "audio": "Это_блюдо_очень_острое.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารจานนี้เผ็ดมากไหม (aa-hǎan jaan née pèt mâak mǎi)",
+            "audio": "อาหารจานนี้เผ็ดมากไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah hidangan ini sangat pedas?",
+            "audio": "Apakah_hidangan_ini_sangat_pedas.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這道菜會很辣嗎？",
+            "audio": "這道菜會很辣嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res008",
+        "category": "餐廳短句",
+        "subcategory": "特殊需求",
+        "cn": "請幫我把醬汁分開放。",
+        "CN_ENG": {
+            "word": "Please put the sauce on the side.",
+            "audio": "Please_put_the_sauce_on_the_side..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ソースは別にしてください (そーすはべつにしてください)",
+            "audio": "そーすはべつにしてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "소스는 따로 담아 주세요. (soseuneun ttalo dam-a juseyo.)",
+            "audio": "소스는_따로_담아_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng để nước sốt riêng.",
+            "audio": "Vui_lòng_để_nước_sốt_riêng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩幫我將啲汁分開上。 (maa4 faan4 bong1 ngo5 zoeng1 di1 zap1 fan1 hoi1 soeng5.)",
+            "audio": "麻煩幫我將啲汁分開上。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez mettre la sauce à part.",
+            "audio": "Veuillez_mettre_la_sauce_à_part..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte die Soße separat servieren.",
+            "audio": "Bitte_die_Soße_separat_servieren..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, ponga la salsa aparte.",
+            "audio": "Por_favor,_ponga_la_salsa_aparte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, подайте соус отдельно. (Pozhaluysta, podayte sous otdel'no.)",
+            "audio": "Пожалуйста,_подайте_соус_отдельно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยแยกซอสให้ด้วยครับ (chûay yâek sót hâi dûay kráp)",
+            "audio": "ช่วยแยกซอสให้ด้วยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong pisahkan sausnya.",
+            "audio": "Tolong_pisahkan_sausnya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請幫我把醬汁分開放。",
+            "audio": "請幫我把醬汁分開放。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res009",
+        "category": "餐廳短句",
+        "subcategory": "特殊需求",
+        "cn": "我對花生嚴重過敏。",
+        "CN_ENG": {
+            "word": "I have a severe allergy to peanuts.",
+            "audio": "I_have_a_severe_allergy_to_peanuts..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私はピーナッツに重度のアレルギーがあります (わたしはぴーなっつにじゅうどのあれるぎーがあります)",
+            "audio": "わたしはぴーなっつにじゅうどのあれるぎーがあります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저는 땅콩에 심한 알레르기가 있습니다. (jeoneun ttangkong-e simhan alleleugiga issseubnida.)",
+            "audio": "저는_땅콩에_심한_알레르기가_있습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi bị dị ứng nặng với đậu phộng.",
+            "audio": "Tôi_bị_dị_ứng_nặng_với_đậu_phộng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我對花生有嚴重敏感。 (ngo5 deoi3 faa1 sang1 jau5 jim4 zung6 man5 gam2.)",
+            "audio": "我對花生有嚴重敏感。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai une grave allergie aux arachides.",
+            "audio": "J'ai_une_grave_allergie_aux_arachides..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe eine schwere Allergie gegen Erdnüsse.",
+            "audio": "Ich_habe_eine_schwere_Allergie_gegen_Erdnüsse..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tengo una alergia grave a los cacahuetes.",
+            "audio": "Tengo_una_alergia_grave_a_los_cacahuetes..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У меня сильная аллергия на арахис. (U menya sil'naya allergiya na arakhis.)",
+            "audio": "У_меня_сильная_аллергия_на_арахис..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันแพ้ถั่วลิสงอย่างรุนแรง (chǎn páe tùa-lí-sǒng yàang run-raeng)",
+            "audio": "ฉันแพ้ถั่วลิสงอย่างรุนแรง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya memiliki alergi parah terhadap kacang tanah.",
+            "audio": "Saya_memiliki_alergi_parah_terhadap_kacang_tanah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我對花生嚴重過敏。",
+            "audio": "我對花生嚴重過敏。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res010",
+        "category": "餐廳短句",
+        "subcategory": "點餐服務",
+        "cn": "這樣就夠了，先點這些。",
+        "CN_ENG": {
+            "word": "That is enough for now, I will order these first.",
+            "audio": "That_is_enough_for_now,_I_will_order_these_first..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "とりあえずこれで十分です (とりあえずこれでじゅうぶんです)",
+            "audio": "とりあえずこれでじゅうぶんです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "일단 이걸로 충분합니다. (ildan igeollo chungbunhabnida.)",
+            "audio": "일단_이걸로_충분합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Như vậy là đủ rồi, trước tiên gọi những món này.",
+            "audio": "Như_vậy_là_đủ_rồi,_trước_tiên_gọi_những_món_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "咁樣就夠啦，先叫住呢啲先。 (gam2 joeng6 zeou6 gau3 laa1, sin1 giu3 zyu6 ni1 di1 sin1.)",
+            "audio": "咁樣就夠啦，先叫住呢啲先。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce sera tout pour le moment.",
+            "audio": "Ce_sera_tout_pour_le_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das reicht erst einmal.",
+            "audio": "Das_reicht_erst_einmal..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Eso es suficiente por ahora.",
+            "audio": "Eso_es_suficiente_por_ahora..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этого пока достаточно. (Etogo poka dostatochno.)",
+            "audio": "Этого_пока_достаточно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แค่นี้พอก่อนครับ สั่งแค่นี้ก่อน (kâe née por gòn kráp sǎng kâe née gòn)",
+            "audio": "แค่นี้พอก่อนครับ_สั่งแค่นี้ก่อน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu saja untuk saat ini, saya pesan ini dulu.",
+            "audio": "Itu_saja_untuk_saat_ini,_saya_pesan_ini_dulu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這樣就夠了，先點這些。",
+            "audio": "這樣就夠了，先點這些。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res011",
+        "category": "餐廳短句",
+        "subcategory": "餐點進度",
+        "cn": "請問我們的餐點還要等多久？",
+        "CN_ENG": {
+            "word": "How much longer do we have to wait for our food?",
+            "audio": "How_much_longer_do_we_have_to_wait_for_our_food.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私たちの料理はあとどれくらい待ちますか (わたしたちのりょうりはあとどれくらいまちますか)",
+            "audio": "わたしたちのりょうりはあとどれくらいまちますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저희 음식은 얼마나 더 기다려야 하나요? (jeohui eumsig-eun eolmana deo gidalyeoya hanayo?)",
+            "audio": "저희_음식은_얼마나_더_기다려야_하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi thức ăn của chúng tôi phải đợi bao lâu nữa?",
+            "audio": "Xin_hỏi_thức_ăn_của_chúng_tôi_phải_đợi_bao_lâu_nữa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問我哋啲嘢食仲要等幾耐呀？ (cing2 man6 ngo5 dei6 di1 je5 sik6 zung6 jiu3 dang2 gei2 noi6 aa3?)",
+            "audio": "請問我哋啲嘢食仲要等幾耐呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien de temps devons-nous encore attendre pour notre repas ?",
+            "audio": "Combien_de_temps_devons-nous_encore_attendre_pour_notre_repas.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lange müssen wir noch auf unser Essen warten?",
+            "audio": "Wie_lange_müssen_wir_noch_auf_unser_Essen_warten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto tiempo más tenemos que esperar por nuestra comida?",
+            "audio": "¿Cuánto_tiempo_más_tenemos_que_esperar_por_nuestra_comida.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как долго нам еще ждать нашу еду? (Kak dolgo nam yeshche zhdat' nashu yedu?)",
+            "audio": "Как_долго_нам_еще_ждать_нашу_еду.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารของเราต้องรออีกนานไหม (aa-hǎan kǒng rao dtông ror èek naan mǎi)",
+            "audio": "อาหารของเราต้องรออีกนานไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa lama lagi kami harus menunggu makanan kami?",
+            "audio": "Berapa_lama_lagi_kami_harus_menunggu_makanan_kami.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問我們的餐點還要等多久？",
+            "audio": "請問我們的餐點還要等多久？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res012",
+        "category": "餐廳短句",
+        "subcategory": "餐點進度",
+        "cn": "這道菜我們沒有點。",
+        "CN_ENG": {
+            "word": "We did not order this dish.",
+            "audio": "We_did_not_order_this_dish..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この料理は注文していません (このりょうりはちゅうもんしていません)",
+            "audio": "このりょうりはちゅうもんしていません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 요리는 주문하지 않았습니다. (i yolineun jumunhaji anh-assseubnida.)",
+            "audio": "이_요리는_주문하지_않았습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi không gọi món này.",
+            "audio": "Chúng_tôi_không_gọi_món_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢碟餸我哋冇叫到。 (ni1 dip6 sung3 ngo5 dei6 mou5 giu3 dou3.)",
+            "audio": "呢碟餸我哋冇叫到。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous n'avons pas commandé ce plat.",
+            "audio": "Nous_n'avons_pas_commandé_ce_plat..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir haben dieses Gericht nicht bestellt.",
+            "audio": "Wir_haben_dieses_Gericht_nicht_bestellt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No pedimos este plato.",
+            "audio": "No_pedimos_este_plato..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мы не заказывали это блюдо. (My ne zakazyvali eto blyudo.)",
+            "audio": "Мы_не_заказывали_это_блюдо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไม่ได้สั่งอาหารจานนี้ (rao mâi dâi sǎng aa-hǎan jaan née)",
+            "audio": "เราไม่ได้สั่งอาหารจานนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami tidak memesan hidangan ini.",
+            "audio": "Kami_tidak_memesan_hidangan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這道菜我們沒有點。",
+            "audio": "這道菜我們沒有點。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res013",
+        "category": "餐廳短句",
+        "subcategory": "餐具與水",
+        "cn": "請再給我們一些餐巾紙。",
+        "CN_ENG": {
+            "word": "Please give us some more napkins.",
+            "audio": "Please_give_us_some_more_napkins..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ナプキンをもう少しください (なぷきんをもうすこしください)",
+            "audio": "なぷきんをもうすこしください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "냅킨 좀 더 주시겠어요? (naebkin jom deo jusigess-eoyo?)",
+            "audio": "냅킨_좀_더_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm ơn cho chúng tôi thêm vài tờ giấy ăn.",
+            "audio": "Làm_ơn_cho_chúng_tôi_thêm_vài_tờ_giấy_ăn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀多幾張紙巾我哋。 (maa4 faan4 bei2 do1 gei2 zoeng1 zi2 gan1 ngo5 dei6.)",
+            "audio": "麻煩畀多幾張紙巾我哋。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez nous donner quelques serviettes en plus.",
+            "audio": "Veuillez_nous_donner_quelques_serviettes_en_plus..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie uns noch ein paar Servietten.",
+            "audio": "Bitte_geben_Sie_uns_noch_ein_paar_Servietten..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, denos algunas servilletas más.",
+            "audio": "Por_favor,_denos_algunas_servilletas_más..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте нам еще салфеток. (Pozhaluysta, dayte nam yeshche salfetok.)",
+            "audio": "Пожалуйста,_дайте_нам_еще_салфеток..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอทิชชู่เพิ่มหน่อยครับ (kǒr tít-chôo pêrm nòi kráp)",
+            "audio": "ขอทิชชู่เพิ่มหน่อยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri kami beberapa serbet lagi.",
+            "audio": "Tolong_beri_kami_beberapa_serbet_lagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請再給我們一些餐巾紙。",
+            "audio": "請再給我們一些餐巾紙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res014",
+        "category": "餐廳短句",
+        "subcategory": "餐具與水",
+        "cn": "可以幫我加滿水嗎？",
+        "CN_ENG": {
+            "word": "Could you refill my water, please?",
+            "audio": "Could_you_refill_my_water,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お水を注ぎ足していただけますか (おみずをつぎたしていただけますか)",
+            "audio": "おみずをつぎたしていただけますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "물 좀 더 채워 주실 수 있나요? (mul jom deo chaewo jusil su issnayo?)",
+            "audio": "물_좀_더_채워_주실_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể rót thêm nước cho tôi không?",
+            "audio": "Có_thể_rót_thêm_nước_cho_tôi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫我加啲水呀？ (ho2 m4 ho2 ji5 bong1 ngo5 gaa1 di1 seoi2 aa3?)",
+            "audio": "可唔可以幫我加啲水呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous me resservir de l'eau, s'il vous plaît ?",
+            "audio": "Pourriez-vous_me_resservir_de_l'eau,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könnten Sie bitte mein Wasser nachfüllen?",
+            "audio": "Könnten_Sie_bitte_mein_Wasser_nachfüllen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podría rellenar mi agua, por favor?",
+            "audio": "¿Podría_rellenar_mi_agua,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы долить мне воды? (Ne mogli by vy dolit' mne vody?)",
+            "audio": "Не_могли_бы_вы_долить_мне_воды.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยเติมน้ำให้หน่อยได้ไหม (chûay dterm náam hâi nòi dâi mǎi)",
+            "audio": "ช่วยเติมน้ำให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda mengisi ulang air saya?",
+            "audio": "Bisakah_Anda_mengisi_ulang_air_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以幫我加滿水嗎？",
+            "audio": "可以幫我加滿水嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res015",
+        "category": "餐廳短句",
+        "subcategory": "加點與打包",
+        "cn": "我想要加點一份甜點。",
+        "CN_ENG": {
+            "word": "I would like to order an extra dessert.",
+            "audio": "I_would_like_to_order_an_extra_dessert..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "デザートを一つ追加で注文したいです (でざーとをひとつついかでちゅうもんしたいです)",
+            "audio": "でざーとをひとつついかでちゅうもんしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "디저트 하나 더 추가할게요. (dijeoteu hana deo chugahalgeyo.)",
+            "audio": "디저트_하나_더_추가할게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn gọi thêm một phần tráng miệng.",
+            "audio": "Tôi_muốn_gọi_thêm_một_phần_tráng_miệng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想加叫一份甜品。 (ngo5 soeng2 gaa1 giu3 jat1 fan6 tim4 ban2.)",
+            "audio": "我想加叫一份甜品。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je voudrais commander un dessert supplémentaire.",
+            "audio": "Je_voudrais_commander_un_dessert_supplémentaire..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte noch ein Dessert bestellen.",
+            "audio": "Ich_möchte_noch_ein_Dessert_bestellen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me gustaría pedir un postre extra.",
+            "audio": "Me_gustaría_pedir_un_postre_extra..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хотел бы заказать дополнительный десерт. (Ya khotel by zakazat' dopolnitel'nyy desert.)",
+            "audio": "Я_хотел_бы_заказать_дополнительный_десерт..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอสั่งของหวานเพิ่มหนึ่งที่ (chǎn kǒr sǎng kǒng wǎan pêrm nèung têe)",
+            "audio": "ฉันขอสั่งของหวานเพิ่มหนึ่งที่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin memesan makanan penutup tambahan.",
+            "audio": "Saya_ingin_memesan_makanan_penutup_tambahan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想要加點一份甜點。",
+            "audio": "我想要加點一份甜點。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res016",
+        "category": "餐廳短句",
+        "subcategory": "加點與打包",
+        "cn": "麻煩幫我把剩下的打包。",
+        "CN_ENG": {
+            "word": "Please pack the leftovers for me.",
+            "audio": "Please_pack_the_leftovers_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "残ったものをお持ち帰り用に包んでください (のこったものをおもちかえりようにつつんでください)",
+            "audio": "のこったものをおもちかえりようにつつんでください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "남은 음식 좀 포장해 주시겠어요? (nam-eun eumsig jom pojanghae jusigess-eoyo?)",
+            "audio": "남은_음식_좀_포장해_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phiền bạn gói phần thức ăn thừa lại giúp tôi.",
+            "audio": "Phiền_bạn_gói_phần_thức_ăn_thừa_lại_giúp_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩幫我將剩低嘅打包。 (maa4 faan4 bong1 ngo5 zoeng1 zing6 dai1 ge3 daa2 baau1.)",
+            "audio": "麻煩幫我將剩低嘅打包。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous emballer les restes, s'il vous plaît ?",
+            "audio": "Pouvez-vous_emballer_les_restes,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können Sie mir bitte die Reste einpacken?",
+            "audio": "Können_Sie_mir_bitte_die_Reste_einpacken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, empáqueme las sobras.",
+            "audio": "Por_favor,_empáqueme_las_sobras..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, упакуйте мне остатки. (Pozhaluysta, upakuyte mne ostatki.)",
+            "audio": "Пожалуйста,_упакуйте_мне_остатки..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยห่ออาหารที่เหลือให้หน่อย (chûay hòr aa-hǎan têe lěua hâi nòi)",
+            "audio": "ช่วยห่ออาหารที่เหลือให้หน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong bungkuskan sisanya untuk saya.",
+            "audio": "Tolong_bungkuskan_sisanya_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "麻煩幫我把剩下的打包。",
+            "audio": "麻煩幫我把剩下的打包。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res017",
+        "category": "餐廳短句",
+        "subcategory": "結帳付款",
+        "cn": "請問可以在桌邊結帳嗎？",
+        "CN_ENG": {
+            "word": "Can we pay at the table?",
+            "audio": "Can_we_pay_at_the_table.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "テーブルで会計できますか (てーぶるでかいけいできますか)",
+            "audio": "てーぶるでかいけいできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "테이블에서 계산할 수 있나요? (teibeul-eseo gyesanhal su issnayo?)",
+            "audio": "테이블에서_계산할_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi có thể thanh toán tại bàn không?",
+            "audio": "Chúng_tôi_có_thể_thanh_toán_tại_bàn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問可唔可以喺枱面埋單呀？ (cing2 man6 ho2 m4 ho2 ji5 hai2 toi4 min2 maai4 daan1 aa3?)",
+            "audio": "請問可唔可以喺枱面埋單呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvons-nous payer à la table ?",
+            "audio": "Pouvons-nous_payer_à_la_table.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können wir am Tisch bezahlen?",
+            "audio": "Können_wir_am_Tisch_bezahlen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podemos pagar en la mesa?",
+            "audio": "¿Podemos_pagar_en_la_mesa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Можем ли мы оплатить счет за столом? (Mozhem li my oplatit' schet za stolom?)",
+            "audio": "Можем_ли_мы_оплатить_счет_за_столом.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จ่ายเงินที่โต๊ะได้ไหม (jàai ngern têe dtó dâi mǎi)",
+            "audio": "จ่ายเงินที่โต๊ะได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah kita membayar di meja?",
+            "audio": "Bisakah_kita_membayar_di_meja.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問可以在桌邊結帳嗎？",
+            "audio": "請問可以在桌邊結帳嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res018",
+        "category": "餐廳短句",
+        "subcategory": "結帳付款",
+        "cn": "請分開結帳，謝謝。",
+        "CN_ENG": {
+            "word": "Please split the bill, thank you.",
+            "audio": "Please_split_the_bill,_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お会計は別々にお願いします (おかいけいはべつべつにおねがいします)",
+            "audio": "おかいけいはべつべつにおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "계산은 따로따로 해주세요. (gyesan-eun ttalottalo haejuseyo.)",
+            "audio": "계산은_따로따로_해주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng tính tiền riêng, cảm ơn.",
+            "audio": "Vui_lòng_tính_tiền_riêng,_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩分開計數，多謝。 (maa4 faan4 fan1 hoi1 gai3 sou3, do1 ze6.)",
+            "audio": "麻煩分開計數，多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Des additions séparées, s'il vous plaît.",
+            "audio": "Des_additions_séparées,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte getrennt zahlen, danke.",
+            "audio": "Bitte_getrennt_zahlen,_danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, divida la cuenta, gracias.",
+            "audio": "Por_favor,_divida_la_cuenta,_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, разделите счет, спасибо. (Pozhaluysta, razdelite schet, spasibo.)",
+            "audio": "Пожалуйста,_разделите_счет,_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยแยกบิลด้วยครับ ขอบคุณ (chûay yâek bin dûay kráp kòp-kun)",
+            "audio": "ช่วยแยกบิลด้วยครับ_ขอบคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong pisahkan tagihannya, terima kasih.",
+            "audio": "Tolong_pisahkan_tagihannya,_terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請分開結帳，謝謝。",
+            "audio": "請分開結帳，謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res019",
+        "category": "餐廳短句",
+        "subcategory": "結帳付款",
+        "cn": "這個帳單好像有點錯誤。",
+        "CN_ENG": {
+            "word": "There seems to be a mistake on this bill.",
+            "audio": "There_seems_to_be_a_mistake_on_this_bill..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この請求書に間違いがあるようです (このせいきゅうしょにまちがいがあるようです)",
+            "audio": "このせいきゅうしょにまちがいがあるようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 계산서에 약간의 오류가 있는 것 같아요. (i gyesanseoe yaggan-ui olyuga issneun geos gat-ayo.)",
+            "audio": "이_계산서에_약간의_오류가_있는_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hóa đơn này hình như có chút sai sót.",
+            "audio": "Hóa_đơn_này_hình_như_có_chút_sai_sót..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢張單好似有啲錯。 (ni1 zoeng1 daan1 hou2 ci5 jau5 di1 co3.)",
+            "audio": "呢張單好似有啲錯。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il semble y avoir une erreur sur cette addition.",
+            "audio": "Il_semble_y_avoir_une_erreur_sur_cette_addition..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es scheint einen Fehler auf dieser Rechnung zu geben.",
+            "audio": "Es_scheint_einen_Fehler_auf_dieser_Rechnung_zu_geben..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Parece que hay un error en esta cuenta.",
+            "audio": "Parece_que_hay_un_error_en_esta_cuenta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кажется, в этом счете есть ошибка. (Kazhetsya, v etom schete yest' oshibka.)",
+            "audio": "Кажется,_в_этом_счете_есть_ошибка..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "บิลนี้เหมือนจะมีข้อผิดพลาด (bin née měuan jà mee kôr pìt-plâat)",
+            "audio": "บิลนี้เหมือนจะมีข้อผิดพลาด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sepertinya ada kesalahan pada tagihan ini.",
+            "audio": "Sepertinya_ada_kesalahan_pada_tagihan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個帳單好像有點錯誤。",
+            "audio": "這個帳單好像有點錯誤。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res020",
+        "category": "餐廳短句",
+        "subcategory": "餐後道謝",
+        "cn": "今天的餐點非常美味。",
+        "CN_ENG": {
+            "word": "The meal today was very delicious.",
+            "audio": "The_meal_today_was_very_delicious..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日の料理はとても美味しかったです (きょうのりょうりはとてもおいしかったです)",
+            "audio": "きょうのりょうりはとてもおいしかったです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 식사 정말 맛있었습니다. (oneul sigsa jeongmal mas-iss-eossseubnida.)",
+            "audio": "오늘_식사_정말_맛있었습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bữa ăn hôm nay rất ngon miệng.",
+            "audio": "Bữa_ăn_hôm_nay_rất_ngon_miệng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "今日嘅嘢食非常好味。 (gam1 jat6 ge3 je5 sik6 fei1 soeng4 hou2 mei6.)",
+            "audio": "今日嘅嘢食非常好味。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Le repas d'aujourd'hui était très délicieux.",
+            "audio": "Le_repas_d'aujourd'hui_était_très_délicieux..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das Essen heute war sehr lecker.",
+            "audio": "Das_Essen_heute_war_sehr_lecker..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "La comida de hoy estuvo muy deliciosa.",
+            "audio": "La_comida_de_hoy_estuvo_muy_deliciosa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Еда сегодня была очень вкусной. (Yeda segodnya byla ochen' vkusnoy.)",
+            "audio": "Еда_сегодня_была_очень_вкусной..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารวันนี้อร่อยมาก (aa-hǎan wan-née a-ròi mâak)",
+            "audio": "อาหารวันนี้อร่อยมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Makanannya hari ini sangat lezat.",
+            "audio": "Makanannya_hari_ini_sangat_lezat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "今天的餐點非常美味。",
+            "audio": "今天的餐點非常美味。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res021",
+        "category": "餐廳短句",
+        "subcategory": "帶位與入座",
+        "cn": "請問有靠窗的座位嗎？",
+        "CN_ENG": {
+            "word": "Are there any window seats available?",
+            "audio": "Are_there_any_window_seats_available.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "窓際の席はありますか (まどぎわのせきはありますか)",
+            "audio": "まどぎわのせきはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "창가 자리가 있나요? (chang-ga jaliga issnayo?)",
+            "audio": "창가_자리가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có chỗ ngồi gần cửa sổ không?",
+            "audio": "Có_chỗ_ngồi_gần_cửa_sổ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇靠窗嘅位呀？ (cing2 man6 jau5 mou5 kaau3 coeng1 ge3 wai2 aa3?)",
+            "audio": "請問有冇靠窗嘅位呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des places près de la fenêtre ?",
+            "audio": "Y_a-t-il_des_places_près_de_la_fenêtre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es Fensterplätze?",
+            "audio": "Gibt_es_Fensterplätze.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay asientos junto a la ventana disponibles?",
+            "audio": "¿Hay_asientos_junto_a_la_ventana_disponibles.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли места у окна? (Yest' li mesta u okna?)",
+            "audio": "Есть_ли_места_у_окна.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีที่นั่งริมหน้าต่างไหม (mee têe-nàng rim nâa-dtàang mǎi)",
+            "audio": "มีที่นั่งริมหน้าต่างไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada kursi dekat jendela yang tersedia?",
+            "audio": "Apakah_ada_kursi_dekat_jendela_yang_tersedia.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有靠窗的座位嗎？",
+            "audio": "請問有靠窗的座位嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res022",
+        "category": "餐廳短句",
+        "subcategory": "帶位與入座",
+        "cn": "我們沒有先訂位。",
+        "CN_ENG": {
+            "word": "We do not have a reservation.",
+            "audio": "We_do_not_have_a_reservation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "予約はしていません (よやくはしていません)",
+            "audio": "よやくはしていません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "예약을 하지 않았습니다. (yeyag-eul haji anh-assseubnida.)",
+            "audio": "예약을_하지_않았습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi không đặt bàn trước.",
+            "audio": "Chúng_tôi_không_đặt_bàn_trước..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋冇預先訂位。 (ngo5 dei6 mou5 jyu6 sin1 ding6 wai2.)",
+            "audio": "我哋冇預先訂位。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous n'avons pas de réservation.",
+            "audio": "Nous_n'avons_pas_de_réservation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir haben keine Reservierung.",
+            "audio": "Wir_haben_keine_Reservierung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No tenemos reservación.",
+            "audio": "No_tenemos_reservación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У нас нет бронирования. (U nas net bronirovaniya.)",
+            "audio": "У_нас_нет_бронирования..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไม่ได้จองไว้ (rao mâi dâi jong wái)",
+            "audio": "เราไม่ได้จองไว้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami belum melakukan reservasi.",
+            "audio": "Kami_belum_melakukan_reservasi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們沒有先訂位。",
+            "audio": "我們沒有先訂位。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res023",
+        "category": "餐廳短句",
+        "subcategory": "點餐服務",
+        "cn": "我們準備好要點餐了。",
+        "CN_ENG": {
+            "word": "We are ready to order.",
+            "audio": "We_are_ready_to_order..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "注文する準備ができました (ちゅうもんするじゅんびができました)",
+            "audio": "ちゅうもんするじゅんびができました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이제 주문할 준비가 되었습니다. (ije jumunhal junbiga doeeossseubnida.)",
+            "audio": "이제_주문할_준비가_되었습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi đã sẵn sàng gọi món.",
+            "audio": "Chúng_tôi_đã_sẵn_sàng_gọi_món..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋準備好叫嘢食啦。 (ngo5 dei6 zeon2 bei6 hou2 giu3 je5 sik6 laa1.)",
+            "audio": "我哋準備好叫嘢食啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous sommes prêts à commander.",
+            "audio": "Nous_sommes_prêts_à_commander..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir sind bereit zu bestellen.",
+            "audio": "Wir_sind_bereit_zu_bestellen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estamos listos para pedir.",
+            "audio": "Estamos_listos_para_pedir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мы готовы сделать заказ. (My gotovy sdelat' zakaz.)",
+            "audio": "Мы_готовы_сделать_заказ..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราพร้อมจะสั่งอาหารแล้ว (rao próm jà sǎng aa-hǎan láew)",
+            "audio": "เราพร้อมจะสั่งอาหารแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami siap untuk memesan.",
+            "audio": "Kami_siap_untuk_memesan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們準備好要點餐了。",
+            "audio": "我們準備好要點餐了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res024",
+        "category": "餐廳短句",
+        "subcategory": "特殊需求",
+        "cn": "請問這個有素食的版本嗎？",
+        "CN_ENG": {
+            "word": "Is there a vegetarian version of this?",
+            "audio": "Is_there_a_vegetarian_version_of_this.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これのベジタリアン用はありますか (これのべじたりあんようはありますか)",
+            "audio": "これのべじたりあんようはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이거 채식주의자용 버전이 있나요? (igeo chaesigjuuijayong beojeon-i issnayo?)",
+            "audio": "이거_채식주의자용_버전이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món này có phiên bản chay không?",
+            "audio": "Món_này_có_phiên_bản_chay_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個有冇素食版呀？ (cing2 man6 ni1 go3 jau5 mou5 sou3 sik6 baan2 aa3?)",
+            "audio": "請問呢個有冇素食版呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il une version végétarienne de cela ?",
+            "audio": "Y_a-t-il_une_version_végétarienne_de_cela.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es davon eine vegetarische Version?",
+            "audio": "Gibt_es_davon_eine_vegetarische_Version.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay una versión vegetariana de esto?",
+            "audio": "¿Hay_una_versión_vegetariana_de_esto.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли вегетарианская версия этого блюда? (Yest' li vegetarianskaya versiya etogo blyuda?)",
+            "audio": "Есть_ли_вегетарианская_версия_этого_блюда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เมนูนี้มีแบบมังสวิรัติไหม (may-noo née mee bàep mang-sǎ-wí-rát mǎi)",
+            "audio": "เมนูนี้มีแบบมังสวิรัติไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada versi vegetarian untuk ini?",
+            "audio": "Apakah_ada_versi_vegetarian_untuk_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個有素食的版本嗎？",
+            "audio": "請問這個有素食的版本嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res025",
+        "category": "餐廳短句",
+        "subcategory": "特殊需求",
+        "cn": "請幫我的飲料去冰。",
+        "CN_ENG": {
+            "word": "Please make my drink without ice.",
+            "audio": "Please_make_my_drink_without_ice..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "飲み物は氷抜きでお願いします (のみものはこおりぬきでおねがいします)",
+            "audio": "のみものはこおりぬきでおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "음료에 얼음은 빼주세요. (eumlyoe eol-eum-eun ppaejuseyo.)",
+            "audio": "음료에_얼음은_빼주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng không cho đá vào đồ uống của tôi.",
+            "audio": "Vui_lòng_không_cho_đá_vào_đồ_uống_của_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩我杯嘢飲走冰。 (maa4 faan4 ngo5 bui1 je5 jam2 zau2 bing1.)",
+            "audio": "麻煩我杯嘢飲走冰。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sans glaçons pour ma boisson, s'il vous plaît.",
+            "audio": "Sans_glaçons_pour_ma_boisson,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte mein Getränk ohne Eis.",
+            "audio": "Bitte_mein_Getränk_ohne_Eis..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, mi bebida sin hielo.",
+            "audio": "Por_favor,_mi_bebida_sin_hielo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, сделайте мой напиток без льда. (Pozhaluysta, sdelayte moy napitok bez l'da.)",
+            "audio": "Пожалуйста,_сделайте_мой_напиток_без_льда..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องดื่มขอไม่ใส่น้ำแข็ง (krêuang-dèum kǒr mâi sài náam-kǎng)",
+            "audio": "เครื่องดื่มขอไม่ใส่น้ำแข็ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong buatkan minuman saya tanpa es.",
+            "audio": "Tolong_buatkan_minuman_saya_tanpa_es..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請幫我的飲料去冰。",
+            "audio": "請幫我的飲料去冰。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res026",
+        "category": "餐廳短句",
+        "subcategory": "特殊需求",
+        "cn": "這份沙拉不需要加沙拉醬。",
+        "CN_ENG": {
+            "word": "No dressing is needed for this salad.",
+            "audio": "No_dressing_is_needed_for_this_salad..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このサラダにはドレッシングをかけないでください (このさらだにはどれっしんぐをかけないでください)",
+            "audio": "このさらだにはどれっしんぐをかけないでください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 샐러드에는 드레싱을 넣지 마세요. (i saelleodeueneun deulesing-eul neohji maseyo.)",
+            "audio": "이_샐러드에는_드레싱을_넣지_마세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món salad này không cần thêm nước sốt.",
+            "audio": "Món_salad_này_không_cần_thêm_nước_sốt..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢份沙律唔需要加沙律醬。 (ni1 fan6 saa1 leot2 m4 seoi1 jiu3 gaa1 saa1 leot2 zoeng3.)",
+            "audio": "呢份沙律唔需要加沙律醬。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pas de vinaigrette pour cette salade, s'il vous plaît.",
+            "audio": "Pas_de_vinaigrette_pour_cette_salade,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kein Dressing für diesen Salat nötig.",
+            "audio": "Kein_Dressing_für_diesen_Salat_nötig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No se necesita aderezo para esta ensalada.",
+            "audio": "No_se_necesita_aderezo_para_esta_ensalada..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Для этого салата не нужна заправка. (Dlya etogo salata ne nuzhna zapravka.)",
+            "audio": "Для_этого_салата_не_нужна_заправка..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สลัดนี้ไม่ต้องใส่น้ำสลัด (sà-làt née mâi dtông sài náam sà-làt)",
+            "audio": "สลัดนี้ไม่ต้องใส่น้ำสลัด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Salad ini tidak perlu tambahan saus.",
+            "audio": "Salad_ini_tidak_perlu_tambahan_saus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這份沙拉不需要加沙拉醬。",
+            "audio": "這份沙拉不需要加沙拉醬。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res027",
+        "category": "餐廳短句",
+        "subcategory": "餐點進度",
+        "cn": "可以幫我催一下菜嗎？",
+        "CN_ENG": {
+            "word": "Could you check on our order, please?",
+            "audio": "Could_you_check_on_our_order,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "料理を急いでもらえますか (りょうりをいそいでもらえますか)",
+            "audio": "りょうりをいそいでもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "음식 좀 빨리 나오게 해주시겠어요? (eumsig jom ppalli naoge haejusigess-eoyo?)",
+            "audio": "음식_좀_빨리_나오게_해주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể giục nhà bếp làm nhanh giúp tôi không?",
+            "audio": "Có_thể_giục_nhà_bếp_làm_nhanh_giúp_tôi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫我催下單呀？ (ho2 m4 ho2 ji5 bong1 ngo5 ceoi1 haa5 daan1 aa3?)",
+            "audio": "可唔可以幫我催下單呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous vérifier notre commande, s'il vous plaît ?",
+            "audio": "Pourriez-vous_vérifier_notre_commande,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könnten Sie bitte nach unserer Bestellung sehen?",
+            "audio": "Könnten_Sie_bitte_nach_unserer_Bestellung_sehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podría revisar nuestro pedido, por favor?",
+            "audio": "¿Podría_revisar_nuestro_pedido,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы поторопить наш заказ? (Ne mogli by vy potoropit' nash zakaz?)",
+            "audio": "Не_могли_бы_вы_поторопить_наш_заказ.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยตามอาหารให้หน่อยได้ไหม (chûay dtaam aa-hǎan hâi nòi dâi mǎi)",
+            "audio": "ช่วยตามอาหารให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda mengecek pesanan kami?",
+            "audio": "Bisakah_Anda_mengecek_pesanan_kami.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以幫我催一下菜嗎？",
+            "audio": "可以幫我催一下菜嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res028",
+        "category": "餐廳短句",
+        "subcategory": "餐具與水",
+        "cn": "我不小心把叉子弄掉了。",
+        "CN_ENG": {
+            "word": "I accidentally dropped my fork.",
+            "audio": "I_accidentally_dropped_my_fork..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "うっかりフォークを落としてしまいました (うっかりふぉーくをおとしてしまいました)",
+            "audio": "うっかりふぉーくをおとしてしまいました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "실수로 포크를 떨어뜨렸어요. (silsulo pokeuleul tteoleotteulyeoss-eoyo.)",
+            "audio": "실수로_포크를_떨어뜨렸어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi lỡ làm rơi cái nĩa rồi.",
+            "audio": "Tôi_lỡ_làm_rơi_cái_nĩa_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔小心跌咗隻叉。 (ngo5 m4 siu2 sam1 dit3 zo2 zek3 caa1.)",
+            "audio": "我唔小心跌咗隻叉。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai fait tomber ma fourchette par accident.",
+            "audio": "J'ai_fait_tomber_ma_fourchette_par_accident..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe versehentlich meine Gabel fallen lassen.",
+            "audio": "Ich_habe_versehentlich_meine_Gabel_fallen_lassen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Se me cayó el tenedor accidentalmente.",
+            "audio": "Se_me_cayó_el_tenedor_accidentalmente..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я случайно уронил вилку. (Ya sluchayno uronil vilku.)",
+            "audio": "Я_случайно_уронил_вилку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันทำส้อมตกโดยไม่ตั้งใจ (chǎn tam sôm dtòk dooy mâi dtâng jai)",
+            "audio": "ฉันทำส้อมตกโดยไม่ตั้งใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak sengaja menjatuhkan garpu saya.",
+            "audio": "Saya_tidak_sengaja_menjatuhkan_garpu_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不小心把叉子弄掉了。",
+            "audio": "我不小心把叉子弄掉了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res029",
+        "category": "餐廳短句",
+        "subcategory": "結帳付款",
+        "cn": "請問這裡有收一成服務費嗎？",
+        "CN_ENG": {
+            "word": "Is there a 10% service charge here?",
+            "audio": "Is_there_a_10%_service_charge_here.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここは10％のサービス料がかかりますか (ここはじゅっぱーせんとのさーびすりょうがかかりますか)",
+            "audio": "ここはじゅっぱーせんとのさーびすりょうがかかりますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기는 10% 봉사료가 추가되나요? (yeogineun 10% bongsalyoga chugadoenayo?)",
+            "audio": "여기는_10%_봉사료가_추가되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ở đây có thu 10% phí phục vụ không?",
+            "audio": "Ở_đây_có_thu_10%_phí_phục_vụ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢度有冇收加一服務費呀？ (cing2 man6 ni1 dou6 jau5 mou5 sau1 gaa1 jat1 fuk6 mou6 fai3 aa3?)",
+            "audio": "請問呢度有冇收加一服務費呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des frais de service de 10% ici ?",
+            "audio": "Y_a-t-il_des_frais_de_service_de_10%_ici.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es hier eine Servicegebühr von 10 %?",
+            "audio": "Gibt_es_hier_eine_Servicegebühr_von_10_%.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay un cargo por servicio del 10% aquí?",
+            "audio": "¿Hay_un_cargo_por_servicio_del_10%_aquí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здесь взимается сервисный сбор в размере 10%? (Zdes' vzimayetsya servisnyy sbor v razmere 10%?)",
+            "audio": "Здесь_взимается_сервисный_сбор_в_размере_10%.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ที่นี่มีคิดค่าบริการสิบเปอร์เซ็นต์ไหม (têe-nêe mee kít kâa bor-rí-gaan sìp bper-sen mǎi)",
+            "audio": "ที่นี่มีคิดค่าบริการสิบเปอร์เซ็นต์ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada biaya layanan 10% di sini?",
+            "audio": "Apakah_ada_biaya_layanan_10%_di_sini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這裡有收一成服務費嗎？",
+            "audio": "請問這裡有收一成服務費嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res030",
+        "category": "餐廳短句",
+        "subcategory": "結帳付款",
+        "cn": "可以給我收據嗎？",
+        "CN_ENG": {
+            "word": "Could you give me the receipt, please?",
+            "audio": "Could_you_give_me_the_receipt,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "領収書をいただけますか (りょうしゅうしょをいただけますか)",
+            "audio": "りょうしゅうしょをいただけますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "영수증 좀 주시겠어요? (yeongsujeung jom jusigess-eoyo?)",
+            "audio": "영수증_좀_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể cho tôi biên lai không?",
+            "audio": "Có_thể_cho_tôi_biên_lai_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以畀張收據我呀？ (ho2 m4 ho2 ji5 bei2 zoeng1 sau1 geoi3 ngo5 aa3?)",
+            "audio": "可唔可以畀張收據我呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous me donner le reçu, s'il vous plaît ?",
+            "audio": "Pourriez-vous_me_donner_le_reçu,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könnten Sie mir bitte die Quittung geben?",
+            "audio": "Könnten_Sie_mir_bitte_die_Quittung_geben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podría darme el recibo, por favor?",
+            "audio": "¿Podría_darme_el_recibo,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы дать мне чек, пожалуйста? (Ne mogli by vy dat' mne chek, pozhaluysta?)",
+            "audio": "Не_могли_бы_вы_дать_мне_чек,_пожалуйста.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอใบเสร็จรับเงินด้วยครับ (kǒr bai-sèt ráp ngern dûay kráp)",
+            "audio": "ขอใบเสร็จรับเงินด้วยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya minta setruknya?",
+            "audio": "Bolehkah_saya_minta_setruknya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以給我收據嗎？",
+            "audio": "可以給我收據嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
     }
 ];

@@ -4,7 +4,7 @@ import webbrowser
 import os
 
 # 設定 Port (端口)
-PORT = 8000
+PORT = 8080
 
 # 確保程式在當前目錄執行
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
