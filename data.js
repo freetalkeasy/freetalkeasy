@@ -26664,3306 +26664,6 @@ const vocabData = [
         }
     },
     {
-        "id": "1001",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我今天感覺很好。",
-        "CN_ENG": {
-            "word": "I feel great today.",
-            "audio": "I_feel_great_today..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "今日はとても気分がいいです（きょうはとてもきぶんがいいです）",
-            "audio": "きょうはとてもきぶんがいいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "오늘 기분이 정말 좋아요.",
-            "audio": "오늘_기분이_정말_좋아요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Hôm nay tôi cảm thấy rất tuyệt.",
-            "audio": "Hôm_nay_tôi_cảm_thấy_rất_tuyệt..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我今日覺得好好。",
-            "audio": "我今日覺得好好。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je me sens très bien aujourd'hui.",
-            "audio": "Je_me_sens_très_bien_aujourd'hui..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich fühle mich heute großartig.",
-            "audio": "Ich_fühle_mich_heute_großartig..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Me siento muy bien hoy.",
-            "audio": "Me_siento_muy_bien_hoy..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Сегодня я чувствую себя отлично.",
-            "audio": "Сегодня_я_чувствую_себя_отлично..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "วันนี้ฉันรู้สึกดีมาก",
-            "audio": "วันนี้ฉันรู้สึกดีมาก.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya merasa sangat baik hari ini.",
-            "audio": "Saya_merasa_sangat_baik_hari_ini..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我今天感覺很好。",
-            "audio": "我今天感覺很好。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1002",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "你週末打算做什麼？",
-        "CN_ENG": {
-            "word": "What are your plans for the weekend?",
-            "audio": "What_are_your_plans_for_the_weekend.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "週末は何をする予定ですか（しゅうまつはなにをするよていですか）",
-            "audio": "しゅうまつはなにをするよていですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "주말에 뭐 할 계획인가요?",
-            "audio": "주말에_뭐_할_계획인가요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bạn định làm gì vào cuối tuần?",
-            "audio": "Bạn_định_làm_gì_vào_cuối_tuần.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "你週末打算做咩啊？",
-            "audio": "你週末打算做咩啊？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Quels sont tes projets pour le week-end ?",
-            "audio": "Quels_sont_tes_projets_pour_le_week-end.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Was hast du am Wochenende vor?",
-            "audio": "Was_hast_du_am_Wochenende_vor.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cuáles son tus planes para el fin de semana?",
-            "audio": "¿Cuáles_son_tus_planes_para_el_fin_de_semana.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Какие у тебя планы на выходные?",
-            "audio": "Какие_у_тебя_планы_на_выходные.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "สุดสัปดาห์นี้คุณมีแผนจะทำอะไร",
-            "audio": "สุดสัปดาห์นี้คุณมีแผนจะทำอะไร.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apa rencanamu untuk akhir pekan?",
-            "audio": "Apa_rencanamu_untuk_akhir_pekan.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "你週末打算做什麼？",
-            "audio": "你週末打算做什麼？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1003",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這裡的風景真美。",
-        "CN_ENG": {
-            "word": "The scenery here is beautiful.",
-            "audio": "The_scenery_here_is_beautiful..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "ここの景色は本当にきれいです（ここのけしきはほんとうにきれいです）",
-            "audio": "ここのけしきはほんとうにきれいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "여기 경치가 정말 아름답네요.",
-            "audio": "여기_경치가_정말_아름답네요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Phong cảnh ở đây thật đẹp.",
-            "audio": "Phong_cảnh_ở_đây_thật_đẹp..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢度嘅風景好靚。",
-            "audio": "呢度嘅風景好靚。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Le paysage ici est magnifique.",
-            "audio": "Le_paysage_ici_est_magnifique..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Die Landschaft hier ist wunderschön.",
-            "audio": "Die_Landschaft_hier_ist_wunderschön..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "El paisaje aquí es hermoso.",
-            "audio": "El_paisaje_aquí_es_hermoso..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Здесь очень красивый пейзаж.",
-            "audio": "Здесь_очень_красивый_пейзаж..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ทิวทัศน์ที่นี่สวยงามมาก",
-            "audio": "ทิวทัศน์ที่นี่สวยงามมาก.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Pemandangan di sini sangat indah.",
-            "audio": "Pemandangan_di_sini_sangat_indah..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這裡的風景真美。",
-            "audio": "這裡的風景真美。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1004",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "可以請你幫個忙嗎？",
-        "CN_ENG": {
-            "word": "Could you do me a favor?",
-            "audio": "Could_you_do_me_a_favor.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "お願いを聞いてくれますか（おねがいをきいてくれますか）",
-            "audio": "おねがいをきいてくれますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "부탁 하나 들어줄 수 있나요?",
-            "audio": "부탁_하나_들어줄_수_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bạn có thể giúp tôi một việc được không?",
-            "audio": "Bạn_có_thể_giúp_tôi_một_việc_được_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "可唔可以幫個忙？",
-            "audio": "可唔可以幫個忙？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pourrais-tu me rendre un service ?",
-            "audio": "Pourrais-tu_me_rendre_un_service.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Könntest du mir einen Gefallen tun?",
-            "audio": "Könntest_du_mir_einen_Gefallen_tun.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Podrías hacerme un favor?",
-            "audio": "¿Podrías_hacerme_un_favor.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Не могли бы вы мне помочь?",
-            "audio": "Не_могли_бы_вы_мне_помочь.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คุณช่วยฉันหน่อยได้ไหม",
-            "audio": "คุณช่วยฉันหน่อยได้ไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bisakah Anda membantu saya?",
-            "audio": "Bisakah_Anda_membantu_saya.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "可以請你幫個忙嗎？",
-            "audio": "可以請你幫個忙嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1005",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我們什麼時候見面？",
-        "CN_ENG": {
-            "word": "When shall we meet?",
-            "audio": "When_shall_we_meet.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "いつ会いましょうか（いつあいましょうか）",
-            "audio": "いつあいましょうか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "우리 언제 만날까요?",
-            "audio": "우리_언제_만날까요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Khi nào chúng ta gặp nhau?",
-            "audio": "Khi_nào_chúng_ta_gặp_nhau.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋幾時見面？",
-            "audio": "我哋幾時見面？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Quand allons-nous nous rencontrer ?",
-            "audio": "Quand_allons-nous_nous_rencontrer.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wann sollen wir uns treffen?",
-            "audio": "Wann_sollen_wir_uns_treffen.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cuándo nos vemos?",
-            "audio": "¿Cuándo_nos_vemos.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Когда мы встретимся?",
-            "audio": "Когда_мы_встретимся.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เราจะเจอกันเมื่อไหร่",
-            "audio": "เราจะเจอกันเมื่อไหร่.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Kapan kita akan bertemu?",
-            "audio": "Kapan_kita_akan_bertemu.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們什麼時候見面？",
-            "audio": "我們什麼時候見面？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1006",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我需要一些時間思考。",
-        "CN_ENG": {
-            "word": "I need some time to think.",
-            "audio": "I_need_some_time_to_think..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "考える時間が少し必要です（かんがえるじかんがすこしひつようです）",
-            "audio": "かんがえるじかんがすこしひつようです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "생각할 시간이 좀 필요해요.",
-            "audio": "생각할_시간이_좀_필요해요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi cần chút thời gian để suy nghĩ.",
-            "audio": "Tôi_cần_chút_thời_gian_để_suy_nghĩ..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我需要啲時間諗諗。",
-            "audio": "我需要啲時間諗諗。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "J'ai besoin d'un peu de temps pour réfléchir.",
-            "audio": "J'ai_besoin_d'un_peu_de_temps_pour_réfléchir..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich brauche etwas Zeit zum Nachdenken.",
-            "audio": "Ich_brauche_etwas_Zeit_zum_Nachdenken..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Necesito algo de tiempo para pensar.",
-            "audio": "Necesito_algo_de_tiempo_para_pensar..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Мне нужно немного времени, чтобы подумать.",
-            "audio": "Мне_нужно_немного_времени,_чтобы_подумать..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันต้องการเวลาคิดสักหน่อย",
-            "audio": "ฉันต้องการเวลาคิดสักหน่อย.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya butuh waktu untuk berpikir.",
-            "audio": "Saya_butuh_waktu_untuk_berpikir..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我需要一些時間思考。",
-            "audio": "我需要一些時間思考。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1007",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這件衣服多少錢？",
-        "CN_ENG": {
-            "word": "How much is this shirt?",
-            "audio": "How_much_is_this_shirt.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "この服はいくらですか（このふくはいくらですか）",
-            "audio": "このふくはいくらですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이 옷은 얼마인가요?",
-            "audio": "이_옷은_얼마인가요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chiếc áo này giá bao nhiêu?",
-            "audio": "Chiếc_áo_này_giá_bao_nhiêu.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢件衫幾多錢？",
-            "audio": "呢件衫幾多錢？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Combien coûte ce vêtement ?",
-            "audio": "Combien_coûte_ce_vêtement.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wie viel kostet dieses Hemd?",
-            "audio": "Wie_viel_kostet_dieses_Hemd.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cuánto cuesta esta camisa?",
-            "audio": "¿Cuánto_cuesta_esta_camisa.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Сколько стоит эта одежда?",
-            "audio": "Сколько_стоит_эта_одежда.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เสื้อตัวนี้ราคาเท่าไหร่",
-            "audio": "เสื้อตัวนี้ราคาเท่าไหร่.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Berapa harga baju ini?",
-            "audio": "Berapa_harga_baju_ini.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這件衣服多少錢？",
-            "audio": "這件衣服多少錢？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1008",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "今天天氣真不錯。",
-        "CN_ENG": {
-            "word": "The weather is really nice today.",
-            "audio": "The_weather_is_really_nice_today..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "今日は本当にいい天気ですね（きょうはほんとうにいいてんきですね）",
-            "audio": "きょうはほんとうにいいてんきですね.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "오늘 날씨가 정말 좋네요.",
-            "audio": "오늘_날씨가_정말_좋네요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Hôm nay thời tiết thật đẹp.",
-            "audio": "Hôm_nay_thời_tiết_thật_đẹp..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "今日天氣真係唔錯。",
-            "audio": "今日天氣真係唔錯。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Il fait vraiment beau aujourd'hui.",
-            "audio": "Il_fait_vraiment_beau_aujourd'hui..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Das Wetter ist heute wirklich schön.",
-            "audio": "Das_Wetter_ist_heute_wirklich_schön..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "El clima es muy agradable hoy.",
-            "audio": "El_clima_es_muy_agradable_hoy..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Сегодня отличная погода.",
-            "audio": "Сегодня_отличная_погода..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "วันนี้อากาศดีมากเลย",
-            "audio": "วันนี้อากาศดีมากเลย.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Cuaca hari ini sangat bagus.",
-            "audio": "Cuaca_hari_ini_sangat_bagus..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "今天天氣真不錯。",
-            "audio": "今天天氣真不錯。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1009",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我現在必須走了。",
-        "CN_ENG": {
-            "word": "I have to go now.",
-            "audio": "I_have_to_go_now..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "もう行かなければなりません（もういかなければなりません）",
-            "audio": "もういかなければなりません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "저 지금 가봐야 해요.",
-            "audio": "저_지금_가봐야_해요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bây giờ tôi phải đi rồi.",
-            "audio": "Bây_giờ_tôi_phải_đi_rồi..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我依家必須要走啦。",
-            "audio": "我依家必須要走啦。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je dois partir maintenant.",
-            "audio": "Je_dois_partir_maintenant..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich muss jetzt gehen.",
-            "audio": "Ich_muss_jetzt_gehen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Tengo que irme ahora.",
-            "audio": "Tengo_que_irme_ahora..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Мне сейчас нужно идти.",
-            "audio": "Мне_сейчас_нужно_идти..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันต้องไปแล้วตอนนี้",
-            "audio": "ฉันต้องไปแล้วตอนนี้.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya harus pergi sekarang.",
-            "audio": "Saya_harus_pergi_sekarang..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我現在必須走了。",
-            "audio": "我現在必須走了。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1010",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "你最喜歡什麼食物？",
-        "CN_ENG": {
-            "word": "What is your favorite food?",
-            "audio": "What_is_your_favorite_food.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "一番好きな食べ物は何ですか（いちばんすきなたべものはなんですか）",
-            "audio": "いちばんすきなたべものはなんですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "가장 좋아하는 음식이 뭐예요?",
-            "audio": "가장_좋아하는_음식이_뭐예요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Món ăn yêu thích của bạn là gì?",
-            "audio": "Món_ăn_yêu_thích_của_bạn_là_gì.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "你最鍾意食咩？",
-            "audio": "你最鍾意食咩？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Quelle est ta nourriture préférée ?",
-            "audio": "Quelle_est_ta_nourriture_préférée.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Was ist dein Lieblingsessen?",
-            "audio": "Was_ist_dein_Lieblingsessen.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cuál es tu comida favorita?",
-            "audio": "¿Cuál_es_tu_comida_favorita.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Какая твоя любимая еда?",
-            "audio": "Какая_твоя_любимая_еда.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คุณชอบอาหารอะไรมากที่สุด",
-            "audio": "คุณชอบอาหารอะไรมากที่สุด.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apa makanan favoritmu?",
-            "audio": "Apa_makanan_favoritmu.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "你最喜歡什麼食物？",
-            "audio": "你最喜歡什麼食物？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1011",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "很高興再次見到你。",
-        "CN_ENG": {
-            "word": "It is nice to see you again.",
-            "audio": "It_is_nice_to_see_you_again..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "また会えて嬉しいです（またあえてうれしいです）",
-            "audio": "またあえてうれしいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "다시 만나서 반가워요.",
-            "audio": "다시_만나서_반가워요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Rất vui được gặp lại bạn.",
-            "audio": "Rất_vui_được_gặp_lại_bạn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "好高興再次見到你。",
-            "audio": "好高興再次見到你。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Ravi de te revoir.",
-            "audio": "Ravi_de_te_revoir..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Schön, dich wiederzusehen.",
-            "audio": "Schön,_dich_wiederzusehen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Es un placer verte de nuevo.",
-            "audio": "Es_un_placer_verte_de_nuevo..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Рад снова тебя видеть.",
-            "audio": "Рад_снова_тебя_видеть..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ดีใจที่ได้พบคุณอีกครั้ง",
-            "audio": "ดีใจที่ได้พบคุณอีกครั้ง.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Senang bertemu denganmu lagi.",
-            "audio": "Senang_bertemu_denganmu_lagi..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "很高興再次見到你。",
-            "audio": "很高興再次見到你。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1012",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "請問火車站怎麼走？",
-        "CN_ENG": {
-            "word": "How do I get to the train station?",
-            "audio": "How_do_I_get_to_the_train_station.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "駅にはどう行けばいいですか（えきにはどういけばいいですか）",
-            "audio": "えきにはどういけばいいですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "기차역은 어떻게 가나요?",
-            "audio": "기차역은_어떻게_가나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Làm ơn cho hỏi đường đến ga tàu?",
-            "audio": "Làm_ơn_cho_hỏi_đường_đến_ga_tàu.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問火車站點去啊？",
-            "audio": "請問火車站點去啊？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Comment puis-je aller à la gare ?",
-            "audio": "Comment_puis-je_aller_à_la_gare.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wie komme ich zum Bahnhof?",
-            "audio": "Wie_komme_ich_zum_Bahnhof.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cómo llego a la estación de tren?",
-            "audio": "¿Cómo_llego_a_la_estación_de_tren.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Как пройти к железнодорожному вокзалу?",
-            "audio": "Как_пройти_к_железнодорожному_вокзалу.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "สถานีรถไฟไปทางไหนครับ",
-            "audio": "สถานีรถไฟไปทางไหนครับ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bagaimana cara pergi ke stasiun kereta?",
-            "audio": "Bagaimana_cara_pergi_ke_stasiun_kereta.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問火車站怎麼走？",
-            "audio": "請問火車站怎麼走？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1013",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我完全同意你的看法。",
-        "CN_ENG": {
-            "word": "I completely agree with you.",
-            "audio": "I_completely_agree_with_you..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "あなたの意見に完全に同意します（あなたのいけんにかんぜんにどういします）",
-            "audio": "あなたのいけんにかんぜんにどういします.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "당신의 의견에 전적으로 동의합니다.",
-            "audio": "당신의_의견에_전적으로_동의합니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi hoàn toàn đồng ý với bạn.",
-            "audio": "Tôi_hoàn_toàn_đồng_ý_với_bạn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我完全同意你嘅睇法。",
-            "audio": "我完全同意你嘅睇法。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je suis tout à fait d'accord avec toi.",
-            "audio": "Je_suis_tout_à_fait_d'accord_avec_toi..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich stimme dir voll und ganz zu.",
-            "audio": "Ich_stimme_dir_voll_und_ganz_zu..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Estoy completamente de acuerdo contigo.",
-            "audio": "Estoy_completamente_de_acuerdo_contigo..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я полностью с вами согласен.",
-            "audio": "Я_полностью_с_вами_согласен..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันเห็นด้วยกับคุณอย่างยิ่ง",
-            "audio": "ฉันเห็นด้วยกับคุณอย่างยิ่ง.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya sepenuhnya setuju denganmu.",
-            "audio": "Saya_sepenuhnya_setuju_denganmu..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我完全同意你的看法。",
-            "audio": "我完全同意你的看法。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1014",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "你有推薦的餐廳嗎？",
-        "CN_ENG": {
-            "word": "Do you have any restaurant recommendations?",
-            "audio": "Do_you_have_any_restaurant_recommendations.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "おすすめのレストランはありますか（おすすめのれすとらんはありますか）",
-            "audio": "おすすめのれすとらんはありますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "추천할 만한 식당이 있나요?",
-            "audio": "추천할_만한_식당이_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bạn có giới thiệu nhà hàng nào không?",
-            "audio": "Bạn_có_giới_thiệu_nhà_hàng_nào_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "你有冇好嘅餐廳推介？",
-            "audio": "你有冇好嘅餐廳推介？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "As-tu des recommandations de restaurants ?",
-            "audio": "As-tu_des_recommandations_de_restaurants.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Hast du irgendwelche Restaurantempfehlungen?",
-            "audio": "Hast_du_irgendwelche_Restaurantempfehlungen.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Tienes alguna recomendación de restaurante?",
-            "audio": "¿Tienes_alguna_recomendación_de_restaurante.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "У вас есть на примете хороший ресторан?",
-            "audio": "У_вас_есть_на_примете_хороший_ресторан.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คุณมีร้านอาหารแนะนำไหม",
-            "audio": "คุณมีร้านอาหารแนะนำไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah ada rekomendasi restoran?",
-            "audio": "Apakah_ada_rekomendasi_restoran.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "你有推薦的餐廳嗎？",
-            "audio": "你有推薦的餐廳嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1015",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這真是一個好主意。",
-        "CN_ENG": {
-            "word": "That is really a good idea.",
-            "audio": "That_is_really_a_good_idea..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "それは本当にいい考えですね（それはほんとうにいいかんがえですね）",
-            "audio": "それはほんとうにいいかんがえですね.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "정말 좋은 생각이네요.",
-            "audio": "정말_좋은_생각이네요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Đó thực sự là một ý kiến hay.",
-            "audio": "Đó_thực_sự_là_một_ý_kiến_hay..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢個真係一個好主意。",
-            "audio": "呢個真係一個好主意。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "C'est vraiment une bonne idée.",
-            "audio": "C'est_vraiment_une_bonne_idée..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Das ist wirklich eine gute Idee.",
-            "audio": "Das_ist_wirklich_eine_gute_Idee..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Esa es realmente una buena idea.",
-            "audio": "Esa_es_realmente_una_buena_idea..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Это действительно хорошая идея.",
-            "audio": "Это_действительно_хорошая_идея..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "นั่นเป็นความคิดที่ดีจริงๆ",
-            "audio": "นั่นเป็นความคิดที่ดีจริงๆ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Itu benar-benar ide yang bagus.",
-            "audio": "Itu_benar-benar_ide_yang_bagus..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這真是一個好主意。",
-            "audio": "這真是一個好主意。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1016",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我今天工作很忙。",
-        "CN_ENG": {
-            "word": "I am very busy at work today.",
-            "audio": "I_am_very_busy_at_work_today..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "今日は仕事がとても忙しいです（きょうはしごとがとてもいそがしいです）",
-            "audio": "きょうはしごとがとてもいそがしいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "오늘 일이 너무 바빠요.",
-            "audio": "오늘_일이_너무_바빠요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Hôm nay tôi rất bận rộn với công việc.",
-            "audio": "Hôm_nay_tôi_rất_bận_rộn_với_công_việc..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我今日返工好忙。",
-            "audio": "我今日返工好忙。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je suis très occupé au travail aujourd'hui.",
-            "audio": "Je_suis_très_occupé_au_travail_aujourd'hui..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich bin heute bei der Arbeit sehr beschäftigt.",
-            "audio": "Ich_bin_heute_bei_der_Arbeit_sehr_beschäftigt..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Estoy muy ocupado en el trabajo hoy.",
-            "audio": "Estoy_muy_ocupado_en_el_trabajo_hoy..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я сегодня очень занят на работе.",
-            "audio": "Я_сегодня_очень_занят_на_работе..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "วันนี้ฉันยุ่งกับงานมาก",
-            "audio": "วันนี้ฉันยุ่งกับงานมาก.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya sangat sibuk di tempat kerja hari ini.",
-            "audio": "Saya_sangat_sibuk_di_tempat_kerja_hari_ini..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我今天工作很忙。",
-            "audio": "我今天工作很忙。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1017",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "你能說慢一點嗎？",
-        "CN_ENG": {
-            "word": "Could you speak a bit slower?",
-            "audio": "Could_you_speak_a_bit_slower.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "もう少しゆっくり話してくれますか（もうすこしゆっくりはなしてくれますか）",
-            "audio": "もうすこしゆっくりはなしてくれますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "조금만 천천히 말씀해 주시겠어요?",
-            "audio": "조금만_천천히_말씀해_주시겠어요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bạn có thể nói chậm lại một chút được không?",
-            "audio": "Bạn_có_thể_nói_chậm_lại_một_chút_được_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "你可唔可以講慢啲？",
-            "audio": "你可唔可以講慢啲？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pourriez-vous parler un peu plus lentement ?",
-            "audio": "Pourriez-vous_parler_un_peu_plus_lentement.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Könntest du etwas langsamer sprechen?",
-            "audio": "Könntest_du_etwas_langsamer_sprechen.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Podrías hablar un poco más despacio?",
-            "audio": "¿Podrías_hablar_un_poco_más_despacio.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Не могли бы вы говорить немного медленнее?",
-            "audio": "Не_могли_бы_вы_говорить_немного_медленнее.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คุณช่วยพูดช้าลงหน่อยได้ไหม",
-            "audio": "คุณช่วยพูดช้าลงหน่อยได้ไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bolehkah Anda berbicara sedikit lebih lambat?",
-            "audio": "Bolehkah_Anda_berbicara_sedikit_lebih_lambat.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "你能說慢一點嗎？",
-            "audio": "你能說慢一點嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1018",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我不太明白你的意思。",
-        "CN_ENG": {
-            "word": "I do not quite understand what you mean.",
-            "audio": "I_do_not_quite_understand_what_you_mean..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "おっしゃる意味がよくわかりません（おっしゃるいみがよくわかりません）",
-            "audio": "おっしゃるいみがよくわかりません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "무슨 뜻인지 잘 모르겠어요.",
-            "audio": "무슨_뜻인지_잘_모르겠어요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi không hiểu rõ ý bạn lắm.",
-            "audio": "Tôi_không_hiểu_rõ_ý_bạn_lắm..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我唔太明白你嘅意思。",
-            "audio": "我唔太明白你嘅意思。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je ne comprends pas bien ce que tu veux dire.",
-            "audio": "Je_ne_comprends_pas_bien_ce_que_tu_veux_dire..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich verstehe nicht ganz, was du meinst.",
-            "audio": "Ich_verstehe_nicht_ganz,_was_du_meinst..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "No entiendo muy bien lo que quieres decir.",
-            "audio": "No_entiendo_muy_bien_lo_que_quieres_decir..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я не совсем понимаю, что вы имеете в виду.",
-            "audio": "Я_не_совсем_понимаю,_что_вы_имеете_в_виду..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันไม่ค่อยเข้าใจความหมายของคุณ",
-            "audio": "ฉันไม่ค่อยเข้าใจความหมายของคุณ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya tidak terlalu mengerti maksud Anda.",
-            "audio": "Saya_tidak_terlalu_mengerti_maksud_Anda..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我不太明白你的意思。",
-            "audio": "我不太明白你的意思。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1019",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "感謝你的熱心幫助。",
-        "CN_ENG": {
-            "word": "Thank you for your kind help.",
-            "audio": "Thank_you_for_your_kind_help..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "親切な助けをありがとうございます（しんせつなたすけをありがとうございます）",
-            "audio": "しんせつなたすけをありがとうございます.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "친절하게 도와주셔서 감사합니다.",
-            "audio": "친절하게_도와주셔서_감사합니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Cảm ơn bạn đã nhiệt tình giúp đỡ.",
-            "audio": "Cảm_ơn_bạn_đã_nhiệt_tình_giúp_đỡ..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "多謝你嘅熱心幫忙。",
-            "audio": "多謝你嘅熱心幫忙。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Merci pour ton aide précieuse.",
-            "audio": "Merci_pour_ton_aide_précieuse..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Vielen Dank für deine freundliche Hilfe.",
-            "audio": "Vielen_Dank_für_deine_freundliche_Hilfe..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Gracias por tu amable ayuda.",
-            "audio": "Gracias_por_tu_amable_ayuda..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Спасибо за вашу любезную помощь.",
-            "audio": "Спасибо_за_вашу_любезную_помощь..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอบคุณสำหรับความช่วยเหลือที่อบอุ่นของคุณ",
-            "audio": "ขอบคุณสำหรับความช่วยเหลือที่อบอุ่นของคุณ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Terima kasih atas bantuan baik Anda.",
-            "audio": "Terima_kasih_atas_bantuan_baik_Anda..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "感謝你的熱心幫助。",
-            "audio": "感謝你的熱心幫助。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1020",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我們保持聯絡吧。",
-        "CN_ENG": {
-            "word": "Let's keep in touch.",
-            "audio": "Let's_keep_in_touch..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "連絡を取り合いましょう（れんらくをとりあいましょう）",
-            "audio": "れんらくをとりあいましょう.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "계속 연락하고 지내요.",
-            "audio": "계속_연락하고_지내요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Hãy giữ liên lạc nhé.",
-            "audio": "Hãy_giữ_liên_lạc_nhé..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋保持聯絡啦。",
-            "audio": "我哋保持聯絡啦。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Restons en contact.",
-            "audio": "Restons_en_contact..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Lass uns in Kontakt bleiben.",
-            "audio": "Lass_uns_in_Kontakt_bleiben..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Mantengámonos en contacto.",
-            "audio": "Mantengámonos_en_contacto..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Давайте будем на связи.",
-            "audio": "Давайте_будем_на_связи..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เราติดต่อกันไว้เถอะ",
-            "audio": "เราติดต่อกันไว้เถอะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Mari kita tetap berhubungan.",
-            "audio": "Mari_kita_tetap_berhubungan..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們保持聯絡吧。",
-            "audio": "我們保持聯絡吧。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1021",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "祝你有個美好的一天。",
-        "CN_ENG": {
-            "word": "Have a wonderful day.",
-            "audio": "Have_a_wonderful_day..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "素晴らしい一日をお過ごしください（すばらしいいちにちをおすごしください）",
-            "audio": "すばらしいいちにちをおすごしください.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "좋은 하루 보내세요.",
-            "audio": "좋은_하루_보내세요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúc bạn một ngày tốt lành.",
-            "audio": "Chúc_bạn_một_ngày_tốt_lành..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "祝你有美好嘅一日。",
-            "audio": "祝你有美好嘅一日。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Passe une excellente journée.",
-            "audio": "Passe_une_excellente_journée..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich wünsche dir einen wundervollen Tag.",
-            "audio": "Ich_wünsche_dir_einen_wundervollen_Tag..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Que tengas un día maravilloso.",
-            "audio": "Que_tengas_un_día_maravilloso..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Хорошего вам дня.",
-            "audio": "Хорошего_вам_дня..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอให้มีวันที่ดีนะ",
-            "audio": "ขอให้มีวันที่ดีนะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Semoga harimu menyenangkan.",
-            "audio": "Semoga_harimu_menyenangkan..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "祝你有個美好的一天。",
-            "audio": "祝你有個美好的一天。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1022",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "你學英語多久了？",
-        "CN_ENG": {
-            "word": "How long have you studied English?",
-            "audio": "How_long_have_you_studied_English.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "英語をどれくらい勉強していますか（えいごをどれくらいべんきょうしていますか）",
-            "audio": "えいごをどれくらいべんきょうしていますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "영어 공부한 지 얼마나 됐나요?",
-            "audio": "영어_공부한_지_얼마나_됐나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bạn học tiếng Anh bao lâu rồi?",
-            "audio": "Bạn_học_tiếng_Anh_bao_lâu_rồi.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "你學咗英文幾耐呀？",
-            "audio": "你學咗英文幾耐呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Depuis combien de temps apprends-tu l'anglais ?",
-            "audio": "Depuis_combien_de_temps_apprends-tu_l'anglais.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wie lange lernst du schon Englisch?",
-            "audio": "Wie_lange_lernst_du_schon_Englisch.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cuánto tiempo llevas estudiando inglés?",
-            "audio": "¿Cuánto_tiempo_llevas_estudiando_inglés.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Как давно вы изучаете английский?",
-            "audio": "Как_давно_вы_изучаете_английский.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คุณเรียนภาษาอังกฤษมานานแค่ไหนแล้ว",
-            "audio": "คุณเรียนภาษาอังกฤษมานานแค่ไหนแล้ว.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Sudah berapa lama Anda belajar bahasa Inggris?",
-            "audio": "Sudah_berapa_lama_Anda_belajar_bahasa_Inggris.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "你學英語多久了？",
-            "audio": "你學英語多久了？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1023",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我對這個不感興趣。",
-        "CN_ENG": {
-            "word": "I am not interested in this.",
-            "audio": "I_am_not_interested_in_this..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "これには興味がありません（これにはきょうみがありません）",
-            "audio": "これにはきょうみがありません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "전 이것에 관심이 없어요.",
-            "audio": "전_이것에_관심이_없어요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi không hứng thú với cái này.",
-            "audio": "Tôi_không_hứng_thú_với_cái_này..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我對呢個冇興趣。",
-            "audio": "我對呢個冇興趣。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je ne suis pas intéressé par ça.",
-            "audio": "Je_ne_suis_pas_intéressé_par_ça..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich bin daran nicht interessiert.",
-            "audio": "Ich_bin_daran_nicht_interessiert..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "No estoy interesado en esto.",
-            "audio": "No_estoy_interesado_en_esto..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Меня это не интересует.",
-            "audio": "Меня_это_не_интересует..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันไม่สนใจเรื่องนี้",
-            "audio": "ฉันไม่สนใจเรื่องนี้.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya tidak tertarik dengan ini.",
-            "audio": "Saya_tidak_tertarik_dengan_ini..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我對這個不感興趣。",
-            "audio": "我對這個不感興趣。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1024",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我們去散散步吧。",
-        "CN_ENG": {
-            "word": "Let's go for a walk.",
-            "audio": "Let's_go_for_a_walk..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "散歩に行きましょう（さんぽにいきましょう）",
-            "audio": "さんぽにいきましょう.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "우리 산책하러 가요.",
-            "audio": "우리_산책하러_가요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúng ta đi dạo nhé.",
-            "audio": "Chúng_ta_đi_dạo_nhé..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋去散下步啦。",
-            "audio": "我哋去散下步啦。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Allons nous promener.",
-            "audio": "Allons_nous_promener..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Lass uns spazieren gehen.",
-            "audio": "Lass_uns_spazieren_gehen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Vamos a dar un paseo.",
-            "audio": "Vamos_a_dar_un_paseo..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пойдем прогуляемся.",
-            "audio": "Пойдем_прогуляемся..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เราไปเดินเล่นกันเถอะ",
-            "audio": "เราไปเดินเล่นกันเถอะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Mari kita pergi jalan-jalan.",
-            "audio": "Mari_kita_pergi_jalan-jalan..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們去散散步吧。",
-            "audio": "我們去散散步吧。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1025",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這是誰的書包？",
-        "CN_ENG": {
-            "word": "Whose backpack is this?",
-            "audio": "Whose_backpack_is_this.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "これは誰の鞄ですか（これはだれのかばんですか）",
-            "audio": "これはだれのかばんですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이 가방은 누구 것인가요?",
-            "audio": "이_가방은_누구_것인가요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chiếc ba lô này của ai?",
-            "audio": "Chiếc_ba_lô_này_của_ai.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢個係邊個嘅書包？",
-            "audio": "呢個係邊個嘅書包？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "À qui est ce sac à dos ?",
-            "audio": "À_qui_est_ce_sac_à_dos.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wessen Rucksack ist das?",
-            "audio": "Wessen_Rucksack_ist_das.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿De quién es esta mochila?",
-            "audio": "¿De_quién_es_esta_mochila.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Чей это рюкзак?",
-            "audio": "Чей_это_рюкзак.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "กระเป๋าใบนี้ของใคร",
-            "audio": "กระเป๋าใบนี้ของใคร.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tas ransel siapa ini?",
-            "audio": "Tas_ransel_siapa_ini.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這是誰的書包？",
-            "audio": "這是誰的書包？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1026",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我找不到我的鑰匙。",
-        "CN_ENG": {
-            "word": "I cannot find my keys.",
-            "audio": "I_cannot_find_my_keys..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "鍵が見つかりません（かぎがみつかりません）",
-            "audio": "かぎがみつかりません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "열쇠를 찾을 수가 없어요.",
-            "audio": "열쇠를_찾을_수가_없어요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi không thể tìm thấy chìa khóa của mình.",
-            "audio": "Tôi_không_thể_tìm_thấy_chìa_khóa_của_mình..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我搵唔到我條鎖匙。",
-            "audio": "我搵唔到我條鎖匙。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je ne trouve pas mes clés.",
-            "audio": "Je_ne_trouve_pas_mes_clés..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich kann meine Schlüssel nicht finden.",
-            "audio": "Ich_kann_meine_Schlüssel_nicht_finden..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "No puedo encontrar mis llaves.",
-            "audio": "No_puedo_encontrar_mis_llaves..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я не могу найти свои ключи.",
-            "audio": "Я_не_могу_найти_свои_ключи..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันหากุญแจไม่เจอ",
-            "audio": "ฉันหากุญแจไม่เจอ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya tidak bisa menemukan kunci saya.",
-            "audio": "Saya_tidak_bisa_menemukan_kunci_saya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我找不到我的鑰匙。",
-            "audio": "我找不到我的鑰匙。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1027",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "請隨時告訴我。",
-        "CN_ENG": {
-            "word": "Please let me know anytime.",
-            "audio": "Please_let_me_know_anytime..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "いつでも教えてください（いつでもおしえてください）",
-            "audio": "いつでもおしえてください.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "언제든지 알려주세요.",
-            "audio": "언제든지_알려주세요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Hãy cho tôi biết bất cứ lúc nào.",
-            "audio": "Hãy_cho_tôi_biết_bất_cứ_lúc_nào..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請隨時話我知。",
-            "audio": "請隨時話我知。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "S'il te plaît, fais-le moi savoir à tout moment.",
-            "audio": "S'il_te_plaît,_fais-le_moi_savoir_à_tout_moment..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Bitte lass es mich jederzeit wissen.",
-            "audio": "Bitte_lass_es_mich_jederzeit_wissen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Por favor, házmelo saber en cualquier momento.",
-            "audio": "Por_favor,_házmelo_saber_en_cualquier_momento..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пожалуйста, дайте мне знать в любое время.",
-            "audio": "Пожалуйста,_дайте_мне_знать_в_любое_время..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "โปรดบอกฉันได้ตลอดเวลา",
-            "audio": "โปรดบอกฉันได้ตลอดเวลา.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tolong beri tahu saya kapan saja.",
-            "audio": "Tolong_beri_tahu_saya_kapan_saja..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請隨時告訴我。",
-            "audio": "請隨時告訴我。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1028",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "你的新工作怎麼樣？",
-        "CN_ENG": {
-            "word": "How is your new job?",
-            "audio": "How_is_your_new_job.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "新しい仕事はどうですか（あたらしいしごとはどうですか）",
-            "audio": "あたらしいしごとはどうですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "새 직장은 어때요?",
-            "audio": "새_직장은_어때요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Công việc mới của bạn thế nào?",
-            "audio": "Công_việc_mới_của_bạn_thế_nào.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "你份新工點呀？",
-            "audio": "你份新工點呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Comment se passe ton nouveau travail ?",
-            "audio": "Comment_se_passe_ton_nouveau_travail.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wie ist dein neuer Job?",
-            "audio": "Wie_ist_dein_neuer_Job.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Qué tal tu nuevo trabajo?",
-            "audio": "¿Qué_tal_tu_nuevo_trabajo.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Как твоя новая работа?",
-            "audio": "Как_твоя_новая_работа.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "งานใหม่ของคุณเป็นอย่างไรบ้าง",
-            "audio": "งานใหม่ของคุณเป็นอย่างไรบ้าง.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bagaimana pekerjaan barumu?",
-            "audio": "Bagaimana_pekerjaan_barumu.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "你的新工作怎麼樣？",
-            "audio": "你的新工作怎麼樣？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1029",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我希望一切順利。",
-        "CN_ENG": {
-            "word": "I hope everything goes well.",
-            "audio": "I_hope_everything_goes_well..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "すべてがうまくいくことを願っています（すべてがうまくいくことをねがっています）",
-            "audio": "すべてがうまくいくことをねがっています.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "모든 일이 잘 되기를 바랍니다.",
-            "audio": "모든_일이_잘_되기를_바랍니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi hy vọng mọi việc suôn sẻ.",
-            "audio": "Tôi_hy_vọng_mọi_việc_suôn_sẻ..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我希望一切順利。",
-            "audio": "我希望一切順利。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "J'espère que tout ira bien.",
-            "audio": "J'espère_que_tout_ira_bien..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich hoffe, alles läuft gut.",
-            "audio": "Ich_hoffe,_alles_läuft_gut..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Espero que todo salga bien.",
-            "audio": "Espero_que_todo_salga_bien..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Надеюсь, все пройдет хорошо.",
-            "audio": "Надеюсь,_все_пройдет_хорошо..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันหวังว่าทุกอย่างจะราบรื่น",
-            "audio": "ฉันหวังว่าทุกอย่างจะราบรื่น.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya harap semuanya berjalan lancar.",
-            "audio": "Saya_harap_semuanya_berjalan_lancar..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我希望一切順利。",
-            "audio": "我希望一切順利。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1030",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "今晚有什麼計畫？",
-        "CN_ENG": {
-            "word": "Any plans for tonight?",
-            "audio": "Any_plans_for_tonight.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "今夜の予定はありますか（こんやのよていはありますか）",
-            "audio": "こんやのよていはありますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "오늘 밤에 무슨 계획 있어요?",
-            "audio": "오늘_밤에_무슨_계획_있어요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tối nay có kế hoạch gì không?",
-            "audio": "Tối_nay_có_kế_hoạch_gì_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "今晚有咩節目啊？",
-            "audio": "今晚有咩節目啊？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Des projets pour ce soir ?",
-            "audio": "Des_projets_pour_ce_soir.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Hast du Pläne für heute Abend?",
-            "audio": "Hast_du_Pläne_für_heute_Abend.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Algún plan para esta noche?",
-            "audio": "¿Algún_plan_para_esta_noche.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Есть планы на вечер?",
-            "audio": "Есть_планы_на_вечер.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คืนนี้มีแผนอะไรไหม",
-            "audio": "คืนนี้มีแผนอะไรไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Ada rencana untuk malam ini?",
-            "audio": "Ada_rencana_untuk_malam_ini.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "今晚有什麼計畫？",
-            "audio": "今晚有什麼計畫？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1031",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我會盡力的。",
-        "CN_ENG": {
-            "word": "I will do my best.",
-            "audio": "I_will_do_my_best..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "全力を尽くします（ぜんりょくをつくします）",
-            "audio": "ぜんりょくをつくします.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "최선을 다하겠습니다.",
-            "audio": "최선을_다하겠습니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi sẽ cố gắng hết sức.",
-            "audio": "Tôi_sẽ_cố_gắng_hết_sức..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我會盡力㗎。",
-            "audio": "我會盡力㗎。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je ferai de mon mieux.",
-            "audio": "Je_ferai_de_mon_mieux..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich werde mein Bestes tun.",
-            "audio": "Ich_werde_mein_Bestes_tun..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Haré lo mejor que pueda.",
-            "audio": "Haré_lo_mejor_que_pueda..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я сделаю все возможное.",
-            "audio": "Я_сделаю_все_возможное..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันจะทำให้ดีที่สุด",
-            "audio": "ฉันจะทำให้ดีที่สุด.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya akan melakukan yang terbaik.",
-            "audio": "Saya_akan_melakukan_yang_terbaik..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我會盡力的。",
-            "audio": "我會盡力的。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1032",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "抱歉讓你久等了。",
-        "CN_ENG": {
-            "word": "Sorry to keep you waiting.",
-            "audio": "Sorry_to_keep_you_waiting..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "お待たせしてすみません（おまたせしてすみません）",
-            "audio": "おまたせしてすみません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "오래 기다리게 해서 죄송해요.",
-            "audio": "오래_기다리게_해서_죄송해요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Xin lỗi vì đã để bạn phải đợi lâu.",
-            "audio": "Xin_lỗi_vì_đã_để_bạn_phải_đợi_lâu..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "唔好意思要你等咁耐。",
-            "audio": "唔好意思要你等咁耐。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Désolé de t'avoir fait attendre.",
-            "audio": "Désolé_de_t'avoir_fait_attendre..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Tut mir leid, dass du warten musstest.",
-            "audio": "Tut_mir_leid,_dass_du_warten_musstest..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Siento haberte hecho esperar.",
-            "audio": "Siento_haberte_hecho_esperar..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Извините, что заставил вас ждать.",
-            "audio": "Извините,_что_заставил_вас_ждать..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอโทษที่ให้รอนานนะ",
-            "audio": "ขอโทษที่ให้รอนานนะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Maaf membuat Anda menunggu.",
-            "audio": "Maaf_membuat_Anda_menunggu..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "抱歉讓你久等了。",
-            "audio": "抱歉讓你久等了。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1033",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "請問現在幾點？",
-        "CN_ENG": {
-            "word": "What time is it now?",
-            "audio": "What_time_is_it_now.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "今何時ですか（いまなんじですか）",
-            "audio": "いまなんじですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "지금 몇 시인가요?",
-            "audio": "지금_몇_시인가요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Xin hỏi bây giờ là mấy giờ?",
-            "audio": "Xin_hỏi_bây_giờ_là_mấy_giờ.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問依家幾點？",
-            "audio": "請問依家幾點？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Quelle heure est-il maintenant ?",
-            "audio": "Quelle_heure_est-il_maintenant.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wie spät ist es jetzt?",
-            "audio": "Wie_spät_ist_es_jetzt.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Qué hora es ahora?",
-            "audio": "¿Qué_hora_es_ahora.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Сколько сейчас времени?",
-            "audio": "Сколько_сейчас_времени.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ตอนนี้กี่โมงแล้วครับ",
-            "audio": "ตอนนี้กี่โมงแล้วครับ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Jam berapa sekarang?",
-            "audio": "Jam_berapa_sekarang.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問現在幾點？",
-            "audio": "請問現在幾點？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1034",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這裡有人坐嗎？",
-        "CN_ENG": {
-            "word": "Is this seat taken?",
-            "audio": "Is_this_seat_taken.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "この席は空いていますか（このせきはあいていますか）",
-            "audio": "このせきはあいていますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "여기 자리 있나요?",
-            "audio": "여기_자리_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chỗ này có ai ngồi chưa?",
-            "audio": "Chỗ_này_có_ai_ngồi_chưa.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢度有冇人坐？",
-            "audio": "呢度有冇人坐？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Cette place est-elle prise ?",
-            "audio": "Cette_place_est-elle_prise.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ist dieser Platz besetzt?",
-            "audio": "Ist_dieser_Platz_besetzt.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Está ocupado este asiento?",
-            "audio": "¿Está_ocupado_este_asiento.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Это место занято?",
-            "audio": "Это_место_занято.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ตรงนี้มีคนนั่งไหมครับ",
-            "audio": "ตรงนี้มีคนนั่งไหมครับ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah kursi ini kosong?",
-            "audio": "Apakah_kursi_ini_kosong.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這裡有人坐嗎？",
-            "audio": "這裡有人坐嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1035",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我想預訂一張桌子。",
-        "CN_ENG": {
-            "word": "I would like to book a table.",
-            "audio": "I_would_like_to_book_a_table..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "席を予約したいのですが（せきをよやくしたいのですが）",
-            "audio": "せきをよやくしたいのですが.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "테이블을 예약하고 싶어요.",
-            "audio": "테이블을_예약하고_싶어요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi muốn đặt một bàn.",
-            "audio": "Tôi_muốn_đặt_một_bàn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我想訂位。",
-            "audio": "我想訂位。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je voudrais réserver une table.",
-            "audio": "Je_voudrais_réserver_une_table..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich möchte einen Tisch reservieren.",
-            "audio": "Ich_möchte_einen_Tisch_reservieren..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Me gustaría reservar una mesa.",
-            "audio": "Me_gustaría_reservar_una_mesa..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я бы хотел заказать столик.",
-            "audio": "Я_бы_хотел_заказать_столик..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันต้องการจองโต๊ะครับ",
-            "audio": "ฉันต้องการจองโต๊ะครับ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya ingin memesan meja.",
-            "audio": "Saya_ingin_memesan_meja..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我想預訂一張桌子。",
-            "audio": "我想預訂一張桌子。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1036",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這個字怎麼發音？",
-        "CN_ENG": {
-            "word": "How do you pronounce this word?",
-            "audio": "How_do_you_pronounce_this_word.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "この単語はどう発音しますか（このたんごはどうはつおんしますか）",
-            "audio": "このたんごはどうはつおんしますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이 단어는 어떻게 발음하나요?",
-            "audio": "이_단어는_어떻게_발음하나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Từ này phát âm thế nào?",
-            "audio": "Từ_này_phát_âm_thế_nào.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢個字點讀呀？",
-            "audio": "呢個字點讀呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Comment prononces-tu ce mot ?",
-            "audio": "Comment_prononces-tu_ce_mot.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wie spricht man dieses Wort aus?",
-            "audio": "Wie_spricht_man_dieses_Wort_aus.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cómo se pronuncia esta palabra?",
-            "audio": "¿Cómo_se_pronuncia_esta_palabra.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Как произносится это слово?",
-            "audio": "Как_произносится_это_слово.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คำนี้ออกเสียงอย่างไร",
-            "audio": "คำนี้ออกเสียงอย่างไร.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bagaimana cara mengucapkan kata ini?",
-            "audio": "Bagaimana_cara_mengucapkan_kata_ini.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這個字怎麼發音？",
-            "audio": "這個字怎麼發音？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1037",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我覺得這有點困難。",
-        "CN_ENG": {
-            "word": "I think this is a bit difficult.",
-            "audio": "I_think_this_is_a_bit_difficult..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "これは少し難しいと思います（これはすこしむずかしいとおもいます）",
-            "audio": "これはすこしむずかしいとおもいます.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이건 좀 어려운 것 같아요.",
-            "audio": "이건_좀_어려운_것_같아요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi nghĩ điều này hơi khó.",
-            "audio": "Tôi_nghĩ_điều_này_hơi_khó..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我覺得呢個有啲難。",
-            "audio": "我覺得呢個有啲難。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je pense que c'est un peu difficile.",
-            "audio": "Je_pense_que_c'est_un_peu_difficile..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich finde das etwas schwierig.",
-            "audio": "Ich_finde_das_etwas_schwierig..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Creo que esto es un poco difícil.",
-            "audio": "Creo_que_esto_es_un_poco_difícil..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я думаю, это немного сложно.",
-            "audio": "Я_думаю,_это_немного_сложно..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันคิดว่ามันยากไปหน่อย",
-            "audio": "ฉันคิดว่ามันยากไปหน่อย.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya pikir ini sedikit sulit.",
-            "audio": "Saya_pikir_ini_sedikit_sulit..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我覺得這有點困難。",
-            "audio": "我覺得這有點困難。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1038",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我們走吧，要遲到了。",
-        "CN_ENG": {
-            "word": "Let's go, we are going to be late.",
-            "audio": "Let's_go,_we_are_going_to_be_late..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "行きましょう、遅刻しますよ（いきましょう、ちこくしますよ）",
-            "audio": "いきましょう、ちこくしますよ.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "가자, 지각하겠어.",
-            "audio": "가자,_지각하겠어..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Đi thôi, chúng ta sẽ muộn mất.",
-            "audio": "Đi_thôi,_chúng_ta_sẽ_muộn_mất..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋走啦，要遲到喇。",
-            "audio": "我哋走啦，要遲到喇。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Allons-y, nous allons être en retard.",
-            "audio": "Allons-y,_nous_allons_être_en_retard..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Lass uns gehen, wir kommen zu spät.",
-            "audio": "Lass_uns_gehen,_wir_kommen_zu_spät..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Vámonos, vamos a llegar tarde.",
-            "audio": "Vámonos,_vamos_a_llegar_tarde..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пойдем, мы опоздаем.",
-            "audio": "Пойдем,_мы_опоздаем..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ไปกันเถอะ เรากำลังจะสายแล้ว",
-            "audio": "ไปกันเถอะ_เรากำลังจะสายแล้ว.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Ayo pergi, kita akan terlambat.",
-            "audio": "Ayo_pergi,_kita_akan_terlambat..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們走吧，要遲到了。",
-            "audio": "我們走吧，要遲到了。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1039",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "謝謝你的邀請。",
-        "CN_ENG": {
-            "word": "Thank you for the invitation.",
-            "audio": "Thank_you_for_the_invitation..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "ご招待ありがとうございます（ごしょうたいありがとうございます）",
-            "audio": "ごしょうたいありがとうございます.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "초대해 주셔서 감사합니다.",
-            "audio": "초대해_주셔서_감사합니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Cảm ơn vì lời mời của bạn.",
-            "audio": "Cảm_ơn_vì_lời_mời_của_bạn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "多謝你嘅邀請。",
-            "audio": "多謝你嘅邀請。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Merci pour l'invitation.",
-            "audio": "Merci_pour_l'invitation..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Danke für die Einladung.",
-            "audio": "Danke_für_die_Einladung..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Gracias por la invitación.",
-            "audio": "Gracias_por_la_invitación..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Спасибо за приглашение.",
-            "audio": "Спасибо_за_приглашение..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอบคุณสำหรับคำเชิญ",
-            "audio": "ขอบคุณสำหรับคำเชิญ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Terima kasih atas undangannya.",
-            "audio": "Terima_kasih_atas_undangannya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "謝謝你的邀請。",
-            "audio": "謝謝你的邀請。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1040",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我忘記他的名字了。",
-        "CN_ENG": {
-            "word": "I forgot his name.",
-            "audio": "I_forgot_his_name..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "彼の名前を忘れました（かれのなまえをわすれました）",
-            "audio": "かれのなまえをわすれました.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "그 사람 이름이 기억 안 나요.",
-            "audio": "그_사람_이름이_기억_안_나요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi quên tên anh ấy rồi.",
-            "audio": "Tôi_quên_tên_anh_ấy_rồi..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我唔記得佢個名。",
-            "audio": "我唔記得佢個名。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "J'ai oublié son nom.",
-            "audio": "J'ai_oublié_son_nom..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich habe seinen Namen vergessen.",
-            "audio": "Ich_habe_seinen_Namen_vergessen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Olvidé su nombre.",
-            "audio": "Olvidé_su_nombre..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я забыл его имя.",
-            "audio": "Я_забыл_его_имя..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันลืมชื่อเขาไปแล้ว",
-            "audio": "ฉันลืมชื่อเขาไปแล้ว.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya lupa namanya.",
-            "audio": "Saya_lupa_namanya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我忘記他的名字了。",
-            "audio": "我忘記他的名字了。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1041",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "你看起來很累。",
-        "CN_ENG": {
-            "word": "You look very tired.",
-            "audio": "You_look_very_tired..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "とても疲れているように見えます（とてもつかれているようにみえます）",
-            "audio": "とてもつかれているようにみえます.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "너 너무 피곤해 보여.",
-            "audio": "너_너무_피곤해_보여..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Trông bạn rất mệt mỏi.",
-            "audio": "Trông_bạn_rất_mệt_mỏi..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "你看落好攰。",
-            "audio": "你看落好攰。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Tu as l'air très fatigué.",
-            "audio": "Tu_as_l'air_très_fatigué..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Du siehst sehr müde aus.",
-            "audio": "Du_siehst_sehr_müde_aus..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Te ves muy cansado.",
-            "audio": "Te_ves_muy_cansado..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Ты выглядишь очень уставшим.",
-            "audio": "Ты_выглядишь_очень_уставшим..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "คุณดูเหนื่อยมากนะ",
-            "audio": "คุณดูเหนื่อยมากนะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Anda terlihat sangat lelah.",
-            "audio": "Anda_terlihat_sangat_lelah..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "你看起來很累。",
-            "audio": "你看起來很累。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1042",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我需要喝杯水。",
-        "CN_ENG": {
-            "word": "I need a glass of water.",
-            "audio": "I_need_a_glass_of_water..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "水を一杯飲みたいです（みずをいっぱいのみたいです）",
-            "audio": "みずをいっぱいのみたいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "물 한 잔 마셔야겠어요.",
-            "audio": "물_한_잔_마셔야겠어요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi cần uống một cốc nước.",
-            "audio": "Tôi_cần_uống_một_cốc_nước..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我需要飲杯水。",
-            "audio": "我需要飲杯水。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "J'ai besoin d'un verre d'eau.",
-            "audio": "J'ai_besoin_d'un_verre_d'eau..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich brauche ein Glas Wasser.",
-            "audio": "Ich_brauche_ein_Glas_Wasser..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Necesito un vaso de agua.",
-            "audio": "Necesito_un_vaso_de_agua..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Мне нужен стакан воды.",
-            "audio": "Мне_нужен_стакан_воды..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันขอน้ำสักแก้วสิ",
-            "audio": "ฉันขอน้ำสักแก้วสิ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya butuh segelas air.",
-            "audio": "Saya_butuh_segelas_air..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我需要喝杯水。",
-            "audio": "我需要喝杯水。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1043",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這是個好問題。",
-        "CN_ENG": {
-            "word": "That is a good question.",
-            "audio": "That_is_a_good_question..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "それは良い質問ですね（それはいいしつもんですね）",
-            "audio": "それはいいしつもんですね.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "그건 좋은 질문이네요.",
-            "audio": "그건_좋은_질문이네요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Đó là một câu hỏi hay.",
-            "audio": "Đó_là_một_câu_hỏi_hay..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢個係個好問題。",
-            "audio": "呢個係個好問題。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "C'est une bonne question.",
-            "audio": "C'est_une_bonne_question..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Das ist eine gute Frage.",
-            "audio": "Das_ist_eine_gute_Frage..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Esa es una buena pregunta.",
-            "audio": "Esa_es_una_buena_pregunta..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Это хороший вопрос.",
-            "audio": "Это_хороший_вопрос..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "นั่นเป็นคำถามที่ดี",
-            "audio": "นั่นเป็นคำถามที่ดี.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Itu pertanyaan yang bagus.",
-            "audio": "Itu_pertanyaan_yang_bagus..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這是個好問題。",
-            "audio": "這是個好問題。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1044",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我馬上回來。",
-        "CN_ENG": {
-            "word": "I will be right back.",
-            "audio": "I_will_be_right_back..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "すぐに戻ります（すぐにもどります）",
-            "audio": "すぐにもどります.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "금방 돌아올게요.",
-            "audio": "금방_돌아올게요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi sẽ quay lại ngay.",
-            "audio": "Tôi_sẽ_quay_lại_ngay..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我轉頭就返。",
-            "audio": "我轉頭就返。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je reviens tout de suite.",
-            "audio": "Je_reviens_tout_de_suite..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich bin gleich zurück.",
-            "audio": "Ich_bin_gleich_zurück..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Vuelvo enseguida.",
-            "audio": "Vuelvo_enseguida..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я скоро вернусь.",
-            "audio": "Я_скоро_вернусь..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันจะกลับมาเดี๋ยวนี้",
-            "audio": "ฉันจะกลับมาเดี๋ยวนี้.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya akan segera kembali.",
-            "audio": "Saya_akan_segera_kembali..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我馬上回來。",
-            "audio": "我馬上回來。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1045",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我們下次再聊。",
-        "CN_ENG": {
-            "word": "Let's talk next time.",
-            "audio": "Let's_talk_next_time..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "また今度話しましょう（またこんどはなしましょう）",
-            "audio": "またこんどはなしましょう.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "다음에 또 얘기해요.",
-            "audio": "다음에_또_얘기해요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Lần sau chúng ta nói chuyện tiếp nhé.",
-            "audio": "Lần_sau_chúng_ta_nói_chuyện_tiếp_nhé..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋下次再傾。",
-            "audio": "我哋下次再傾。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "On se parle la prochaine fois.",
-            "audio": "On_se_parle_la_prochaine_fois..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Lass uns das nächste Mal reden.",
-            "audio": "Lass_uns_das_nächste_Mal_reden..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Hablamos la próxima vez.",
-            "audio": "Hablamos_la_próxima_vez..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Давайте поговорим в следующий раз.",
-            "audio": "Давайте_поговорим_в_следующий_раз..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ไว้คุยกันใหม่คราวหน้านะ",
-            "audio": "ไว้คุยกันใหม่คราวหน้านะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Mari kita bicara lain kali.",
-            "audio": "Mari_kita_bicara_lain_kali..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們下次再聊。",
-            "audio": "我們下次再聊。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1046",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "祝你旅途愉快。",
-        "CN_ENG": {
-            "word": "Have a good trip.",
-            "audio": "Have_a_good_trip..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "良い旅を（よいたびを）",
-            "audio": "よいたびを.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "즐거운 여행 되세요.",
-            "audio": "즐거운_여행_되세요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúc bạn chuyến đi vui vẻ.",
-            "audio": "Chúc_bạn_chuyến_đi_vui_vẻ..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "祝你旅途愉快。",
-            "audio": "祝你旅途愉快。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Bon voyage.",
-            "audio": "Bon_voyage..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Gute Reise.",
-            "audio": "Gute_Reise..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Que tengas un buen viaje.",
-            "audio": "Que_tengas_un_buen_viaje..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Хорошей поездки.",
-            "audio": "Хорошей_поездки..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอให้เดินทางโดยสวัสดิภาพ",
-            "audio": "ขอให้เดินทางโดยสวัสดิภาพ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Semoga perjalananmu menyenangkan.",
-            "audio": "Semoga_perjalananmu_menyenangkan..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "祝你旅途愉快。",
-            "audio": "祝你旅途愉快。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1047",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "這個味道真好。",
-        "CN_ENG": {
-            "word": "This tastes really good.",
-            "audio": "This_tastes_really_good..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "これはとても美味しいです（これはとてもおいしいです）",
-            "audio": "これはとてもおいしいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이거 맛이 정말 좋네요.",
-            "audio": "이거_맛이_정말_좋네요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Món này vị rất ngon.",
-            "audio": "Món_này_vị_rất_ngon..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢個味道真係好。",
-            "audio": "呢個味道真係好。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Ça a très bon goût.",
-            "audio": "Ça_a_très_bon_goût..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Das schmeckt wirklich gut.",
-            "audio": "Das_schmeckt_wirklich_gut..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Esto sabe muy bien.",
-            "audio": "Esto_sabe_muy_bien..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Это на вкус очень вкусно.",
-            "audio": "Это_на_вкус_очень_вкусно..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "รสชาตินี้อร่อยมาก",
-            "audio": "รสชาตินี้อร่อยมาก.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Rasanya sangat enak.",
-            "audio": "Rasanya_sangat_enak..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這個味道真好。",
-            "audio": "這個味道真好。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1048",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "我不確定是不是這樣。",
-        "CN_ENG": {
-            "word": "I am not sure about that.",
-            "audio": "I_am_not_sure_about_that..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "そうかどうか確信が持てません（そうかどうかの確信がもてません）",
-            "audio": "そうかどうかの確信がもてません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "그런지 확실하지 않아요.",
-            "audio": "그런지_확실하지_않아요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi không chắc có phải vậy không.",
-            "audio": "Tôi_không_chắc_có_phải_vậy_không..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我唔肯定係咪咁。",
-            "audio": "我唔肯定係咪咁。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je n'en suis pas sûr.",
-            "audio": "Je_n'en_suis_pas_sûr..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich bin mir da nicht sicher.",
-            "audio": "Ich_bin_mir_da_nicht_sicher..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "No estoy seguro de eso.",
-            "audio": "No_estoy_seguro_de_eso..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я не уверен в этом.",
-            "audio": "Я_не_уверен_в_этом..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันไม่แน่ใจว่าเป็นแบบนั้นไหม",
-            "audio": "ฉันไม่แน่ใจว่าเป็นแบบนั้นไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya tidak yakin tentang hal itu.",
-            "audio": "Saya_tidak_yakin_tentang_hal_itu..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我不確定是不是這樣。",
-            "audio": "我不確定是不是這樣。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1049",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "讓我想一想。",
-        "CN_ENG": {
-            "word": "Let me think about it.",
-            "audio": "Let_me_think_about_it..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "少し考えさせてください（すこしかんがえさせてください）",
-            "audio": "すこしかんがえさせてください.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "생각 좀 해볼게요.",
-            "audio": "생각_좀_해볼게요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Để tôi suy nghĩ một chút.",
-            "audio": "Để_tôi_suy_nghĩ_một_chút..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "等我諗下先。",
-            "audio": "等我諗下先。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Laisse-moi y réfléchir.",
-            "audio": "Laisse-moi_y_réfléchir..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Lass mich darüber nachdenken.",
-            "audio": "Lass_mich_darüber_nachdenken..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Déjame pensarlo.",
-            "audio": "Déjame_pensarlo..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Дай мне подумать об этом.",
-            "audio": "Дай_мне_подумать_об_этом..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอฉันคิดดูก่อนนะ",
-            "audio": "ขอฉันคิดดูก่อนนะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Biarkan saya memikirkannya.",
-            "audio": "Biarkan_saya_memikirkannya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "讓我想一想。",
-            "audio": "讓我想一想。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "1050",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
-        "cn": "很高興認識你的家人。",
-        "CN_ENG": {
-            "word": "Nice to meet your family.",
-            "audio": "Nice_to_meet_your_family..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "ご家族にお会いできて嬉しいです（ごかぞくにおあいできてうれしいです）",
-            "audio": "ごかぞくにおあいできてうれしいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "가족분들을 만나게 되어 반갑습니다.",
-            "audio": "가족분들을_만나게_되어_반갑습니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Rất vui được gặp gia đình bạn.",
-            "audio": "Rất_vui_được_gặp_gia_đình_bạn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "好高興認識你屋企人。",
-            "audio": "好高興認識你屋企人。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Ravi de rencontrer ta famille.",
-            "audio": "Ravi_de_rencontrer_ta_famille..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Schön, deine Familie kennenzulernen.",
-            "audio": "Schön,_deine_Familie_kennenzulernen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Encantado de conocer a tu familia.",
-            "audio": "Encantado_de_conocer_a_tu_familia..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Приятно познакомиться с вашей семьей.",
-            "audio": "Приятно_познакомиться_с_вашей_семьей..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ยินดีที่ได้รู้จักครอบครัวของคุณนะ",
-            "audio": "ยินดีที่ได้รู้จักครอบครัวของคุณนะ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Senang bertemu dengan keluarga Anda.",
-            "audio": "Senang_bertemu_dengan_keluarga_Anda..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "很高興認識你的家人。",
-            "audio": "很高興認識你的家人。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
         "id": "tim001",
         "category": "Lesson 05 🕒 時間(time)",
         "subcategory": "⏰ 時刻(time)",
@@ -49826,6 +46526,1986 @@ const vocabData = [
         "CN_ZH": {
             "word": "棉花糖",
             "audio": "棉花糖.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res001",
+        "category": "Lesson 08 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請問現在有空位嗎？",
+        "CN_ENG": {
+            "word": "Are there any available seats now?",
+            "audio": "Are_there_any_available_seats_now.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今、空席はありますか (いま、くうせきはありますか)",
+            "audio": "いま、くうせきはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금 빈자리 있나요? (jigeum binjali issnayo?)",
+            "audio": "지금_빈자리_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bây giờ có chỗ trống không?",
+            "audio": "Bây_giờ_có_chỗ_trống_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問而家有冇位呀？ (cing2 man6 ji4 gaa1 jau5 mou5 wai2 aa3?)",
+            "audio": "請問而家有冇位呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des places disponibles maintenant ?",
+            "audio": "Y_a-t-il_des_places_disponibles_maintenant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es jetzt freie Plätze?",
+            "audio": "Gibt_es_jetzt_freie_Plätze.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay asientos disponibles ahora?",
+            "audio": "¿Hay_asientos_disponibles_ahora.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли сейчас свободные места? (Yest' li seychas svobodnyye mesta?)",
+            "audio": "Есть_ли_сейчас_свободные_места.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอนนี้มีที่นั่งว่างไหม (dton-née mee têe-nàng wâang mǎi)",
+            "audio": "ตอนนี้มีที่นั่งว่างไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada kursi kosong sekarang?",
+            "audio": "Apakah_ada_kursi_kosong_sekarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問現在有空位嗎？",
+            "audio": "請問現在有空位嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res002",
+        "category": "Lesson 09 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我們一共有四個人。",
+        "CN_ENG": {
+            "word": "We have four people in total.",
+            "audio": "We_have_four_people_in_total..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私たちは全部で4人です (わたしたちはぜんぶでよにんです)",
+            "audio": "わたしたちはぜんぶでよにんです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저희는 총 네 명입니다. (jeohuineun chong ne myeong-ibnida.)",
+            "audio": "저희는_총_네_명입니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi có tổng cộng bốn người.",
+            "audio": "Chúng_tôi_có_tổng_cộng_bốn_người..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋總共有四個人。 (ngo5 dei6 zung2 gung6 jau5 sei3 go3 jan4.)",
+            "audio": "我哋總共有四個人。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous sommes quatre en tout.",
+            "audio": "Nous_sommes_quatre_en_tout..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir sind insgesamt vier Personen.",
+            "audio": "Wir_sind_insgesamt_vier_Personen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Somos cuatro en total.",
+            "audio": "Somos_cuatro_en_total..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нас всего четыре человека. (Nas vsego chetyre cheloveka.)",
+            "audio": "Нас_всего_четыре_человека..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "พวกเรามีทั้งหมดสี่คน (pûak-rao mee táng-mòt sèe kon)",
+            "audio": "พวกเรามีทั้งหมดสี่คน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami berempat totalnya.",
+            "audio": "Kami_berempat_totalnya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們一共有四個人。",
+            "audio": "我們一共有四個人。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res003",
+        "category": "Lesson 10 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請給我一份菜單，謝謝。",
+        "CN_ENG": {
+            "word": "Please give me a menu, thank you.",
+            "audio": "Please_give_me_a_menu,_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "メニューを一つお願いします (めにゅーをひとつおねがいします)",
+            "audio": "めにゅーをひとつおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "메뉴판 하나 주세요, 감사합니다. (menyupan hana juseyo, gamsahabnida.)",
+            "audio": "메뉴판_하나_주세요,_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm ơn cho tôi một thực đơn, cảm ơn.",
+            "audio": "Làm_ơn_cho_tôi_một_thực_đơn,_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔該畀份餐牌我，多謝。 (m4 goi1 bei2 fan6 caan1 paai4 ngo5, do1 ze6.)",
+            "audio": "唔該畀份餐牌我，多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Un menu, s'il vous plaît, merci.",
+            "audio": "Un_menu,_s'il_vous_plaît,_merci..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Eine Speisekarte bitte, danke.",
+            "audio": "Eine_Speisekarte_bitte,_danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Un menú por favor, gracias.",
+            "audio": "Un_menú_por_favor,_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Дайте мне меню, пожалуйста, спасибо. (Dayte mne menyu, pozhaluysta, spasibo.)",
+            "audio": "Дайте_мне_меню,_пожалуйста,_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอเมนูหนึ่งที่ครับ ขอบคุณ (kǒr may-noo nèung têe kráp kòp-kun)",
+            "audio": "ขอเมนูหนึ่งที่ครับ_ขอบคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri saya menu, terima kasih.",
+            "audio": "Tolong_beri_saya_menu,_terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請給我一份菜單，謝謝。",
+            "audio": "請給我一份菜單，謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res004",
+        "category": "Lesson 11 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我們需要一點時間看菜單。",
+        "CN_ENG": {
+            "word": "We need some time to look at the menu.",
+            "audio": "We_need_some_time_to_look_at_the_menu..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "メニューを見る時間が少し必要です (めにゅーをみるじかんがすこしひつようです)",
+            "audio": "めにゅーをみるじかんがすこしひつようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "메뉴를 볼 시간이 조금 필요해요. (menyuleul bol sigan-i jogeum pil-yohaeyo.)",
+            "audio": "메뉴를_볼_시간이_조금_필요해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi cần chút thời gian xem thực đơn.",
+            "audio": "Chúng_tôi_cần_chút_thời_gian_xem_thực_đơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋需要少少時間睇餐牌。 (ngo5 dei6 seoi1 jiu3 siu2 siu2 si4 gaan3 tai2 caan1 paai4.)",
+            "audio": "我哋需要少少時間睇餐牌。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous avons besoin d'un peu de temps pour regarder le menu.",
+            "audio": "Nous_avons_besoin_d'un_peu_de_temps_pour_regarder_le_menu..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir brauchen etwas Zeit, um die Speisekarte anzusehen.",
+            "audio": "Wir_brauchen_etwas_Zeit,_um_die_Speisekarte_anzusehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesitamos algo de tiempo para mirar el menú.",
+            "audio": "Necesitamos_algo_de_tiempo_para_mirar_el_menú..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Нам нужно немного времени, чтобы посмотреть меню. (Nam nuzhno nemnogo vremeni, chtoby posmotret' menyu.)",
+            "audio": "Нам_нужно_немного_времени,_чтобы_посмотреть_меню..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราขอเวลาดูเมนูสักครู่ (rao kǒr way-laa doo may-noo sàk krôo)",
+            "audio": "เราขอเวลาดูเมนูสักครู่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami butuh waktu sebentar untuk melihat menu.",
+            "audio": "Kami_butuh_waktu_sebentar_untuk_melihat_menu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們需要一點時間看菜單。",
+            "audio": "我們需要一點時間看菜單。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res005",
+        "category": "Lesson 12 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請問有什麼推薦的招牌菜嗎？",
+        "CN_ENG": {
+            "word": "Are there any recommended signature dishes?",
+            "audio": "Are_there_any_recommended_signature_dishes.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おすすめの看板料理はありますか (おすすめのかんばんりょうりはありますか)",
+            "audio": "おすすめのかんばんりょうりはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천할 만한 대표 요리가 있나요? (chucheonhal manhan daepyo yoliga issnayo?)",
+            "audio": "추천할_만한_대표_요리가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có món ăn đặc trưng nào được giới thiệu không?",
+            "audio": "Có_món_ăn_đặc_trưng_nào_được_giới_thiệu_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇咩推薦嘅招牌菜呀？ (cing2 man6 jau5 mou5 me1 teoi1 zin3 ge3 ziu1 paai4 coi3 aa3?)",
+            "audio": "請問有冇咩推薦嘅招牌菜呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des plats signatures recommandés ?",
+            "audio": "Y_a-t-il_des_plats_signatures_recommandés.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es empfohlene Spezialitäten des Hauses?",
+            "audio": "Gibt_es_empfohlene_Spezialitäten_des_Hauses.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay algún plato de la casa recomendado?",
+            "audio": "¿Hay_algún_plato_de_la_casa_recomendado.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли какие-нибудь рекомендуемые фирменные блюда? (Yest' li kakiye-nibud' rekomenduyemyye firmennyye blyuda?)",
+            "audio": "Есть_ли_какие-нибудь_рекомендуемые_фирменные_блюда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีเมนูแนะนำที่เป็นอาหารจานเด็ดไหม (mee may-noo náe-nam têe bpen aa-hǎan jaan dèt mǎi)",
+            "audio": "มีเมนูแนะนำที่เป็นอาหารจานเด็ดไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada hidangan khas yang direkomendasikan?",
+            "audio": "Apakah_ada_hidangan_khas_yang_direkomendasikan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有什麼推薦的招牌菜嗎？",
+            "audio": "請問有什麼推薦的招牌菜嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res006",
+        "category": "Lesson 13 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我想要點和這個一樣的。",
+        "CN_ENG": {
+            "word": "I would like to order the same as this.",
+            "audio": "I_would_like_to_order_the_same_as_this..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これと同じものを注文したいです (これとおなじものをちゅうもんしたいです)",
+            "audio": "これとおなじものをちゅうもんしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이것과 같은 걸로 주문할게요. (igeosgwa gat-eun geollo jumunhalgeyo.)",
+            "audio": "이것과_같은_걸로_주문할게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn gọi món giống thế này.",
+            "audio": "Tôi_muốn_gọi_món_giống_thế_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想叫一份同呢個一樣嘅。 (ngo5 soeng2 giu3 jat1 fan6 tung4 ni1 go3 jat1 joeng6 ge3.)",
+            "audio": "我想叫一份同呢個一樣嘅。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je voudrais commander la même chose que ça.",
+            "audio": "Je_voudrais_commander_la_même_chose_que_ça..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte das Gleiche wie das hier bestellen.",
+            "audio": "Ich_möchte_das_Gleiche_wie_das_hier_bestellen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me gustaría pedir lo mismo que esto.",
+            "audio": "Me_gustaría_pedir_lo_mismo_que_esto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хотел бы заказать то же самое, что и это. (Ya khotel by zakazat' to zhe samoye, chto i eto.)",
+            "audio": "Я_хотел_бы_заказать_то_же_самое,_что_и_это..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอสั่งเหมือนอันนี้ (chǎn kǒr sǎng měuan an-née)",
+            "audio": "ฉันขอสั่งเหมือนอันนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin memesan yang sama dengan ini.",
+            "audio": "Saya_ingin_memesan_yang_sama_dengan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想要點和這個一樣的。",
+            "audio": "我想要點和這個一樣的。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res007",
+        "category": "Lesson 14 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "這道菜會很辣嗎？",
+        "CN_ENG": {
+            "word": "Is this dish very spicy?",
+            "audio": "Is_this_dish_very_spicy.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この料理はとても辛いですか (このりょうりはとてもからいですか)",
+            "audio": "このりょうりはとてもからいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 요리는 많이 매운가요? (i yolineun manh-i maeungayo?)",
+            "audio": "이_요리는_많이_매운가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món này có cay lắm không?",
+            "audio": "Món_này_có_cay_lắm_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢味餸會唔會好辣呀？ (ni1 mei6 sung3 wui5 m4 wui5 hou2 laat6 aa3?)",
+            "audio": "呢味餸會唔會好辣呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce plat est-il très épicé ?",
+            "audio": "Ce_plat_est-il_très_épicé.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist dieses Gericht sehr scharf?",
+            "audio": "Ist_dieses_Gericht_sehr_scharf.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Este plato es muy picante?",
+            "audio": "¿Este_plato_es_muy_picante.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это блюдо очень острое? (Eto blyudo ochen' ostroye?)",
+            "audio": "Это_блюдо_очень_острое.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารจานนี้เผ็ดมากไหม (aa-hǎan jaan née pèt mâak mǎi)",
+            "audio": "อาหารจานนี้เผ็ดมากไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah hidangan ini sangat pedas?",
+            "audio": "Apakah_hidangan_ini_sangat_pedas.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這道菜會很辣嗎？",
+            "audio": "這道菜會很辣嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res008",
+        "category": "Lesson 15 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請幫我把醬汁分開放。",
+        "CN_ENG": {
+            "word": "Please put the sauce on the side.",
+            "audio": "Please_put_the_sauce_on_the_side..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ソースは別にしてください (そーすはべつにしてください)",
+            "audio": "そーすはべつにしてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "소스는 따로 담아 주세요. (soseuneun ttalo dam-a juseyo.)",
+            "audio": "소스는_따로_담아_주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng để nước sốt riêng.",
+            "audio": "Vui_lòng_để_nước_sốt_riêng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩幫我將啲汁分開上。 (maa4 faan4 bong1 ngo5 zoeng1 di1 zap1 fan1 hoi1 soeng5.)",
+            "audio": "麻煩幫我將啲汁分開上。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez mettre la sauce à part.",
+            "audio": "Veuillez_mettre_la_sauce_à_part..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte die Soße separat servieren.",
+            "audio": "Bitte_die_Soße_separat_servieren..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, ponga la salsa aparte.",
+            "audio": "Por_favor,_ponga_la_salsa_aparte..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, подайте соус отдельно. (Pozhaluysta, podayte sous otdel'no.)",
+            "audio": "Пожалуйста,_подайте_соус_отдельно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยแยกซอสให้ด้วยครับ (chûay yâek sót hâi dûay kráp)",
+            "audio": "ช่วยแยกซอสให้ด้วยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong pisahkan sausnya.",
+            "audio": "Tolong_pisahkan_sausnya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請幫我把醬汁分開放。",
+            "audio": "請幫我把醬汁分開放。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res009",
+        "category": "Lesson 16 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我對花生嚴重過敏。",
+        "CN_ENG": {
+            "word": "I have a severe allergy to peanuts.",
+            "audio": "I_have_a_severe_allergy_to_peanuts..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私はピーナッツに重度のアレルギーがあります (わたしはぴーなっつにじゅうどのあれるぎーがあります)",
+            "audio": "わたしはぴーなっつにじゅうどのあれるぎーがあります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저는 땅콩에 심한 알레르기가 있습니다. (jeoneun ttangkong-e simhan alleleugiga issseubnida.)",
+            "audio": "저는_땅콩에_심한_알레르기가_있습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi bị dị ứng nặng với đậu phộng.",
+            "audio": "Tôi_bị_dị_ứng_nặng_với_đậu_phộng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我對花生有嚴重敏感。 (ngo5 deoi3 faa1 sang1 jau5 jim4 zung6 man5 gam2.)",
+            "audio": "我對花生有嚴重敏感。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai une grave allergie aux arachides.",
+            "audio": "J'ai_une_grave_allergie_aux_arachides..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe eine schwere Allergie gegen Erdnüsse.",
+            "audio": "Ich_habe_eine_schwere_Allergie_gegen_Erdnüsse..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tengo una alergia grave a los cacahuetes.",
+            "audio": "Tengo_una_alergia_grave_a_los_cacahuetes..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У меня сильная аллергия на арахис. (U menya sil'naya allergiya na arakhis.)",
+            "audio": "У_меня_сильная_аллергия_на_арахис..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันแพ้ถั่วลิสงอย่างรุนแรง (chǎn páe tùa-lí-sǒng yàang run-raeng)",
+            "audio": "ฉันแพ้ถั่วลิสงอย่างรุนแรง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya memiliki alergi parah terhadap kacang tanah.",
+            "audio": "Saya_memiliki_alergi_parah_terhadap_kacang_tanah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我對花生嚴重過敏。",
+            "audio": "我對花生嚴重過敏。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res010",
+        "category": "Lesson 17 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "這樣就夠了，先點這些。",
+        "CN_ENG": {
+            "word": "That is enough for now, I will order these first.",
+            "audio": "That_is_enough_for_now,_I_will_order_these_first..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "とりあえずこれで十分です (とりあえずこれでじゅうぶんです)",
+            "audio": "とりあえずこれでじゅうぶんです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "일단 이걸로 충분합니다. (ildan igeollo chungbunhabnida.)",
+            "audio": "일단_이걸로_충분합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Như vậy là đủ rồi, trước tiên gọi những món này.",
+            "audio": "Như_vậy_là_đủ_rồi,_trước_tiên_gọi_những_món_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "咁樣就夠啦，先叫住呢啲先。 (gam2 joeng6 zeou6 gau3 laa1, sin1 giu3 zyu6 ni1 di1 sin1.)",
+            "audio": "咁樣就夠啦，先叫住呢啲先。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ce sera tout pour le moment.",
+            "audio": "Ce_sera_tout_pour_le_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das reicht erst einmal.",
+            "audio": "Das_reicht_erst_einmal..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Eso es suficiente por ahora.",
+            "audio": "Eso_es_suficiente_por_ahora..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Этого пока достаточно. (Etogo poka dostatochno.)",
+            "audio": "Этого_пока_достаточно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "แค่นี้พอก่อนครับ สั่งแค่นี้ก่อน (kâe née por gòn kráp sǎng kâe née gòn)",
+            "audio": "แค่นี้พอก่อนครับ_สั่งแค่นี้ก่อน.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu saja untuk saat ini, saya pesan ini dulu.",
+            "audio": "Itu_saja_untuk_saat_ini,_saya_pesan_ini_dulu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這樣就夠了，先點這些。",
+            "audio": "這樣就夠了，先點這些。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res011",
+        "category": "Lesson 18 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請問我們的餐點還要等多久？",
+        "CN_ENG": {
+            "word": "How much longer do we have to wait for our food?",
+            "audio": "How_much_longer_do_we_have_to_wait_for_our_food.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "私たちの料理はあとどれくらい待ちますか (わたしたちのりょうりはあとどれくらいまちますか)",
+            "audio": "わたしたちのりょうりはあとどれくらいまちますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저희 음식은 얼마나 더 기다려야 하나요? (jeohui eumsig-eun eolmana deo gidalyeoya hanayo?)",
+            "audio": "저희_음식은_얼마나_더_기다려야_하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi thức ăn của chúng tôi phải đợi bao lâu nữa?",
+            "audio": "Xin_hỏi_thức_ăn_của_chúng_tôi_phải_đợi_bao_lâu_nữa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問我哋啲嘢食仲要等幾耐呀？ (cing2 man6 ngo5 dei6 di1 je5 sik6 zung6 jiu3 dang2 gei2 noi6 aa3?)",
+            "audio": "請問我哋啲嘢食仲要等幾耐呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien de temps devons-nous encore attendre pour notre repas ?",
+            "audio": "Combien_de_temps_devons-nous_encore_attendre_pour_notre_repas.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lange müssen wir noch auf unser Essen warten?",
+            "audio": "Wie_lange_müssen_wir_noch_auf_unser_Essen_warten.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto tiempo más tenemos que esperar por nuestra comida?",
+            "audio": "¿Cuánto_tiempo_más_tenemos_que_esperar_por_nuestra_comida.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как долго нам еще ждать нашу еду? (Kak dolgo nam yeshche zhdat' nashu yedu?)",
+            "audio": "Как_долго_нам_еще_ждать_нашу_еду.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารของเราต้องรออีกนานไหม (aa-hǎan kǒng rao dtông ror èek naan mǎi)",
+            "audio": "อาหารของเราต้องรออีกนานไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa lama lagi kami harus menunggu makanan kami?",
+            "audio": "Berapa_lama_lagi_kami_harus_menunggu_makanan_kami.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問我們的餐點還要等多久？",
+            "audio": "請問我們的餐點還要等多久？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res012",
+        "category": "Lesson 19 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "這道菜我們沒有點。",
+        "CN_ENG": {
+            "word": "We did not order this dish.",
+            "audio": "We_did_not_order_this_dish..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この料理は注文していません (このりょうりはちゅうもんしていません)",
+            "audio": "このりょうりはちゅうもんしていません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 요리는 주문하지 않았습니다. (i yolineun jumunhaji anh-assseubnida.)",
+            "audio": "이_요리는_주문하지_않았습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi không gọi món này.",
+            "audio": "Chúng_tôi_không_gọi_món_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢碟餸我哋冇叫到。 (ni1 dip6 sung3 ngo5 dei6 mou5 giu3 dou3.)",
+            "audio": "呢碟餸我哋冇叫到。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous n'avons pas commandé ce plat.",
+            "audio": "Nous_n'avons_pas_commandé_ce_plat..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir haben dieses Gericht nicht bestellt.",
+            "audio": "Wir_haben_dieses_Gericht_nicht_bestellt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No pedimos este plato.",
+            "audio": "No_pedimos_este_plato..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мы не заказывали это блюдо. (My ne zakazyvali eto blyudo.)",
+            "audio": "Мы_не_заказывали_это_блюдо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไม่ได้สั่งอาหารจานนี้ (rao mâi dâi sǎng aa-hǎan jaan née)",
+            "audio": "เราไม่ได้สั่งอาหารจานนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami tidak memesan hidangan ini.",
+            "audio": "Kami_tidak_memesan_hidangan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這道菜我們沒有點。",
+            "audio": "這道菜我們沒有點。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res013",
+        "category": "Lesson 20 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請再給我們一些餐巾紙。",
+        "CN_ENG": {
+            "word": "Please give us some more napkins.",
+            "audio": "Please_give_us_some_more_napkins..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ナプキンをもう少しください (なぷきんをもうすこしください)",
+            "audio": "なぷきんをもうすこしください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "냅킨 좀 더 주시겠어요? (naebkin jom deo jusigess-eoyo?)",
+            "audio": "냅킨_좀_더_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm ơn cho chúng tôi thêm vài tờ giấy ăn.",
+            "audio": "Làm_ơn_cho_chúng_tôi_thêm_vài_tờ_giấy_ăn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩畀多幾張紙巾我哋。 (maa4 faan4 bei2 do1 gei2 zoeng1 zi2 gan1 ngo5 dei6.)",
+            "audio": "麻煩畀多幾張紙巾我哋。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Veuillez nous donner quelques serviettes en plus.",
+            "audio": "Veuillez_nous_donner_quelques_serviettes_en_plus..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte geben Sie uns noch ein paar Servietten.",
+            "audio": "Bitte_geben_Sie_uns_noch_ein_paar_Servietten..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, denos algunas servilletas más.",
+            "audio": "Por_favor,_denos_algunas_servilletas_más..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте нам еще салфеток. (Pozhaluysta, dayte nam yeshche salfetok.)",
+            "audio": "Пожалуйста,_дайте_нам_еще_салфеток..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอทิชชู่เพิ่มหน่อยครับ (kǒr tít-chôo pêrm nòi kráp)",
+            "audio": "ขอทิชชู่เพิ่มหน่อยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri kami beberapa serbet lagi.",
+            "audio": "Tolong_beri_kami_beberapa_serbet_lagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請再給我們一些餐巾紙。",
+            "audio": "請再給我們一些餐巾紙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res014",
+        "category": "Lesson 21 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "可以幫我加滿水嗎？",
+        "CN_ENG": {
+            "word": "Could you refill my water, please?",
+            "audio": "Could_you_refill_my_water,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お水を注ぎ足していただけますか (おみずをつぎたしていただけますか)",
+            "audio": "おみずをつぎたしていただけますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "물 좀 더 채워 주실 수 있나요? (mul jom deo chaewo jusil su issnayo?)",
+            "audio": "물_좀_더_채워_주실_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể rót thêm nước cho tôi không?",
+            "audio": "Có_thể_rót_thêm_nước_cho_tôi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫我加啲水呀？ (ho2 m4 ho2 ji5 bong1 ngo5 gaa1 di1 seoi2 aa3?)",
+            "audio": "可唔可以幫我加啲水呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous me resservir de l'eau, s'il vous plaît ?",
+            "audio": "Pourriez-vous_me_resservir_de_l'eau,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könnten Sie bitte mein Wasser nachfüllen?",
+            "audio": "Könnten_Sie_bitte_mein_Wasser_nachfüllen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podría rellenar mi agua, por favor?",
+            "audio": "¿Podría_rellenar_mi_agua,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы долить мне воды? (Ne mogli by vy dolit' mne vody?)",
+            "audio": "Не_могли_бы_вы_долить_мне_воды.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยเติมน้ำให้หน่อยได้ไหม (chûay dterm náam hâi nòi dâi mǎi)",
+            "audio": "ช่วยเติมน้ำให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda mengisi ulang air saya?",
+            "audio": "Bisakah_Anda_mengisi_ulang_air_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以幫我加滿水嗎？",
+            "audio": "可以幫我加滿水嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res015",
+        "category": "Lesson 22 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我想要加點一份甜點。",
+        "CN_ENG": {
+            "word": "I would like to order an extra dessert.",
+            "audio": "I_would_like_to_order_an_extra_dessert..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "デザートを一つ追加で注文したいです (でざーとをひとつついかでちゅうもんしたいです)",
+            "audio": "でざーとをひとつついかでちゅうもんしたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "디저트 하나 더 추가할게요. (dijeoteu hana deo chugahalgeyo.)",
+            "audio": "디저트_하나_더_추가할게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn gọi thêm một phần tráng miệng.",
+            "audio": "Tôi_muốn_gọi_thêm_một_phần_tráng_miệng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想加叫一份甜品。 (ngo5 soeng2 gaa1 giu3 jat1 fan6 tim4 ban2.)",
+            "audio": "我想加叫一份甜品。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je voudrais commander un dessert supplémentaire.",
+            "audio": "Je_voudrais_commander_un_dessert_supplémentaire..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte noch ein Dessert bestellen.",
+            "audio": "Ich_möchte_noch_ein_Dessert_bestellen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me gustaría pedir un postre extra.",
+            "audio": "Me_gustaría_pedir_un_postre_extra..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я хотел бы заказать дополнительный десерт. (Ya khotel by zakazat' dopolnitel'nyy desert.)",
+            "audio": "Я_хотел_бы_заказать_дополнительный_десерт..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอสั่งของหวานเพิ่มหนึ่งที่ (chǎn kǒr sǎng kǒng wǎan pêrm nèung têe)",
+            "audio": "ฉันขอสั่งของหวานเพิ่มหนึ่งที่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin memesan makanan penutup tambahan.",
+            "audio": "Saya_ingin_memesan_makanan_penutup_tambahan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想要加點一份甜點。",
+            "audio": "我想要加點一份甜點。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res016",
+        "category": "Lesson 23 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "麻煩幫我把剩下的打包。",
+        "CN_ENG": {
+            "word": "Please pack the leftovers for me.",
+            "audio": "Please_pack_the_leftovers_for_me..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "残ったものをお持ち帰り用に包んでください (のこったものをおもちかえりようにつつんでください)",
+            "audio": "のこったものをおもちかえりようにつつんでください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "남은 음식 좀 포장해 주시겠어요? (nam-eun eumsig jom pojanghae jusigess-eoyo?)",
+            "audio": "남은_음식_좀_포장해_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phiền bạn gói phần thức ăn thừa lại giúp tôi.",
+            "audio": "Phiền_bạn_gói_phần_thức_ăn_thừa_lại_giúp_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩幫我將剩低嘅打包。 (maa4 faan4 bong1 ngo5 zoeng1 zing6 dai1 ge3 daa2 baau1.)",
+            "audio": "麻煩幫我將剩低嘅打包。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvez-vous emballer les restes, s'il vous plaît ?",
+            "audio": "Pouvez-vous_emballer_les_restes,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können Sie mir bitte die Reste einpacken?",
+            "audio": "Können_Sie_mir_bitte_die_Reste_einpacken.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, empáqueme las sobras.",
+            "audio": "Por_favor,_empáqueme_las_sobras..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, упакуйте мне остатки. (Pozhaluysta, upakuyte mne ostatki.)",
+            "audio": "Пожалуйста,_упакуйте_мне_остатки..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยห่ออาหารที่เหลือให้หน่อย (chûay hòr aa-hǎan têe lěua hâi nòi)",
+            "audio": "ช่วยห่ออาหารที่เหลือให้หน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong bungkuskan sisanya untuk saya.",
+            "audio": "Tolong_bungkuskan_sisanya_untuk_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "麻煩幫我把剩下的打包。",
+            "audio": "麻煩幫我把剩下的打包。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res017",
+        "category": "Lesson 24 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請問可以在桌邊結帳嗎？",
+        "CN_ENG": {
+            "word": "Can we pay at the table?",
+            "audio": "Can_we_pay_at_the_table.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "テーブルで会計できますか (てーぶるでかいけいできますか)",
+            "audio": "てーぶるでかいけいできますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "테이블에서 계산할 수 있나요? (teibeul-eseo gyesanhal su issnayo?)",
+            "audio": "테이블에서_계산할_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi có thể thanh toán tại bàn không?",
+            "audio": "Chúng_tôi_có_thể_thanh_toán_tại_bàn_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問可唔可以喺枱面埋單呀？ (cing2 man6 ho2 m4 ho2 ji5 hai2 toi4 min2 maai4 daan1 aa3?)",
+            "audio": "請問可唔可以喺枱面埋單呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pouvons-nous payer à la table ?",
+            "audio": "Pouvons-nous_payer_à_la_table.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Können wir am Tisch bezahlen?",
+            "audio": "Können_wir_am_Tisch_bezahlen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podemos pagar en la mesa?",
+            "audio": "¿Podemos_pagar_en_la_mesa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Можем ли мы оплатить счет за столом? (Mozhem li my oplatit' schet za stolom?)",
+            "audio": "Можем_ли_мы_оплатить_счет_за_столом.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "จ่ายเงินที่โต๊ะได้ไหม (jàai ngern têe dtó dâi mǎi)",
+            "audio": "จ่ายเงินที่โต๊ะได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah kita membayar di meja?",
+            "audio": "Bisakah_kita_membayar_di_meja.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問可以在桌邊結帳嗎？",
+            "audio": "請問可以在桌邊結帳嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res018",
+        "category": "Lesson 25 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請分開結帳，謝謝。",
+        "CN_ENG": {
+            "word": "Please split the bill, thank you.",
+            "audio": "Please_split_the_bill,_thank_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お会計は別々にお願いします (おかいけいはべつべつにおねがいします)",
+            "audio": "おかいけいはべつべつにおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "계산은 따로따로 해주세요. (gyesan-eun ttalottalo haejuseyo.)",
+            "audio": "계산은_따로따로_해주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng tính tiền riêng, cảm ơn.",
+            "audio": "Vui_lòng_tính_tiền_riêng,_cảm_ơn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩分開計數，多謝。 (maa4 faan4 fan1 hoi1 gai3 sou3, do1 ze6.)",
+            "audio": "麻煩分開計數，多謝。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Des additions séparées, s'il vous plaît.",
+            "audio": "Des_additions_séparées,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte getrennt zahlen, danke.",
+            "audio": "Bitte_getrennt_zahlen,_danke..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, divida la cuenta, gracias.",
+            "audio": "Por_favor,_divida_la_cuenta,_gracias..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, разделите счет, спасибо. (Pozhaluysta, razdelite schet, spasibo.)",
+            "audio": "Пожалуйста,_разделите_счет,_спасибо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยแยกบิลด้วยครับ ขอบคุณ (chûay yâek bin dûay kráp kòp-kun)",
+            "audio": "ช่วยแยกบิลด้วยครับ_ขอบคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong pisahkan tagihannya, terima kasih.",
+            "audio": "Tolong_pisahkan_tagihannya,_terima_kasih..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請分開結帳，謝謝。",
+            "audio": "請分開結帳，謝謝。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res019",
+        "category": "Lesson 26 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "這個帳單好像有點錯誤。",
+        "CN_ENG": {
+            "word": "There seems to be a mistake on this bill.",
+            "audio": "There_seems_to_be_a_mistake_on_this_bill..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この請求書に間違いがあるようです (このせいきゅうしょにまちがいがあるようです)",
+            "audio": "このせいきゅうしょにまちがいがあるようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 계산서에 약간의 오류가 있는 것 같아요. (i gyesanseoe yaggan-ui olyuga issneun geos gat-ayo.)",
+            "audio": "이_계산서에_약간의_오류가_있는_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hóa đơn này hình như có chút sai sót.",
+            "audio": "Hóa_đơn_này_hình_như_có_chút_sai_sót..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢張單好似有啲錯。 (ni1 zoeng1 daan1 hou2 ci5 jau5 di1 co3.)",
+            "audio": "呢張單好似有啲錯。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il semble y avoir une erreur sur cette addition.",
+            "audio": "Il_semble_y_avoir_une_erreur_sur_cette_addition..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Es scheint einen Fehler auf dieser Rechnung zu geben.",
+            "audio": "Es_scheint_einen_Fehler_auf_dieser_Rechnung_zu_geben..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Parece que hay un error en esta cuenta.",
+            "audio": "Parece_que_hay_un_error_en_esta_cuenta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Кажется, в этом счете есть ошибка. (Kazhetsya, v etom schete yest' oshibka.)",
+            "audio": "Кажется,_в_этом_счете_есть_ошибка..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "บิลนี้เหมือนจะมีข้อผิดพลาด (bin née měuan jà mee kôr pìt-plâat)",
+            "audio": "บิลนี้เหมือนจะมีข้อผิดพลาด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sepertinya ada kesalahan pada tagihan ini.",
+            "audio": "Sepertinya_ada_kesalahan_pada_tagihan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個帳單好像有點錯誤。",
+            "audio": "這個帳單好像有點錯誤。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res020",
+        "category": "Lesson 27 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "今天的餐點非常美味。",
+        "CN_ENG": {
+            "word": "The meal today was very delicious.",
+            "audio": "The_meal_today_was_very_delicious..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日の料理はとても美味しかったです (きょうのりょうりはとてもおいしかったです)",
+            "audio": "きょうのりょうりはとてもおいしかったです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 식사 정말 맛있었습니다. (oneul sigsa jeongmal mas-iss-eossseubnida.)",
+            "audio": "오늘_식사_정말_맛있었습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bữa ăn hôm nay rất ngon miệng.",
+            "audio": "Bữa_ăn_hôm_nay_rất_ngon_miệng..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "今日嘅嘢食非常好味。 (gam1 jat6 ge3 je5 sik6 fei1 soeng4 hou2 mei6.)",
+            "audio": "今日嘅嘢食非常好味。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Le repas d'aujourd'hui était très délicieux.",
+            "audio": "Le_repas_d'aujourd'hui_était_très_délicieux..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das Essen heute war sehr lecker.",
+            "audio": "Das_Essen_heute_war_sehr_lecker..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "La comida de hoy estuvo muy deliciosa.",
+            "audio": "La_comida_de_hoy_estuvo_muy_deliciosa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Еда сегодня была очень вкусной. (Yeda segodnya byla ochen' vkusnoy.)",
+            "audio": "Еда_сегодня_была_очень_вкусной..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "อาหารวันนี้อร่อยมาก (aa-hǎan wan-née a-ròi mâak)",
+            "audio": "อาหารวันนี้อร่อยมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Makanannya hari ini sangat lezat.",
+            "audio": "Makanannya_hari_ini_sangat_lezat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "今天的餐點非常美味。",
+            "audio": "今天的餐點非常美味。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res021",
+        "category": "Lesson 28 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請問有靠窗的座位嗎？",
+        "CN_ENG": {
+            "word": "Are there any window seats available?",
+            "audio": "Are_there_any_window_seats_available.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "窓際の席はありますか (まどぎわのせきはありますか)",
+            "audio": "まどぎわのせきはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "창가 자리가 있나요? (chang-ga jaliga issnayo?)",
+            "audio": "창가_자리가_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có chỗ ngồi gần cửa sổ không?",
+            "audio": "Có_chỗ_ngồi_gần_cửa_sổ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問有冇靠窗嘅位呀？ (cing2 man6 jau5 mou5 kaau3 coeng1 ge3 wai2 aa3?)",
+            "audio": "請問有冇靠窗嘅位呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des places près de la fenêtre ?",
+            "audio": "Y_a-t-il_des_places_près_de_la_fenêtre.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es Fensterplätze?",
+            "audio": "Gibt_es_Fensterplätze.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay asientos junto a la ventana disponibles?",
+            "audio": "¿Hay_asientos_junto_a_la_ventana_disponibles.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли места у окна? (Yest' li mesta u okna?)",
+            "audio": "Есть_ли_места_у_окна.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "มีที่นั่งริมหน้าต่างไหม (mee têe-nàng rim nâa-dtàang mǎi)",
+            "audio": "มีที่นั่งริมหน้าต่างไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada kursi dekat jendela yang tersedia?",
+            "audio": "Apakah_ada_kursi_dekat_jendela_yang_tersedia.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問有靠窗的座位嗎？",
+            "audio": "請問有靠窗的座位嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res022",
+        "category": "Lesson 29 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我們沒有先訂位。",
+        "CN_ENG": {
+            "word": "We do not have a reservation.",
+            "audio": "We_do_not_have_a_reservation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "予約はしていません (よやくはしていません)",
+            "audio": "よやくはしていません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "예약을 하지 않았습니다. (yeyag-eul haji anh-assseubnida.)",
+            "audio": "예약을_하지_않았습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi không đặt bàn trước.",
+            "audio": "Chúng_tôi_không_đặt_bàn_trước..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋冇預先訂位。 (ngo5 dei6 mou5 jyu6 sin1 ding6 wai2.)",
+            "audio": "我哋冇預先訂位。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous n'avons pas de réservation.",
+            "audio": "Nous_n'avons_pas_de_réservation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir haben keine Reservierung.",
+            "audio": "Wir_haben_keine_Reservierung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No tenemos reservación.",
+            "audio": "No_tenemos_reservación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У нас нет бронирования. (U nas net bronirovaniya.)",
+            "audio": "У_нас_нет_бронирования..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไม่ได้จองไว้ (rao mâi dâi jong wái)",
+            "audio": "เราไม่ได้จองไว้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami belum melakukan reservasi.",
+            "audio": "Kami_belum_melakukan_reservasi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們沒有先訂位。",
+            "audio": "我們沒有先訂位。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res023",
+        "category": "Lesson 30 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我們準備好要點餐了。",
+        "CN_ENG": {
+            "word": "We are ready to order.",
+            "audio": "We_are_ready_to_order..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "注文する準備ができました (ちゅうもんするじゅんびができました)",
+            "audio": "ちゅうもんするじゅんびができました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이제 주문할 준비가 되었습니다. (ije jumunhal junbiga doeeossseubnida.)",
+            "audio": "이제_주문할_준비가_되었습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng tôi đã sẵn sàng gọi món.",
+            "audio": "Chúng_tôi_đã_sẵn_sàng_gọi_món..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋準備好叫嘢食啦。 (ngo5 dei6 zeon2 bei6 hou2 giu3 je5 sik6 laa1.)",
+            "audio": "我哋準備好叫嘢食啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Nous sommes prêts à commander.",
+            "audio": "Nous_sommes_prêts_à_commander..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wir sind bereit zu bestellen.",
+            "audio": "Wir_sind_bereit_zu_bestellen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estamos listos para pedir.",
+            "audio": "Estamos_listos_para_pedir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мы готовы сделать заказ. (My gotovy sdelat' zakaz.)",
+            "audio": "Мы_готовы_сделать_заказ..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราพร้อมจะสั่งอาหารแล้ว (rao próm jà sǎng aa-hǎan láew)",
+            "audio": "เราพร้อมจะสั่งอาหารแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kami siap untuk memesan.",
+            "audio": "Kami_siap_untuk_memesan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們準備好要點餐了。",
+            "audio": "我們準備好要點餐了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res024",
+        "category": "Lesson 31 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請問這個有素食的版本嗎？",
+        "CN_ENG": {
+            "word": "Is there a vegetarian version of this?",
+            "audio": "Is_there_a_vegetarian_version_of_this.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これのベジタリアン用はありますか (これのべじたりあんようはありますか)",
+            "audio": "これのべじたりあんようはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이거 채식주의자용 버전이 있나요? (igeo chaesigjuuijayong beojeon-i issnayo?)",
+            "audio": "이거_채식주의자용_버전이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món này có phiên bản chay không?",
+            "audio": "Món_này_có_phiên_bản_chay_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢個有冇素食版呀？ (cing2 man6 ni1 go3 jau5 mou5 sou3 sik6 baan2 aa3?)",
+            "audio": "請問呢個有冇素食版呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il une version végétarienne de cela ?",
+            "audio": "Y_a-t-il_une_version_végétarienne_de_cela.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es davon eine vegetarische Version?",
+            "audio": "Gibt_es_davon_eine_vegetarische_Version.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay una versión vegetariana de esto?",
+            "audio": "¿Hay_una_versión_vegetariana_de_esto.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть ли вегетарианская версия этого блюда? (Yest' li vegetarianskaya versiya etogo blyuda?)",
+            "audio": "Есть_ли_вегетарианская_версия_этого_блюда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เมนูนี้มีแบบมังสวิรัติไหม (may-noo née mee bàep mang-sǎ-wí-rát mǎi)",
+            "audio": "เมนูนี้มีแบบมังสวิรัติไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada versi vegetarian untuk ini?",
+            "audio": "Apakah_ada_versi_vegetarian_untuk_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這個有素食的版本嗎？",
+            "audio": "請問這個有素食的版本嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res025",
+        "category": "Lesson 32 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請幫我的飲料去冰。",
+        "CN_ENG": {
+            "word": "Please make my drink without ice.",
+            "audio": "Please_make_my_drink_without_ice..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "飲み物は氷抜きでお願いします (のみものはこおりぬきでおねがいします)",
+            "audio": "のみものはこおりぬきでおねがいします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "음료에 얼음은 빼주세요. (eumlyoe eol-eum-eun ppaejuseyo.)",
+            "audio": "음료에_얼음은_빼주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Vui lòng không cho đá vào đồ uống của tôi.",
+            "audio": "Vui_lòng_không_cho_đá_vào_đồ_uống_của_tôi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "麻煩我杯嘢飲走冰。 (maa4 faan4 ngo5 bui1 je5 jam2 zau2 bing1.)",
+            "audio": "麻煩我杯嘢飲走冰。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Sans glaçons pour ma boisson, s'il vous plaît.",
+            "audio": "Sans_glaçons_pour_ma_boisson,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte mein Getränk ohne Eis.",
+            "audio": "Bitte_mein_Getränk_ohne_Eis..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, mi bebida sin hielo.",
+            "audio": "Por_favor,_mi_bebida_sin_hielo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, сделайте мой напиток без льда. (Pozhaluysta, sdelayte moy napitok bez l'da.)",
+            "audio": "Пожалуйста,_сделайте_мой_напиток_без_льда..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เครื่องดื่มขอไม่ใส่น้ำแข็ง (krêuang-dèum kǒr mâi sài náam-kǎng)",
+            "audio": "เครื่องดื่มขอไม่ใส่น้ำแข็ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong buatkan minuman saya tanpa es.",
+            "audio": "Tolong_buatkan_minuman_saya_tanpa_es..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請幫我的飲料去冰。",
+            "audio": "請幫我的飲料去冰。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res026",
+        "category": "Lesson 33 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "這份沙拉不需要加沙拉醬。",
+        "CN_ENG": {
+            "word": "No dressing is needed for this salad.",
+            "audio": "No_dressing_is_needed_for_this_salad..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "このサラダにはドレッシングをかけないでください (このさらだにはどれっしんぐをかけないでください)",
+            "audio": "このさらだにはどれっしんぐをかけないでください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 샐러드에는 드레싱을 넣지 마세요. (i saelleodeueneun deulesing-eul neohji maseyo.)",
+            "audio": "이_샐러드에는_드레싱을_넣지_마세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món salad này không cần thêm nước sốt.",
+            "audio": "Món_salad_này_không_cần_thêm_nước_sốt..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢份沙律唔需要加沙律醬。 (ni1 fan6 saa1 leot2 m4 seoi1 jiu3 gaa1 saa1 leot2 zoeng3.)",
+            "audio": "呢份沙律唔需要加沙律醬。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pas de vinaigrette pour cette salade, s'il vous plaît.",
+            "audio": "Pas_de_vinaigrette_pour_cette_salade,_s'il_vous_plaît..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Kein Dressing für diesen Salat nötig.",
+            "audio": "Kein_Dressing_für_diesen_Salat_nötig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No se necesita aderezo para esta ensalada.",
+            "audio": "No_se_necesita_aderezo_para_esta_ensalada..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Для этого салата не нужна заправка. (Dlya etogo salata ne nuzhna zapravka.)",
+            "audio": "Для_этого_салата_не_нужна_заправка..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สลัดนี้ไม่ต้องใส่น้ำสลัด (sà-làt née mâi dtông sài náam sà-làt)",
+            "audio": "สลัดนี้ไม่ต้องใส่น้ำสลัด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Salad ini tidak perlu tambahan saus.",
+            "audio": "Salad_ini_tidak_perlu_tambahan_saus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這份沙拉不需要加沙拉醬。",
+            "audio": "這份沙拉不需要加沙拉醬。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res027",
+        "category": "Lesson 34 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "可以幫我催一下菜嗎？",
+        "CN_ENG": {
+            "word": "Could you check on our order, please?",
+            "audio": "Could_you_check_on_our_order,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "料理を急いでもらえますか (りょうりをいそいでもらえますか)",
+            "audio": "りょうりをいそいでもらえますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "음식 좀 빨리 나오게 해주시겠어요? (eumsig jom ppalli naoge haejusigess-eoyo?)",
+            "audio": "음식_좀_빨리_나오게_해주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể giục nhà bếp làm nhanh giúp tôi không?",
+            "audio": "Có_thể_giục_nhà_bếp_làm_nhanh_giúp_tôi_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫我催下單呀？ (ho2 m4 ho2 ji5 bong1 ngo5 ceoi1 haa5 daan1 aa3?)",
+            "audio": "可唔可以幫我催下單呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous vérifier notre commande, s'il vous plaît ?",
+            "audio": "Pourriez-vous_vérifier_notre_commande,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könnten Sie bitte nach unserer Bestellung sehen?",
+            "audio": "Könnten_Sie_bitte_nach_unserer_Bestellung_sehen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podría revisar nuestro pedido, por favor?",
+            "audio": "¿Podría_revisar_nuestro_pedido,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы поторопить наш заказ? (Ne mogli by vy potoropit' nash zakaz?)",
+            "audio": "Не_могли_бы_вы_поторопить_наш_заказ.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ช่วยตามอาหารให้หน่อยได้ไหม (chûay dtaam aa-hǎan hâi nòi dâi mǎi)",
+            "audio": "ช่วยตามอาหารให้หน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda mengecek pesanan kami?",
+            "audio": "Bisakah_Anda_mengecek_pesanan_kami.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以幫我催一下菜嗎？",
+            "audio": "可以幫我催一下菜嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res028",
+        "category": "Lesson 35 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "我不小心把叉子弄掉了。",
+        "CN_ENG": {
+            "word": "I accidentally dropped my fork.",
+            "audio": "I_accidentally_dropped_my_fork..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "うっかりフォークを落としてしまいました (うっかりふぉーくをおとしてしまいました)",
+            "audio": "うっかりふぉーくをおとしてしまいました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "실수로 포크를 떨어뜨렸어요. (silsulo pokeuleul tteoleotteulyeoss-eoyo.)",
+            "audio": "실수로_포크를_떨어뜨렸어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi lỡ làm rơi cái nĩa rồi.",
+            "audio": "Tôi_lỡ_làm_rơi_cái_nĩa_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔小心跌咗隻叉。 (ngo5 m4 siu2 sam1 dit3 zo2 zek3 caa1.)",
+            "audio": "我唔小心跌咗隻叉。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai fait tomber ma fourchette par accident.",
+            "audio": "J'ai_fait_tomber_ma_fourchette_par_accident..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe versehentlich meine Gabel fallen lassen.",
+            "audio": "Ich_habe_versehentlich_meine_Gabel_fallen_lassen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Se me cayó el tenedor accidentalmente.",
+            "audio": "Se_me_cayó_el_tenedor_accidentalmente..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я случайно уронил вилку. (Ya sluchayno uronil vilku.)",
+            "audio": "Я_случайно_уронил_вилку..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันทำส้อมตกโดยไม่ตั้งใจ (chǎn tam sôm dtòk dooy mâi dtâng jai)",
+            "audio": "ฉันทำส้อมตกโดยไม่ตั้งใจ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak sengaja menjatuhkan garpu saya.",
+            "audio": "Saya_tidak_sengaja_menjatuhkan_garpu_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不小心把叉子弄掉了。",
+            "audio": "我不小心把叉子弄掉了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res029",
+        "category": "Lesson 36 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "請問這裡有收一成服務費嗎？",
+        "CN_ENG": {
+            "word": "Is there a 10% service charge here?",
+            "audio": "Is_there_a_10%_service_charge_here.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここは10％のサービス料がかかりますか (ここはじゅっぱーせんとのさーびすりょうがかかりますか)",
+            "audio": "ここはじゅっぱーせんとのさーびすりょうがかかりますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기는 10% 봉사료가 추가되나요? (yeogineun 10% bongsalyoga chugadoenayo?)",
+            "audio": "여기는_10%_봉사료가_추가되나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Ở đây có thu 10% phí phục vụ không?",
+            "audio": "Ở_đây_có_thu_10%_phí_phục_vụ_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問呢度有冇收加一服務費呀？ (cing2 man6 ni1 dou6 jau5 mou5 sau1 gaa1 jat1 fuk6 mou6 fai3 aa3?)",
+            "audio": "請問呢度有冇收加一服務費呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Y a-t-il des frais de service de 10% ici ?",
+            "audio": "Y_a-t-il_des_frais_de_service_de_10%_ici.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gibt es hier eine Servicegebühr von 10 %?",
+            "audio": "Gibt_es_hier_eine_Servicegebühr_von_10_%.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Hay un cargo por servicio del 10% aquí?",
+            "audio": "¿Hay_un_cargo_por_servicio_del_10%_aquí.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здесь взимается сервисный сбор в размере 10%? (Zdes' vzimayetsya servisnyy sbor v razmere 10%?)",
+            "audio": "Здесь_взимается_сервисный_сбор_в_размере_10%.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ที่นี่มีคิดค่าบริการสิบเปอร์เซ็นต์ไหม (têe-nêe mee kít kâa bor-rí-gaan sìp bper-sen mǎi)",
+            "audio": "ที่นี่มีคิดค่าบริการสิบเปอร์เซ็นต์ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada biaya layanan 10% di sini?",
+            "audio": "Apakah_ada_biaya_layanan_10%_di_sini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問這裡有收一成服務費嗎？",
+            "audio": "請問這裡有收一成服務費嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "sen_res030",
+        "category": "Lesson 37 🍚食物 (Food)",
+        "subcategory": "餐廳短句",
+        "cn": "可以給我收據嗎？",
+        "CN_ENG": {
+            "word": "Could you give me the receipt, please?",
+            "audio": "Could_you_give_me_the_receipt,_please.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "領収書をいただけますか (りょうしゅうしょをいただけますか)",
+            "audio": "りょうしゅうしょをいただけますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "영수증 좀 주시겠어요? (yeongsujeung jom jusigess-eoyo?)",
+            "audio": "영수증_좀_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Có thể cho tôi biên lai không?",
+            "audio": "Có_thể_cho_tôi_biên_lai_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以畀張收據我呀？ (ho2 m4 ho2 ji5 bei2 zoeng1 sau1 geoi3 ngo5 aa3?)",
+            "audio": "可唔可以畀張收據我呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous me donner le reçu, s'il vous plaît ?",
+            "audio": "Pourriez-vous_me_donner_le_reçu,_s'il_vous_plaît.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könnten Sie mir bitte die Quittung geben?",
+            "audio": "Könnten_Sie_mir_bitte_die_Quittung_geben.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podría darme el recibo, por favor?",
+            "audio": "¿Podría_darme_el_recibo,_por_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы дать мне чек, пожалуйста? (Ne mogli by vy dat' mne chek, pozhaluysta?)",
+            "audio": "Не_могли_бы_вы_дать_мне_чек,_пожалуйста.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอใบเสร็จรับเงินด้วยครับ (kǒr bai-sèt ráp ngern dûay kráp)",
+            "audio": "ขอใบเสร็จรับเงินด้วยครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah saya minta setruknya?",
+            "audio": "Bolehkah_saya_minta_setruknya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以給我收據嗎？",
+            "audio": "可以給我收據嗎？.mp3",
             "folder": "CN_ZH/audio"
         }
     },
@@ -266448,2054 +265128,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen_res001",
-        "category": "餐廳短句",
-        "subcategory": "帶位與入座",
-        "cn": "請問現在有空位嗎？",
-        "CN_ENG": {
-            "word": "Are there any available seats now?",
-            "audio": "Are_there_any_available_seats_now.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "今、空席はありますか (いま、くうせきはありますか)",
-            "audio": "いま、くうせきはありますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "지금 빈자리 있나요? (jigeum binjali issnayo?)",
-            "audio": "지금_빈자리_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bây giờ có chỗ trống không?",
-            "audio": "Bây_giờ_có_chỗ_trống_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問而家有冇位呀？ (cing2 man6 ji4 gaa1 jau5 mou5 wai2 aa3?)",
-            "audio": "請問而家有冇位呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Y a-t-il des places disponibles maintenant ?",
-            "audio": "Y_a-t-il_des_places_disponibles_maintenant.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Gibt es jetzt freie Plätze?",
-            "audio": "Gibt_es_jetzt_freie_Plätze.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Hay asientos disponibles ahora?",
-            "audio": "¿Hay_asientos_disponibles_ahora.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Есть ли сейчас свободные места? (Yest' li seychas svobodnyye mesta?)",
-            "audio": "Есть_ли_сейчас_свободные_места.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ตอนนี้มีที่นั่งว่างไหม (dton-née mee têe-nàng wâang mǎi)",
-            "audio": "ตอนนี้มีที่นั่งว่างไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah ada kursi kosong sekarang?",
-            "audio": "Apakah_ada_kursi_kosong_sekarang.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問現在有空位嗎？",
-            "audio": "請問現在有空位嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res002",
-        "category": "餐廳短句",
-        "subcategory": "帶位與入座",
-        "cn": "我們一共有四個人。",
-        "CN_ENG": {
-            "word": "We have four people in total.",
-            "audio": "We_have_four_people_in_total..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "私たちは全部で4人です (わたしたちはぜんぶでよにんです)",
-            "audio": "わたしたちはぜんぶでよにんです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "저희는 총 네 명입니다. (jeohuineun chong ne myeong-ibnida.)",
-            "audio": "저희는_총_네_명입니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúng tôi có tổng cộng bốn người.",
-            "audio": "Chúng_tôi_có_tổng_cộng_bốn_người..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋總共有四個人。 (ngo5 dei6 zung2 gung6 jau5 sei3 go3 jan4.)",
-            "audio": "我哋總共有四個人。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Nous sommes quatre en tout.",
-            "audio": "Nous_sommes_quatre_en_tout..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wir sind insgesamt vier Personen.",
-            "audio": "Wir_sind_insgesamt_vier_Personen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Somos cuatro en total.",
-            "audio": "Somos_cuatro_en_total..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Нас всего четыре человека. (Nas vsego chetyre cheloveka.)",
-            "audio": "Нас_всего_четыре_человека..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "พวกเรามีทั้งหมดสี่คน (pûak-rao mee táng-mòt sèe kon)",
-            "audio": "พวกเรามีทั้งหมดสี่คน.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Kami berempat totalnya.",
-            "audio": "Kami_berempat_totalnya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們一共有四個人。",
-            "audio": "我們一共有四個人。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res003",
-        "category": "餐廳短句",
-        "subcategory": "點餐服務",
-        "cn": "請給我一份菜單，謝謝。",
-        "CN_ENG": {
-            "word": "Please give me a menu, thank you.",
-            "audio": "Please_give_me_a_menu,_thank_you..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "メニューを一つお願いします (めにゅーをひとつおねがいします)",
-            "audio": "めにゅーをひとつおねがいします.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "메뉴판 하나 주세요, 감사합니다. (menyupan hana juseyo, gamsahabnida.)",
-            "audio": "메뉴판_하나_주세요,_감사합니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Làm ơn cho tôi một thực đơn, cảm ơn.",
-            "audio": "Làm_ơn_cho_tôi_một_thực_đơn,_cảm_ơn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "唔該畀份餐牌我，多謝。 (m4 goi1 bei2 fan6 caan1 paai4 ngo5, do1 ze6.)",
-            "audio": "唔該畀份餐牌我，多謝。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Un menu, s'il vous plaît, merci.",
-            "audio": "Un_menu,_s'il_vous_plaît,_merci..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Eine Speisekarte bitte, danke.",
-            "audio": "Eine_Speisekarte_bitte,_danke..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Un menú por favor, gracias.",
-            "audio": "Un_menú_por_favor,_gracias..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Дайте мне меню, пожалуйста, спасибо. (Dayte mne menyu, pozhaluysta, spasibo.)",
-            "audio": "Дайте_мне_меню,_пожалуйста,_спасибо..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอเมนูหนึ่งที่ครับ ขอบคุณ (kǒr may-noo nèung têe kráp kòp-kun)",
-            "audio": "ขอเมนูหนึ่งที่ครับ_ขอบคุณ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tolong beri saya menu, terima kasih.",
-            "audio": "Tolong_beri_saya_menu,_terima_kasih..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請給我一份菜單，謝謝。",
-            "audio": "請給我一份菜單，謝謝。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res004",
-        "category": "餐廳短句",
-        "subcategory": "點餐服務",
-        "cn": "我們需要一點時間看菜單。",
-        "CN_ENG": {
-            "word": "We need some time to look at the menu.",
-            "audio": "We_need_some_time_to_look_at_the_menu..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "メニューを見る時間が少し必要です (めにゅーをみるじかんがすこしひつようです)",
-            "audio": "めにゅーをみるじかんがすこしひつようです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "메뉴를 볼 시간이 조금 필요해요. (menyuleul bol sigan-i jogeum pil-yohaeyo.)",
-            "audio": "메뉴를_볼_시간이_조금_필요해요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúng tôi cần chút thời gian xem thực đơn.",
-            "audio": "Chúng_tôi_cần_chút_thời_gian_xem_thực_đơn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋需要少少時間睇餐牌。 (ngo5 dei6 seoi1 jiu3 siu2 siu2 si4 gaan3 tai2 caan1 paai4.)",
-            "audio": "我哋需要少少時間睇餐牌。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Nous avons besoin d'un peu de temps pour regarder le menu.",
-            "audio": "Nous_avons_besoin_d'un_peu_de_temps_pour_regarder_le_menu..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wir brauchen etwas Zeit, um die Speisekarte anzusehen.",
-            "audio": "Wir_brauchen_etwas_Zeit,_um_die_Speisekarte_anzusehen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Necesitamos algo de tiempo para mirar el menú.",
-            "audio": "Necesitamos_algo_de_tiempo_para_mirar_el_menú..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Нам нужно немного времени, чтобы посмотреть меню. (Nam nuzhno nemnogo vremeni, chtoby posmotret' menyu.)",
-            "audio": "Нам_нужно_немного_времени,_чтобы_посмотреть_меню..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เราขอเวลาดูเมนูสักครู่ (rao kǒr way-laa doo may-noo sàk krôo)",
-            "audio": "เราขอเวลาดูเมนูสักครู่.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Kami butuh waktu sebentar untuk melihat menu.",
-            "audio": "Kami_butuh_waktu_sebentar_untuk_melihat_menu..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們需要一點時間看菜單。",
-            "audio": "我們需要一點時間看菜單。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res005",
-        "category": "餐廳短句",
-        "subcategory": "點餐服務",
-        "cn": "請問有什麼推薦的招牌菜嗎？",
-        "CN_ENG": {
-            "word": "Are there any recommended signature dishes?",
-            "audio": "Are_there_any_recommended_signature_dishes.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "おすすめの看板料理はありますか (おすすめのかんばんりょうりはありますか)",
-            "audio": "おすすめのかんばんりょうりはありますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "추천할 만한 대표 요리가 있나요? (chucheonhal manhan daepyo yoliga issnayo?)",
-            "audio": "추천할_만한_대표_요리가_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Có món ăn đặc trưng nào được giới thiệu không?",
-            "audio": "Có_món_ăn_đặc_trưng_nào_được_giới_thiệu_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問有冇咩推薦嘅招牌菜呀？ (cing2 man6 jau5 mou5 me1 teoi1 zin3 ge3 ziu1 paai4 coi3 aa3?)",
-            "audio": "請問有冇咩推薦嘅招牌菜呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Y a-t-il des plats signatures recommandés ?",
-            "audio": "Y_a-t-il_des_plats_signatures_recommandés.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Gibt es empfohlene Spezialitäten des Hauses?",
-            "audio": "Gibt_es_empfohlene_Spezialitäten_des_Hauses.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Hay algún plato de la casa recomendado?",
-            "audio": "¿Hay_algún_plato_de_la_casa_recomendado.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Есть ли какие-нибудь рекомендуемые фирменные блюда? (Yest' li kakiye-nibud' rekomenduyemyye firmennyye blyuda?)",
-            "audio": "Есть_ли_какие-нибудь_рекомендуемые_фирменные_блюда.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "มีเมนูแนะนำที่เป็นอาหารจานเด็ดไหม (mee may-noo náe-nam têe bpen aa-hǎan jaan dèt mǎi)",
-            "audio": "มีเมนูแนะนำที่เป็นอาหารจานเด็ดไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah ada hidangan khas yang direkomendasikan?",
-            "audio": "Apakah_ada_hidangan_khas_yang_direkomendasikan.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問有什麼推薦的招牌菜嗎？",
-            "audio": "請問有什麼推薦的招牌菜嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res006",
-        "category": "餐廳短句",
-        "subcategory": "點餐服務",
-        "cn": "我想要點和這個一樣的。",
-        "CN_ENG": {
-            "word": "I would like to order the same as this.",
-            "audio": "I_would_like_to_order_the_same_as_this..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "これと同じものを注文したいです (これとおなじものをちゅうもんしたいです)",
-            "audio": "これとおなじものをちゅうもんしたいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이것과 같은 걸로 주문할게요. (igeosgwa gat-eun geollo jumunhalgeyo.)",
-            "audio": "이것과_같은_걸로_주문할게요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi muốn gọi món giống thế này.",
-            "audio": "Tôi_muốn_gọi_món_giống_thế_này..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我想叫一份同呢個一樣嘅。 (ngo5 soeng2 giu3 jat1 fan6 tung4 ni1 go3 jat1 joeng6 ge3.)",
-            "audio": "我想叫一份同呢個一樣嘅。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je voudrais commander la même chose que ça.",
-            "audio": "Je_voudrais_commander_la_même_chose_que_ça..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich möchte das Gleiche wie das hier bestellen.",
-            "audio": "Ich_möchte_das_Gleiche_wie_das_hier_bestellen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Me gustaría pedir lo mismo que esto.",
-            "audio": "Me_gustaría_pedir_lo_mismo_que_esto..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я хотел бы заказать то же самое, что и это. (Ya khotel by zakazat' to zhe samoye, chto i eto.)",
-            "audio": "Я_хотел_бы_заказать_то_же_самое,_что_и_это..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันขอสั่งเหมือนอันนี้ (chǎn kǒr sǎng měuan an-née)",
-            "audio": "ฉันขอสั่งเหมือนอันนี้.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya ingin memesan yang sama dengan ini.",
-            "audio": "Saya_ingin_memesan_yang_sama_dengan_ini..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我想要點和這個一樣的。",
-            "audio": "我想要點和這個一樣的。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res007",
-        "category": "餐廳短句",
-        "subcategory": "特殊需求",
-        "cn": "這道菜會很辣嗎？",
-        "CN_ENG": {
-            "word": "Is this dish very spicy?",
-            "audio": "Is_this_dish_very_spicy.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "この料理はとても辛いですか (このりょうりはとてもからいですか)",
-            "audio": "このりょうりはとてもからいですか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이 요리는 많이 매운가요? (i yolineun manh-i maeungayo?)",
-            "audio": "이_요리는_많이_매운가요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Món này có cay lắm không?",
-            "audio": "Món_này_có_cay_lắm_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢味餸會唔會好辣呀？ (ni1 mei6 sung3 wui5 m4 wui5 hou2 laat6 aa3?)",
-            "audio": "呢味餸會唔會好辣呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Ce plat est-il très épicé ?",
-            "audio": "Ce_plat_est-il_très_épicé.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ist dieses Gericht sehr scharf?",
-            "audio": "Ist_dieses_Gericht_sehr_scharf.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Este plato es muy picante?",
-            "audio": "¿Este_plato_es_muy_picante.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Это блюдо очень острое? (Eto blyudo ochen' ostroye?)",
-            "audio": "Это_блюдо_очень_острое.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "อาหารจานนี้เผ็ดมากไหม (aa-hǎan jaan née pèt mâak mǎi)",
-            "audio": "อาหารจานนี้เผ็ดมากไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah hidangan ini sangat pedas?",
-            "audio": "Apakah_hidangan_ini_sangat_pedas.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這道菜會很辣嗎？",
-            "audio": "這道菜會很辣嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res008",
-        "category": "餐廳短句",
-        "subcategory": "特殊需求",
-        "cn": "請幫我把醬汁分開放。",
-        "CN_ENG": {
-            "word": "Please put the sauce on the side.",
-            "audio": "Please_put_the_sauce_on_the_side..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "ソースは別にしてください (そーすはべつにしてください)",
-            "audio": "そーすはべつにしてください.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "소스는 따로 담아 주세요. (soseuneun ttalo dam-a juseyo.)",
-            "audio": "소스는_따로_담아_주세요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Vui lòng để nước sốt riêng.",
-            "audio": "Vui_lòng_để_nước_sốt_riêng..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "麻煩幫我將啲汁分開上。 (maa4 faan4 bong1 ngo5 zoeng1 di1 zap1 fan1 hoi1 soeng5.)",
-            "audio": "麻煩幫我將啲汁分開上。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Veuillez mettre la sauce à part.",
-            "audio": "Veuillez_mettre_la_sauce_à_part..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Bitte die Soße separat servieren.",
-            "audio": "Bitte_die_Soße_separat_servieren..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Por favor, ponga la salsa aparte.",
-            "audio": "Por_favor,_ponga_la_salsa_aparte..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пожалуйста, подайте соус отдельно. (Pozhaluysta, podayte sous otdel'no.)",
-            "audio": "Пожалуйста,_подайте_соус_отдельно..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ช่วยแยกซอสให้ด้วยครับ (chûay yâek sót hâi dûay kráp)",
-            "audio": "ช่วยแยกซอสให้ด้วยครับ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tolong pisahkan sausnya.",
-            "audio": "Tolong_pisahkan_sausnya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請幫我把醬汁分開放。",
-            "audio": "請幫我把醬汁分開放。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res009",
-        "category": "餐廳短句",
-        "subcategory": "特殊需求",
-        "cn": "我對花生嚴重過敏。",
-        "CN_ENG": {
-            "word": "I have a severe allergy to peanuts.",
-            "audio": "I_have_a_severe_allergy_to_peanuts..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "私はピーナッツに重度のアレルギーがあります (わたしはぴーなっつにじゅうどのあれるぎーがあります)",
-            "audio": "わたしはぴーなっつにじゅうどのあれるぎーがあります.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "저는 땅콩에 심한 알레르기가 있습니다. (jeoneun ttangkong-e simhan alleleugiga issseubnida.)",
-            "audio": "저는_땅콩에_심한_알레르기가_있습니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi bị dị ứng nặng với đậu phộng.",
-            "audio": "Tôi_bị_dị_ứng_nặng_với_đậu_phộng..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我對花生有嚴重敏感。 (ngo5 deoi3 faa1 sang1 jau5 jim4 zung6 man5 gam2.)",
-            "audio": "我對花生有嚴重敏感。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "J'ai une grave allergie aux arachides.",
-            "audio": "J'ai_une_grave_allergie_aux_arachides..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich habe eine schwere Allergie gegen Erdnüsse.",
-            "audio": "Ich_habe_eine_schwere_Allergie_gegen_Erdnüsse..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Tengo una alergia grave a los cacahuetes.",
-            "audio": "Tengo_una_alergia_grave_a_los_cacahuetes..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "У меня сильная аллергия на арахис. (U menya sil'naya allergiya na arakhis.)",
-            "audio": "У_меня_сильная_аллергия_на_арахис..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันแพ้ถั่วลิสงอย่างรุนแรง (chǎn páe tùa-lí-sǒng yàang run-raeng)",
-            "audio": "ฉันแพ้ถั่วลิสงอย่างรุนแรง.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya memiliki alergi parah terhadap kacang tanah.",
-            "audio": "Saya_memiliki_alergi_parah_terhadap_kacang_tanah..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我對花生嚴重過敏。",
-            "audio": "我對花生嚴重過敏。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res010",
-        "category": "餐廳短句",
-        "subcategory": "點餐服務",
-        "cn": "這樣就夠了，先點這些。",
-        "CN_ENG": {
-            "word": "That is enough for now, I will order these first.",
-            "audio": "That_is_enough_for_now,_I_will_order_these_first..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "とりあえずこれで十分です (とりあえずこれでじゅうぶんです)",
-            "audio": "とりあえずこれでじゅうぶんです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "일단 이걸로 충분합니다. (ildan igeollo chungbunhabnida.)",
-            "audio": "일단_이걸로_충분합니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Như vậy là đủ rồi, trước tiên gọi những món này.",
-            "audio": "Như_vậy_là_đủ_rồi,_trước_tiên_gọi_những_món_này..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "咁樣就夠啦，先叫住呢啲先。 (gam2 joeng6 zeou6 gau3 laa1, sin1 giu3 zyu6 ni1 di1 sin1.)",
-            "audio": "咁樣就夠啦，先叫住呢啲先。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Ce sera tout pour le moment.",
-            "audio": "Ce_sera_tout_pour_le_moment..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Das reicht erst einmal.",
-            "audio": "Das_reicht_erst_einmal..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Eso es suficiente por ahora.",
-            "audio": "Eso_es_suficiente_por_ahora..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Этого пока достаточно. (Etogo poka dostatochno.)",
-            "audio": "Этого_пока_достаточно..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "แค่นี้พอก่อนครับ สั่งแค่นี้ก่อน (kâe née por gòn kráp sǎng kâe née gòn)",
-            "audio": "แค่นี้พอก่อนครับ_สั่งแค่นี้ก่อน.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Itu saja untuk saat ini, saya pesan ini dulu.",
-            "audio": "Itu_saja_untuk_saat_ini,_saya_pesan_ini_dulu..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這樣就夠了，先點這些。",
-            "audio": "這樣就夠了，先點這些。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res011",
-        "category": "餐廳短句",
-        "subcategory": "餐點進度",
-        "cn": "請問我們的餐點還要等多久？",
-        "CN_ENG": {
-            "word": "How much longer do we have to wait for our food?",
-            "audio": "How_much_longer_do_we_have_to_wait_for_our_food.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "私たちの料理はあとどれくらい待ちますか (わたしたちのりょうりはあとどれくらいまちますか)",
-            "audio": "わたしたちのりょうりはあとどれくらいまちますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "저희 음식은 얼마나 더 기다려야 하나요? (jeohui eumsig-eun eolmana deo gidalyeoya hanayo?)",
-            "audio": "저희_음식은_얼마나_더_기다려야_하나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Xin hỏi thức ăn của chúng tôi phải đợi bao lâu nữa?",
-            "audio": "Xin_hỏi_thức_ăn_của_chúng_tôi_phải_đợi_bao_lâu_nữa.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問我哋啲嘢食仲要等幾耐呀？ (cing2 man6 ngo5 dei6 di1 je5 sik6 zung6 jiu3 dang2 gei2 noi6 aa3?)",
-            "audio": "請問我哋啲嘢食仲要等幾耐呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Combien de temps devons-nous encore attendre pour notre repas ?",
-            "audio": "Combien_de_temps_devons-nous_encore_attendre_pour_notre_repas.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wie lange müssen wir noch auf unser Essen warten?",
-            "audio": "Wie_lange_müssen_wir_noch_auf_unser_Essen_warten.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Cuánto tiempo más tenemos que esperar por nuestra comida?",
-            "audio": "¿Cuánto_tiempo_más_tenemos_que_esperar_por_nuestra_comida.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Как долго нам еще ждать нашу еду? (Kak dolgo nam yeshche zhdat' nashu yedu?)",
-            "audio": "Как_долго_нам_еще_ждать_нашу_еду.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "อาหารของเราต้องรออีกนานไหม (aa-hǎan kǒng rao dtông ror èek naan mǎi)",
-            "audio": "อาหารของเราต้องรออีกนานไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Berapa lama lagi kami harus menunggu makanan kami?",
-            "audio": "Berapa_lama_lagi_kami_harus_menunggu_makanan_kami.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問我們的餐點還要等多久？",
-            "audio": "請問我們的餐點還要等多久？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res012",
-        "category": "餐廳短句",
-        "subcategory": "餐點進度",
-        "cn": "這道菜我們沒有點。",
-        "CN_ENG": {
-            "word": "We did not order this dish.",
-            "audio": "We_did_not_order_this_dish..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "この料理は注文していません (このりょうりはちゅうもんしていません)",
-            "audio": "このりょうりはちゅうもんしていません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이 요리는 주문하지 않았습니다. (i yolineun jumunhaji anh-assseubnida.)",
-            "audio": "이_요리는_주문하지_않았습니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúng tôi không gọi món này.",
-            "audio": "Chúng_tôi_không_gọi_món_này..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢碟餸我哋冇叫到。 (ni1 dip6 sung3 ngo5 dei6 mou5 giu3 dou3.)",
-            "audio": "呢碟餸我哋冇叫到。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Nous n'avons pas commandé ce plat.",
-            "audio": "Nous_n'avons_pas_commandé_ce_plat..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wir haben dieses Gericht nicht bestellt.",
-            "audio": "Wir_haben_dieses_Gericht_nicht_bestellt..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "No pedimos este plato.",
-            "audio": "No_pedimos_este_plato..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Мы не заказывали это блюдо. (My ne zakazyvali eto blyudo.)",
-            "audio": "Мы_не_заказывали_это_блюдо..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เราไม่ได้สั่งอาหารจานนี้ (rao mâi dâi sǎng aa-hǎan jaan née)",
-            "audio": "เราไม่ได้สั่งอาหารจานนี้.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Kami tidak memesan hidangan ini.",
-            "audio": "Kami_tidak_memesan_hidangan_ini..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這道菜我們沒有點。",
-            "audio": "這道菜我們沒有點。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res013",
-        "category": "餐廳短句",
-        "subcategory": "餐具與水",
-        "cn": "請再給我們一些餐巾紙。",
-        "CN_ENG": {
-            "word": "Please give us some more napkins.",
-            "audio": "Please_give_us_some_more_napkins..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "ナプキンをもう少しください (なぷきんをもうすこしください)",
-            "audio": "なぷきんをもうすこしください.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "냅킨 좀 더 주시겠어요? (naebkin jom deo jusigess-eoyo?)",
-            "audio": "냅킨_좀_더_주시겠어요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Làm ơn cho chúng tôi thêm vài tờ giấy ăn.",
-            "audio": "Làm_ơn_cho_chúng_tôi_thêm_vài_tờ_giấy_ăn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "麻煩畀多幾張紙巾我哋。 (maa4 faan4 bei2 do1 gei2 zoeng1 zi2 gan1 ngo5 dei6.)",
-            "audio": "麻煩畀多幾張紙巾我哋。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Veuillez nous donner quelques serviettes en plus.",
-            "audio": "Veuillez_nous_donner_quelques_serviettes_en_plus..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Bitte geben Sie uns noch ein paar Servietten.",
-            "audio": "Bitte_geben_Sie_uns_noch_ein_paar_Servietten..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Por favor, denos algunas servilletas más.",
-            "audio": "Por_favor,_denos_algunas_servilletas_más..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пожалуйста, дайте нам еще салфеток. (Pozhaluysta, dayte nam yeshche salfetok.)",
-            "audio": "Пожалуйста,_дайте_нам_еще_салфеток..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอทิชชู่เพิ่มหน่อยครับ (kǒr tít-chôo pêrm nòi kráp)",
-            "audio": "ขอทิชชู่เพิ่มหน่อยครับ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tolong beri kami beberapa serbet lagi.",
-            "audio": "Tolong_beri_kami_beberapa_serbet_lagi..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請再給我們一些餐巾紙。",
-            "audio": "請再給我們一些餐巾紙。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res014",
-        "category": "餐廳短句",
-        "subcategory": "餐具與水",
-        "cn": "可以幫我加滿水嗎？",
-        "CN_ENG": {
-            "word": "Could you refill my water, please?",
-            "audio": "Could_you_refill_my_water,_please.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "お水を注ぎ足していただけますか (おみずをつぎたしていただけますか)",
-            "audio": "おみずをつぎたしていただけますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "물 좀 더 채워 주실 수 있나요? (mul jom deo chaewo jusil su issnayo?)",
-            "audio": "물_좀_더_채워_주실_수_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Có thể rót thêm nước cho tôi không?",
-            "audio": "Có_thể_rót_thêm_nước_cho_tôi_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "可唔可以幫我加啲水呀？ (ho2 m4 ho2 ji5 bong1 ngo5 gaa1 di1 seoi2 aa3?)",
-            "audio": "可唔可以幫我加啲水呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pourriez-vous me resservir de l'eau, s'il vous plaît ?",
-            "audio": "Pourriez-vous_me_resservir_de_l'eau,_s'il_vous_plaît.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Könnten Sie bitte mein Wasser nachfüllen?",
-            "audio": "Könnten_Sie_bitte_mein_Wasser_nachfüllen.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Podría rellenar mi agua, por favor?",
-            "audio": "¿Podría_rellenar_mi_agua,_por_favor.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Не могли бы вы долить мне воды? (Ne mogli by vy dolit' mne vody?)",
-            "audio": "Не_могли_бы_вы_долить_мне_воды.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ช่วยเติมน้ำให้หน่อยได้ไหม (chûay dterm náam hâi nòi dâi mǎi)",
-            "audio": "ช่วยเติมน้ำให้หน่อยได้ไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bisakah Anda mengisi ulang air saya?",
-            "audio": "Bisakah_Anda_mengisi_ulang_air_saya.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "可以幫我加滿水嗎？",
-            "audio": "可以幫我加滿水嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res015",
-        "category": "餐廳短句",
-        "subcategory": "加點與打包",
-        "cn": "我想要加點一份甜點。",
-        "CN_ENG": {
-            "word": "I would like to order an extra dessert.",
-            "audio": "I_would_like_to_order_an_extra_dessert..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "デザートを一つ追加で注文したいです (でざーとをひとつついかでちゅうもんしたいです)",
-            "audio": "でざーとをひとつついかでちゅうもんしたいです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "디저트 하나 더 추가할게요. (dijeoteu hana deo chugahalgeyo.)",
-            "audio": "디저트_하나_더_추가할게요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi muốn gọi thêm một phần tráng miệng.",
-            "audio": "Tôi_muốn_gọi_thêm_một_phần_tráng_miệng..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我想加叫一份甜品。 (ngo5 soeng2 gaa1 giu3 jat1 fan6 tim4 ban2.)",
-            "audio": "我想加叫一份甜品。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Je voudrais commander un dessert supplémentaire.",
-            "audio": "Je_voudrais_commander_un_dessert_supplémentaire..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich möchte noch ein Dessert bestellen.",
-            "audio": "Ich_möchte_noch_ein_Dessert_bestellen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Me gustaría pedir un postre extra.",
-            "audio": "Me_gustaría_pedir_un_postre_extra..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я хотел бы заказать дополнительный десерт. (Ya khotel by zakazat' dopolnitel'nyy desert.)",
-            "audio": "Я_хотел_бы_заказать_дополнительный_десерт..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันขอสั่งของหวานเพิ่มหนึ่งที่ (chǎn kǒr sǎng kǒng wǎan pêrm nèung têe)",
-            "audio": "ฉันขอสั่งของหวานเพิ่มหนึ่งที่.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya ingin memesan makanan penutup tambahan.",
-            "audio": "Saya_ingin_memesan_makanan_penutup_tambahan..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我想要加點一份甜點。",
-            "audio": "我想要加點一份甜點。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res016",
-        "category": "餐廳短句",
-        "subcategory": "加點與打包",
-        "cn": "麻煩幫我把剩下的打包。",
-        "CN_ENG": {
-            "word": "Please pack the leftovers for me.",
-            "audio": "Please_pack_the_leftovers_for_me..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "残ったものをお持ち帰り用に包んでください (のこったものをおもちかえりようにつつんでください)",
-            "audio": "のこったものをおもちかえりようにつつんでください.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "남은 음식 좀 포장해 주시겠어요? (nam-eun eumsig jom pojanghae jusigess-eoyo?)",
-            "audio": "남은_음식_좀_포장해_주시겠어요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Phiền bạn gói phần thức ăn thừa lại giúp tôi.",
-            "audio": "Phiền_bạn_gói_phần_thức_ăn_thừa_lại_giúp_tôi..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "麻煩幫我將剩低嘅打包。 (maa4 faan4 bong1 ngo5 zoeng1 zing6 dai1 ge3 daa2 baau1.)",
-            "audio": "麻煩幫我將剩低嘅打包。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pouvez-vous emballer les restes, s'il vous plaît ?",
-            "audio": "Pouvez-vous_emballer_les_restes,_s'il_vous_plaît.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Können Sie mir bitte die Reste einpacken?",
-            "audio": "Können_Sie_mir_bitte_die_Reste_einpacken.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Por favor, empáqueme las sobras.",
-            "audio": "Por_favor,_empáqueme_las_sobras..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пожалуйста, упакуйте мне остатки. (Pozhaluysta, upakuyte mne ostatki.)",
-            "audio": "Пожалуйста,_упакуйте_мне_остатки..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ช่วยห่ออาหารที่เหลือให้หน่อย (chûay hòr aa-hǎan têe lěua hâi nòi)",
-            "audio": "ช่วยห่ออาหารที่เหลือให้หน่อย.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tolong bungkuskan sisanya untuk saya.",
-            "audio": "Tolong_bungkuskan_sisanya_untuk_saya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "麻煩幫我把剩下的打包。",
-            "audio": "麻煩幫我把剩下的打包。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res017",
-        "category": "餐廳短句",
-        "subcategory": "結帳付款",
-        "cn": "請問可以在桌邊結帳嗎？",
-        "CN_ENG": {
-            "word": "Can we pay at the table?",
-            "audio": "Can_we_pay_at_the_table.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "テーブルで会計できますか (てーぶるでかいけいできますか)",
-            "audio": "てーぶるでかいけいできますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "테이블에서 계산할 수 있나요? (teibeul-eseo gyesanhal su issnayo?)",
-            "audio": "테이블에서_계산할_수_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúng tôi có thể thanh toán tại bàn không?",
-            "audio": "Chúng_tôi_có_thể_thanh_toán_tại_bàn_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問可唔可以喺枱面埋單呀？ (cing2 man6 ho2 m4 ho2 ji5 hai2 toi4 min2 maai4 daan1 aa3?)",
-            "audio": "請問可唔可以喺枱面埋單呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pouvons-nous payer à la table ?",
-            "audio": "Pouvons-nous_payer_à_la_table.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Können wir am Tisch bezahlen?",
-            "audio": "Können_wir_am_Tisch_bezahlen.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Podemos pagar en la mesa?",
-            "audio": "¿Podemos_pagar_en_la_mesa.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Можем ли мы оплатить счет за столом? (Mozhem li my oplatit' schet za stolom?)",
-            "audio": "Можем_ли_мы_оплатить_счет_за_столом.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "จ่ายเงินที่โต๊ะได้ไหม (jàai ngern têe dtó dâi mǎi)",
-            "audio": "จ่ายเงินที่โต๊ะได้ไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bisakah kita membayar di meja?",
-            "audio": "Bisakah_kita_membayar_di_meja.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問可以在桌邊結帳嗎？",
-            "audio": "請問可以在桌邊結帳嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res018",
-        "category": "餐廳短句",
-        "subcategory": "結帳付款",
-        "cn": "請分開結帳，謝謝。",
-        "CN_ENG": {
-            "word": "Please split the bill, thank you.",
-            "audio": "Please_split_the_bill,_thank_you..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "お会計は別々にお願いします (おかいけいはべつべつにおねがいします)",
-            "audio": "おかいけいはべつべつにおねがいします.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "계산은 따로따로 해주세요. (gyesan-eun ttalottalo haejuseyo.)",
-            "audio": "계산은_따로따로_해주세요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Vui lòng tính tiền riêng, cảm ơn.",
-            "audio": "Vui_lòng_tính_tiền_riêng,_cảm_ơn..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "麻煩分開計數，多謝。 (maa4 faan4 fan1 hoi1 gai3 sou3, do1 ze6.)",
-            "audio": "麻煩分開計數，多謝。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Des additions séparées, s'il vous plaît.",
-            "audio": "Des_additions_séparées,_s'il_vous_plaît..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Bitte getrennt zahlen, danke.",
-            "audio": "Bitte_getrennt_zahlen,_danke..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Por favor, divida la cuenta, gracias.",
-            "audio": "Por_favor,_divida_la_cuenta,_gracias..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пожалуйста, разделите счет, спасибо. (Pozhaluysta, razdelite schet, spasibo.)",
-            "audio": "Пожалуйста,_разделите_счет,_спасибо..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ช่วยแยกบิลด้วยครับ ขอบคุณ (chûay yâek bin dûay kráp kòp-kun)",
-            "audio": "ช่วยแยกบิลด้วยครับ_ขอบคุณ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tolong pisahkan tagihannya, terima kasih.",
-            "audio": "Tolong_pisahkan_tagihannya,_terima_kasih..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請分開結帳，謝謝。",
-            "audio": "請分開結帳，謝謝。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res019",
-        "category": "餐廳短句",
-        "subcategory": "結帳付款",
-        "cn": "這個帳單好像有點錯誤。",
-        "CN_ENG": {
-            "word": "There seems to be a mistake on this bill.",
-            "audio": "There_seems_to_be_a_mistake_on_this_bill..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "この請求書に間違いがあるようです (このせいきゅうしょにまちがいがあるようです)",
-            "audio": "このせいきゅうしょにまちがいがあるようです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이 계산서에 약간의 오류가 있는 것 같아요. (i gyesanseoe yaggan-ui olyuga issneun geos gat-ayo.)",
-            "audio": "이_계산서에_약간의_오류가_있는_것_같아요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Hóa đơn này hình như có chút sai sót.",
-            "audio": "Hóa_đơn_này_hình_như_có_chút_sai_sót..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢張單好似有啲錯。 (ni1 zoeng1 daan1 hou2 ci5 jau5 di1 co3.)",
-            "audio": "呢張單好似有啲錯。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Il semble y avoir une erreur sur cette addition.",
-            "audio": "Il_semble_y_avoir_une_erreur_sur_cette_addition..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Es scheint einen Fehler auf dieser Rechnung zu geben.",
-            "audio": "Es_scheint_einen_Fehler_auf_dieser_Rechnung_zu_geben..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Parece que hay un error en esta cuenta.",
-            "audio": "Parece_que_hay_un_error_en_esta_cuenta..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Кажется, в этом счете есть ошибка. (Kazhetsya, v etom schete yest' oshibka.)",
-            "audio": "Кажется,_в_этом_счете_есть_ошибка..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "บิลนี้เหมือนจะมีข้อผิดพลาด (bin née měuan jà mee kôr pìt-plâat)",
-            "audio": "บิลนี้เหมือนจะมีข้อผิดพลาด.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Sepertinya ada kesalahan pada tagihan ini.",
-            "audio": "Sepertinya_ada_kesalahan_pada_tagihan_ini..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這個帳單好像有點錯誤。",
-            "audio": "這個帳單好像有點錯誤。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res020",
-        "category": "餐廳短句",
-        "subcategory": "餐後道謝",
-        "cn": "今天的餐點非常美味。",
-        "CN_ENG": {
-            "word": "The meal today was very delicious.",
-            "audio": "The_meal_today_was_very_delicious..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "今日の料理はとても美味しかったです (きょうのりょうりはとてもおいしかったです)",
-            "audio": "きょうのりょうりはとてもおいしかったです.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "오늘 식사 정말 맛있었습니다. (oneul sigsa jeongmal mas-iss-eossseubnida.)",
-            "audio": "오늘_식사_정말_맛있었습니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Bữa ăn hôm nay rất ngon miệng.",
-            "audio": "Bữa_ăn_hôm_nay_rất_ngon_miệng..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "今日嘅嘢食非常好味。 (gam1 jat6 ge3 je5 sik6 fei1 soeng4 hou2 mei6.)",
-            "audio": "今日嘅嘢食非常好味。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Le repas d'aujourd'hui était très délicieux.",
-            "audio": "Le_repas_d'aujourd'hui_était_très_délicieux..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Das Essen heute war sehr lecker.",
-            "audio": "Das_Essen_heute_war_sehr_lecker..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "La comida de hoy estuvo muy deliciosa.",
-            "audio": "La_comida_de_hoy_estuvo_muy_deliciosa..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Еда сегодня была очень вкусной. (Yeda segodnya byla ochen' vkusnoy.)",
-            "audio": "Еда_сегодня_была_очень_вкусной..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "อาหารวันนี้อร่อยมาก (aa-hǎan wan-née a-ròi mâak)",
-            "audio": "อาหารวันนี้อร่อยมาก.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Makanannya hari ini sangat lezat.",
-            "audio": "Makanannya_hari_ini_sangat_lezat..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "今天的餐點非常美味。",
-            "audio": "今天的餐點非常美味。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res021",
-        "category": "餐廳短句",
-        "subcategory": "帶位與入座",
-        "cn": "請問有靠窗的座位嗎？",
-        "CN_ENG": {
-            "word": "Are there any window seats available?",
-            "audio": "Are_there_any_window_seats_available.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "窓際の席はありますか (まどぎわのせきはありますか)",
-            "audio": "まどぎわのせきはありますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "창가 자리가 있나요? (chang-ga jaliga issnayo?)",
-            "audio": "창가_자리가_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Có chỗ ngồi gần cửa sổ không?",
-            "audio": "Có_chỗ_ngồi_gần_cửa_sổ_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問有冇靠窗嘅位呀？ (cing2 man6 jau5 mou5 kaau3 coeng1 ge3 wai2 aa3?)",
-            "audio": "請問有冇靠窗嘅位呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Y a-t-il des places près de la fenêtre ?",
-            "audio": "Y_a-t-il_des_places_près_de_la_fenêtre.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Gibt es Fensterplätze?",
-            "audio": "Gibt_es_Fensterplätze.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Hay asientos junto a la ventana disponibles?",
-            "audio": "¿Hay_asientos_junto_a_la_ventana_disponibles.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Есть ли места у окна? (Yest' li mesta u okna?)",
-            "audio": "Есть_ли_места_у_окна.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "มีที่นั่งริมหน้าต่างไหม (mee têe-nàng rim nâa-dtàang mǎi)",
-            "audio": "มีที่นั่งริมหน้าต่างไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah ada kursi dekat jendela yang tersedia?",
-            "audio": "Apakah_ada_kursi_dekat_jendela_yang_tersedia.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問有靠窗的座位嗎？",
-            "audio": "請問有靠窗的座位嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res022",
-        "category": "餐廳短句",
-        "subcategory": "帶位與入座",
-        "cn": "我們沒有先訂位。",
-        "CN_ENG": {
-            "word": "We do not have a reservation.",
-            "audio": "We_do_not_have_a_reservation..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "予約はしていません (よやくはしていません)",
-            "audio": "よやくはしていません.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "예약을 하지 않았습니다. (yeyag-eul haji anh-assseubnida.)",
-            "audio": "예약을_하지_않았습니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúng tôi không đặt bàn trước.",
-            "audio": "Chúng_tôi_không_đặt_bàn_trước..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋冇預先訂位。 (ngo5 dei6 mou5 jyu6 sin1 ding6 wai2.)",
-            "audio": "我哋冇預先訂位。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Nous n'avons pas de réservation.",
-            "audio": "Nous_n'avons_pas_de_réservation..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wir haben keine Reservierung.",
-            "audio": "Wir_haben_keine_Reservierung..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "No tenemos reservación.",
-            "audio": "No_tenemos_reservación..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "У нас нет бронирования. (U nas net bronirovaniya.)",
-            "audio": "У_нас_нет_бронирования..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เราไม่ได้จองไว้ (rao mâi dâi jong wái)",
-            "audio": "เราไม่ได้จองไว้.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Kami belum melakukan reservasi.",
-            "audio": "Kami_belum_melakukan_reservasi..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們沒有先訂位。",
-            "audio": "我們沒有先訂位。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res023",
-        "category": "餐廳短句",
-        "subcategory": "點餐服務",
-        "cn": "我們準備好要點餐了。",
-        "CN_ENG": {
-            "word": "We are ready to order.",
-            "audio": "We_are_ready_to_order..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "注文する準備ができました (ちゅうもんするじゅんびができました)",
-            "audio": "ちゅうもんするじゅんびができました.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이제 주문할 준비가 되었습니다. (ije jumunhal junbiga doeeossseubnida.)",
-            "audio": "이제_주문할_준비가_되었습니다..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Chúng tôi đã sẵn sàng gọi món.",
-            "audio": "Chúng_tôi_đã_sẵn_sàng_gọi_món..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我哋準備好叫嘢食啦。 (ngo5 dei6 zeon2 bei6 hou2 giu3 je5 sik6 laa1.)",
-            "audio": "我哋準備好叫嘢食啦。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Nous sommes prêts à commander.",
-            "audio": "Nous_sommes_prêts_à_commander..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Wir sind bereit zu bestellen.",
-            "audio": "Wir_sind_bereit_zu_bestellen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Estamos listos para pedir.",
-            "audio": "Estamos_listos_para_pedir..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Мы готовы сделать заказ. (My gotovy sdelat' zakaz.)",
-            "audio": "Мы_готовы_сделать_заказ..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เราพร้อมจะสั่งอาหารแล้ว (rao próm jà sǎng aa-hǎan láew)",
-            "audio": "เราพร้อมจะสั่งอาหารแล้ว.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Kami siap untuk memesan.",
-            "audio": "Kami_siap_untuk_memesan..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我們準備好要點餐了。",
-            "audio": "我們準備好要點餐了。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res024",
-        "category": "餐廳短句",
-        "subcategory": "特殊需求",
-        "cn": "請問這個有素食的版本嗎？",
-        "CN_ENG": {
-            "word": "Is there a vegetarian version of this?",
-            "audio": "Is_there_a_vegetarian_version_of_this.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "これのベジタリアン用はありますか (これのべじたりあんようはありますか)",
-            "audio": "これのべじたりあんようはありますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이거 채식주의자용 버전이 있나요? (igeo chaesigjuuijayong beojeon-i issnayo?)",
-            "audio": "이거_채식주의자용_버전이_있나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Món này có phiên bản chay không?",
-            "audio": "Món_này_có_phiên_bản_chay_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問呢個有冇素食版呀？ (cing2 man6 ni1 go3 jau5 mou5 sou3 sik6 baan2 aa3?)",
-            "audio": "請問呢個有冇素食版呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Y a-t-il une version végétarienne de cela ?",
-            "audio": "Y_a-t-il_une_version_végétarienne_de_cela.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Gibt es davon eine vegetarische Version?",
-            "audio": "Gibt_es_davon_eine_vegetarische_Version.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Hay una versión vegetariana de esto?",
-            "audio": "¿Hay_una_versión_vegetariana_de_esto.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Есть ли вегетарианская версия этого блюда? (Yest' li vegetarianskaya versiya etogo blyuda?)",
-            "audio": "Есть_ли_вегетарианская_версия_этого_блюда.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เมนูนี้มีแบบมังสวิรัติไหม (may-noo née mee bàep mang-sǎ-wí-rát mǎi)",
-            "audio": "เมนูนี้มีแบบมังสวิรัติไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah ada versi vegetarian untuk ini?",
-            "audio": "Apakah_ada_versi_vegetarian_untuk_ini.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問這個有素食的版本嗎？",
-            "audio": "請問這個有素食的版本嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res025",
-        "category": "餐廳短句",
-        "subcategory": "特殊需求",
-        "cn": "請幫我的飲料去冰。",
-        "CN_ENG": {
-            "word": "Please make my drink without ice.",
-            "audio": "Please_make_my_drink_without_ice..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "飲み物は氷抜きでお願いします (のみものはこおりぬきでおねがいします)",
-            "audio": "のみものはこおりぬきでおねがいします.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "음료에 얼음은 빼주세요. (eumlyoe eol-eum-eun ppaejuseyo.)",
-            "audio": "음료에_얼음은_빼주세요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Vui lòng không cho đá vào đồ uống của tôi.",
-            "audio": "Vui_lòng_không_cho_đá_vào_đồ_uống_của_tôi..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "麻煩我杯嘢飲走冰。 (maa4 faan4 ngo5 bui1 je5 jam2 zau2 bing1.)",
-            "audio": "麻煩我杯嘢飲走冰。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Sans glaçons pour ma boisson, s'il vous plaît.",
-            "audio": "Sans_glaçons_pour_ma_boisson,_s'il_vous_plaît..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Bitte mein Getränk ohne Eis.",
-            "audio": "Bitte_mein_Getränk_ohne_Eis..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Por favor, mi bebida sin hielo.",
-            "audio": "Por_favor,_mi_bebida_sin_hielo..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Пожалуйста, сделайте мой напиток без льда. (Pozhaluysta, sdelayte moy napitok bez l'da.)",
-            "audio": "Пожалуйста,_сделайте_мой_напиток_без_льда..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "เครื่องดื่มขอไม่ใส่น้ำแข็ง (krêuang-dèum kǒr mâi sài náam-kǎng)",
-            "audio": "เครื่องดื่มขอไม่ใส่น้ำแข็ง.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Tolong buatkan minuman saya tanpa es.",
-            "audio": "Tolong_buatkan_minuman_saya_tanpa_es..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請幫我的飲料去冰。",
-            "audio": "請幫我的飲料去冰。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res026",
-        "category": "餐廳短句",
-        "subcategory": "特殊需求",
-        "cn": "這份沙拉不需要加沙拉醬。",
-        "CN_ENG": {
-            "word": "No dressing is needed for this salad.",
-            "audio": "No_dressing_is_needed_for_this_salad..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "このサラダにはドレッシングをかけないでください (このさらだにはどれっしんぐをかけないでください)",
-            "audio": "このさらだにはどれっしんぐをかけないでください.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "이 샐러드에는 드레싱을 넣지 마세요. (i saelleodeueneun deulesing-eul neohji maseyo.)",
-            "audio": "이_샐러드에는_드레싱을_넣지_마세요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Món salad này không cần thêm nước sốt.",
-            "audio": "Món_salad_này_không_cần_thêm_nước_sốt..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "呢份沙律唔需要加沙律醬。 (ni1 fan6 saa1 leot2 m4 seoi1 jiu3 gaa1 saa1 leot2 zoeng3.)",
-            "audio": "呢份沙律唔需要加沙律醬。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pas de vinaigrette pour cette salade, s'il vous plaît.",
-            "audio": "Pas_de_vinaigrette_pour_cette_salade,_s'il_vous_plaît..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Kein Dressing für diesen Salat nötig.",
-            "audio": "Kein_Dressing_für_diesen_Salat_nötig..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "No se necesita aderezo para esta ensalada.",
-            "audio": "No_se_necesita_aderezo_para_esta_ensalada..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Для этого салата не нужна заправка. (Dlya etogo salata ne nuzhna zapravka.)",
-            "audio": "Для_этого_салата_не_нужна_заправка..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "สลัดนี้ไม่ต้องใส่น้ำสลัด (sà-làt née mâi dtông sài náam sà-làt)",
-            "audio": "สลัดนี้ไม่ต้องใส่น้ำสลัด.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Salad ini tidak perlu tambahan saus.",
-            "audio": "Salad_ini_tidak_perlu_tambahan_saus..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "這份沙拉不需要加沙拉醬。",
-            "audio": "這份沙拉不需要加沙拉醬。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res027",
-        "category": "餐廳短句",
-        "subcategory": "餐點進度",
-        "cn": "可以幫我催一下菜嗎？",
-        "CN_ENG": {
-            "word": "Could you check on our order, please?",
-            "audio": "Could_you_check_on_our_order,_please.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "料理を急いでもらえますか (りょうりをいそいでもらえますか)",
-            "audio": "りょうりをいそいでもらえますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "음식 좀 빨리 나오게 해주시겠어요? (eumsig jom ppalli naoge haejusigess-eoyo?)",
-            "audio": "음식_좀_빨리_나오게_해주시겠어요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Có thể giục nhà bếp làm nhanh giúp tôi không?",
-            "audio": "Có_thể_giục_nhà_bếp_làm_nhanh_giúp_tôi_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "可唔可以幫我催下單呀？ (ho2 m4 ho2 ji5 bong1 ngo5 ceoi1 haa5 daan1 aa3?)",
-            "audio": "可唔可以幫我催下單呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pourriez-vous vérifier notre commande, s'il vous plaît ?",
-            "audio": "Pourriez-vous_vérifier_notre_commande,_s'il_vous_plaît.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Könnten Sie bitte nach unserer Bestellung sehen?",
-            "audio": "Könnten_Sie_bitte_nach_unserer_Bestellung_sehen.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Podría revisar nuestro pedido, por favor?",
-            "audio": "¿Podría_revisar_nuestro_pedido,_por_favor.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Не могли бы вы поторопить наш заказ? (Ne mogli by vy potoropit' nash zakaz?)",
-            "audio": "Не_могли_бы_вы_поторопить_наш_заказ.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ช่วยตามอาหารให้หน่อยได้ไหม (chûay dtaam aa-hǎan hâi nòi dâi mǎi)",
-            "audio": "ช่วยตามอาหารให้หน่อยได้ไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bisakah Anda mengecek pesanan kami?",
-            "audio": "Bisakah_Anda_mengecek_pesanan_kami.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "可以幫我催一下菜嗎？",
-            "audio": "可以幫我催一下菜嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res028",
-        "category": "餐廳短句",
-        "subcategory": "餐具與水",
-        "cn": "我不小心把叉子弄掉了。",
-        "CN_ENG": {
-            "word": "I accidentally dropped my fork.",
-            "audio": "I_accidentally_dropped_my_fork..mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "うっかりフォークを落としてしまいました (うっかりふぉーくをおとしてしまいました)",
-            "audio": "うっかりふぉーくをおとしてしまいました.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "실수로 포크를 떨어뜨렸어요. (silsulo pokeuleul tteoleotteulyeoss-eoyo.)",
-            "audio": "실수로_포크를_떨어뜨렸어요..mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Tôi lỡ làm rơi cái nĩa rồi.",
-            "audio": "Tôi_lỡ_làm_rơi_cái_nĩa_rồi..mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "我唔小心跌咗隻叉。 (ngo5 m4 siu2 sam1 dit3 zo2 zek3 caa1.)",
-            "audio": "我唔小心跌咗隻叉。.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "J'ai fait tomber ma fourchette par accident.",
-            "audio": "J'ai_fait_tomber_ma_fourchette_par_accident..mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Ich habe versehentlich meine Gabel fallen lassen.",
-            "audio": "Ich_habe_versehentlich_meine_Gabel_fallen_lassen..mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "Se me cayó el tenedor accidentalmente.",
-            "audio": "Se_me_cayó_el_tenedor_accidentalmente..mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Я случайно уронил вилку. (Ya sluchayno uronil vilku.)",
-            "audio": "Я_случайно_уронил_вилку..mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ฉันทำส้อมตกโดยไม่ตั้งใจ (chǎn tam sôm dtòk dooy mâi dtâng jai)",
-            "audio": "ฉันทำส้อมตกโดยไม่ตั้งใจ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Saya tidak sengaja menjatuhkan garpu saya.",
-            "audio": "Saya_tidak_sengaja_menjatuhkan_garpu_saya..mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "我不小心把叉子弄掉了。",
-            "audio": "我不小心把叉子弄掉了。.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res029",
-        "category": "餐廳短句",
-        "subcategory": "結帳付款",
-        "cn": "請問這裡有收一成服務費嗎？",
-        "CN_ENG": {
-            "word": "Is there a 10% service charge here?",
-            "audio": "Is_there_a_10%_service_charge_here.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "ここは10％のサービス料がかかりますか (ここはじゅっぱーせんとのさーびすりょうがかかりますか)",
-            "audio": "ここはじゅっぱーせんとのさーびすりょうがかかりますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "여기는 10% 봉사료가 추가되나요? (yeogineun 10% bongsalyoga chugadoenayo?)",
-            "audio": "여기는_10%_봉사료가_추가되나요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Ở đây có thu 10% phí phục vụ không?",
-            "audio": "Ở_đây_có_thu_10%_phí_phục_vụ_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "請問呢度有冇收加一服務費呀？ (cing2 man6 ni1 dou6 jau5 mou5 sau1 gaa1 jat1 fuk6 mou6 fai3 aa3?)",
-            "audio": "請問呢度有冇收加一服務費呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Y a-t-il des frais de service de 10% ici ?",
-            "audio": "Y_a-t-il_des_frais_de_service_de_10%_ici.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Gibt es hier eine Servicegebühr von 10 %?",
-            "audio": "Gibt_es_hier_eine_Servicegebühr_von_10_%.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Hay un cargo por servicio del 10% aquí?",
-            "audio": "¿Hay_un_cargo_por_servicio_del_10%_aquí.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Здесь взимается сервисный сбор в размере 10%? (Zdes' vzimayetsya servisnyy sbor v razmere 10%?)",
-            "audio": "Здесь_взимается_сервисный_сбор_в_размере_10%.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ที่นี่มีคิดค่าบริการสิบเปอร์เซ็นต์ไหม (têe-nêe mee kít kâa bor-rí-gaan sìp bper-sen mǎi)",
-            "audio": "ที่นี่มีคิดค่าบริการสิบเปอร์เซ็นต์ไหม.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Apakah ada biaya layanan 10% di sini?",
-            "audio": "Apakah_ada_biaya_layanan_10%_di_sini.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "請問這裡有收一成服務費嗎？",
-            "audio": "請問這裡有收一成服務費嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen_res030",
-        "category": "餐廳短句",
-        "subcategory": "結帳付款",
-        "cn": "可以給我收據嗎？",
-        "CN_ENG": {
-            "word": "Could you give me the receipt, please?",
-            "audio": "Could_you_give_me_the_receipt,_please.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "領収書をいただけますか (りょうしゅうしょをいただけますか)",
-            "audio": "りょうしゅうしょをいただけますか.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "영수증 좀 주시겠어요? (yeongsujeung jom jusigess-eoyo?)",
-            "audio": "영수증_좀_주시겠어요.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "Có thể cho tôi biên lai không?",
-            "audio": "Có_thể_cho_tôi_biên_lai_không.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "可唔可以畀張收據我呀？ (ho2 m4 ho2 ji5 bei2 zoeng1 sau1 geoi3 ngo5 aa3?)",
-            "audio": "可唔可以畀張收據我呀？.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "Pourriez-vous me donner le reçu, s'il vous plaît ?",
-            "audio": "Pourriez-vous_me_donner_le_reçu,_s'il_vous_plaît.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "Könnten Sie mir bitte die Quittung geben?",
-            "audio": "Könnten_Sie_mir_bitte_die_Quittung_geben.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "¿Podría darme el recibo, por favor?",
-            "audio": "¿Podría_darme_el_recibo,_por_favor.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "Не могли бы вы дать мне чек, пожалуйста? (Ne mogli by vy dat' mne chek, pozhaluysta?)",
-            "audio": "Не_могли_бы_вы_дать_мне_чек,_пожалуйста.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "ขอใบเสร็จรับเงินด้วยครับ (kǒr bai-sèt ráp ngern dûay kráp)",
-            "audio": "ขอใบเสร็จรับเงินด้วยครับ.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "Bolehkah saya minta setruknya?",
-            "audio": "Bolehkah_saya_minta_setruknya.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "可以給我收據嗎？",
-            "audio": "可以給我收據嗎？.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "ID",
-        "category": "大分類",
-        "subcategory": "子分類",
-        "cn": "中文",
-        "CN_ENG": {
-            "word": "英語",
-            "audio": "英語.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "日語",
-            "audio": "日語.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "韓語",
-            "audio": "韓語.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "越語",
-            "audio": "越語.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "廣東",
-            "audio": "廣東.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "法語",
-            "audio": "法語.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "德語",
-            "audio": "德語.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "西語",
-            "audio": "西語.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "俄語",
-            "audio": "俄語.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "泰語",
-            "audio": "泰語.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "印尼語",
-            "audio": "印尼語.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "中文",
-            "audio": "中文.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen071",
-        "category": "常用句型",
+        "id": "sens01",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想喝一杯熱茶。",
         "CN_ENG": {
@@ -268560,8 +265194,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen072",
-        "category": "常用句型",
+        "id": "sens02",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想吃一碗牛肉麵。",
         "CN_ENG": {
@@ -268626,8 +265260,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen073",
-        "category": "常用句型",
+        "id": "sens03",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想買一雙新鞋子。",
         "CN_ENG": {
@@ -268692,8 +265326,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen074",
-        "category": "常用句型",
+        "id": "sens04",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想看一部好電影。",
         "CN_ENG": {
@@ -268758,8 +265392,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen075",
-        "category": "常用句型",
+        "id": "sens05",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想聽一些輕音樂。",
         "CN_ENG": {
@@ -268824,8 +265458,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen076",
-        "category": "常用句型",
+        "id": "sens06",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想去海邊散散步。",
         "CN_ENG": {
@@ -268890,8 +265524,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen077",
-        "category": "常用句型",
+        "id": "sens07",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想學一門新語言。",
         "CN_ENG": {
@@ -268956,8 +265590,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen078",
-        "category": "常用句型",
+        "id": "sens08",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想找一個安靜的地方。",
         "CN_ENG": {
@@ -269022,8 +265656,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen079",
-        "category": "常用句型",
+        "id": "sens09",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想換一些當地貨幣。",
         "CN_ENG": {
@@ -269088,8 +265722,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen080",
-        "category": "常用句型",
+        "id": "sens10",
+        "category": "實用短句",
         "subcategory": "表達需求(我想...)",
         "cn": "我想租一台腳踏車。",
         "CN_ENG": {
@@ -269154,8 +265788,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen081",
-        "category": "常用句型",
+        "id": "sens11",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問電梯在哪裡？",
         "CN_ENG": {
@@ -269220,8 +265854,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen082",
-        "category": "常用句型",
+        "id": "sens12",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問出口在哪裡？",
         "CN_ENG": {
@@ -269286,8 +265920,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen083",
-        "category": "常用句型",
+        "id": "sens13",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問便利商店在哪裡？",
         "CN_ENG": {
@@ -269352,8 +265986,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen084",
-        "category": "常用句型",
+        "id": "sens14",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問公車站牌在哪裡？",
         "CN_ENG": {
@@ -269418,8 +266052,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen085",
-        "category": "常用句型",
+        "id": "sens15",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問提款機在哪裡？",
         "CN_ENG": {
@@ -269484,8 +266118,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen086",
-        "category": "常用句型",
+        "id": "sens16",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問急診室在哪裡？",
         "CN_ENG": {
@@ -269550,8 +266184,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen087",
-        "category": "常用句型",
+        "id": "sens17",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問服務台在哪裡？",
         "CN_ENG": {
@@ -269616,8 +266250,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen088",
-        "category": "常用句型",
+        "id": "sens18",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問售票處在哪裡？",
         "CN_ENG": {
@@ -269682,8 +266316,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen089",
-        "category": "常用句型",
+        "id": "sens19",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問吸菸區在哪裡？",
         "CN_ENG": {
@@ -269748,8 +266382,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen090",
-        "category": "常用句型",
+        "id": "sens20",
+        "category": "實用短句",
         "subcategory": "尋問地點(在哪裡)",
         "cn": "請問計程車招呼站在哪裡？",
         "CN_ENG": {
@@ -269814,8 +266448,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen091",
-        "category": "常用句型",
+        "id": "sens21",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一杯溫水。",
         "CN_ENG": {
@@ -269880,8 +266514,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen092",
-        "category": "常用句型",
+        "id": "sens22",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一條乾淨的毛巾。",
         "CN_ENG": {
@@ -269946,8 +266580,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen093",
-        "category": "常用句型",
+        "id": "sens23",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一個塑膠袋。",
         "CN_ENG": {
@@ -270012,8 +266646,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen094",
-        "category": "常用句型",
+        "id": "sens24",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一份地圖。",
         "CN_ENG": {
@@ -270078,8 +266712,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen095",
-        "category": "常用句型",
+        "id": "sens25",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一根吸管。",
         "CN_ENG": {
@@ -270144,8 +266778,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen096",
-        "category": "常用句型",
+        "id": "sens26",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一張名片。",
         "CN_ENG": {
@@ -270210,8 +266844,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen097",
-        "category": "常用句型",
+        "id": "sens27",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一個大一點的尺寸。",
         "CN_ENG": {
@@ -270276,8 +266910,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen098",
-        "category": "常用句型",
+        "id": "sens28",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一個外帶盒。",
         "CN_ENG": {
@@ -270342,8 +266976,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen099",
-        "category": "常用句型",
+        "id": "sens29",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一點時間考慮。",
         "CN_ENG": {
@@ -270408,8 +267042,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen100",
-        "category": "常用句型",
+        "id": "sens30",
+        "category": "實用短句",
         "subcategory": "提出請求(請給我...)",
         "cn": "請給我一些推薦的景點。",
         "CN_ENG": {
@@ -270474,75 +267108,9 @@ const vocabData = [
         }
     },
     {
-        "id": "ID",
-        "category": "大分類",
-        "subcategory": "子分類",
-        "cn": "中文",
-        "CN_ENG": {
-            "word": "英語",
-            "audio": "英語.mp3",
-            "folder": "CN_ENG/audio"
-        },
-        "CN_JP": {
-            "word": "日語",
-            "audio": "日語.mp3",
-            "folder": "CN_JP/audio"
-        },
-        "CN_KR": {
-            "word": "韓語",
-            "audio": "韓語.mp3",
-            "folder": "CN_KR/audio"
-        },
-        "CN_VN": {
-            "word": "越語",
-            "audio": "越語.mp3",
-            "folder": "CN_VN/audio"
-        },
-        "CN_CON": {
-            "word": "廣東",
-            "audio": "廣東.mp3",
-            "folder": "CN_CON/audio"
-        },
-        "CN_FR": {
-            "word": "法語",
-            "audio": "法語.mp3",
-            "folder": "CN_FR/audio"
-        },
-        "CN_DE": {
-            "word": "德語",
-            "audio": "德語.mp3",
-            "folder": "CN_DE/audio"
-        },
-        "CN_ES": {
-            "word": "西語",
-            "audio": "西語.mp3",
-            "folder": "CN_ES/audio"
-        },
-        "CN_RU": {
-            "word": "俄語",
-            "audio": "俄語.mp3",
-            "folder": "CN_RU/audio"
-        },
-        "CN_TH": {
-            "word": "泰語",
-            "audio": "泰語.mp3",
-            "folder": "CN_TH/audio"
-        },
-        "CN_ID": {
-            "word": "印尼語",
-            "audio": "印尼語.mp3",
-            "folder": "CN_ID/audio"
-        },
-        "CN_ZH": {
-            "word": "中文",
-            "audio": "中文.mp3",
-            "folder": "CN_ZH/audio"
-        }
-    },
-    {
-        "id": "sen101",
-        "category": "飯店住宿",
-        "subcategory": "辦理入住",
+        "id": "sens31",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "我有預訂房間。",
         "CN_ENG": {
             "word": "I have a reservation.",
@@ -270606,9 +267174,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen102",
-        "category": "飯店住宿",
-        "subcategory": "辦理入住",
+        "id": "sens32",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "這是我的護照。",
         "CN_ENG": {
             "word": "Here is my passport.",
@@ -270672,9 +267240,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen103",
-        "category": "飯店住宿",
-        "subcategory": "辦理入住",
+        "id": "sens33",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "請問退房時間是幾點？",
         "CN_ENG": {
             "word": "What time is check-out?",
@@ -270738,9 +267306,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen104",
-        "category": "飯店住宿",
-        "subcategory": "辦理入住",
+        "id": "sens34",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "早餐幾點開始供應？",
         "CN_ENG": {
             "word": "What time does breakfast start?",
@@ -270804,9 +267372,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen105",
-        "category": "飯店住宿",
-        "subcategory": "辦理入住",
+        "id": "sens35",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "可以在這裡寄放行李嗎？",
         "CN_ENG": {
             "word": "Can I leave my luggage here?",
@@ -270870,9 +267438,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen106",
-        "category": "飯店住宿",
-        "subcategory": "房間設施",
+        "id": "sens36",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "房間的冷氣不冷。",
         "CN_ENG": {
             "word": "The air conditioning in the room is not cold.",
@@ -270936,9 +267504,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen107",
-        "category": "飯店住宿",
-        "subcategory": "房間設施",
+        "id": "sens37",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "洗澡沒有熱水。",
         "CN_ENG": {
             "word": "There is no hot water for the shower.",
@@ -271002,9 +267570,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen108",
-        "category": "飯店住宿",
-        "subcategory": "房間設施",
+        "id": "sens38",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "馬桶好像堵住了。",
         "CN_ENG": {
             "word": "The toilet seems to be clogged.",
@@ -271068,9 +267636,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen109",
-        "category": "飯店住宿",
-        "subcategory": "房間設施",
+        "id": "sens39",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "電視無法打開。",
         "CN_ENG": {
             "word": "The TV cannot be turned on.",
@@ -271134,9 +267702,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen110",
-        "category": "飯店住宿",
-        "subcategory": "房間設施",
+        "id": "sens40",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "房間裡沒有吹風機。",
         "CN_ENG": {
             "word": "There is no hair dryer in the room.",
@@ -271200,9 +267768,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen111",
-        "category": "飯店住宿",
-        "subcategory": "客房服務",
+        "id": "sens41",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "請幫我打掃房間。",
         "CN_ENG": {
             "word": "Please clean my room.",
@@ -271266,9 +267834,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen112",
-        "category": "飯店住宿",
-        "subcategory": "客房服務",
+        "id": "sens42",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "請給我多一條毛巾。",
         "CN_ENG": {
             "word": "Please give me an extra towel.",
@@ -271332,9 +267900,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen113",
-        "category": "飯店住宿",
-        "subcategory": "客房服務",
+        "id": "sens43",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "我需要叫醒服務。",
         "CN_ENG": {
             "word": "I need a wake-up call.",
@@ -271398,9 +267966,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen114",
-        "category": "飯店住宿",
-        "subcategory": "客房服務",
+        "id": "sens44",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "請送兩瓶水到我房間。",
         "CN_ENG": {
             "word": "Please send two bottles of water to my room.",
@@ -271464,9 +268032,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen115",
-        "category": "飯店住宿",
-        "subcategory": "客房服務",
+        "id": "sens45",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "請問有提供洗衣服務嗎？",
         "CN_ENG": {
             "word": "Do you offer laundry service?",
@@ -271530,9 +268098,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen116",
-        "category": "飯店住宿",
-        "subcategory": "辦理退房",
+        "id": "sens46",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "我準備好退房了。",
         "CN_ENG": {
             "word": "I am ready to check out.",
@@ -271596,9 +268164,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen117",
-        "category": "飯店住宿",
-        "subcategory": "辦理退房",
+        "id": "sens47",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "請給我最終的帳單。",
         "CN_ENG": {
             "word": "Please give me the final bill.",
@@ -271662,9 +268230,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen118",
-        "category": "飯店住宿",
-        "subcategory": "辦理退房",
+        "id": "sens48",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "我們會幫你叫計程車。",
         "CN_ENG": {
             "word": "We will call a taxi for you.",
@@ -271728,9 +268296,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen119",
-        "category": "飯店住宿",
-        "subcategory": "辦理退房",
+        "id": "sens49",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "我在房間留下了鑰匙。",
         "CN_ENG": {
             "word": "I left the key in the room.",
@@ -271794,9 +268362,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen120",
-        "category": "飯店住宿",
-        "subcategory": "辦理退房",
+        "id": "sens50",
+        "category": "實用短句",
+        "subcategory": "飯店對話",
         "cn": "謝謝你們的熱情招待。",
         "CN_ENG": {
             "word": "Thank you for your hospitality.",
@@ -271860,9 +268428,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen121",
-        "category": "常用句型",
-        "subcategory": "提出請求(我可以...)",
+        "id": "sens51",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "我可以借用你的筆嗎？",
         "CN_ENG": {
             "word": "Can I borrow your pen?",
@@ -271926,9 +268494,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen122",
-        "category": "常用句型",
-        "subcategory": "提出請求(我可以...)",
+        "id": "sens52",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "我可以坐這裡嗎？",
         "CN_ENG": {
             "word": "Can I sit here?",
@@ -271992,9 +268560,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen123",
-        "category": "常用句型",
-        "subcategory": "提出請求(我可以...)",
+        "id": "sens53",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "我可以看一看這個嗎？",
         "CN_ENG": {
             "word": "Can I take a look at this?",
@@ -272058,9 +268626,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen124",
-        "category": "常用句型",
-        "subcategory": "提出請求(我可以...)",
+        "id": "sens54",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "我可以付現金嗎？",
         "CN_ENG": {
             "word": "Can I pay in cash?",
@@ -272124,9 +268692,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen125",
-        "category": "常用句型",
-        "subcategory": "提出請求(我可以...)",
+        "id": "sens55",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "我可以先離開嗎？",
         "CN_ENG": {
             "word": "Can I leave first?",
@@ -272190,9 +268758,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen126",
-        "category": "常用句型",
-        "subcategory": "確認有無(請問有...)",
+        "id": "sens56",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "請問有單人房嗎？",
         "CN_ENG": {
             "word": "Do you have a single room?",
@@ -272256,9 +268824,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen127",
-        "category": "常用句型",
-        "subcategory": "確認有無(請問有...)",
+        "id": "sens57",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "請問有雙人床嗎？",
         "CN_ENG": {
             "word": "Do you have a double bed?",
@@ -272322,9 +268890,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen128",
-        "category": "常用句型",
-        "subcategory": "確認有無(請問有...)",
+        "id": "sens58",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "請問有游泳池嗎？",
         "CN_ENG": {
             "word": "Do you have a swimming pool?",
@@ -272388,9 +268956,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen129",
-        "category": "常用句型",
-        "subcategory": "確認有無(請問有...)",
+        "id": "sens59",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "請問有停車場嗎？",
         "CN_ENG": {
             "word": "Do you have a parking lot?",
@@ -272454,9 +269022,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen130",
-        "category": "常用句型",
-        "subcategory": "確認有無(請問有...)",
+        "id": "sens60",
+        "category": "實用短句",
+        "subcategory": "常用句型",
         "cn": "請問有免費接駁車嗎？",
         "CN_ENG": {
             "word": "Do you have a free shuttle bus?",
@@ -272520,8 +269088,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen131",
-        "category": "購物消費",
+        "id": "sens61",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "歡迎光臨，請問需要找什麼嗎？",
         "CN_ENG": {
@@ -272586,8 +269154,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen132",
-        "category": "購物消費",
+        "id": "sens62",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我只是隨便看看，謝謝。",
         "CN_ENG": {
@@ -272652,8 +269220,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen133",
-        "category": "購物消費",
+        "id": "sens63",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問女裝部在幾樓？",
         "CN_ENG": {
@@ -272718,8 +269286,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen134",
-        "category": "購物消費",
+        "id": "sens64",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問男鞋區在哪裡？",
         "CN_ENG": {
@@ -272784,8 +269352,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen135",
-        "category": "購物消費",
+        "id": "sens65",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我在找一件適合參加晚宴的洋裝。",
         "CN_ENG": {
@@ -272850,8 +269418,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen136",
-        "category": "購物消費",
+        "id": "sens66",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這件衣服有其他的顏色嗎？",
         "CN_ENG": {
@@ -272916,8 +269484,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen137",
-        "category": "購物消費",
+        "id": "sens67",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這款鞋子有黑色的嗎？",
         "CN_ENG": {
@@ -272982,8 +269550,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen138",
-        "category": "購物消費",
+        "id": "sens68",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件外套只有這個顏色嗎？",
         "CN_ENG": {
@@ -273048,8 +269616,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen139",
-        "category": "購物消費",
+        "id": "sens69",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有更小號的尺寸嗎？",
         "CN_ENG": {
@@ -273114,8 +269682,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen140",
-        "category": "購物消費",
+        "id": "sens70",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有更大號的尺寸嗎？",
         "CN_ENG": {
@@ -273180,8 +269748,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen141",
-        "category": "購物消費",
+        "id": "sens71",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這件褲子有M號的嗎？",
         "CN_ENG": {
@@ -273246,8 +269814,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen142",
-        "category": "購物消費",
+        "id": "sens72",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個尺寸對我來說太小了。",
         "CN_ENG": {
@@ -273312,8 +269880,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen143",
-        "category": "購物消費",
+        "id": "sens73",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個尺寸對我來說太大了。",
         "CN_ENG": {
@@ -273378,8 +269946,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen144",
-        "category": "購物消費",
+        "id": "sens74",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件衣服穿起來非常合身。",
         "CN_ENG": {
@@ -273444,8 +270012,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen145",
-        "category": "購物消費",
+        "id": "sens75",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問試衣間在哪裡？",
         "CN_ENG": {
@@ -273510,8 +270078,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen146",
-        "category": "購物消費",
+        "id": "sens76",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我可以試穿這件裙子嗎？",
         "CN_ENG": {
@@ -273576,8 +270144,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen147",
-        "category": "購物消費",
+        "id": "sens77",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "一次最多可以試穿幾件衣服？",
         "CN_ENG": {
@@ -273642,8 +270210,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen148",
-        "category": "購物消費",
+        "id": "sens78",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件衣服的材質是什麼？",
         "CN_ENG": {
@@ -273708,8 +270276,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen149",
-        "category": "購物消費",
+        "id": "sens79",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這是百分之百純棉的嗎？",
         "CN_ENG": {
@@ -273774,8 +270342,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen150",
-        "category": "購物消費",
+        "id": "sens80",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這件毛衣需要乾洗嗎？",
         "CN_ENG": {
@@ -273840,8 +270408,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen151",
-        "category": "購物消費",
+        "id": "sens81",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件衣服可以用洗衣機洗嗎？",
         "CN_ENG": {
@@ -273906,8 +270474,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen152",
-        "category": "購物消費",
+        "id": "sens82",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這個包包有打折嗎？",
         "CN_ENG": {
@@ -273972,8 +270540,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen153",
-        "category": "購物消費",
+        "id": "sens83",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "現在有什麼特別的促銷活動嗎？",
         "CN_ENG": {
@@ -274038,8 +270606,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen154",
-        "category": "購物消費",
+        "id": "sens84",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "買兩件有額外的折扣嗎？",
         "CN_ENG": {
@@ -274104,8 +270672,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen155",
-        "category": "購物消費",
+        "id": "sens85",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這個標價是折扣後的價格嗎？",
         "CN_ENG": {
@@ -274170,8 +270738,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen156",
-        "category": "購物消費",
+        "id": "sens86",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個價格超出我的預算了。",
         "CN_ENG": {
@@ -274236,8 +270804,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen157",
-        "category": "購物消費",
+        "id": "sens87",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "可以算我便宜一點嗎？",
         "CN_ENG": {
@@ -274302,8 +270870,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen158",
-        "category": "購物消費",
+        "id": "sens88",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "好，我決定買這件了。",
         "CN_ENG": {
@@ -274368,8 +270936,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen159",
-        "category": "購物消費",
+        "id": "sens89",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請幫我拿一件全新的，謝謝。",
         "CN_ENG": {
@@ -274434,8 +271002,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen160",
-        "category": "購物消費",
+        "id": "sens90",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問要在哪裡結帳？",
         "CN_ENG": {
@@ -274500,8 +271068,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen161",
-        "category": "購物消費",
+        "id": "sens91",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這雙鞋可以試穿嗎？",
         "CN_ENG": {
@@ -274566,8 +271134,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen162",
-        "category": "購物消費",
+        "id": "sens92",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請給我七號的尺寸。",
         "CN_ENG": {
@@ -274632,8 +271200,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen163",
-        "category": "購物消費",
+        "id": "sens93",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這雙鞋有點太緊了。",
         "CN_ENG": {
@@ -274698,8 +271266,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen164",
-        "category": "購物消費",
+        "id": "sens94",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "鞋子穿起來很不舒服。",
         "CN_ENG": {
@@ -274764,8 +271332,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen165",
-        "category": "購物消費",
+        "id": "sens95",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有更寬的版型嗎？",
         "CN_ENG": {
@@ -274830,8 +271398,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen166",
-        "category": "購物消費",
+        "id": "sens96",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件毛衣摸起來很柔軟。",
         "CN_ENG": {
@@ -274896,8 +271464,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen167",
-        "category": "購物消費",
+        "id": "sens97",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這個材質會縮水嗎？",
         "CN_ENG": {
@@ -274962,8 +271530,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen168",
-        "category": "購物消費",
+        "id": "sens98",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "衣服的標籤在哪裡？",
         "CN_ENG": {
@@ -275028,8 +271596,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen169",
-        "category": "購物消費",
+        "id": "sens99",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這是當季的新款嗎？",
         "CN_ENG": {
@@ -275094,8 +271662,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen170",
-        "category": "購物消費",
+        "id": "sens100",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件外套有防風功能嗎？",
         "CN_ENG": {
@@ -275160,8 +271728,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen171",
-        "category": "購物消費",
+        "id": "sens101",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件雨衣防水嗎？",
         "CN_ENG": {
@@ -275226,8 +271794,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen172",
-        "category": "購物消費",
+        "id": "sens102",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有賣搭配的皮帶嗎？",
         "CN_ENG": {
@@ -275292,8 +271860,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen173",
-        "category": "購物消費",
+        "id": "sens103",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我想找一條配這套西裝的領帶。",
         "CN_ENG": {
@@ -275358,8 +271926,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen174",
-        "category": "購物消費",
+        "id": "sens104",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "你們有賣棉質的襪子嗎？",
         "CN_ENG": {
@@ -275424,8 +271992,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen175",
-        "category": "購物消費",
+        "id": "sens105",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有賣保暖的手套嗎？",
         "CN_ENG": {
@@ -275490,8 +272058,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen176",
-        "category": "購物消費",
+        "id": "sens106",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我需要一頂遮陽帽。",
         "CN_ENG": {
@@ -275556,8 +272124,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen177",
-        "category": "購物消費",
+        "id": "sens107",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個款式現在很流行。",
         "CN_ENG": {
@@ -275622,8 +272190,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen178",
-        "category": "購物消費",
+        "id": "sens108",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個設計非常獨特。",
         "CN_ENG": {
@@ -275688,8 +272256,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen179",
-        "category": "購物消費",
+        "id": "sens109",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件衣服的剪裁很好看。",
         "CN_ENG": {
@@ -275754,8 +272322,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen180",
-        "category": "購物消費",
+        "id": "sens110",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我覺得這個顏色不適合我。",
         "CN_ENG": {
@@ -275820,8 +272388,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen181",
-        "category": "購物消費",
+        "id": "sens111",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問這件衣服可以退換嗎？",
         "CN_ENG": {
@@ -275886,8 +272454,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen182",
-        "category": "購物消費",
+        "id": "sens112",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "如果尺寸不合可以換嗎？",
         "CN_ENG": {
@@ -275952,8 +272520,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen183",
-        "category": "購物消費",
+        "id": "sens113",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "退換貨需要帶收據嗎？",
         "CN_ENG": {
@@ -276018,8 +272586,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen184",
-        "category": "購物消費",
+        "id": "sens114",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問退貨的期限是幾天？",
         "CN_ENG": {
@@ -276084,8 +272652,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen185",
-        "category": "購物消費",
+        "id": "sens115",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我想要退掉這件衣服。",
         "CN_ENG": {
@@ -276150,8 +272718,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen186",
-        "category": "購物消費",
+        "id": "sens116",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我發現這件衣服上有瑕疵。",
         "CN_ENG": {
@@ -276216,8 +272784,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen187",
-        "category": "購物消費",
+        "id": "sens117",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這裡的扣子掉下來了。",
         "CN_ENG": {
@@ -276282,8 +272850,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen188",
-        "category": "購物消費",
+        "id": "sens118",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "拉鍊好像壞掉了。",
         "CN_ENG": {
@@ -276348,8 +272916,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen189",
-        "category": "購物消費",
+        "id": "sens119",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "可以幫我包裝成禮物嗎？",
         "CN_ENG": {
@@ -276414,8 +272982,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen190",
-        "category": "購物消費",
+        "id": "sens120",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有附贈提袋嗎？",
         "CN_ENG": {
@@ -276480,8 +273048,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen191",
-        "category": "購物消費",
+        "id": "sens121",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這裡可以刷卡嗎？",
         "CN_ENG": {
@@ -276546,8 +273114,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen192",
-        "category": "購物消費",
+        "id": "sens122",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有免稅服務嗎？",
         "CN_ENG": {
@@ -276612,8 +273180,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen193",
-        "category": "購物消費",
+        "id": "sens123",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我需要辦理退稅。",
         "CN_ENG": {
@@ -276678,8 +273246,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen194",
-        "category": "購物消費",
+        "id": "sens124",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "退稅櫃台在哪裡？",
         "CN_ENG": {
@@ -276744,8 +273312,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen195",
-        "category": "購物消費",
+        "id": "sens125",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請給我一張明細。",
         "CN_ENG": {
@@ -276810,8 +273378,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen196",
-        "category": "購物消費",
+        "id": "sens126",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有會員優惠嗎？",
         "CN_ENG": {
@@ -276876,8 +273444,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen197",
-        "category": "購物消費",
+        "id": "sens127",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我想辦一張會員卡。",
         "CN_ENG": {
@@ -276942,8 +273510,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen198",
-        "category": "購物消費",
+        "id": "sens128",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "可以幫我剪掉吊牌嗎？",
         "CN_ENG": {
@@ -277008,8 +273576,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen199",
-        "category": "購物消費",
+        "id": "sens129",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件衣服有抗UV功能嗎？",
         "CN_ENG": {
@@ -277074,8 +273642,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen200",
-        "category": "購物消費",
+        "id": "sens130",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這雙襪子是純棉的嗎？",
         "CN_ENG": {
@@ -277140,8 +273708,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen201",
-        "category": "購物消費",
+        "id": "sens131",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有賣男士內衣嗎？",
         "CN_ENG": {
@@ -277206,8 +273774,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen202",
-        "category": "購物消費",
+        "id": "sens132",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有賣女士內衣嗎？",
         "CN_ENG": {
@@ -277272,8 +273840,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen203",
-        "category": "購物消費",
+        "id": "sens133",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個款式有大尺碼嗎？",
         "CN_ENG": {
@@ -277338,8 +273906,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen204",
-        "category": "購物消費",
+        "id": "sens134",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這件外套可以雙面穿嗎？",
         "CN_ENG": {
@@ -277404,8 +273972,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen205",
-        "category": "購物消費",
+        "id": "sens135",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這條褲子可以改短嗎？",
         "CN_ENG": {
@@ -277470,8 +274038,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen206",
-        "category": "購物消費",
+        "id": "sens136",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "修改衣服需要多少錢？",
         "CN_ENG": {
@@ -277536,8 +274104,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen207",
-        "category": "購物消費",
+        "id": "sens137",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "修改大約需要等多久？",
         "CN_ENG": {
@@ -277602,8 +274170,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen208",
-        "category": "購物消費",
+        "id": "sens138",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我明天再來拿可以嗎？",
         "CN_ENG": {
@@ -277668,8 +274236,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen209",
-        "category": "購物消費",
+        "id": "sens139",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這副墨鏡有偏光嗎？",
         "CN_ENG": {
@@ -277734,8 +274302,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen210",
-        "category": "購物消費",
+        "id": "sens140",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這只手錶防水嗎？",
         "CN_ENG": {
@@ -277800,8 +274368,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen211",
-        "category": "購物消費",
+        "id": "sens141",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這條項鍊是純銀的嗎？",
         "CN_ENG": {
@@ -277866,8 +274434,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen212",
-        "category": "購物消費",
+        "id": "sens142",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有其他的包裝盒嗎？",
         "CN_ENG": {
@@ -277932,8 +274500,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen213",
-        "category": "購物消費",
+        "id": "sens143",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個材質容易起毛球嗎？",
         "CN_ENG": {
@@ -277998,8 +274566,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen214",
-        "category": "購物消費",
+        "id": "sens144",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個顏色洗了會褪色嗎？",
         "CN_ENG": {
@@ -278064,8 +274632,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen215",
-        "category": "購物消費",
+        "id": "sens145",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問有賣兒童裝嗎？",
         "CN_ENG": {
@@ -278130,8 +274698,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen216",
-        "category": "購物消費",
+        "id": "sens146",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "嬰兒服飾在哪個區域？",
         "CN_ENG": {
@@ -278196,8 +274764,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen217",
-        "category": "購物消費",
+        "id": "sens147",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我想買一雙運動鞋。",
         "CN_ENG": {
@@ -278262,8 +274830,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen218",
-        "category": "購物消費",
+        "id": "sens148",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這雙鞋適合跑步穿嗎？",
         "CN_ENG": {
@@ -278328,8 +274896,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen219",
-        "category": "購物消費",
+        "id": "sens149",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "我可以試戴這頂帽子嗎？",
         "CN_ENG": {
@@ -278394,8 +274962,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen220",
-        "category": "購物消費",
+        "id": "sens150",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個戒指對我來說太鬆了。",
         "CN_ENG": {
@@ -278460,8 +275028,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen221",
-        "category": "購物消費",
+        "id": "sens151",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個戒指對我來說太緊了。",
         "CN_ENG": {
@@ -278526,8 +275094,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen222",
-        "category": "購物消費",
+        "id": "sens152",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "你們有賣帆布包嗎？",
         "CN_ENG": {
@@ -278592,8 +275160,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen223",
-        "category": "購物消費",
+        "id": "sens153",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個行李箱有多重？",
         "CN_ENG": {
@@ -278658,8 +275226,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen224",
-        "category": "購物消費",
+        "id": "sens154",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "輪子推起來很順暢。",
         "CN_ENG": {
@@ -278724,8 +275292,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen225",
-        "category": "購物消費",
+        "id": "sens155",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個包包的容量很大。",
         "CN_ENG": {
@@ -278790,8 +275358,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen226",
-        "category": "購物消費",
+        "id": "sens156",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "請問拉鍊有保固嗎？",
         "CN_ENG": {
@@ -278856,8 +275424,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen227",
-        "category": "購物消費",
+        "id": "sens157",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個設計非常有質感。",
         "CN_ENG": {
@@ -278922,8 +275490,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen228",
-        "category": "購物消費",
+        "id": "sens158",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "可以幫我拿新的嗎？",
         "CN_ENG": {
@@ -278988,8 +275556,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen229",
-        "category": "購物消費",
+        "id": "sens159",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "這個材質很透氣。",
         "CN_ENG": {
@@ -279054,8 +275622,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen230",
-        "category": "購物消費",
+        "id": "sens160",
+        "category": "實用短句",
         "subcategory": "服飾購物",
         "cn": "謝謝你的推薦。",
         "CN_ENG": {
@@ -279120,8 +275688,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen231",
-        "category": "購物消費",
+        "id": "sens161",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問在哪裡可以找到手機配件？",
         "CN_ENG": {
@@ -279186,8 +275754,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen232",
-        "category": "購物消費",
+        "id": "sens162",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "我想看最新款的智慧型手機。",
         "CN_ENG": {
@@ -279252,8 +275820,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen233",
-        "category": "購物消費",
+        "id": "sens163",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這台筆記型電腦的重量是多少？",
         "CN_ENG": {
@@ -279318,8 +275886,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen234",
-        "category": "購物消費",
+        "id": "sens164",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這台平板電腦的容量有多大？",
         "CN_ENG": {
@@ -279384,8 +275952,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen235",
-        "category": "購物消費",
+        "id": "sens165",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這款相機適合初學者嗎？",
         "CN_ENG": {
@@ -279450,8 +276018,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen236",
-        "category": "購物消費",
+        "id": "sens166",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問這台電視有上網功能嗎？",
         "CN_ENG": {
@@ -279516,8 +276084,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen237",
-        "category": "購物消費",
+        "id": "sens167",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這副耳機是無線的嗎？",
         "CN_ENG": {
@@ -279582,8 +276150,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen238",
-        "category": "購物消費",
+        "id": "sens168",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這副耳機有降噪功能嗎？",
         "CN_ENG": {
@@ -279648,8 +276216,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen239",
-        "category": "購物消費",
+        "id": "sens169",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這顆行動電源可以充幾次電？",
         "CN_ENG": {
@@ -279714,8 +276282,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen240",
-        "category": "購物消費",
+        "id": "sens170",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問有賣萬用轉接頭嗎？",
         "CN_ENG": {
@@ -279780,8 +276348,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen241",
-        "category": "購物消費",
+        "id": "sens171",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問這個充電線有多長？",
         "CN_ENG": {
@@ -279846,8 +276414,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen242",
-        "category": "購物消費",
+        "id": "sens172",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這個螢幕的解析度是多少？",
         "CN_ENG": {
@@ -279912,8 +276480,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen243",
-        "category": "購物消費",
+        "id": "sens173",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這台機器的電池續航力有多久？",
         "CN_ENG": {
@@ -279978,8 +276546,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen244",
-        "category": "購物消費",
+        "id": "sens174",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這個產品有支援藍牙嗎？",
         "CN_ENG": {
@@ -280044,8 +276612,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen245",
-        "category": "購物消費",
+        "id": "sens175",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問這個設備可以連接Wi-Fi嗎？",
         "CN_ENG": {
@@ -280110,8 +276678,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen246",
-        "category": "購物消費",
+        "id": "sens176",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這個產品的保固期是多久？",
         "CN_ENG": {
@@ -280176,8 +276744,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen247",
-        "category": "購物消費",
+        "id": "sens177",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "保固涵蓋哪些範圍？",
         "CN_ENG": {
@@ -280242,8 +276810,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen248",
-        "category": "購物消費",
+        "id": "sens178",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "如果商品有瑕疵可以換新嗎？",
         "CN_ENG": {
@@ -280308,8 +276876,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen249",
-        "category": "購物消費",
+        "id": "sens179",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問有提供售後維修服務嗎？",
         "CN_ENG": {
@@ -280374,8 +276942,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen250",
-        "category": "購物消費",
+        "id": "sens180",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問這款遊戲機可以試玩嗎？",
         "CN_ENG": {
@@ -280440,8 +277008,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen251",
-        "category": "購物消費",
+        "id": "sens181",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這個鍵盤是機械式的嗎？",
         "CN_ENG": {
@@ -280506,8 +277074,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen252",
-        "category": "購物消費",
+        "id": "sens182",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這顆滑鼠是靜音的嗎？",
         "CN_ENG": {
@@ -280572,8 +277140,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen253",
-        "category": "購物消費",
+        "id": "sens183",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問這台印表機支援無線列印嗎？",
         "CN_ENG": {
@@ -280638,8 +277206,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen254",
-        "category": "購物消費",
+        "id": "sens184",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這台空氣清淨機的適用坪數是多少？",
         "CN_ENG": {
@@ -280704,8 +277272,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen255",
-        "category": "購物消費",
+        "id": "sens185",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這台吹風機的風量大嗎？",
         "CN_ENG": {
@@ -280770,8 +277338,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen256",
-        "category": "購物消費",
+        "id": "sens186",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問這個微波爐有多少種模式？",
         "CN_ENG": {
@@ -280836,8 +277404,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen257",
-        "category": "購物消費",
+        "id": "sens187",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這台吸塵器是充電式的嗎？",
         "CN_ENG": {
@@ -280902,8 +277470,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen258",
-        "category": "購物消費",
+        "id": "sens188",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "我需要買這台機器的濾網。",
         "CN_ENG": {
@@ -280968,8 +277536,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen259",
-        "category": "購物消費",
+        "id": "sens189",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "請問你們有提供到府安裝的服務嗎？",
         "CN_ENG": {
@@ -281034,8 +277602,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen260",
-        "category": "購物消費",
+        "id": "sens190",
+        "category": "實用短句",
         "subcategory": "電子產品",
         "cn": "這台機器的操作手冊有中文版嗎？",
         "CN_ENG": {
@@ -281100,8 +277668,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen261",
-        "category": "日常交際",
+        "id": "sens191",
+        "category": "實用短句",
         "subcategory": "基本問候",
         "cn": "早安，你好。",
         "CN_ENG": {
@@ -281166,8 +277734,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen262",
-        "category": "日常交際",
+        "id": "sens192",
+        "category": "實用短句",
         "subcategory": "基本問候",
         "cn": "午安，你好嗎？",
         "CN_ENG": {
@@ -281232,8 +277800,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen263",
-        "category": "日常交際",
+        "id": "sens193",
+        "category": "實用短句",
         "subcategory": "基本問候",
         "cn": "晚安，祝你有個好夢。",
         "CN_ENG": {
@@ -281298,8 +277866,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen264",
-        "category": "日常交際",
+        "id": "sens194",
+        "category": "實用短句",
         "subcategory": "基本問候",
         "cn": "好久不見了。",
         "CN_ENG": {
@@ -281364,8 +277932,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen265",
-        "category": "日常交際",
+        "id": "sens195",
+        "category": "實用短句",
         "subcategory": "基本問候",
         "cn": "最近過得怎麼樣？",
         "CN_ENG": {
@@ -281430,8 +277998,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen266",
-        "category": "日常交際",
+        "id": "sens196",
+        "category": "實用短句",
         "subcategory": "基本問候",
         "cn": "我過得很好，謝謝。",
         "CN_ENG": {
@@ -281496,9 +278064,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen267",
-        "category": "日常交際",
-        "subcategory": "自我介紹",
+        "id": "sens197",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "你好，我叫大衛。",
         "CN_ENG": {
             "word": "Hello, my name is David.",
@@ -281562,9 +278130,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen268",
-        "category": "日常交際",
-        "subcategory": "自我介紹",
+        "id": "sens198",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "很高興認識你。",
         "CN_ENG": {
             "word": "Nice to meet you.",
@@ -281628,9 +278196,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen269",
-        "category": "日常交際",
-        "subcategory": "自我介紹",
+        "id": "sens199",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "我是從台灣來的。",
         "CN_ENG": {
             "word": "I am from Taiwan.",
@@ -281694,9 +278262,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen270",
-        "category": "日常交際",
-        "subcategory": "自我介紹",
+        "id": "sens200",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "你來自哪裡？",
         "CN_ENG": {
             "word": "Where are you from?",
@@ -281760,9 +278328,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen271",
-        "category": "日常交際",
-        "subcategory": "自我介紹",
+        "id": "sens201",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "我的工作是工程師。",
         "CN_ENG": {
             "word": "My job is an engineer.",
@@ -281826,9 +278394,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen272",
-        "category": "日常交際",
-        "subcategory": "自我介紹",
+        "id": "sens202",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "你做什麼工作？",
         "CN_ENG": {
             "word": "What do you do for a living?",
@@ -281892,9 +278460,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen273",
-        "category": "日常交際",
-        "subcategory": "感謝與道歉",
+        "id": "sens203",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "非常感謝你的幫忙。",
         "CN_ENG": {
             "word": "Thank you very much for your help.",
@@ -281958,9 +278526,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen274",
-        "category": "日常交際",
-        "subcategory": "感謝與道歉",
+        "id": "sens204",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "不客氣，這是小事。",
         "CN_ENG": {
             "word": "You're welcome, it's no big deal.",
@@ -282024,9 +278592,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen275",
-        "category": "日常交際",
-        "subcategory": "感謝與道歉",
+        "id": "sens205",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "真的很抱歉。",
         "CN_ENG": {
             "word": "I am really sorry.",
@@ -282090,9 +278658,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen276",
-        "category": "日常交際",
-        "subcategory": "感謝與道歉",
+        "id": "sens206",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "沒關係，別放在心上。",
         "CN_ENG": {
             "word": "That's okay, don't worry about it.",
@@ -282156,9 +278724,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen277",
-        "category": "日常交際",
-        "subcategory": "邀請與約會",
+        "id": "sens207",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "你這個週末有空嗎？",
         "CN_ENG": {
             "word": "Are you free this weekend?",
@@ -282222,9 +278790,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen278",
-        "category": "日常交際",
-        "subcategory": "邀請與約會",
+        "id": "sens208",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "我們一起去喝杯咖啡吧。",
         "CN_ENG": {
             "word": "Let's go grab a cup of coffee together.",
@@ -282288,9 +278856,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen279",
-        "category": "日常交際",
-        "subcategory": "邀請與約會",
+        "id": "sens209",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "我很樂意，幾點見？",
         "CN_ENG": {
             "word": "I would love to, what time should we meet?",
@@ -282354,9 +278922,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen280",
-        "category": "日常交際",
-        "subcategory": "邀請與約會",
+        "id": "sens210",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "抱歉，我那天有安排了。",
         "CN_ENG": {
             "word": "Sorry, I have plans that day.",
@@ -282420,9 +278988,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen281",
-        "category": "日常交際",
-        "subcategory": "天氣與季節",
+        "id": "sens211",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "今天天氣真好。",
         "CN_ENG": {
             "word": "The weather is really nice today.",
@@ -282486,9 +279054,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen282",
-        "category": "日常交際",
-        "subcategory": "天氣與季節",
+        "id": "sens212",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "看樣子快要下雨了。",
         "CN_ENG": {
             "word": "It looks like it's going to rain soon.",
@@ -282552,9 +279120,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen283",
-        "category": "日常交際",
-        "subcategory": "天氣與季節",
+        "id": "sens213",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "外面非常冷，多穿點。",
         "CN_ENG": {
             "word": "It is very cold outside, wear more clothes.",
@@ -282618,9 +279186,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen284",
-        "category": "日常交際",
-        "subcategory": "天氣與季節",
+        "id": "sens214",
+        "category": "實用短句",
+        "subcategory": "基本問候",
         "cn": "夏天我最喜歡去游泳。",
         "CN_ENG": {
             "word": "I like swimming the most in summer.",
@@ -282684,8 +279252,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen285",
-        "category": "日常交際",
+        "id": "sens215",
+        "category": "實用短句",
         "subcategory": "興趣與愛好",
         "cn": "你平時喜歡做什麼？",
         "CN_ENG": {
@@ -282750,8 +279318,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen286",
-        "category": "日常交際",
+        "id": "sens216",
+        "category": "實用短句",
         "subcategory": "興趣與愛好",
         "cn": "我很喜歡看書和聽音樂。",
         "CN_ENG": {
@@ -282816,8 +279384,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen287",
-        "category": "日常交際",
+        "id": "sens217",
+        "category": "實用短句",
         "subcategory": "興趣與愛好",
         "cn": "你會打籃球嗎？",
         "CN_ENG": {
@@ -282882,8 +279450,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen288",
-        "category": "日常交際",
+        "id": "sens218",
+        "category": "實用短句",
         "subcategory": "興趣與愛好",
         "cn": "我週末常去爬山。",
         "CN_ENG": {
@@ -282948,9 +279516,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen289",
-        "category": "日常交際",
-        "subcategory": "贊同與反對",
+        "id": "sens219",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "我完全同意你的看法。",
         "CN_ENG": {
             "word": "I completely agree with your opinion.",
@@ -283014,9 +279582,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen290",
-        "category": "日常交際",
-        "subcategory": "贊同與反對",
+        "id": "sens220",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "那是個好主意。",
         "CN_ENG": {
             "word": "That is a good idea.",
@@ -283080,9 +279648,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen291",
-        "category": "日常交際",
-        "subcategory": "贊同與反對",
+        "id": "sens221",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "我不這麼認為。",
         "CN_ENG": {
             "word": "I do not think so.",
@@ -283146,9 +279714,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen292",
-        "category": "日常交際",
-        "subcategory": "贊同與反對",
+        "id": "sens222",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "也許我們該換個方式。",
         "CN_ENG": {
             "word": "Maybe we should try another way.",
@@ -283212,9 +279780,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen293",
-        "category": "日常交際",
-        "subcategory": "祝賀與祝福",
+        "id": "sens223",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "祝你生日快樂。",
         "CN_ENG": {
             "word": "Happy birthday to you.",
@@ -283278,9 +279846,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen294",
-        "category": "日常交際",
-        "subcategory": "祝賀與祝福",
+        "id": "sens224",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "恭喜你升職了。",
         "CN_ENG": {
             "word": "Congratulations on your promotion.",
@@ -283344,9 +279912,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen295",
-        "category": "日常交際",
-        "subcategory": "祝賀與祝福",
+        "id": "sens225",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "祝你好運！",
         "CN_ENG": {
             "word": "Good luck!",
@@ -283410,9 +279978,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen296",
-        "category": "日常交際",
-        "subcategory": "祝賀與祝福",
+        "id": "sens226",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "新年快樂，萬事如意。",
         "CN_ENG": {
             "word": "Happy New Year, and all the best.",
@@ -283476,9 +280044,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen297",
-        "category": "日常交際",
-        "subcategory": "請求與許可",
+        "id": "sens227",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "我可以借用一下你的電話嗎？",
         "CN_ENG": {
             "word": "May I borrow your phone for a moment?",
@@ -283542,9 +280110,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen298",
-        "category": "日常交際",
-        "subcategory": "請求與許可",
+        "id": "sens228",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "請你再說一遍好嗎？",
         "CN_ENG": {
             "word": "Could you say that again, please?",
@@ -283608,9 +280176,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen299",
-        "category": "日常交際",
-        "subcategory": "請求與許可",
+        "id": "sens229",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "我現在可以進去嗎？",
         "CN_ENG": {
             "word": "Can I go in now?",
@@ -283674,9 +280242,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen300",
-        "category": "日常交際",
-        "subcategory": "請求與許可",
+        "id": "sens230",
+        "category": "實用短句",
+        "subcategory": "興趣與愛好",
         "cn": "請問這附近有洗手間嗎？",
         "CN_ENG": {
             "word": "Is there a restroom nearby?",
@@ -283740,8 +280308,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen301",
-        "category": "日常交際",
+        "id": "sens231",
+        "category": "實用短句",
         "subcategory": "尋求幫助",
         "cn": "請問你可以幫我嗎？",
         "CN_ENG": {
@@ -283806,8 +280374,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen302",
-        "category": "日常交際",
+        "id": "sens232",
+        "category": "實用短句",
         "subcategory": "尋求幫助",
         "cn": "我需要你的建議。",
         "CN_ENG": {
@@ -283872,8 +280440,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen303",
-        "category": "日常交際",
+        "id": "sens233",
+        "category": "實用短句",
         "subcategory": "尋求幫助",
         "cn": "你能幫我拿一下這個嗎？",
         "CN_ENG": {
@@ -283938,8 +280506,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen304",
-        "category": "日常交際",
+        "id": "sens234",
+        "category": "實用短句",
         "subcategory": "尋求幫助",
         "cn": "請問這要怎麼用？",
         "CN_ENG": {
@@ -284004,8 +280572,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen305",
-        "category": "日常交際",
+        "id": "sens235",
+        "category": "實用短句",
         "subcategory": "尋求幫助",
         "cn": "可以教我怎麼做嗎？",
         "CN_ENG": {
@@ -284070,8 +280638,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen306",
-        "category": "日常交際",
+        "id": "sens236",
+        "category": "實用短句",
         "subcategory": "尋求幫助",
         "cn": "我不小心把水打翻了。",
         "CN_ENG": {
@@ -284136,8 +280704,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen307",
-        "category": "日常交際",
+        "id": "sens237",
+        "category": "實用短句",
         "subcategory": "尋求幫助",
         "cn": "麻煩你幫我開門。",
         "CN_ENG": {
@@ -284202,8 +280770,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen308",
-        "category": "日常交際",
+        "id": "sens238",
+        "category": "實用短句",
         "subcategory": "表達意見",
         "cn": "我覺得這是一個好主意。",
         "CN_ENG": {
@@ -284268,8 +280836,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen309",
-        "category": "日常交際",
+        "id": "sens239",
+        "category": "實用短句",
         "subcategory": "表達意見",
         "cn": "我不太確定這件事。",
         "CN_ENG": {
@@ -284334,8 +280902,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen310",
-        "category": "日常交際",
+        "id": "sens240",
+        "category": "實用短句",
         "subcategory": "表達意見",
         "cn": "就我看來，這沒有問題。",
         "CN_ENG": {
@@ -284400,8 +280968,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen311",
-        "category": "日常交際",
+        "id": "sens241",
+        "category": "實用短句",
         "subcategory": "表達意見",
         "cn": "你能理解我的意思嗎？",
         "CN_ENG": {
@@ -284466,8 +281034,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen312",
-        "category": "日常交際",
+        "id": "sens242",
+        "category": "實用短句",
         "subcategory": "表達意見",
         "cn": "我對這個提議很感興趣。",
         "CN_ENG": {
@@ -284532,8 +281100,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen313",
-        "category": "日常交際",
+        "id": "sens243",
+        "category": "實用短句",
         "subcategory": "表達意見",
         "cn": "聽起來是個不錯的選擇。",
         "CN_ENG": {
@@ -284598,8 +281166,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen314",
-        "category": "日常交際",
+        "id": "sens244",
+        "category": "實用短句",
         "subcategory": "表達意見",
         "cn": "我完全沒有想到這一點。",
         "CN_ENG": {
@@ -284664,8 +281232,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen315",
-        "category": "日常交際",
+        "id": "sens245",
+        "category": "實用短句",
         "subcategory": "讚美鼓勵",
         "cn": "你今天看起來真漂亮。",
         "CN_ENG": {
@@ -284730,8 +281298,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen316",
-        "category": "日常交際",
+        "id": "sens246",
+        "category": "實用短句",
         "subcategory": "讚美鼓勵",
         "cn": "你的衣服在哪裡買的？",
         "CN_ENG": {
@@ -284796,8 +281364,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen317",
-        "category": "日常交際",
+        "id": "sens247",
+        "category": "實用短句",
         "subcategory": "讚美鼓勵",
         "cn": "你做得非常好，繼續保持。",
         "CN_ENG": {
@@ -284862,8 +281430,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen318",
-        "category": "日常交際",
+        "id": "sens248",
+        "category": "實用短句",
         "subcategory": "讚美鼓勵",
         "cn": "不要放棄，你可以的！",
         "CN_ENG": {
@@ -284928,8 +281496,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen319",
-        "category": "日常交際",
+        "id": "sens249",
+        "category": "實用短句",
         "subcategory": "讚美鼓勵",
         "cn": "我為你感到驕傲。",
         "CN_ENG": {
@@ -284994,8 +281562,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen320",
-        "category": "日常交際",
+        "id": "sens250",
+        "category": "實用短句",
         "subcategory": "讚美鼓勵",
         "cn": "這頓飯真是太好吃了。",
         "CN_ENG": {
@@ -285060,9 +281628,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen321",
-        "category": "日常交際",
-        "subcategory": "情緒表達",
+        "id": "sens251",
+        "category": "實用短句",
+        "subcategory": "讚美鼓勵",
         "cn": "我今天覺得有點累。",
         "CN_ENG": {
             "word": "I feel a bit tired today.",
@@ -285126,9 +281694,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen322",
-        "category": "日常交際",
-        "subcategory": "情緒表達",
+        "id": "sens252",
+        "category": "實用短句",
+        "subcategory": "讚美鼓勵",
         "cn": "聽到這個消息我很高興。",
         "CN_ENG": {
             "word": "I am very happy to hear this news.",
@@ -285192,9 +281760,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen323",
-        "category": "日常交際",
-        "subcategory": "情緒表達",
+        "id": "sens253",
+        "category": "實用短句",
+        "subcategory": "讚美鼓勵",
         "cn": "別生氣，我們冷靜一下。",
         "CN_ENG": {
             "word": "Don't be angry, let's calm down.",
@@ -285258,9 +281826,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen324",
-        "category": "日常交際",
-        "subcategory": "情緒表達",
+        "id": "sens254",
+        "category": "實用短句",
+        "subcategory": "讚美鼓勵",
         "cn": "這件事讓我非常驚訝。",
         "CN_ENG": {
             "word": "This matter surprised me a lot.",
@@ -285324,9 +281892,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen325",
-        "category": "日常交際",
-        "subcategory": "情緒表達",
+        "id": "sens255",
+        "category": "實用短句",
+        "subcategory": "讚美鼓勵",
         "cn": "我現在感到非常緊張。",
         "CN_ENG": {
             "word": "I am feeling very nervous right now.",
@@ -285390,9 +281958,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen326",
-        "category": "日常交際",
-        "subcategory": "情緒表達",
+        "id": "sens256",
+        "category": "實用短句",
+        "subcategory": "讚美鼓勵",
         "cn": "真是個令人遺憾的消息。",
         "CN_ENG": {
             "word": "That is such regrettable news.",
@@ -285456,9 +282024,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen327",
-        "category": "日常交際",
-        "subcategory": "情緒表達",
+        "id": "sens257",
+        "category": "實用短句",
+        "subcategory": "讚美鼓勵",
         "cn": "我對此感到非常抱歉。",
         "CN_ENG": {
             "word": "I feel very sorry about this.",
@@ -285522,8 +282090,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen328",
-        "category": "日常交際",
+        "id": "sens258",
+        "category": "實用短句",
         "subcategory": "日常生活",
         "cn": "你今天早餐吃了什麼？",
         "CN_ENG": {
@@ -285588,8 +282156,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen329",
-        "category": "日常交際",
+        "id": "sens259",
+        "category": "實用短句",
         "subcategory": "日常生活",
         "cn": "我習慣每天早上喝咖啡。",
         "CN_ENG": {
@@ -285654,8 +282222,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen330",
-        "category": "日常交際",
+        "id": "sens260",
+        "category": "實用短句",
         "subcategory": "日常生活",
         "cn": "昨晚你幾點睡覺的？",
         "CN_ENG": {
@@ -285720,8 +282288,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen331",
-        "category": "日常交際",
+        "id": "sens261",
+        "category": "實用短句",
         "subcategory": "日常生活",
         "cn": "我通常晚上十一點休息。",
         "CN_ENG": {
@@ -285786,8 +282354,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen332",
-        "category": "日常交際",
+        "id": "sens262",
+        "category": "實用短句",
         "subcategory": "日常生活",
         "cn": "週末你打算做什麼？",
         "CN_ENG": {
@@ -285852,8 +282420,8 @@ const vocabData = [
         }
     },
     {
-        "id": "sen333",
-        "category": "日常交際",
+        "id": "sens263",
+        "category": "實用短句",
         "subcategory": "日常生活",
         "cn": "我打算在家打掃房間。",
         "CN_ENG": {
@@ -285918,9 +282486,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen334",
-        "category": "日常交際",
-        "subcategory": "交通詢問",
+        "id": "sens264",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "請問捷運站怎麼走？",
         "CN_ENG": {
             "word": "How do I get to the MRT station?",
@@ -285984,9 +282552,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen335",
-        "category": "日常交際",
-        "subcategory": "交通詢問",
+        "id": "sens265",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "走路過去大約要十分鐘。",
         "CN_ENG": {
             "word": "It takes about ten minutes to walk there.",
@@ -286050,9 +282618,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen336",
-        "category": "日常交際",
-        "subcategory": "交通詢問",
+        "id": "sens266",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你可以搭公車去。",
         "CN_ENG": {
             "word": "You can take a bus there.",
@@ -286116,9 +282684,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen337",
-        "category": "日常交際",
-        "subcategory": "休閒娛樂",
+        "id": "sens267",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這部電影真是太好看了。",
         "CN_ENG": {
             "word": "This movie is really great.",
@@ -286182,9 +282750,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen338",
-        "category": "日常交際",
-        "subcategory": "休閒娛樂",
+        "id": "sens268",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你有推薦的音樂嗎？",
         "CN_ENG": {
             "word": "Do you have any music recommendations?",
@@ -286248,9 +282816,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen339",
-        "category": "日常交際",
-        "subcategory": "休閒娛樂",
+        "id": "sens269",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我們去公園散散步吧。",
         "CN_ENG": {
             "word": "Let's go for a walk in the park.",
@@ -286314,9 +282882,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen340",
-        "category": "日常交際",
-        "subcategory": "休閒娛樂",
+        "id": "sens270",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我平常喜歡玩電動遊戲。",
         "CN_ENG": {
             "word": "I usually like to play video games.",
@@ -286380,9 +282948,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen341",
-        "category": "日常交際",
-        "subcategory": "表達拒絕",
+        "id": "sens271",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "很抱歉，我目前不需要。",
         "CN_ENG": {
             "word": "I'm sorry, I don't need it at the moment.",
@@ -286446,9 +283014,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen342",
-        "category": "日常交際",
-        "subcategory": "表達拒絕",
+        "id": "sens272",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "謝謝你的邀請，但我去不了。",
         "CN_ENG": {
             "word": "Thank you for the invitation, but I can't make it.",
@@ -286512,9 +283080,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen343",
-        "category": "日常交際",
-        "subcategory": "表達拒絕",
+        "id": "sens273",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我現在有點忙，稍後再說。",
         "CN_ENG": {
             "word": "I am a bit busy right now, let's talk later.",
@@ -286578,9 +283146,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen344",
-        "category": "日常交際",
-        "subcategory": "日常詢問",
+        "id": "sens274",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "請問你知道現在幾點嗎？",
         "CN_ENG": {
             "word": "Excuse me, do you know what time it is?",
@@ -286644,9 +283212,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen345",
-        "category": "日常交際",
-        "subcategory": "日常詢問",
+        "id": "sens275",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這個字用英文怎麼說？",
         "CN_ENG": {
             "word": "How do you say this word in English?",
@@ -286710,9 +283278,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen346",
-        "category": "日常交際",
-        "subcategory": "日常詢問",
+        "id": "sens276",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這裡可以拍照嗎？",
         "CN_ENG": {
             "word": "Is it allowed to take photos here?",
@@ -286776,9 +283344,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen347",
-        "category": "日常交際",
-        "subcategory": "關心問候",
+        "id": "sens277",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你今天看起來氣色不錯。",
         "CN_ENG": {
             "word": "You look well today.",
@@ -286842,9 +283410,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen348",
-        "category": "日常交際",
-        "subcategory": "關心問候",
+        "id": "sens278",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你的感冒好一點了嗎？",
         "CN_ENG": {
             "word": "Is your cold getting any better?",
@@ -286908,9 +283476,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen349",
-        "category": "日常交際",
-        "subcategory": "關心問候",
+        "id": "sens279",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "工作別太累了，注意休息。",
         "CN_ENG": {
             "word": "Don't work too hard, remember to rest.",
@@ -286974,9 +283542,9 @@ const vocabData = [
         }
     },
     {
-        "id": "sen350",
-        "category": "日常交際",
-        "subcategory": "告別用語",
+        "id": "sens280",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我得走了，下次見。",
         "CN_ENG": {
             "word": "I have to go, see you next time.",
@@ -287040,9 +283608,9 @@ const vocabData = [
         }
     },
     {
-        "id": "ID",
-        "category": "大分類",
-        "subcategory": "子分類",
+        "id": "sens281",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "中文",
         "CN_ENG": {
             "word": "英語",
@@ -287106,9 +283674,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1001",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens282",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我今天感覺很好。",
         "CN_ENG": {
             "word": "I feel great today.",
@@ -287172,9 +283740,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1002",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens283",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你週末打算做什麼？",
         "CN_ENG": {
             "word": "What are your plans for the weekend?",
@@ -287238,9 +283806,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1003",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens284",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這裡的風景真美。",
         "CN_ENG": {
             "word": "The scenery here is beautiful.",
@@ -287304,9 +283872,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1004",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens285",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "可以請你幫個忙嗎？",
         "CN_ENG": {
             "word": "Could you do me a favor?",
@@ -287370,9 +283938,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1005",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens286",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我們什麼時候見面？",
         "CN_ENG": {
             "word": "When shall we meet?",
@@ -287436,9 +284004,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1006",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens287",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我需要一些時間思考。",
         "CN_ENG": {
             "word": "I need some time to think.",
@@ -287502,9 +284070,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1007",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens288",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這件衣服多少錢？",
         "CN_ENG": {
             "word": "How much is this shirt?",
@@ -287568,9 +284136,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1008",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens289",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "今天天氣真不錯。",
         "CN_ENG": {
             "word": "The weather is really nice today.",
@@ -287634,9 +284202,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1009",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens290",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我現在必須走了。",
         "CN_ENG": {
             "word": "I have to go now.",
@@ -287700,9 +284268,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1010",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens291",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你最喜歡什麼食物？",
         "CN_ENG": {
             "word": "What is your favorite food?",
@@ -287766,9 +284334,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1011",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens292",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "很高興再次見到你。",
         "CN_ENG": {
             "word": "It is nice to see you again.",
@@ -287832,9 +284400,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1012",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens293",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "請問火車站怎麼走？",
         "CN_ENG": {
             "word": "How do I get to the train station?",
@@ -287898,9 +284466,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1013",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens294",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我完全同意你的看法。",
         "CN_ENG": {
             "word": "I completely agree with you.",
@@ -287964,9 +284532,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1014",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens295",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你有推薦的餐廳嗎？",
         "CN_ENG": {
             "word": "Do you have any restaurant recommendations?",
@@ -288030,9 +284598,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1015",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens296",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這真是一個好主意。",
         "CN_ENG": {
             "word": "That is really a good idea.",
@@ -288096,9 +284664,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1016",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens297",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我今天工作很忙。",
         "CN_ENG": {
             "word": "I am very busy at work today.",
@@ -288162,9 +284730,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1017",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens298",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你能說慢一點嗎？",
         "CN_ENG": {
             "word": "Could you speak a bit slower?",
@@ -288228,9 +284796,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1018",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens299",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我不太明白你的意思。",
         "CN_ENG": {
             "word": "I do not quite understand what you mean.",
@@ -288294,9 +284862,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1019",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens300",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "感謝你的熱心幫助。",
         "CN_ENG": {
             "word": "Thank you for your kind help.",
@@ -288360,9 +284928,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1020",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens301",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我們保持聯絡吧。",
         "CN_ENG": {
             "word": "Let's keep in touch.",
@@ -288426,9 +284994,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1021",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens302",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "祝你有個美好的一天。",
         "CN_ENG": {
             "word": "Have a wonderful day.",
@@ -288492,9 +285060,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1022",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens303",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你學英語多久了？",
         "CN_ENG": {
             "word": "How long have you studied English?",
@@ -288558,9 +285126,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1023",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens304",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我對這個不感興趣。",
         "CN_ENG": {
             "word": "I am not interested in this.",
@@ -288624,9 +285192,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1024",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens305",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我們去散散步吧。",
         "CN_ENG": {
             "word": "Let's go for a walk.",
@@ -288690,9 +285258,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1025",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens306",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這是誰的書包？",
         "CN_ENG": {
             "word": "Whose backpack is this?",
@@ -288756,9 +285324,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1026",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens307",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我找不到我的鑰匙。",
         "CN_ENG": {
             "word": "I cannot find my keys.",
@@ -288822,9 +285390,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1027",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens308",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "請隨時告訴我。",
         "CN_ENG": {
             "word": "Please let me know anytime.",
@@ -288888,9 +285456,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1028",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens309",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你的新工作怎麼樣？",
         "CN_ENG": {
             "word": "How is your new job?",
@@ -288954,9 +285522,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1029",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens310",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我希望一切順利。",
         "CN_ENG": {
             "word": "I hope everything goes well.",
@@ -289020,9 +285588,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1030",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens311",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "今晚有什麼計畫？",
         "CN_ENG": {
             "word": "Any plans for tonight?",
@@ -289086,9 +285654,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1031",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens312",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我會盡力的。",
         "CN_ENG": {
             "word": "I will do my best.",
@@ -289152,9 +285720,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1032",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens313",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "抱歉讓你久等了。",
         "CN_ENG": {
             "word": "Sorry to keep you waiting.",
@@ -289218,9 +285786,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1033",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens314",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "請問現在幾點？",
         "CN_ENG": {
             "word": "What time is it now?",
@@ -289284,9 +285852,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1034",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens315",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這裡有人坐嗎？",
         "CN_ENG": {
             "word": "Is this seat taken?",
@@ -289350,9 +285918,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1035",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens316",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我想預訂一張桌子。",
         "CN_ENG": {
             "word": "I would like to book a table.",
@@ -289416,9 +285984,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1036",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens317",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這個字怎麼發音？",
         "CN_ENG": {
             "word": "How do you pronounce this word?",
@@ -289482,9 +286050,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1037",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens318",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我覺得這有點困難。",
         "CN_ENG": {
             "word": "I think this is a bit difficult.",
@@ -289548,9 +286116,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1038",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens319",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我們走吧，要遲到了。",
         "CN_ENG": {
             "word": "Let's go, we are going to be late.",
@@ -289614,9 +286182,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1039",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens320",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "謝謝你的邀請。",
         "CN_ENG": {
             "word": "Thank you for the invitation.",
@@ -289680,9 +286248,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1040",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens321",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我忘記他的名字了。",
         "CN_ENG": {
             "word": "I forgot his name.",
@@ -289746,9 +286314,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1041",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens322",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "你看起來很累。",
         "CN_ENG": {
             "word": "You look very tired.",
@@ -289812,9 +286380,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1042",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens323",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我需要喝杯水。",
         "CN_ENG": {
             "word": "I need a glass of water.",
@@ -289878,9 +286446,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1043",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens324",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這是個好問題。",
         "CN_ENG": {
             "word": "That is a good question.",
@@ -289944,9 +286512,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1044",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens325",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我馬上回來。",
         "CN_ENG": {
             "word": "I will be right back.",
@@ -290010,9 +286578,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1045",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens326",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我們下次再聊。",
         "CN_ENG": {
             "word": "Let's talk next time.",
@@ -290076,9 +286644,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1046",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens327",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "祝你旅途愉快。",
         "CN_ENG": {
             "word": "Have a good trip.",
@@ -290142,9 +286710,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1047",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens328",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "這個味道真好。",
         "CN_ENG": {
             "word": "This tastes really good.",
@@ -290208,9 +286776,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1048",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens329",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "我不確定是不是這樣。",
         "CN_ENG": {
             "word": "I am not sure about that.",
@@ -290274,9 +286842,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1049",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens330",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "讓我想一想。",
         "CN_ENG": {
             "word": "Let me think about it.",
@@ -290340,9 +286908,9 @@ const vocabData = [
         }
     },
     {
-        "id": "1050",
-        "category": "Lesson 04 💬 日常對話(Daily Chat)",
-        "subcategory": "💬 實用短句(Useful Phrases)",
+        "id": "sens331",
+        "category": "實用短句",
+        "subcategory": "日常生活",
         "cn": "很高興認識你的家人。",
         "CN_ENG": {
             "word": "Nice to meet your family.",
