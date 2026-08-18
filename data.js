@@ -26664,6 +26664,3306 @@ const vocabData = [
         }
     },
     {
+        "id": "1001",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我今天感覺很好。",
+        "CN_ENG": {
+            "word": "I feel great today.",
+            "audio": "I_feel_great_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日はとても気分がいいです（きょうはとてもきぶんがいいです）",
+            "audio": "きょうはとてもきぶんがいいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 기분이 정말 좋아요.",
+            "audio": "오늘_기분이_정말_좋아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay tôi cảm thấy rất tuyệt.",
+            "audio": "Hôm_nay_tôi_cảm_thấy_rất_tuyệt..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我今日覺得好好。",
+            "audio": "我今日覺得好好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je me sens très bien aujourd'hui.",
+            "audio": "Je_me_sens_très_bien_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich fühle mich heute großartig.",
+            "audio": "Ich_fühle_mich_heute_großartig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me siento muy bien hoy.",
+            "audio": "Me_siento_muy_bien_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сегодня я чувствую себя отлично.",
+            "audio": "Сегодня_я_чувствую_себя_отлично..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้ฉันรู้สึกดีมาก",
+            "audio": "วันนี้ฉันรู้สึกดีมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya merasa sangat baik hari ini.",
+            "audio": "Saya_merasa_sangat_baik_hari_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我今天感覺很好。",
+            "audio": "我今天感覺很好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1002",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你週末打算做什麼？",
+        "CN_ENG": {
+            "word": "What are your plans for the weekend?",
+            "audio": "What_are_your_plans_for_the_weekend.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "週末は何をする予定ですか（しゅうまつはなにをするよていですか）",
+            "audio": "しゅうまつはなにをするよていですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주말에 뭐 할 계획인가요?",
+            "audio": "주말에_뭐_할_계획인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn định làm gì vào cuối tuần?",
+            "audio": "Bạn_định_làm_gì_vào_cuối_tuần.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你週末打算做咩啊？",
+            "audio": "你週末打算做咩啊？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quels sont tes projets pour le week-end ?",
+            "audio": "Quels_sont_tes_projets_pour_le_week-end.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was hast du am Wochenende vor?",
+            "audio": "Was_hast_du_am_Wochenende_vor.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuáles son tus planes para el fin de semana?",
+            "audio": "¿Cuáles_son_tus_planes_para_el_fin_de_semana.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Какие у тебя планы на выходные?",
+            "audio": "Какие_у_тебя_планы_на_выходные.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สุดสัปดาห์นี้คุณมีแผนจะทำอะไร",
+            "audio": "สุดสัปดาห์นี้คุณมีแผนจะทำอะไร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa rencanamu untuk akhir pekan?",
+            "audio": "Apa_rencanamu_untuk_akhir_pekan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你週末打算做什麼？",
+            "audio": "你週末打算做什麼？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1003",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這裡的風景真美。",
+        "CN_ENG": {
+            "word": "The scenery here is beautiful.",
+            "audio": "The_scenery_here_is_beautiful..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここの景色は本当にきれいです（ここのけしきはほんとうにきれいです）",
+            "audio": "ここのけしきはほんとうにきれいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기 경치가 정말 아름답네요.",
+            "audio": "여기_경치가_정말_아름답네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phong cảnh ở đây thật đẹp.",
+            "audio": "Phong_cảnh_ở_đây_thật_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢度嘅風景好靚。",
+            "audio": "呢度嘅風景好靚。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Le paysage ici est magnifique.",
+            "audio": "Le_paysage_ici_est_magnifique..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Landschaft hier ist wunderschön.",
+            "audio": "Die_Landschaft_hier_ist_wunderschön..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El paisaje aquí es hermoso.",
+            "audio": "El_paisaje_aquí_es_hermoso..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здесь очень красивый пейзаж.",
+            "audio": "Здесь_очень_красивый_пейзаж..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทิวทัศน์ที่นี่สวยงามมาก",
+            "audio": "ทิวทัศน์ที่นี่สวยงามมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Pemandangan di sini sangat indah.",
+            "audio": "Pemandangan_di_sini_sangat_indah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這裡的風景真美。",
+            "audio": "這裡的風景真美。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1004",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "可以請你幫個忙嗎？",
+        "CN_ENG": {
+            "word": "Could you do me a favor?",
+            "audio": "Could_you_do_me_a_favor.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お願いを聞いてくれますか（おねがいをきいてくれますか）",
+            "audio": "おねがいをきいてくれますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "부탁 하나 들어줄 수 있나요?",
+            "audio": "부탁_하나_들어줄_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể giúp tôi một việc được không?",
+            "audio": "Bạn_có_thể_giúp_tôi_một_việc_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫個忙？",
+            "audio": "可唔可以幫個忙？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourrais-tu me rendre un service ?",
+            "audio": "Pourrais-tu_me_rendre_un_service.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könntest du mir einen Gefallen tun?",
+            "audio": "Könntest_du_mir_einen_Gefallen_tun.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podrías hacerme un favor?",
+            "audio": "¿Podrías_hacerme_un_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы мне помочь?",
+            "audio": "Не_могли_бы_вы_мне_помочь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณช่วยฉันหน่อยได้ไหม",
+            "audio": "คุณช่วยฉันหน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda membantu saya?",
+            "audio": "Bisakah_Anda_membantu_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以請你幫個忙嗎？",
+            "audio": "可以請你幫個忙嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1005",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們什麼時候見面？",
+        "CN_ENG": {
+            "word": "When shall we meet?",
+            "audio": "When_shall_we_meet.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いつ会いましょうか（いつあいましょうか）",
+            "audio": "いつあいましょうか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "우리 언제 만날까요?",
+            "audio": "우리_언제_만날까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khi nào chúng ta gặp nhau?",
+            "audio": "Khi_nào_chúng_ta_gặp_nhau.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋幾時見面？",
+            "audio": "我哋幾時見面？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quand allons-nous nous rencontrer ?",
+            "audio": "Quand_allons-nous_nous_rencontrer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wann sollen wir uns treffen?",
+            "audio": "Wann_sollen_wir_uns_treffen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuándo nos vemos?",
+            "audio": "¿Cuándo_nos_vemos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Когда мы встретимся?",
+            "audio": "Когда_мы_встретимся.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราจะเจอกันเมื่อไหร่",
+            "audio": "เราจะเจอกันเมื่อไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kapan kita akan bertemu?",
+            "audio": "Kapan_kita_akan_bertemu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們什麼時候見面？",
+            "audio": "我們什麼時候見面？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1006",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我需要一些時間思考。",
+        "CN_ENG": {
+            "word": "I need some time to think.",
+            "audio": "I_need_some_time_to_think..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "考える時間が少し必要です（かんがえるじかんがすこしひつようです）",
+            "audio": "かんがえるじかんがすこしひつようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "생각할 시간이 좀 필요해요.",
+            "audio": "생각할_시간이_좀_필요해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần chút thời gian để suy nghĩ.",
+            "audio": "Tôi_cần_chút_thời_gian_để_suy_nghĩ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要啲時間諗諗。",
+            "audio": "我需要啲時間諗諗。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin d'un peu de temps pour réfléchir.",
+            "audio": "J'ai_besoin_d'un_peu_de_temps_pour_réfléchir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich brauche etwas Zeit zum Nachdenken.",
+            "audio": "Ich_brauche_etwas_Zeit_zum_Nachdenken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito algo de tiempo para pensar.",
+            "audio": "Necesito_algo_de_tiempo_para_pensar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужно немного времени, чтобы подумать.",
+            "audio": "Мне_нужно_немного_времени,_чтобы_подумать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการเวลาคิดสักหน่อย",
+            "audio": "ฉันต้องการเวลาคิดสักหน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya butuh waktu untuk berpikir.",
+            "audio": "Saya_butuh_waktu_untuk_berpikir..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要一些時間思考。",
+            "audio": "我需要一些時間思考。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1007",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這件衣服多少錢？",
+        "CN_ENG": {
+            "word": "How much is this shirt?",
+            "audio": "How_much_is_this_shirt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服はいくらですか（このふくはいくらですか）",
+            "audio": "このふくはいくらですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷은 얼마인가요?",
+            "audio": "이_옷은_얼마인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc áo này giá bao nhiêu?",
+            "audio": "Chiếc_áo_này_giá_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件衫幾多錢？",
+            "audio": "呢件衫幾多錢？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien coûte ce vêtement ?",
+            "audio": "Combien_coûte_ce_vêtement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie viel kostet dieses Hemd?",
+            "audio": "Wie_viel_kostet_dieses_Hemd.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto cuesta esta camisa?",
+            "audio": "¿Cuánto_cuesta_esta_camisa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько стоит эта одежда?",
+            "audio": "Сколько_стоит_эта_одежда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้ราคาเท่าไหร่",
+            "audio": "เสื้อตัวนี้ราคาเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa harga baju ini?",
+            "audio": "Berapa_harga_baju_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件衣服多少錢？",
+            "audio": "這件衣服多少錢？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1008",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "今天天氣真不錯。",
+        "CN_ENG": {
+            "word": "The weather is really nice today.",
+            "audio": "The_weather_is_really_nice_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日は本当にいい天気ですね（きょうはほんとうにいいてんきですね）",
+            "audio": "きょうはほんとうにいいてんきですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 날씨가 정말 좋네요.",
+            "audio": "오늘_날씨가_정말_좋네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay thời tiết thật đẹp.",
+            "audio": "Hôm_nay_thời_tiết_thật_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "今日天氣真係唔錯。",
+            "audio": "今日天氣真係唔錯。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il fait vraiment beau aujourd'hui.",
+            "audio": "Il_fait_vraiment_beau_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das Wetter ist heute wirklich schön.",
+            "audio": "Das_Wetter_ist_heute_wirklich_schön..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El clima es muy agradable hoy.",
+            "audio": "El_clima_es_muy_agradable_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сегодня отличная погода.",
+            "audio": "Сегодня_отличная_погода..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้อากาศดีมากเลย",
+            "audio": "วันนี้อากาศดีมากเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cuaca hari ini sangat bagus.",
+            "audio": "Cuaca_hari_ini_sangat_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "今天天氣真不錯。",
+            "audio": "今天天氣真不錯。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1009",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我現在必須走了。",
+        "CN_ENG": {
+            "word": "I have to go now.",
+            "audio": "I_have_to_go_now..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう行かなければなりません（もういかなければなりません）",
+            "audio": "もういかなければなりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저 지금 가봐야 해요.",
+            "audio": "저_지금_가봐야_해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bây giờ tôi phải đi rồi.",
+            "audio": "Bây_giờ_tôi_phải_đi_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我依家必須要走啦。",
+            "audio": "我依家必須要走啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je dois partir maintenant.",
+            "audio": "Je_dois_partir_maintenant..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich muss jetzt gehen.",
+            "audio": "Ich_muss_jetzt_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tengo que irme ahora.",
+            "audio": "Tengo_que_irme_ahora..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне сейчас нужно идти.",
+            "audio": "Мне_сейчас_нужно_идти..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องไปแล้วตอนนี้",
+            "audio": "ฉันต้องไปแล้วตอนนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya harus pergi sekarang.",
+            "audio": "Saya_harus_pergi_sekarang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我現在必須走了。",
+            "audio": "我現在必須走了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1010",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你最喜歡什麼食物？",
+        "CN_ENG": {
+            "word": "What is your favorite food?",
+            "audio": "What_is_your_favorite_food.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "一番好きな食べ物は何ですか（いちばんすきなたべものはなんですか）",
+            "audio": "いちばんすきなたべものはなんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가장 좋아하는 음식이 뭐예요?",
+            "audio": "가장_좋아하는_음식이_뭐예요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món ăn yêu thích của bạn là gì?",
+            "audio": "Món_ăn_yêu_thích_của_bạn_là_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你最鍾意食咩？",
+            "audio": "你最鍾意食咩？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est ta nourriture préférée ?",
+            "audio": "Quelle_est_ta_nourriture_préférée.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was ist dein Lieblingsessen?",
+            "audio": "Was_ist_dein_Lieblingsessen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuál es tu comida favorita?",
+            "audio": "¿Cuál_es_tu_comida_favorita.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Какая твоя любимая еда?",
+            "audio": "Какая_твоя_любимая_еда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณชอบอาหารอะไรมากที่สุด",
+            "audio": "คุณชอบอาหารอะไรมากที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa makanan favoritmu?",
+            "audio": "Apa_makanan_favoritmu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你最喜歡什麼食物？",
+            "audio": "你最喜歡什麼食物？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1011",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "很高興再次見到你。",
+        "CN_ENG": {
+            "word": "It is nice to see you again.",
+            "audio": "It_is_nice_to_see_you_again..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また会えて嬉しいです（またあえてうれしいです）",
+            "audio": "またあえてうれしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다시 만나서 반가워요.",
+            "audio": "다시_만나서_반가워요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được gặp lại bạn.",
+            "audio": "Rất_vui_được_gặp_lại_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好高興再次見到你。",
+            "audio": "好高興再次見到你。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ravi de te revoir.",
+            "audio": "Ravi_de_te_revoir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schön, dich wiederzusehen.",
+            "audio": "Schön,_dich_wiederzusehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Es un placer verte de nuevo.",
+            "audio": "Es_un_placer_verte_de_nuevo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рад снова тебя видеть.",
+            "audio": "Рад_снова_тебя_видеть..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดีใจที่ได้พบคุณอีกครั้ง",
+            "audio": "ดีใจที่ได้พบคุณอีกครั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang bertemu denganmu lagi.",
+            "audio": "Senang_bertemu_denganmu_lagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興再次見到你。",
+            "audio": "很高興再次見到你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1012",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "請問火車站怎麼走？",
+        "CN_ENG": {
+            "word": "How do I get to the train station?",
+            "audio": "How_do_I_get_to_the_train_station.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "駅にはどう行けばいいですか（えきにはどういけばいいですか）",
+            "audio": "えきにはどういけばいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기차역은 어떻게 가나요?",
+            "audio": "기차역은_어떻게_가나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm ơn cho hỏi đường đến ga tàu?",
+            "audio": "Làm_ơn_cho_hỏi_đường_đến_ga_tàu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問火車站點去啊？",
+            "audio": "請問火車站點去啊？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment puis-je aller à la gare ?",
+            "audio": "Comment_puis-je_aller_à_la_gare.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie komme ich zum Bahnhof?",
+            "audio": "Wie_komme_ich_zum_Bahnhof.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo llego a la estación de tren?",
+            "audio": "¿Cómo_llego_a_la_estación_de_tren.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как пройти к железнодорожному вокзалу?",
+            "audio": "Как_пройти_к_железнодорожному_вокзалу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สถานีรถไฟไปทางไหนครับ",
+            "audio": "สถานีรถไฟไปทางไหนครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana cara pergi ke stasiun kereta?",
+            "audio": "Bagaimana_cara_pergi_ke_stasiun_kereta.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問火車站怎麼走？",
+            "audio": "請問火車站怎麼走？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1013",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我完全同意你的看法。",
+        "CN_ENG": {
+            "word": "I completely agree with you.",
+            "audio": "I_completely_agree_with_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "あなたの意見に完全に同意します（あなたのいけんにかんぜんにどういします）",
+            "audio": "あなたのいけんにかんぜんにどういします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당신의 의견에 전적으로 동의합니다.",
+            "audio": "당신의_의견에_전적으로_동의합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi hoàn toàn đồng ý với bạn.",
+            "audio": "Tôi_hoàn_toàn_đồng_ý_với_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我完全同意你嘅睇法。",
+            "audio": "我完全同意你嘅睇法。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis tout à fait d'accord avec toi.",
+            "audio": "Je_suis_tout_à_fait_d'accord_avec_toi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich stimme dir voll und ganz zu.",
+            "audio": "Ich_stimme_dir_voll_und_ganz_zu..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy completamente de acuerdo contigo.",
+            "audio": "Estoy_completamente_de_acuerdo_contigo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я полностью с вами согласен.",
+            "audio": "Я_полностью_с_вами_согласен..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันเห็นด้วยกับคุณอย่างยิ่ง",
+            "audio": "ฉันเห็นด้วยกับคุณอย่างยิ่ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sepenuhnya setuju denganmu.",
+            "audio": "Saya_sepenuhnya_setuju_denganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我完全同意你的看法。",
+            "audio": "我完全同意你的看法。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1014",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你有推薦的餐廳嗎？",
+        "CN_ENG": {
+            "word": "Do you have any restaurant recommendations?",
+            "audio": "Do_you_have_any_restaurant_recommendations.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おすすめのレストランはありますか（おすすめのれすとらんはありますか）",
+            "audio": "おすすめのれすとらんはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천할 만한 식당이 있나요?",
+            "audio": "추천할_만한_식당이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có giới thiệu nhà hàng nào không?",
+            "audio": "Bạn_có_giới_thiệu_nhà_hàng_nào_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你有冇好嘅餐廳推介？",
+            "audio": "你有冇好嘅餐廳推介？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "As-tu des recommandations de restaurants ?",
+            "audio": "As-tu_des_recommandations_de_restaurants.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hast du irgendwelche Restaurantempfehlungen?",
+            "audio": "Hast_du_irgendwelche_Restaurantempfehlungen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienes alguna recomendación de restaurante?",
+            "audio": "¿Tienes_alguna_recomendación_de_restaurante.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть на примете хороший ресторан?",
+            "audio": "У_вас_есть_на_примете_хороший_ресторан.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณมีร้านอาหารแนะนำไหม",
+            "audio": "คุณมีร้านอาหารแนะนำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada rekomendasi restoran?",
+            "audio": "Apakah_ada_rekomendasi_restoran.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你有推薦的餐廳嗎？",
+            "audio": "你有推薦的餐廳嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1015",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這真是一個好主意。",
+        "CN_ENG": {
+            "word": "That is really a good idea.",
+            "audio": "That_is_really_a_good_idea..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それは本当にいい考えですね（それはほんとうにいいかんがえですね）",
+            "audio": "それはほんとうにいいかんがえですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정말 좋은 생각이네요.",
+            "audio": "정말_좋은_생각이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đó thực sự là một ý kiến hay.",
+            "audio": "Đó_thực_sự_là_một_ý_kiến_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個真係一個好主意。",
+            "audio": "呢個真係一個好主意。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est vraiment une bonne idée.",
+            "audio": "C'est_vraiment_une_bonne_idée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist wirklich eine gute Idee.",
+            "audio": "Das_ist_wirklich_eine_gute_Idee..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esa es realmente una buena idea.",
+            "audio": "Esa_es_realmente_una_buena_idea..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это действительно хорошая идея.",
+            "audio": "Это_действительно_хорошая_идея..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นั่นเป็นความคิดที่ดีจริงๆ",
+            "audio": "นั่นเป็นความคิดที่ดีจริงๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu benar-benar ide yang bagus.",
+            "audio": "Itu_benar-benar_ide_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這真是一個好主意。",
+            "audio": "這真是一個好主意。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1016",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我今天工作很忙。",
+        "CN_ENG": {
+            "word": "I am very busy at work today.",
+            "audio": "I_am_very_busy_at_work_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日は仕事がとても忙しいです（きょうはしごとがとてもいそがしいです）",
+            "audio": "きょうはしごとがとてもいそがしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 일이 너무 바빠요.",
+            "audio": "오늘_일이_너무_바빠요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay tôi rất bận rộn với công việc.",
+            "audio": "Hôm_nay_tôi_rất_bận_rộn_với_công_việc..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我今日返工好忙。",
+            "audio": "我今日返工好忙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis très occupé au travail aujourd'hui.",
+            "audio": "Je_suis_très_occupé_au_travail_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin heute bei der Arbeit sehr beschäftigt.",
+            "audio": "Ich_bin_heute_bei_der_Arbeit_sehr_beschäftigt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy muy ocupado en el trabajo hoy.",
+            "audio": "Estoy_muy_ocupado_en_el_trabajo_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я сегодня очень занят на работе.",
+            "audio": "Я_сегодня_очень_занят_на_работе..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้ฉันยุ่งกับงานมาก",
+            "audio": "วันนี้ฉันยุ่งกับงานมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sangat sibuk di tempat kerja hari ini.",
+            "audio": "Saya_sangat_sibuk_di_tempat_kerja_hari_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我今天工作很忙。",
+            "audio": "我今天工作很忙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1017",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你能說慢一點嗎？",
+        "CN_ENG": {
+            "word": "Could you speak a bit slower?",
+            "audio": "Could_you_speak_a_bit_slower.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう少しゆっくり話してくれますか（もうすこしゆっくりはなしてくれますか）",
+            "audio": "もうすこしゆっくりはなしてくれますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조금만 천천히 말씀해 주시겠어요?",
+            "audio": "조금만_천천히_말씀해_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể nói chậm lại một chút được không?",
+            "audio": "Bạn_có_thể_nói_chậm_lại_một_chút_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你可唔可以講慢啲？",
+            "audio": "你可唔可以講慢啲？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous parler un peu plus lentement ?",
+            "audio": "Pourriez-vous_parler_un_peu_plus_lentement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könntest du etwas langsamer sprechen?",
+            "audio": "Könntest_du_etwas_langsamer_sprechen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podrías hablar un poco más despacio?",
+            "audio": "¿Podrías_hablar_un_poco_más_despacio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы говорить немного медленнее?",
+            "audio": "Не_могли_бы_вы_говорить_немного_медленнее.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณช่วยพูดช้าลงหน่อยได้ไหม",
+            "audio": "คุณช่วยพูดช้าลงหน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah Anda berbicara sedikit lebih lambat?",
+            "audio": "Bolehkah_Anda_berbicara_sedikit_lebih_lambat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你能說慢一點嗎？",
+            "audio": "你能說慢一點嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1018",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我不太明白你的意思。",
+        "CN_ENG": {
+            "word": "I do not quite understand what you mean.",
+            "audio": "I_do_not_quite_understand_what_you_mean..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おっしゃる意味がよくわかりません（おっしゃるいみがよくわかりません）",
+            "audio": "おっしゃるいみがよくわかりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무슨 뜻인지 잘 모르겠어요.",
+            "audio": "무슨_뜻인지_잘_모르겠어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không hiểu rõ ý bạn lắm.",
+            "audio": "Tôi_không_hiểu_rõ_ý_bạn_lắm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔太明白你嘅意思。",
+            "audio": "我唔太明白你嘅意思。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne comprends pas bien ce que tu veux dire.",
+            "audio": "Je_ne_comprends_pas_bien_ce_que_tu_veux_dire..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich verstehe nicht ganz, was du meinst.",
+            "audio": "Ich_verstehe_nicht_ganz,_was_du_meinst..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No entiendo muy bien lo que quieres decir.",
+            "audio": "No_entiendo_muy_bien_lo_que_quieres_decir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не совсем понимаю, что вы имеете в виду.",
+            "audio": "Я_не_совсем_понимаю,_что_вы_имеете_в_виду..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่ค่อยเข้าใจความหมายของคุณ",
+            "audio": "ฉันไม่ค่อยเข้าใจความหมายของคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak terlalu mengerti maksud Anda.",
+            "audio": "Saya_tidak_terlalu_mengerti_maksud_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不太明白你的意思。",
+            "audio": "我不太明白你的意思。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1019",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "感謝你的熱心幫助。",
+        "CN_ENG": {
+            "word": "Thank you for your kind help.",
+            "audio": "Thank_you_for_your_kind_help..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "親切な助けをありがとうございます（しんせつなたすけをありがとうございます）",
+            "audio": "しんせつなたすけをありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "친절하게 도와주셔서 감사합니다.",
+            "audio": "친절하게_도와주셔서_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã nhiệt tình giúp đỡ.",
+            "audio": "Cảm_ơn_bạn_đã_nhiệt_tình_giúp_đỡ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅熱心幫忙。",
+            "audio": "多謝你嘅熱心幫忙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ton aide précieuse.",
+            "audio": "Merci_pour_ton_aide_précieuse..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen Dank für deine freundliche Hilfe.",
+            "audio": "Vielen_Dank_für_deine_freundliche_Hilfe..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu amable ayuda.",
+            "audio": "Gracias_por_tu_amable_ayuda..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за вашу любезную помощь.",
+            "audio": "Спасибо_за_вашу_любезную_помощь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับความช่วยเหลือที่อบอุ่นของคุณ",
+            "audio": "ขอบคุณสำหรับความช่วยเหลือที่อบอุ่นของคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas bantuan baik Anda.",
+            "audio": "Terima_kasih_atas_bantuan_baik_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "感謝你的熱心幫助。",
+            "audio": "感謝你的熱心幫助。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1020",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們保持聯絡吧。",
+        "CN_ENG": {
+            "word": "Let's keep in touch.",
+            "audio": "Let's_keep_in_touch..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "連絡を取り合いましょう（れんらくをとりあいましょう）",
+            "audio": "れんらくをとりあいましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "계속 연락하고 지내요.",
+            "audio": "계속_연락하고_지내요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hãy giữ liên lạc nhé.",
+            "audio": "Hãy_giữ_liên_lạc_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋保持聯絡啦。",
+            "audio": "我哋保持聯絡啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Restons en contact.",
+            "audio": "Restons_en_contact..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns in Kontakt bleiben.",
+            "audio": "Lass_uns_in_Kontakt_bleiben..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Mantengámonos en contacto.",
+            "audio": "Mantengámonos_en_contacto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Давайте будем на связи.",
+            "audio": "Давайте_будем_на_связи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราติดต่อกันไว้เถอะ",
+            "audio": "เราติดต่อกันไว้เถอะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mari kita tetap berhubungan.",
+            "audio": "Mari_kita_tetap_berhubungan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們保持聯絡吧。",
+            "audio": "我們保持聯絡吧。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1021",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "祝你有個美好的一天。",
+        "CN_ENG": {
+            "word": "Have a wonderful day.",
+            "audio": "Have_a_wonderful_day..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "素晴らしい一日をお過ごしください（すばらしいいちにちをおすごしください）",
+            "audio": "すばらしいいちにちをおすごしください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 하루 보내세요.",
+            "audio": "좋은_하루_보내세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc bạn một ngày tốt lành.",
+            "audio": "Chúc_bạn_một_ngày_tốt_lành..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你有美好嘅一日。",
+            "audio": "祝你有美好嘅一日。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Passe une excellente journée.",
+            "audio": "Passe_une_excellente_journée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich wünsche dir einen wundervollen Tag.",
+            "audio": "Ich_wünsche_dir_einen_wundervollen_Tag..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que tengas un día maravilloso.",
+            "audio": "Que_tengas_un_día_maravilloso..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошего вам дня.",
+            "audio": "Хорошего_вам_дня..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้มีวันที่ดีนะ",
+            "audio": "ขอให้มีวันที่ดีนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga harimu menyenangkan.",
+            "audio": "Semoga_harimu_menyenangkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你有個美好的一天。",
+            "audio": "祝你有個美好的一天。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1022",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你學英語多久了？",
+        "CN_ENG": {
+            "word": "How long have you studied English?",
+            "audio": "How_long_have_you_studied_English.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "英語をどれくらい勉強していますか（えいごをどれくらいべんきょうしていますか）",
+            "audio": "えいごをどれくらいべんきょうしていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "영어 공부한 지 얼마나 됐나요?",
+            "audio": "영어_공부한_지_얼마나_됐나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn học tiếng Anh bao lâu rồi?",
+            "audio": "Bạn_học_tiếng_Anh_bao_lâu_rồi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你學咗英文幾耐呀？",
+            "audio": "你學咗英文幾耐呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Depuis combien de temps apprends-tu l'anglais ?",
+            "audio": "Depuis_combien_de_temps_apprends-tu_l'anglais.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lange lernst du schon Englisch?",
+            "audio": "Wie_lange_lernst_du_schon_Englisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto tiempo llevas estudiando inglés?",
+            "audio": "¿Cuánto_tiempo_llevas_estudiando_inglés.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как давно вы изучаете английский?",
+            "audio": "Как_давно_вы_изучаете_английский.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณเรียนภาษาอังกฤษมานานแค่ไหนแล้ว",
+            "audio": "คุณเรียนภาษาอังกฤษมานานแค่ไหนแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sudah berapa lama Anda belajar bahasa Inggris?",
+            "audio": "Sudah_berapa_lama_Anda_belajar_bahasa_Inggris.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你學英語多久了？",
+            "audio": "你學英語多久了？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1023",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我對這個不感興趣。",
+        "CN_ENG": {
+            "word": "I am not interested in this.",
+            "audio": "I_am_not_interested_in_this..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これには興味がありません（これにはきょうみがありません）",
+            "audio": "これにはきょうみがありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "전 이것에 관심이 없어요.",
+            "audio": "전_이것에_관심이_없어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không hứng thú với cái này.",
+            "audio": "Tôi_không_hứng_thú_với_cái_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我對呢個冇興趣。",
+            "audio": "我對呢個冇興趣。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne suis pas intéressé par ça.",
+            "audio": "Je_ne_suis_pas_intéressé_par_ça..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin daran nicht interessiert.",
+            "audio": "Ich_bin_daran_nicht_interessiert..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No estoy interesado en esto.",
+            "audio": "No_estoy_interesado_en_esto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Меня это не интересует.",
+            "audio": "Меня_это_не_интересует..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่สนใจเรื่องนี้",
+            "audio": "ฉันไม่สนใจเรื่องนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak tertarik dengan ini.",
+            "audio": "Saya_tidak_tertarik_dengan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我對這個不感興趣。",
+            "audio": "我對這個不感興趣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1024",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們去散散步吧。",
+        "CN_ENG": {
+            "word": "Let's go for a walk.",
+            "audio": "Let's_go_for_a_walk..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "散歩に行きましょう（さんぽにいきましょう）",
+            "audio": "さんぽにいきましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "우리 산책하러 가요.",
+            "audio": "우리_산책하러_가요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng ta đi dạo nhé.",
+            "audio": "Chúng_ta_đi_dạo_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋去散下步啦。",
+            "audio": "我哋去散下步啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Allons nous promener.",
+            "audio": "Allons_nous_promener..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns spazieren gehen.",
+            "audio": "Lass_uns_spazieren_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vamos a dar un paseo.",
+            "audio": "Vamos_a_dar_un_paseo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пойдем прогуляемся.",
+            "audio": "Пойдем_прогуляемся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไปเดินเล่นกันเถอะ",
+            "audio": "เราไปเดินเล่นกันเถอะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mari kita pergi jalan-jalan.",
+            "audio": "Mari_kita_pergi_jalan-jalan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們去散散步吧。",
+            "audio": "我們去散散步吧。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1025",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這是誰的書包？",
+        "CN_ENG": {
+            "word": "Whose backpack is this?",
+            "audio": "Whose_backpack_is_this.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これは誰の鞄ですか（これはだれのかばんですか）",
+            "audio": "これはだれのかばんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 가방은 누구 것인가요?",
+            "audio": "이_가방은_누구_것인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc ba lô này của ai?",
+            "audio": "Chiếc_ba_lô_này_của_ai.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個係邊個嘅書包？",
+            "audio": "呢個係邊個嘅書包？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À qui est ce sac à dos ?",
+            "audio": "À_qui_est_ce_sac_à_dos.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wessen Rucksack ist das?",
+            "audio": "Wessen_Rucksack_ist_das.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿De quién es esta mochila?",
+            "audio": "¿De_quién_es_esta_mochila.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Чей это рюкзак?",
+            "audio": "Чей_это_рюкзак.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระเป๋าใบนี้ของใคร",
+            "audio": "กระเป๋าใบนี้ของใคร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tas ransel siapa ini?",
+            "audio": "Tas_ransel_siapa_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這是誰的書包？",
+            "audio": "這是誰的書包？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1026",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我找不到我的鑰匙。",
+        "CN_ENG": {
+            "word": "I cannot find my keys.",
+            "audio": "I_cannot_find_my_keys..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "鍵が見つかりません（かぎがみつかりません）",
+            "audio": "かぎがみつかりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "열쇠를 찾을 수가 없어요.",
+            "audio": "열쇠를_찾을_수가_없어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không thể tìm thấy chìa khóa của mình.",
+            "audio": "Tôi_không_thể_tìm_thấy_chìa_khóa_của_mình..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我搵唔到我條鎖匙。",
+            "audio": "我搵唔到我條鎖匙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne trouve pas mes clés.",
+            "audio": "Je_ne_trouve_pas_mes_clés..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich kann meine Schlüssel nicht finden.",
+            "audio": "Ich_kann_meine_Schlüssel_nicht_finden..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No puedo encontrar mis llaves.",
+            "audio": "No_puedo_encontrar_mis_llaves..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не могу найти свои ключи.",
+            "audio": "Я_не_могу_найти_свои_ключи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันหากุญแจไม่เจอ",
+            "audio": "ฉันหากุญแจไม่เจอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak bisa menemukan kunci saya.",
+            "audio": "Saya_tidak_bisa_menemukan_kunci_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我找不到我的鑰匙。",
+            "audio": "我找不到我的鑰匙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1027",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "請隨時告訴我。",
+        "CN_ENG": {
+            "word": "Please let me know anytime.",
+            "audio": "Please_let_me_know_anytime..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いつでも教えてください（いつでもおしえてください）",
+            "audio": "いつでもおしえてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "언제든지 알려주세요.",
+            "audio": "언제든지_알려주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hãy cho tôi biết bất cứ lúc nào.",
+            "audio": "Hãy_cho_tôi_biết_bất_cứ_lúc_nào..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請隨時話我知。",
+            "audio": "請隨時話我知。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'il te plaît, fais-le moi savoir à tout moment.",
+            "audio": "S'il_te_plaît,_fais-le_moi_savoir_à_tout_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte lass es mich jederzeit wissen.",
+            "audio": "Bitte_lass_es_mich_jederzeit_wissen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, házmelo saber en cualquier momento.",
+            "audio": "Por_favor,_házmelo_saber_en_cualquier_momento..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне знать в любое время.",
+            "audio": "Пожалуйста,_дайте_мне_знать_в_любое_время..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โปรดบอกฉันได้ตลอดเวลา",
+            "audio": "โปรดบอกฉันได้ตลอดเวลา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri tahu saya kapan saja.",
+            "audio": "Tolong_beri_tahu_saya_kapan_saja..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請隨時告訴我。",
+            "audio": "請隨時告訴我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1028",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你的新工作怎麼樣？",
+        "CN_ENG": {
+            "word": "How is your new job?",
+            "audio": "How_is_your_new_job.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "新しい仕事はどうですか（あたらしいしごとはどうですか）",
+            "audio": "あたらしいしごとはどうですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "새 직장은 어때요?",
+            "audio": "새_직장은_어때요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Công việc mới của bạn thế nào?",
+            "audio": "Công_việc_mới_của_bạn_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你份新工點呀？",
+            "audio": "你份新工點呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment se passe ton nouveau travail ?",
+            "audio": "Comment_se_passe_ton_nouveau_travail.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie ist dein neuer Job?",
+            "audio": "Wie_ist_dein_neuer_Job.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué tal tu nuevo trabajo?",
+            "audio": "¿Qué_tal_tu_nuevo_trabajo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как твоя новая работа?",
+            "audio": "Как_твоя_новая_работа.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "งานใหม่ของคุณเป็นอย่างไรบ้าง",
+            "audio": "งานใหม่ของคุณเป็นอย่างไรบ้าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana pekerjaan barumu?",
+            "audio": "Bagaimana_pekerjaan_barumu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你的新工作怎麼樣？",
+            "audio": "你的新工作怎麼樣？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1029",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我希望一切順利。",
+        "CN_ENG": {
+            "word": "I hope everything goes well.",
+            "audio": "I_hope_everything_goes_well..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "すべてがうまくいくことを願っています（すべてがうまくいくことをねがっています）",
+            "audio": "すべてがうまくいくことをねがっています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "모든 일이 잘 되기를 바랍니다.",
+            "audio": "모든_일이_잘_되기를_바랍니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi hy vọng mọi việc suôn sẻ.",
+            "audio": "Tôi_hy_vọng_mọi_việc_suôn_sẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我希望一切順利。",
+            "audio": "我希望一切順利。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'espère que tout ira bien.",
+            "audio": "J'espère_que_tout_ira_bien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich hoffe, alles läuft gut.",
+            "audio": "Ich_hoffe,_alles_läuft_gut..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Espero que todo salga bien.",
+            "audio": "Espero_que_todo_salga_bien..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Надеюсь, все пройдет хорошо.",
+            "audio": "Надеюсь,_все_пройдет_хорошо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันหวังว่าทุกอย่างจะราบรื่น",
+            "audio": "ฉันหวังว่าทุกอย่างจะราบรื่น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya harap semuanya berjalan lancar.",
+            "audio": "Saya_harap_semuanya_berjalan_lancar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我希望一切順利。",
+            "audio": "我希望一切順利。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1030",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "今晚有什麼計畫？",
+        "CN_ENG": {
+            "word": "Any plans for tonight?",
+            "audio": "Any_plans_for_tonight.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今夜の予定はありますか（こんやのよていはありますか）",
+            "audio": "こんやのよていはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 밤에 무슨 계획 있어요?",
+            "audio": "오늘_밤에_무슨_계획_있어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tối nay có kế hoạch gì không?",
+            "audio": "Tối_nay_có_kế_hoạch_gì_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "今晚有咩節目啊？",
+            "audio": "今晚有咩節目啊？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Des projets pour ce soir ?",
+            "audio": "Des_projets_pour_ce_soir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hast du Pläne für heute Abend?",
+            "audio": "Hast_du_Pläne_für_heute_Abend.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Algún plan para esta noche?",
+            "audio": "¿Algún_plan_para_esta_noche.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть планы на вечер?",
+            "audio": "Есть_планы_на_вечер.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คืนนี้มีแผนอะไรไหม",
+            "audio": "คืนนี้มีแผนอะไรไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ada rencana untuk malam ini?",
+            "audio": "Ada_rencana_untuk_malam_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "今晚有什麼計畫？",
+            "audio": "今晚有什麼計畫？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1031",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我會盡力的。",
+        "CN_ENG": {
+            "word": "I will do my best.",
+            "audio": "I_will_do_my_best..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "全力を尽くします（ぜんりょくをつくします）",
+            "audio": "ぜんりょくをつくします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "최선을 다하겠습니다.",
+            "audio": "최선을_다하겠습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi sẽ cố gắng hết sức.",
+            "audio": "Tôi_sẽ_cố_gắng_hết_sức..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我會盡力㗎。",
+            "audio": "我會盡力㗎。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ferai de mon mieux.",
+            "audio": "Je_ferai_de_mon_mieux..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich werde mein Bestes tun.",
+            "audio": "Ich_werde_mein_Bestes_tun..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Haré lo mejor que pueda.",
+            "audio": "Haré_lo_mejor_que_pueda..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я сделаю все возможное.",
+            "audio": "Я_сделаю_все_возможное..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันจะทำให้ดีที่สุด",
+            "audio": "ฉันจะทำให้ดีที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya akan melakukan yang terbaik.",
+            "audio": "Saya_akan_melakukan_yang_terbaik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我會盡力的。",
+            "audio": "我會盡力的。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1032",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "抱歉讓你久等了。",
+        "CN_ENG": {
+            "word": "Sorry to keep you waiting.",
+            "audio": "Sorry_to_keep_you_waiting..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お待たせしてすみません（おまたせしてすみません）",
+            "audio": "おまたせしてすみません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오래 기다리게 해서 죄송해요.",
+            "audio": "오래_기다리게_해서_죄송해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin lỗi vì đã để bạn phải đợi lâu.",
+            "audio": "Xin_lỗi_vì_đã_để_bạn_phải_đợi_lâu..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔好意思要你等咁耐。",
+            "audio": "唔好意思要你等咁耐。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Désolé de t'avoir fait attendre.",
+            "audio": "Désolé_de_t'avoir_fait_attendre..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tut mir leid, dass du warten musstest.",
+            "audio": "Tut_mir_leid,_dass_du_warten_musstest..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Siento haberte hecho esperar.",
+            "audio": "Siento_haberte_hecho_esperar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Извините, что заставил вас ждать.",
+            "audio": "Извините,_что_заставил_вас_ждать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอโทษที่ให้รอนานนะ",
+            "audio": "ขอโทษที่ให้รอนานนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Maaf membuat Anda menunggu.",
+            "audio": "Maaf_membuat_Anda_menunggu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "抱歉讓你久等了。",
+            "audio": "抱歉讓你久等了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1033",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "請問現在幾點？",
+        "CN_ENG": {
+            "word": "What time is it now?",
+            "audio": "What_time_is_it_now.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今何時ですか（いまなんじですか）",
+            "audio": "いまなんじですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금 몇 시인가요?",
+            "audio": "지금_몇_시인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi bây giờ là mấy giờ?",
+            "audio": "Xin_hỏi_bây_giờ_là_mấy_giờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問依家幾點？",
+            "audio": "請問依家幾點？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle heure est-il maintenant ?",
+            "audio": "Quelle_heure_est-il_maintenant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie spät ist es jetzt?",
+            "audio": "Wie_spät_ist_es_jetzt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué hora es ahora?",
+            "audio": "¿Qué_hora_es_ahora.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько сейчас времени?",
+            "audio": "Сколько_сейчас_времени.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอนนี้กี่โมงแล้วครับ",
+            "audio": "ตอนนี้กี่โมงแล้วครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jam berapa sekarang?",
+            "audio": "Jam_berapa_sekarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問現在幾點？",
+            "audio": "請問現在幾點？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1034",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這裡有人坐嗎？",
+        "CN_ENG": {
+            "word": "Is this seat taken?",
+            "audio": "Is_this_seat_taken.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この席は空いていますか（このせきはあいていますか）",
+            "audio": "このせきはあいていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기 자리 있나요?",
+            "audio": "여기_자리_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chỗ này có ai ngồi chưa?",
+            "audio": "Chỗ_này_có_ai_ngồi_chưa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢度有冇人坐？",
+            "audio": "呢度有冇人坐？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette place est-elle prise ?",
+            "audio": "Cette_place_est-elle_prise.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist dieser Platz besetzt?",
+            "audio": "Ist_dieser_Platz_besetzt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Está ocupado este asiento?",
+            "audio": "¿Está_ocupado_este_asiento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это место занято?",
+            "audio": "Это_место_занято.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตรงนี้มีคนนั่งไหมครับ",
+            "audio": "ตรงนี้มีคนนั่งไหมครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kursi ini kosong?",
+            "audio": "Apakah_kursi_ini_kosong.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這裡有人坐嗎？",
+            "audio": "這裡有人坐嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1035",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我想預訂一張桌子。",
+        "CN_ENG": {
+            "word": "I would like to book a table.",
+            "audio": "I_would_like_to_book_a_table..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "席を予約したいのですが（せきをよやくしたいのですが）",
+            "audio": "せきをよやくしたいのですが.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "테이블을 예약하고 싶어요.",
+            "audio": "테이블을_예약하고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn đặt một bàn.",
+            "audio": "Tôi_muốn_đặt_một_bàn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想訂位。",
+            "audio": "我想訂位。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je voudrais réserver une table.",
+            "audio": "Je_voudrais_réserver_une_table..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte einen Tisch reservieren.",
+            "audio": "Ich_möchte_einen_Tisch_reservieren..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me gustaría reservar una mesa.",
+            "audio": "Me_gustaría_reservar_una_mesa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я бы хотел заказать столик.",
+            "audio": "Я_бы_хотел_заказать_столик..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการจองโต๊ะครับ",
+            "audio": "ฉันต้องการจองโต๊ะครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin memesan meja.",
+            "audio": "Saya_ingin_memesan_meja..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想預訂一張桌子。",
+            "audio": "我想預訂一張桌子。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1036",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這個字怎麼發音？",
+        "CN_ENG": {
+            "word": "How do you pronounce this word?",
+            "audio": "How_do_you_pronounce_this_word.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この単語はどう発音しますか（このたんごはどうはつおんしますか）",
+            "audio": "このたんごはどうはつおんしますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 단어는 어떻게 발음하나요?",
+            "audio": "이_단어는_어떻게_발음하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Từ này phát âm thế nào?",
+            "audio": "Từ_này_phát_âm_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個字點讀呀？",
+            "audio": "呢個字點讀呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment prononces-tu ce mot ?",
+            "audio": "Comment_prononces-tu_ce_mot.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie spricht man dieses Wort aus?",
+            "audio": "Wie_spricht_man_dieses_Wort_aus.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo se pronuncia esta palabra?",
+            "audio": "¿Cómo_se_pronuncia_esta_palabra.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как произносится это слово?",
+            "audio": "Как_произносится_это_слово.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คำนี้ออกเสียงอย่างไร",
+            "audio": "คำนี้ออกเสียงอย่างไร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana cara mengucapkan kata ini?",
+            "audio": "Bagaimana_cara_mengucapkan_kata_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個字怎麼發音？",
+            "audio": "這個字怎麼發音？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1037",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我覺得這有點困難。",
+        "CN_ENG": {
+            "word": "I think this is a bit difficult.",
+            "audio": "I_think_this_is_a_bit_difficult..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これは少し難しいと思います（これはすこしむずかしいとおもいます）",
+            "audio": "これはすこしむずかしいとおもいます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이건 좀 어려운 것 같아요.",
+            "audio": "이건_좀_어려운_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi nghĩ điều này hơi khó.",
+            "audio": "Tôi_nghĩ_điều_này_hơi_khó..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我覺得呢個有啲難。",
+            "audio": "我覺得呢個有啲難。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je pense que c'est un peu difficile.",
+            "audio": "Je_pense_que_c'est_un_peu_difficile..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich finde das etwas schwierig.",
+            "audio": "Ich_finde_das_etwas_schwierig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Creo que esto es un poco difícil.",
+            "audio": "Creo_que_esto_es_un_poco_difícil..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я думаю, это немного сложно.",
+            "audio": "Я_думаю,_это_немного_сложно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันคิดว่ามันยากไปหน่อย",
+            "audio": "ฉันคิดว่ามันยากไปหน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya pikir ini sedikit sulit.",
+            "audio": "Saya_pikir_ini_sedikit_sulit..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我覺得這有點困難。",
+            "audio": "我覺得這有點困難。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1038",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們走吧，要遲到了。",
+        "CN_ENG": {
+            "word": "Let's go, we are going to be late.",
+            "audio": "Let's_go,_we_are_going_to_be_late..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "行きましょう、遅刻しますよ（いきましょう、ちこくしますよ）",
+            "audio": "いきましょう、ちこくしますよ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가자, 지각하겠어.",
+            "audio": "가자,_지각하겠어..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đi thôi, chúng ta sẽ muộn mất.",
+            "audio": "Đi_thôi,_chúng_ta_sẽ_muộn_mất..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋走啦，要遲到喇。",
+            "audio": "我哋走啦，要遲到喇。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Allons-y, nous allons être en retard.",
+            "audio": "Allons-y,_nous_allons_être_en_retard..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns gehen, wir kommen zu spät.",
+            "audio": "Lass_uns_gehen,_wir_kommen_zu_spät..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vámonos, vamos a llegar tarde.",
+            "audio": "Vámonos,_vamos_a_llegar_tarde..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пойдем, мы опоздаем.",
+            "audio": "Пойдем,_мы_опоздаем..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไปกันเถอะ เรากำลังจะสายแล้ว",
+            "audio": "ไปกันเถอะ_เรากำลังจะสายแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ayo pergi, kita akan terlambat.",
+            "audio": "Ayo_pergi,_kita_akan_terlambat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們走吧，要遲到了。",
+            "audio": "我們走吧，要遲到了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1039",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "謝謝你的邀請。",
+        "CN_ENG": {
+            "word": "Thank you for the invitation.",
+            "audio": "Thank_you_for_the_invitation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご招待ありがとうございます（ごしょうたいありがとうございます）",
+            "audio": "ごしょうたいありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "초대해 주셔서 감사합니다.",
+            "audio": "초대해_주셔서_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì lời mời của bạn.",
+            "audio": "Cảm_ơn_vì_lời_mời_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅邀請。",
+            "audio": "多謝你嘅邀請。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour l'invitation.",
+            "audio": "Merci_pour_l'invitation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für die Einladung.",
+            "audio": "Danke_für_die_Einladung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por la invitación.",
+            "audio": "Gracias_por_la_invitación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за приглашение.",
+            "audio": "Спасибо_за_приглашение..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับคำเชิญ",
+            "audio": "ขอบคุณสำหรับคำเชิญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas undangannya.",
+            "audio": "Terima_kasih_atas_undangannya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的邀請。",
+            "audio": "謝謝你的邀請。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1040",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我忘記他的名字了。",
+        "CN_ENG": {
+            "word": "I forgot his name.",
+            "audio": "I_forgot_his_name..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "彼の名前を忘れました（かれのなまえをわすれました）",
+            "audio": "かれのなまえをわすれました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그 사람 이름이 기억 안 나요.",
+            "audio": "그_사람_이름이_기억_안_나요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi quên tên anh ấy rồi.",
+            "audio": "Tôi_quên_tên_anh_ấy_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔記得佢個名。",
+            "audio": "我唔記得佢個名。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai oublié son nom.",
+            "audio": "J'ai_oublié_son_nom..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe seinen Namen vergessen.",
+            "audio": "Ich_habe_seinen_Namen_vergessen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Olvidé su nombre.",
+            "audio": "Olvidé_su_nombre..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я забыл его имя.",
+            "audio": "Я_забыл_его_имя..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันลืมชื่อเขาไปแล้ว",
+            "audio": "ฉันลืมชื่อเขาไปแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya lupa namanya.",
+            "audio": "Saya_lupa_namanya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我忘記他的名字了。",
+            "audio": "我忘記他的名字了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1041",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你看起來很累。",
+        "CN_ENG": {
+            "word": "You look very tired.",
+            "audio": "You_look_very_tired..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "とても疲れているように見えます（とてもつかれているようにみえます）",
+            "audio": "とてもつかれているようにみえます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "너 너무 피곤해 보여.",
+            "audio": "너_너무_피곤해_보여..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trông bạn rất mệt mỏi.",
+            "audio": "Trông_bạn_rất_mệt_mỏi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你看落好攰。",
+            "audio": "你看落好攰。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu as l'air très fatigué.",
+            "audio": "Tu_as_l'air_très_fatigué..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du siehst sehr müde aus.",
+            "audio": "Du_siehst_sehr_müde_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Te ves muy cansado.",
+            "audio": "Te_ves_muy_cansado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ты выглядишь очень уставшим.",
+            "audio": "Ты_выглядишь_очень_уставшим..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณดูเหนื่อยมากนะ",
+            "audio": "คุณดูเหนื่อยมากนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Anda terlihat sangat lelah.",
+            "audio": "Anda_terlihat_sangat_lelah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你看起來很累。",
+            "audio": "你看起來很累。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1042",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我需要喝杯水。",
+        "CN_ENG": {
+            "word": "I need a glass of water.",
+            "audio": "I_need_a_glass_of_water..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "水を一杯飲みたいです（みずをいっぱいのみたいです）",
+            "audio": "みずをいっぱいのみたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "물 한 잔 마셔야겠어요.",
+            "audio": "물_한_잔_마셔야겠어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần uống một cốc nước.",
+            "audio": "Tôi_cần_uống_một_cốc_nước..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要飲杯水。",
+            "audio": "我需要飲杯水。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin d'un verre d'eau.",
+            "audio": "J'ai_besoin_d'un_verre_d'eau..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich brauche ein Glas Wasser.",
+            "audio": "Ich_brauche_ein_Glas_Wasser..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito un vaso de agua.",
+            "audio": "Necesito_un_vaso_de_agua..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужен стакан воды.",
+            "audio": "Мне_нужен_стакан_воды..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอน้ำสักแก้วสิ",
+            "audio": "ฉันขอน้ำสักแก้วสิ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya butuh segelas air.",
+            "audio": "Saya_butuh_segelas_air..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要喝杯水。",
+            "audio": "我需要喝杯水。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1043",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這是個好問題。",
+        "CN_ENG": {
+            "word": "That is a good question.",
+            "audio": "That_is_a_good_question..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それは良い質問ですね（それはいいしつもんですね）",
+            "audio": "それはいいしつもんですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그건 좋은 질문이네요.",
+            "audio": "그건_좋은_질문이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đó là một câu hỏi hay.",
+            "audio": "Đó_là_một_câu_hỏi_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個係個好問題。",
+            "audio": "呢個係個好問題。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est une bonne question.",
+            "audio": "C'est_une_bonne_question..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist eine gute Frage.",
+            "audio": "Das_ist_eine_gute_Frage..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esa es una buena pregunta.",
+            "audio": "Esa_es_una_buena_pregunta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это хороший вопрос.",
+            "audio": "Это_хороший_вопрос..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นั่นเป็นคำถามที่ดี",
+            "audio": "นั่นเป็นคำถามที่ดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu pertanyaan yang bagus.",
+            "audio": "Itu_pertanyaan_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這是個好問題。",
+            "audio": "這是個好問題。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1044",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我馬上回來。",
+        "CN_ENG": {
+            "word": "I will be right back.",
+            "audio": "I_will_be_right_back..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "すぐに戻ります（すぐにもどります）",
+            "audio": "すぐにもどります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "금방 돌아올게요.",
+            "audio": "금방_돌아올게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi sẽ quay lại ngay.",
+            "audio": "Tôi_sẽ_quay_lại_ngay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我轉頭就返。",
+            "audio": "我轉頭就返。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je reviens tout de suite.",
+            "audio": "Je_reviens_tout_de_suite..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin gleich zurück.",
+            "audio": "Ich_bin_gleich_zurück..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vuelvo enseguida.",
+            "audio": "Vuelvo_enseguida..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я скоро вернусь.",
+            "audio": "Я_скоро_вернусь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันจะกลับมาเดี๋ยวนี้",
+            "audio": "ฉันจะกลับมาเดี๋ยวนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya akan segera kembali.",
+            "audio": "Saya_akan_segera_kembali..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我馬上回來。",
+            "audio": "我馬上回來。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1045",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們下次再聊。",
+        "CN_ENG": {
+            "word": "Let's talk next time.",
+            "audio": "Let's_talk_next_time..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また今度話しましょう（またこんどはなしましょう）",
+            "audio": "またこんどはなしましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다음에 또 얘기해요.",
+            "audio": "다음에_또_얘기해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lần sau chúng ta nói chuyện tiếp nhé.",
+            "audio": "Lần_sau_chúng_ta_nói_chuyện_tiếp_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋下次再傾。",
+            "audio": "我哋下次再傾。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "On se parle la prochaine fois.",
+            "audio": "On_se_parle_la_prochaine_fois..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns das nächste Mal reden.",
+            "audio": "Lass_uns_das_nächste_Mal_reden..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hablamos la próxima vez.",
+            "audio": "Hablamos_la_próxima_vez..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Давайте поговорим в следующий раз.",
+            "audio": "Давайте_поговорим_в_следующий_раз..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไว้คุยกันใหม่คราวหน้านะ",
+            "audio": "ไว้คุยกันใหม่คราวหน้านะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mari kita bicara lain kali.",
+            "audio": "Mari_kita_bicara_lain_kali..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們下次再聊。",
+            "audio": "我們下次再聊。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1046",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "祝你旅途愉快。",
+        "CN_ENG": {
+            "word": "Have a good trip.",
+            "audio": "Have_a_good_trip..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "良い旅を（よいたびを）",
+            "audio": "よいたびを.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "즐거운 여행 되세요.",
+            "audio": "즐거운_여행_되세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc bạn chuyến đi vui vẻ.",
+            "audio": "Chúc_bạn_chuyến_đi_vui_vẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你旅途愉快。",
+            "audio": "祝你旅途愉快。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bon voyage.",
+            "audio": "Bon_voyage..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gute Reise.",
+            "audio": "Gute_Reise..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que tengas un buen viaje.",
+            "audio": "Que_tengas_un_buen_viaje..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошей поездки.",
+            "audio": "Хорошей_поездки..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้เดินทางโดยสวัสดิภาพ",
+            "audio": "ขอให้เดินทางโดยสวัสดิภาพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga perjalananmu menyenangkan.",
+            "audio": "Semoga_perjalananmu_menyenangkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你旅途愉快。",
+            "audio": "祝你旅途愉快。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1047",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這個味道真好。",
+        "CN_ENG": {
+            "word": "This tastes really good.",
+            "audio": "This_tastes_really_good..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これはとても美味しいです（これはとてもおいしいです）",
+            "audio": "これはとてもおいしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이거 맛이 정말 좋네요.",
+            "audio": "이거_맛이_정말_좋네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món này vị rất ngon.",
+            "audio": "Món_này_vị_rất_ngon..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個味道真係好。",
+            "audio": "呢個味道真係好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ça a très bon goût.",
+            "audio": "Ça_a_très_bon_goût..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das schmeckt wirklich gut.",
+            "audio": "Das_schmeckt_wirklich_gut..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esto sabe muy bien.",
+            "audio": "Esto_sabe_muy_bien..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это на вкус очень вкусно.",
+            "audio": "Это_на_вкус_очень_вкусно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รสชาตินี้อร่อยมาก",
+            "audio": "รสชาตินี้อร่อยมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Rasanya sangat enak.",
+            "audio": "Rasanya_sangat_enak..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個味道真好。",
+            "audio": "這個味道真好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1048",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我不確定是不是這樣。",
+        "CN_ENG": {
+            "word": "I am not sure about that.",
+            "audio": "I_am_not_sure_about_that..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "そうかどうか確信が持てません（そうかどうかの確信がもてません）",
+            "audio": "そうかどうかの確信がもてません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그런지 확실하지 않아요.",
+            "audio": "그런지_확실하지_않아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không chắc có phải vậy không.",
+            "audio": "Tôi_không_chắc_có_phải_vậy_không..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔肯定係咪咁。",
+            "audio": "我唔肯定係咪咁。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je n'en suis pas sûr.",
+            "audio": "Je_n'en_suis_pas_sûr..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin mir da nicht sicher.",
+            "audio": "Ich_bin_mir_da_nicht_sicher..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No estoy seguro de eso.",
+            "audio": "No_estoy_seguro_de_eso..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не уверен в этом.",
+            "audio": "Я_не_уверен_в_этом..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่แน่ใจว่าเป็นแบบนั้นไหม",
+            "audio": "ฉันไม่แน่ใจว่าเป็นแบบนั้นไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak yakin tentang hal itu.",
+            "audio": "Saya_tidak_yakin_tentang_hal_itu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不確定是不是這樣。",
+            "audio": "我不確定是不是這樣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1049",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "讓我想一想。",
+        "CN_ENG": {
+            "word": "Let me think about it.",
+            "audio": "Let_me_think_about_it..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "少し考えさせてください（すこしかんがえさせてください）",
+            "audio": "すこしかんがえさせてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "생각 좀 해볼게요.",
+            "audio": "생각_좀_해볼게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Để tôi suy nghĩ một chút.",
+            "audio": "Để_tôi_suy_nghĩ_một_chút..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "等我諗下先。",
+            "audio": "等我諗下先。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Laisse-moi y réfléchir.",
+            "audio": "Laisse-moi_y_réfléchir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass mich darüber nachdenken.",
+            "audio": "Lass_mich_darüber_nachdenken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Déjame pensarlo.",
+            "audio": "Déjame_pensarlo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Дай мне подумать об этом.",
+            "audio": "Дай_мне_подумать_об_этом..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอฉันคิดดูก่อนนะ",
+            "audio": "ขอฉันคิดดูก่อนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Biarkan saya memikirkannya.",
+            "audio": "Biarkan_saya_memikirkannya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "讓我想一想。",
+            "audio": "讓我想一想。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1050",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "很高興認識你的家人。",
+        "CN_ENG": {
+            "word": "Nice to meet your family.",
+            "audio": "Nice_to_meet_your_family..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご家族にお会いできて嬉しいです（ごかぞくにおあいできてうれしいです）",
+            "audio": "ごかぞくにおあいできてうれしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가족분들을 만나게 되어 반갑습니다.",
+            "audio": "가족분들을_만나게_되어_반갑습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được gặp gia đình bạn.",
+            "audio": "Rất_vui_được_gặp_gia_đình_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好高興認識你屋企人。",
+            "audio": "好高興認識你屋企人。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ravi de rencontrer ta famille.",
+            "audio": "Ravi_de_rencontrer_ta_famille..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schön, deine Familie kennenzulernen.",
+            "audio": "Schön,_deine_Familie_kennenzulernen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Encantado de conocer a tu familia.",
+            "audio": "Encantado_de_conocer_a_tu_familia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Приятно познакомиться с вашей семьей.",
+            "audio": "Приятно_познакомиться_с_вашей_семьей..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยินดีที่ได้รู้จักครอบครัวของคุณนะ",
+            "audio": "ยินดีที่ได้รู้จักครอบครัวของคุณนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang bertemu dengan keluarga Anda.",
+            "audio": "Senang_bertemu_dengan_keluarga_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興認識你的家人。",
+            "audio": "很高興認識你的家人。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
         "id": "tim001",
         "category": "Lesson 05 🕒 時間(time)",
         "subcategory": "⏰ 時刻(time)",
@@ -283736,6 +287036,3372 @@ const vocabData = [
         "CN_ZH": {
             "word": "我得走了，下次見。",
             "audio": "我得走了，下次見。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "ID",
+        "category": "大分類",
+        "subcategory": "子分類",
+        "cn": "中文",
+        "CN_ENG": {
+            "word": "英語",
+            "audio": "英語.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "日語",
+            "audio": "日語.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "韓語",
+            "audio": "韓語.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "越語",
+            "audio": "越語.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "廣東",
+            "audio": "廣東.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "法語",
+            "audio": "法語.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "德語",
+            "audio": "德語.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "西語",
+            "audio": "西語.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "俄語",
+            "audio": "俄語.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "泰語",
+            "audio": "泰語.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "印尼語",
+            "audio": "印尼語.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "中文",
+            "audio": "中文.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1001",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我今天感覺很好。",
+        "CN_ENG": {
+            "word": "I feel great today.",
+            "audio": "I_feel_great_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日はとても気分がいいです（きょうはとてもきぶんがいいです）",
+            "audio": "きょうはとてもきぶんがいいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 기분이 정말 좋아요.",
+            "audio": "오늘_기분이_정말_좋아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay tôi cảm thấy rất tuyệt.",
+            "audio": "Hôm_nay_tôi_cảm_thấy_rất_tuyệt..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我今日覺得好好。",
+            "audio": "我今日覺得好好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je me sens très bien aujourd'hui.",
+            "audio": "Je_me_sens_très_bien_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich fühle mich heute großartig.",
+            "audio": "Ich_fühle_mich_heute_großartig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me siento muy bien hoy.",
+            "audio": "Me_siento_muy_bien_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сегодня я чувствую себя отлично.",
+            "audio": "Сегодня_я_чувствую_себя_отлично..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้ฉันรู้สึกดีมาก",
+            "audio": "วันนี้ฉันรู้สึกดีมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya merasa sangat baik hari ini.",
+            "audio": "Saya_merasa_sangat_baik_hari_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我今天感覺很好。",
+            "audio": "我今天感覺很好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1002",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你週末打算做什麼？",
+        "CN_ENG": {
+            "word": "What are your plans for the weekend?",
+            "audio": "What_are_your_plans_for_the_weekend.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "週末は何をする予定ですか（しゅうまつはなにをするよていですか）",
+            "audio": "しゅうまつはなにをするよていですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "주말에 뭐 할 계획인가요?",
+            "audio": "주말에_뭐_할_계획인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn định làm gì vào cuối tuần?",
+            "audio": "Bạn_định_làm_gì_vào_cuối_tuần.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你週末打算做咩啊？",
+            "audio": "你週末打算做咩啊？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quels sont tes projets pour le week-end ?",
+            "audio": "Quels_sont_tes_projets_pour_le_week-end.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was hast du am Wochenende vor?",
+            "audio": "Was_hast_du_am_Wochenende_vor.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuáles son tus planes para el fin de semana?",
+            "audio": "¿Cuáles_son_tus_planes_para_el_fin_de_semana.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Какие у тебя планы на выходные?",
+            "audio": "Какие_у_тебя_планы_на_выходные.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สุดสัปดาห์นี้คุณมีแผนจะทำอะไร",
+            "audio": "สุดสัปดาห์นี้คุณมีแผนจะทำอะไร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa rencanamu untuk akhir pekan?",
+            "audio": "Apa_rencanamu_untuk_akhir_pekan.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你週末打算做什麼？",
+            "audio": "你週末打算做什麼？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1003",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這裡的風景真美。",
+        "CN_ENG": {
+            "word": "The scenery here is beautiful.",
+            "audio": "The_scenery_here_is_beautiful..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ここの景色は本当にきれいです（ここのけしきはほんとうにきれいです）",
+            "audio": "ここのけしきはほんとうにきれいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기 경치가 정말 아름답네요.",
+            "audio": "여기_경치가_정말_아름답네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Phong cảnh ở đây thật đẹp.",
+            "audio": "Phong_cảnh_ở_đây_thật_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢度嘅風景好靚。",
+            "audio": "呢度嘅風景好靚。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Le paysage ici est magnifique.",
+            "audio": "Le_paysage_ici_est_magnifique..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Die Landschaft hier ist wunderschön.",
+            "audio": "Die_Landschaft_hier_ist_wunderschön..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El paisaje aquí es hermoso.",
+            "audio": "El_paisaje_aquí_es_hermoso..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Здесь очень красивый пейзаж.",
+            "audio": "Здесь_очень_красивый_пейзаж..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ทิวทัศน์ที่นี่สวยงามมาก",
+            "audio": "ทิวทัศน์ที่นี่สวยงามมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Pemandangan di sini sangat indah.",
+            "audio": "Pemandangan_di_sini_sangat_indah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這裡的風景真美。",
+            "audio": "這裡的風景真美。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1004",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "可以請你幫個忙嗎？",
+        "CN_ENG": {
+            "word": "Could you do me a favor?",
+            "audio": "Could_you_do_me_a_favor.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お願いを聞いてくれますか（おねがいをきいてくれますか）",
+            "audio": "おねがいをきいてくれますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "부탁 하나 들어줄 수 있나요?",
+            "audio": "부탁_하나_들어줄_수_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể giúp tôi một việc được không?",
+            "audio": "Bạn_có_thể_giúp_tôi_một_việc_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "可唔可以幫個忙？",
+            "audio": "可唔可以幫個忙？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourrais-tu me rendre un service ?",
+            "audio": "Pourrais-tu_me_rendre_un_service.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könntest du mir einen Gefallen tun?",
+            "audio": "Könntest_du_mir_einen_Gefallen_tun.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podrías hacerme un favor?",
+            "audio": "¿Podrías_hacerme_un_favor.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы мне помочь?",
+            "audio": "Не_могли_бы_вы_мне_помочь.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณช่วยฉันหน่อยได้ไหม",
+            "audio": "คุณช่วยฉันหน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bisakah Anda membantu saya?",
+            "audio": "Bisakah_Anda_membantu_saya.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "可以請你幫個忙嗎？",
+            "audio": "可以請你幫個忙嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1005",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們什麼時候見面？",
+        "CN_ENG": {
+            "word": "When shall we meet?",
+            "audio": "When_shall_we_meet.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いつ会いましょうか（いつあいましょうか）",
+            "audio": "いつあいましょうか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "우리 언제 만날까요?",
+            "audio": "우리_언제_만날까요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Khi nào chúng ta gặp nhau?",
+            "audio": "Khi_nào_chúng_ta_gặp_nhau.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋幾時見面？",
+            "audio": "我哋幾時見面？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quand allons-nous nous rencontrer ?",
+            "audio": "Quand_allons-nous_nous_rencontrer.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wann sollen wir uns treffen?",
+            "audio": "Wann_sollen_wir_uns_treffen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuándo nos vemos?",
+            "audio": "¿Cuándo_nos_vemos.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Когда мы встретимся?",
+            "audio": "Когда_мы_встретимся.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราจะเจอกันเมื่อไหร่",
+            "audio": "เราจะเจอกันเมื่อไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Kapan kita akan bertemu?",
+            "audio": "Kapan_kita_akan_bertemu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們什麼時候見面？",
+            "audio": "我們什麼時候見面？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1006",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我需要一些時間思考。",
+        "CN_ENG": {
+            "word": "I need some time to think.",
+            "audio": "I_need_some_time_to_think..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "考える時間が少し必要です（かんがえるじかんがすこしひつようです）",
+            "audio": "かんがえるじかんがすこしひつようです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "생각할 시간이 좀 필요해요.",
+            "audio": "생각할_시간이_좀_필요해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần chút thời gian để suy nghĩ.",
+            "audio": "Tôi_cần_chút_thời_gian_để_suy_nghĩ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要啲時間諗諗。",
+            "audio": "我需要啲時間諗諗。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin d'un peu de temps pour réfléchir.",
+            "audio": "J'ai_besoin_d'un_peu_de_temps_pour_réfléchir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich brauche etwas Zeit zum Nachdenken.",
+            "audio": "Ich_brauche_etwas_Zeit_zum_Nachdenken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito algo de tiempo para pensar.",
+            "audio": "Necesito_algo_de_tiempo_para_pensar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужно немного времени, чтобы подумать.",
+            "audio": "Мне_нужно_немного_времени,_чтобы_подумать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการเวลาคิดสักหน่อย",
+            "audio": "ฉันต้องการเวลาคิดสักหน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya butuh waktu untuk berpikir.",
+            "audio": "Saya_butuh_waktu_untuk_berpikir..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要一些時間思考。",
+            "audio": "我需要一些時間思考。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1007",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這件衣服多少錢？",
+        "CN_ENG": {
+            "word": "How much is this shirt?",
+            "audio": "How_much_is_this_shirt.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この服はいくらですか（このふくはいくらですか）",
+            "audio": "このふくはいくらですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 옷은 얼마인가요?",
+            "audio": "이_옷은_얼마인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc áo này giá bao nhiêu?",
+            "audio": "Chiếc_áo_này_giá_bao_nhiêu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢件衫幾多錢？",
+            "audio": "呢件衫幾多錢？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Combien coûte ce vêtement ?",
+            "audio": "Combien_coûte_ce_vêtement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie viel kostet dieses Hemd?",
+            "audio": "Wie_viel_kostet_dieses_Hemd.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto cuesta esta camisa?",
+            "audio": "¿Cuánto_cuesta_esta_camisa.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько стоит эта одежда?",
+            "audio": "Сколько_стоит_эта_одежда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เสื้อตัวนี้ราคาเท่าไหร่",
+            "audio": "เสื้อตัวนี้ราคาเท่าไหร่.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Berapa harga baju ini?",
+            "audio": "Berapa_harga_baju_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這件衣服多少錢？",
+            "audio": "這件衣服多少錢？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1008",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "今天天氣真不錯。",
+        "CN_ENG": {
+            "word": "The weather is really nice today.",
+            "audio": "The_weather_is_really_nice_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日は本当にいい天気ですね（きょうはほんとうにいいてんきですね）",
+            "audio": "きょうはほんとうにいいてんきですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 날씨가 정말 좋네요.",
+            "audio": "오늘_날씨가_정말_좋네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay thời tiết thật đẹp.",
+            "audio": "Hôm_nay_thời_tiết_thật_đẹp..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "今日天氣真係唔錯。",
+            "audio": "今日天氣真係唔錯。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Il fait vraiment beau aujourd'hui.",
+            "audio": "Il_fait_vraiment_beau_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das Wetter ist heute wirklich schön.",
+            "audio": "Das_Wetter_ist_heute_wirklich_schön..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "El clima es muy agradable hoy.",
+            "audio": "El_clima_es_muy_agradable_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сегодня отличная погода.",
+            "audio": "Сегодня_отличная_погода..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้อากาศดีมากเลย",
+            "audio": "วันนี้อากาศดีมากเลย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Cuaca hari ini sangat bagus.",
+            "audio": "Cuaca_hari_ini_sangat_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "今天天氣真不錯。",
+            "audio": "今天天氣真不錯。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1009",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我現在必須走了。",
+        "CN_ENG": {
+            "word": "I have to go now.",
+            "audio": "I_have_to_go_now..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう行かなければなりません（もういかなければなりません）",
+            "audio": "もういかなければなりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "저 지금 가봐야 해요.",
+            "audio": "저_지금_가봐야_해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bây giờ tôi phải đi rồi.",
+            "audio": "Bây_giờ_tôi_phải_đi_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我依家必須要走啦。",
+            "audio": "我依家必須要走啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je dois partir maintenant.",
+            "audio": "Je_dois_partir_maintenant..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich muss jetzt gehen.",
+            "audio": "Ich_muss_jetzt_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Tengo que irme ahora.",
+            "audio": "Tengo_que_irme_ahora..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне сейчас нужно идти.",
+            "audio": "Мне_сейчас_нужно_идти..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องไปแล้วตอนนี้",
+            "audio": "ฉันต้องไปแล้วตอนนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya harus pergi sekarang.",
+            "audio": "Saya_harus_pergi_sekarang..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我現在必須走了。",
+            "audio": "我現在必須走了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1010",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你最喜歡什麼食物？",
+        "CN_ENG": {
+            "word": "What is your favorite food?",
+            "audio": "What_is_your_favorite_food.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "一番好きな食べ物は何ですか（いちばんすきなたべものはなんですか）",
+            "audio": "いちばんすきなたべものはなんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가장 좋아하는 음식이 뭐예요?",
+            "audio": "가장_좋아하는_음식이_뭐예요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món ăn yêu thích của bạn là gì?",
+            "audio": "Món_ăn_yêu_thích_của_bạn_là_gì.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你最鍾意食咩？",
+            "audio": "你最鍾意食咩？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle est ta nourriture préférée ?",
+            "audio": "Quelle_est_ta_nourriture_préférée.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Was ist dein Lieblingsessen?",
+            "audio": "Was_ist_dein_Lieblingsessen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuál es tu comida favorita?",
+            "audio": "¿Cuál_es_tu_comida_favorita.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Какая твоя любимая еда?",
+            "audio": "Какая_твоя_любимая_еда.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณชอบอาหารอะไรมากที่สุด",
+            "audio": "คุณชอบอาหารอะไรมากที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apa makanan favoritmu?",
+            "audio": "Apa_makanan_favoritmu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你最喜歡什麼食物？",
+            "audio": "你最喜歡什麼食物？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1011",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "很高興再次見到你。",
+        "CN_ENG": {
+            "word": "It is nice to see you again.",
+            "audio": "It_is_nice_to_see_you_again..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また会えて嬉しいです（またあえてうれしいです）",
+            "audio": "またあえてうれしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다시 만나서 반가워요.",
+            "audio": "다시_만나서_반가워요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được gặp lại bạn.",
+            "audio": "Rất_vui_được_gặp_lại_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好高興再次見到你。",
+            "audio": "好高興再次見到你。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ravi de te revoir.",
+            "audio": "Ravi_de_te_revoir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schön, dich wiederzusehen.",
+            "audio": "Schön,_dich_wiederzusehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Es un placer verte de nuevo.",
+            "audio": "Es_un_placer_verte_de_nuevo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Рад снова тебя видеть.",
+            "audio": "Рад_снова_тебя_видеть..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ดีใจที่ได้พบคุณอีกครั้ง",
+            "audio": "ดีใจที่ได้พบคุณอีกครั้ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang bertemu denganmu lagi.",
+            "audio": "Senang_bertemu_denganmu_lagi..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興再次見到你。",
+            "audio": "很高興再次見到你。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1012",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "請問火車站怎麼走？",
+        "CN_ENG": {
+            "word": "How do I get to the train station?",
+            "audio": "How_do_I_get_to_the_train_station.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "駅にはどう行けばいいですか（えきにはどういけばいいですか）",
+            "audio": "えきにはどういけばいいですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "기차역은 어떻게 가나요?",
+            "audio": "기차역은_어떻게_가나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Làm ơn cho hỏi đường đến ga tàu?",
+            "audio": "Làm_ơn_cho_hỏi_đường_đến_ga_tàu.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問火車站點去啊？",
+            "audio": "請問火車站點去啊？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment puis-je aller à la gare ?",
+            "audio": "Comment_puis-je_aller_à_la_gare.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie komme ich zum Bahnhof?",
+            "audio": "Wie_komme_ich_zum_Bahnhof.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo llego a la estación de tren?",
+            "audio": "¿Cómo_llego_a_la_estación_de_tren.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как пройти к железнодорожному вокзалу?",
+            "audio": "Как_пройти_к_железнодорожному_вокзалу.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "สถานีรถไฟไปทางไหนครับ",
+            "audio": "สถานีรถไฟไปทางไหนครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana cara pergi ke stasiun kereta?",
+            "audio": "Bagaimana_cara_pergi_ke_stasiun_kereta.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問火車站怎麼走？",
+            "audio": "請問火車站怎麼走？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1013",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我完全同意你的看法。",
+        "CN_ENG": {
+            "word": "I completely agree with you.",
+            "audio": "I_completely_agree_with_you..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "あなたの意見に完全に同意します（あなたのいけんにかんぜんにどういします）",
+            "audio": "あなたのいけんにかんぜんにどういします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "당신의 의견에 전적으로 동의합니다.",
+            "audio": "당신의_의견에_전적으로_동의합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi hoàn toàn đồng ý với bạn.",
+            "audio": "Tôi_hoàn_toàn_đồng_ý_với_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我完全同意你嘅睇法。",
+            "audio": "我完全同意你嘅睇法。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis tout à fait d'accord avec toi.",
+            "audio": "Je_suis_tout_à_fait_d'accord_avec_toi..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich stimme dir voll und ganz zu.",
+            "audio": "Ich_stimme_dir_voll_und_ganz_zu..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy completamente de acuerdo contigo.",
+            "audio": "Estoy_completamente_de_acuerdo_contigo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я полностью с вами согласен.",
+            "audio": "Я_полностью_с_вами_согласен..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันเห็นด้วยกับคุณอย่างยิ่ง",
+            "audio": "ฉันเห็นด้วยกับคุณอย่างยิ่ง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sepenuhnya setuju denganmu.",
+            "audio": "Saya_sepenuhnya_setuju_denganmu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我完全同意你的看法。",
+            "audio": "我完全同意你的看法。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1014",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你有推薦的餐廳嗎？",
+        "CN_ENG": {
+            "word": "Do you have any restaurant recommendations?",
+            "audio": "Do_you_have_any_restaurant_recommendations.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おすすめのレストランはありますか（おすすめのれすとらんはありますか）",
+            "audio": "おすすめのれすとらんはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "추천할 만한 식당이 있나요?",
+            "audio": "추천할_만한_식당이_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có giới thiệu nhà hàng nào không?",
+            "audio": "Bạn_có_giới_thiệu_nhà_hàng_nào_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你有冇好嘅餐廳推介？",
+            "audio": "你有冇好嘅餐廳推介？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "As-tu des recommandations de restaurants ?",
+            "audio": "As-tu_des_recommandations_de_restaurants.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hast du irgendwelche Restaurantempfehlungen?",
+            "audio": "Hast_du_irgendwelche_Restaurantempfehlungen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Tienes alguna recomendación de restaurante?",
+            "audio": "¿Tienes_alguna_recomendación_de_restaurante.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "У вас есть на примете хороший ресторан?",
+            "audio": "У_вас_есть_на_примете_хороший_ресторан.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณมีร้านอาหารแนะนำไหม",
+            "audio": "คุณมีร้านอาหารแนะนำไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah ada rekomendasi restoran?",
+            "audio": "Apakah_ada_rekomendasi_restoran.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你有推薦的餐廳嗎？",
+            "audio": "你有推薦的餐廳嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1015",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這真是一個好主意。",
+        "CN_ENG": {
+            "word": "That is really a good idea.",
+            "audio": "That_is_really_a_good_idea..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それは本当にいい考えですね（それはほんとうにいいかんがえですね）",
+            "audio": "それはほんとうにいいかんがえですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "정말 좋은 생각이네요.",
+            "audio": "정말_좋은_생각이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đó thực sự là một ý kiến hay.",
+            "audio": "Đó_thực_sự_là_một_ý_kiến_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個真係一個好主意。",
+            "audio": "呢個真係一個好主意。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est vraiment une bonne idée.",
+            "audio": "C'est_vraiment_une_bonne_idée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist wirklich eine gute Idee.",
+            "audio": "Das_ist_wirklich_eine_gute_Idee..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esa es realmente una buena idea.",
+            "audio": "Esa_es_realmente_una_buena_idea..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это действительно хорошая идея.",
+            "audio": "Это_действительно_хорошая_идея..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นั่นเป็นความคิดที่ดีจริงๆ",
+            "audio": "นั่นเป็นความคิดที่ดีจริงๆ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu benar-benar ide yang bagus.",
+            "audio": "Itu_benar-benar_ide_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這真是一個好主意。",
+            "audio": "這真是一個好主意。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1016",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我今天工作很忙。",
+        "CN_ENG": {
+            "word": "I am very busy at work today.",
+            "audio": "I_am_very_busy_at_work_today..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今日は仕事がとても忙しいです（きょうはしごとがとてもいそがしいです）",
+            "audio": "きょうはしごとがとてもいそがしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 일이 너무 바빠요.",
+            "audio": "오늘_일이_너무_바빠요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hôm nay tôi rất bận rộn với công việc.",
+            "audio": "Hôm_nay_tôi_rất_bận_rộn_với_công_việc..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我今日返工好忙。",
+            "audio": "我今日返工好忙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je suis très occupé au travail aujourd'hui.",
+            "audio": "Je_suis_très_occupé_au_travail_aujourd'hui..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin heute bei der Arbeit sehr beschäftigt.",
+            "audio": "Ich_bin_heute_bei_der_Arbeit_sehr_beschäftigt..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Estoy muy ocupado en el trabajo hoy.",
+            "audio": "Estoy_muy_ocupado_en_el_trabajo_hoy..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я сегодня очень занят на работе.",
+            "audio": "Я_сегодня_очень_занят_на_работе..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "วันนี้ฉันยุ่งกับงานมาก",
+            "audio": "วันนี้ฉันยุ่งกับงานมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya sangat sibuk di tempat kerja hari ini.",
+            "audio": "Saya_sangat_sibuk_di_tempat_kerja_hari_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我今天工作很忙。",
+            "audio": "我今天工作很忙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1017",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你能說慢一點嗎？",
+        "CN_ENG": {
+            "word": "Could you speak a bit slower?",
+            "audio": "Could_you_speak_a_bit_slower.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "もう少しゆっくり話してくれますか（もうすこしゆっくりはなしてくれますか）",
+            "audio": "もうすこしゆっくりはなしてくれますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "조금만 천천히 말씀해 주시겠어요?",
+            "audio": "조금만_천천히_말씀해_주시겠어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn có thể nói chậm lại một chút được không?",
+            "audio": "Bạn_có_thể_nói_chậm_lại_một_chút_được_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你可唔可以講慢啲？",
+            "audio": "你可唔可以講慢啲？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Pourriez-vous parler un peu plus lentement ?",
+            "audio": "Pourriez-vous_parler_un_peu_plus_lentement.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Könntest du etwas langsamer sprechen?",
+            "audio": "Könntest_du_etwas_langsamer_sprechen.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Podrías hablar un poco más despacio?",
+            "audio": "¿Podrías_hablar_un_poco_más_despacio.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Не могли бы вы говорить немного медленнее?",
+            "audio": "Не_могли_бы_вы_говорить_немного_медленнее.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณช่วยพูดช้าลงหน่อยได้ไหม",
+            "audio": "คุณช่วยพูดช้าลงหน่อยได้ไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bolehkah Anda berbicara sedikit lebih lambat?",
+            "audio": "Bolehkah_Anda_berbicara_sedikit_lebih_lambat.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你能說慢一點嗎？",
+            "audio": "你能說慢一點嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1018",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我不太明白你的意思。",
+        "CN_ENG": {
+            "word": "I do not quite understand what you mean.",
+            "audio": "I_do_not_quite_understand_what_you_mean..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "おっしゃる意味がよくわかりません（おっしゃるいみがよくわかりません）",
+            "audio": "おっしゃるいみがよくわかりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "무슨 뜻인지 잘 모르겠어요.",
+            "audio": "무슨_뜻인지_잘_모르겠어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không hiểu rõ ý bạn lắm.",
+            "audio": "Tôi_không_hiểu_rõ_ý_bạn_lắm..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔太明白你嘅意思。",
+            "audio": "我唔太明白你嘅意思。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne comprends pas bien ce que tu veux dire.",
+            "audio": "Je_ne_comprends_pas_bien_ce_que_tu_veux_dire..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich verstehe nicht ganz, was du meinst.",
+            "audio": "Ich_verstehe_nicht_ganz,_was_du_meinst..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No entiendo muy bien lo que quieres decir.",
+            "audio": "No_entiendo_muy_bien_lo_que_quieres_decir..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не совсем понимаю, что вы имеете в виду.",
+            "audio": "Я_не_совсем_понимаю,_что_вы_имеете_в_виду..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่ค่อยเข้าใจความหมายของคุณ",
+            "audio": "ฉันไม่ค่อยเข้าใจความหมายของคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak terlalu mengerti maksud Anda.",
+            "audio": "Saya_tidak_terlalu_mengerti_maksud_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不太明白你的意思。",
+            "audio": "我不太明白你的意思。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1019",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "感謝你的熱心幫助。",
+        "CN_ENG": {
+            "word": "Thank you for your kind help.",
+            "audio": "Thank_you_for_your_kind_help..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "親切な助けをありがとうございます（しんせつなたすけをありがとうございます）",
+            "audio": "しんせつなたすけをありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "친절하게 도와주셔서 감사합니다.",
+            "audio": "친절하게_도와주셔서_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn bạn đã nhiệt tình giúp đỡ.",
+            "audio": "Cảm_ơn_bạn_đã_nhiệt_tình_giúp_đỡ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅熱心幫忙。",
+            "audio": "多謝你嘅熱心幫忙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour ton aide précieuse.",
+            "audio": "Merci_pour_ton_aide_précieuse..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Vielen Dank für deine freundliche Hilfe.",
+            "audio": "Vielen_Dank_für_deine_freundliche_Hilfe..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por tu amable ayuda.",
+            "audio": "Gracias_por_tu_amable_ayuda..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за вашу любезную помощь.",
+            "audio": "Спасибо_за_вашу_любезную_помощь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับความช่วยเหลือที่อบอุ่นของคุณ",
+            "audio": "ขอบคุณสำหรับความช่วยเหลือที่อบอุ่นของคุณ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas bantuan baik Anda.",
+            "audio": "Terima_kasih_atas_bantuan_baik_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "感謝你的熱心幫助。",
+            "audio": "感謝你的熱心幫助。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1020",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們保持聯絡吧。",
+        "CN_ENG": {
+            "word": "Let's keep in touch.",
+            "audio": "Let's_keep_in_touch..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "連絡を取り合いましょう（れんらくをとりあいましょう）",
+            "audio": "れんらくをとりあいましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "계속 연락하고 지내요.",
+            "audio": "계속_연락하고_지내요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hãy giữ liên lạc nhé.",
+            "audio": "Hãy_giữ_liên_lạc_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋保持聯絡啦。",
+            "audio": "我哋保持聯絡啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Restons en contact.",
+            "audio": "Restons_en_contact..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns in Kontakt bleiben.",
+            "audio": "Lass_uns_in_Kontakt_bleiben..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Mantengámonos en contacto.",
+            "audio": "Mantengámonos_en_contacto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Давайте будем на связи.",
+            "audio": "Давайте_будем_на_связи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราติดต่อกันไว้เถอะ",
+            "audio": "เราติดต่อกันไว้เถอะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mari kita tetap berhubungan.",
+            "audio": "Mari_kita_tetap_berhubungan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們保持聯絡吧。",
+            "audio": "我們保持聯絡吧。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1021",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "祝你有個美好的一天。",
+        "CN_ENG": {
+            "word": "Have a wonderful day.",
+            "audio": "Have_a_wonderful_day..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "素晴らしい一日をお過ごしください（すばらしいいちにちをおすごしください）",
+            "audio": "すばらしいいちにちをおすごしください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "좋은 하루 보내세요.",
+            "audio": "좋은_하루_보내세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc bạn một ngày tốt lành.",
+            "audio": "Chúc_bạn_một_ngày_tốt_lành..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你有美好嘅一日。",
+            "audio": "祝你有美好嘅一日。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Passe une excellente journée.",
+            "audio": "Passe_une_excellente_journée..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich wünsche dir einen wundervollen Tag.",
+            "audio": "Ich_wünsche_dir_einen_wundervollen_Tag..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que tengas un día maravilloso.",
+            "audio": "Que_tengas_un_día_maravilloso..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошего вам дня.",
+            "audio": "Хорошего_вам_дня..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้มีวันที่ดีนะ",
+            "audio": "ขอให้มีวันที่ดีนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga harimu menyenangkan.",
+            "audio": "Semoga_harimu_menyenangkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你有個美好的一天。",
+            "audio": "祝你有個美好的一天。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1022",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你學英語多久了？",
+        "CN_ENG": {
+            "word": "How long have you studied English?",
+            "audio": "How_long_have_you_studied_English.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "英語をどれくらい勉強していますか（えいごをどれくらいべんきょうしていますか）",
+            "audio": "えいごをどれくらいべんきょうしていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "영어 공부한 지 얼마나 됐나요?",
+            "audio": "영어_공부한_지_얼마나_됐나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Bạn học tiếng Anh bao lâu rồi?",
+            "audio": "Bạn_học_tiếng_Anh_bao_lâu_rồi.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你學咗英文幾耐呀？",
+            "audio": "你學咗英文幾耐呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Depuis combien de temps apprends-tu l'anglais ?",
+            "audio": "Depuis_combien_de_temps_apprends-tu_l'anglais.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie lange lernst du schon Englisch?",
+            "audio": "Wie_lange_lernst_du_schon_Englisch.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cuánto tiempo llevas estudiando inglés?",
+            "audio": "¿Cuánto_tiempo_llevas_estudiando_inglés.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как давно вы изучаете английский?",
+            "audio": "Как_давно_вы_изучаете_английский.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณเรียนภาษาอังกฤษมานานแค่ไหนแล้ว",
+            "audio": "คุณเรียนภาษาอังกฤษมานานแค่ไหนแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Sudah berapa lama Anda belajar bahasa Inggris?",
+            "audio": "Sudah_berapa_lama_Anda_belajar_bahasa_Inggris.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你學英語多久了？",
+            "audio": "你學英語多久了？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1023",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我對這個不感興趣。",
+        "CN_ENG": {
+            "word": "I am not interested in this.",
+            "audio": "I_am_not_interested_in_this..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これには興味がありません（これにはきょうみがありません）",
+            "audio": "これにはきょうみがありません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "전 이것에 관심이 없어요.",
+            "audio": "전_이것에_관심이_없어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không hứng thú với cái này.",
+            "audio": "Tôi_không_hứng_thú_với_cái_này..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我對呢個冇興趣。",
+            "audio": "我對呢個冇興趣。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne suis pas intéressé par ça.",
+            "audio": "Je_ne_suis_pas_intéressé_par_ça..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin daran nicht interessiert.",
+            "audio": "Ich_bin_daran_nicht_interessiert..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No estoy interesado en esto.",
+            "audio": "No_estoy_interesado_en_esto..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Меня это не интересует.",
+            "audio": "Меня_это_не_интересует..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่สนใจเรื่องนี้",
+            "audio": "ฉันไม่สนใจเรื่องนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak tertarik dengan ini.",
+            "audio": "Saya_tidak_tertarik_dengan_ini..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我對這個不感興趣。",
+            "audio": "我對這個不感興趣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1024",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們去散散步吧。",
+        "CN_ENG": {
+            "word": "Let's go for a walk.",
+            "audio": "Let's_go_for_a_walk..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "散歩に行きましょう（さんぽにいきましょう）",
+            "audio": "さんぽにいきましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "우리 산책하러 가요.",
+            "audio": "우리_산책하러_가요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúng ta đi dạo nhé.",
+            "audio": "Chúng_ta_đi_dạo_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋去散下步啦。",
+            "audio": "我哋去散下步啦。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Allons nous promener.",
+            "audio": "Allons_nous_promener..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns spazieren gehen.",
+            "audio": "Lass_uns_spazieren_gehen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vamos a dar un paseo.",
+            "audio": "Vamos_a_dar_un_paseo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пойдем прогуляемся.",
+            "audio": "Пойдем_прогуляемся..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "เราไปเดินเล่นกันเถอะ",
+            "audio": "เราไปเดินเล่นกันเถอะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mari kita pergi jalan-jalan.",
+            "audio": "Mari_kita_pergi_jalan-jalan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們去散散步吧。",
+            "audio": "我們去散散步吧。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1025",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這是誰的書包？",
+        "CN_ENG": {
+            "word": "Whose backpack is this?",
+            "audio": "Whose_backpack_is_this.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これは誰の鞄ですか（これはだれのかばんですか）",
+            "audio": "これはだれのかばんですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 가방은 누구 것인가요?",
+            "audio": "이_가방은_누구_것인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chiếc ba lô này của ai?",
+            "audio": "Chiếc_ba_lô_này_của_ai.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個係邊個嘅書包？",
+            "audio": "呢個係邊個嘅書包？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "À qui est ce sac à dos ?",
+            "audio": "À_qui_est_ce_sac_à_dos.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wessen Rucksack ist das?",
+            "audio": "Wessen_Rucksack_ist_das.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿De quién es esta mochila?",
+            "audio": "¿De_quién_es_esta_mochila.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Чей это рюкзак?",
+            "audio": "Чей_это_рюкзак.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "กระเป๋าใบนี้ของใคร",
+            "audio": "กระเป๋าใบนี้ของใคร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tas ransel siapa ini?",
+            "audio": "Tas_ransel_siapa_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這是誰的書包？",
+            "audio": "這是誰的書包？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1026",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我找不到我的鑰匙。",
+        "CN_ENG": {
+            "word": "I cannot find my keys.",
+            "audio": "I_cannot_find_my_keys..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "鍵が見つかりません（かぎがみつかりません）",
+            "audio": "かぎがみつかりません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "열쇠를 찾을 수가 없어요.",
+            "audio": "열쇠를_찾을_수가_없어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không thể tìm thấy chìa khóa của mình.",
+            "audio": "Tôi_không_thể_tìm_thấy_chìa_khóa_của_mình..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我搵唔到我條鎖匙。",
+            "audio": "我搵唔到我條鎖匙。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ne trouve pas mes clés.",
+            "audio": "Je_ne_trouve_pas_mes_clés..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich kann meine Schlüssel nicht finden.",
+            "audio": "Ich_kann_meine_Schlüssel_nicht_finden..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No puedo encontrar mis llaves.",
+            "audio": "No_puedo_encontrar_mis_llaves..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не могу найти свои ключи.",
+            "audio": "Я_не_могу_найти_свои_ключи..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันหากุญแจไม่เจอ",
+            "audio": "ฉันหากุญแจไม่เจอ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak bisa menemukan kunci saya.",
+            "audio": "Saya_tidak_bisa_menemukan_kunci_saya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我找不到我的鑰匙。",
+            "audio": "我找不到我的鑰匙。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1027",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "請隨時告訴我。",
+        "CN_ENG": {
+            "word": "Please let me know anytime.",
+            "audio": "Please_let_me_know_anytime..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "いつでも教えてください（いつでもおしえてください）",
+            "audio": "いつでもおしえてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "언제든지 알려주세요.",
+            "audio": "언제든지_알려주세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Hãy cho tôi biết bất cứ lúc nào.",
+            "audio": "Hãy_cho_tôi_biết_bất_cứ_lúc_nào..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請隨時話我知。",
+            "audio": "請隨時話我知。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "S'il te plaît, fais-le moi savoir à tout moment.",
+            "audio": "S'il_te_plaît,_fais-le_moi_savoir_à_tout_moment..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Bitte lass es mich jederzeit wissen.",
+            "audio": "Bitte_lass_es_mich_jederzeit_wissen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Por favor, házmelo saber en cualquier momento.",
+            "audio": "Por_favor,_házmelo_saber_en_cualquier_momento..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пожалуйста, дайте мне знать в любое время.",
+            "audio": "Пожалуйста,_дайте_мне_знать_в_любое_время..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "โปรดบอกฉันได้ตลอดเวลา",
+            "audio": "โปรดบอกฉันได้ตลอดเวลา.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Tolong beri tahu saya kapan saja.",
+            "audio": "Tolong_beri_tahu_saya_kapan_saja..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請隨時告訴我。",
+            "audio": "請隨時告訴我。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1028",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你的新工作怎麼樣？",
+        "CN_ENG": {
+            "word": "How is your new job?",
+            "audio": "How_is_your_new_job.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "新しい仕事はどうですか（あたらしいしごとはどうですか）",
+            "audio": "あたらしいしごとはどうですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "새 직장은 어때요?",
+            "audio": "새_직장은_어때요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Công việc mới của bạn thế nào?",
+            "audio": "Công_việc_mới_của_bạn_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你份新工點呀？",
+            "audio": "你份新工點呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment se passe ton nouveau travail ?",
+            "audio": "Comment_se_passe_ton_nouveau_travail.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie ist dein neuer Job?",
+            "audio": "Wie_ist_dein_neuer_Job.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué tal tu nuevo trabajo?",
+            "audio": "¿Qué_tal_tu_nuevo_trabajo.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как твоя новая работа?",
+            "audio": "Как_твоя_новая_работа.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "งานใหม่ของคุณเป็นอย่างไรบ้าง",
+            "audio": "งานใหม่ของคุณเป็นอย่างไรบ้าง.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana pekerjaan barumu?",
+            "audio": "Bagaimana_pekerjaan_barumu.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你的新工作怎麼樣？",
+            "audio": "你的新工作怎麼樣？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1029",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我希望一切順利。",
+        "CN_ENG": {
+            "word": "I hope everything goes well.",
+            "audio": "I_hope_everything_goes_well..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "すべてがうまくいくことを願っています（すべてがうまくいくことをねがっています）",
+            "audio": "すべてがうまくいくことをねがっています.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "모든 일이 잘 되기를 바랍니다.",
+            "audio": "모든_일이_잘_되기를_바랍니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi hy vọng mọi việc suôn sẻ.",
+            "audio": "Tôi_hy_vọng_mọi_việc_suôn_sẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我希望一切順利。",
+            "audio": "我希望一切順利。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'espère que tout ira bien.",
+            "audio": "J'espère_que_tout_ira_bien..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich hoffe, alles läuft gut.",
+            "audio": "Ich_hoffe,_alles_läuft_gut..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Espero que todo salga bien.",
+            "audio": "Espero_que_todo_salga_bien..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Надеюсь, все пройдет хорошо.",
+            "audio": "Надеюсь,_все_пройдет_хорошо..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันหวังว่าทุกอย่างจะราบรื่น",
+            "audio": "ฉันหวังว่าทุกอย่างจะราบรื่น.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya harap semuanya berjalan lancar.",
+            "audio": "Saya_harap_semuanya_berjalan_lancar..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我希望一切順利。",
+            "audio": "我希望一切順利。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1030",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "今晚有什麼計畫？",
+        "CN_ENG": {
+            "word": "Any plans for tonight?",
+            "audio": "Any_plans_for_tonight.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今夜の予定はありますか（こんやのよていはありますか）",
+            "audio": "こんやのよていはありますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오늘 밤에 무슨 계획 있어요?",
+            "audio": "오늘_밤에_무슨_계획_있어요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tối nay có kế hoạch gì không?",
+            "audio": "Tối_nay_có_kế_hoạch_gì_không.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "今晚有咩節目啊？",
+            "audio": "今晚有咩節目啊？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Des projets pour ce soir ?",
+            "audio": "Des_projets_pour_ce_soir.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Hast du Pläne für heute Abend?",
+            "audio": "Hast_du_Pläne_für_heute_Abend.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Algún plan para esta noche?",
+            "audio": "¿Algún_plan_para_esta_noche.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Есть планы на вечер?",
+            "audio": "Есть_планы_на_вечер.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คืนนี้มีแผนอะไรไหม",
+            "audio": "คืนนี้มีแผนอะไรไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ada rencana untuk malam ini?",
+            "audio": "Ada_rencana_untuk_malam_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "今晚有什麼計畫？",
+            "audio": "今晚有什麼計畫？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1031",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我會盡力的。",
+        "CN_ENG": {
+            "word": "I will do my best.",
+            "audio": "I_will_do_my_best..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "全力を尽くします（ぜんりょくをつくします）",
+            "audio": "ぜんりょくをつくします.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "최선을 다하겠습니다.",
+            "audio": "최선을_다하겠습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi sẽ cố gắng hết sức.",
+            "audio": "Tôi_sẽ_cố_gắng_hết_sức..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我會盡力㗎。",
+            "audio": "我會盡力㗎。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je ferai de mon mieux.",
+            "audio": "Je_ferai_de_mon_mieux..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich werde mein Bestes tun.",
+            "audio": "Ich_werde_mein_Bestes_tun..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Haré lo mejor que pueda.",
+            "audio": "Haré_lo_mejor_que_pueda..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я сделаю все возможное.",
+            "audio": "Я_сделаю_все_возможное..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันจะทำให้ดีที่สุด",
+            "audio": "ฉันจะทำให้ดีที่สุด.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya akan melakukan yang terbaik.",
+            "audio": "Saya_akan_melakukan_yang_terbaik..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我會盡力的。",
+            "audio": "我會盡力的。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1032",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "抱歉讓你久等了。",
+        "CN_ENG": {
+            "word": "Sorry to keep you waiting.",
+            "audio": "Sorry_to_keep_you_waiting..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "お待たせしてすみません（おまたせしてすみません）",
+            "audio": "おまたせしてすみません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "오래 기다리게 해서 죄송해요.",
+            "audio": "오래_기다리게_해서_죄송해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin lỗi vì đã để bạn phải đợi lâu.",
+            "audio": "Xin_lỗi_vì_đã_để_bạn_phải_đợi_lâu..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "唔好意思要你等咁耐。",
+            "audio": "唔好意思要你等咁耐。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Désolé de t'avoir fait attendre.",
+            "audio": "Désolé_de_t'avoir_fait_attendre..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Tut mir leid, dass du warten musstest.",
+            "audio": "Tut_mir_leid,_dass_du_warten_musstest..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Siento haberte hecho esperar.",
+            "audio": "Siento_haberte_hecho_esperar..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Извините, что заставил вас ждать.",
+            "audio": "Извините,_что_заставил_вас_ждать..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอโทษที่ให้รอนานนะ",
+            "audio": "ขอโทษที่ให้รอนานนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Maaf membuat Anda menunggu.",
+            "audio": "Maaf_membuat_Anda_menunggu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "抱歉讓你久等了。",
+            "audio": "抱歉讓你久等了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1033",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "請問現在幾點？",
+        "CN_ENG": {
+            "word": "What time is it now?",
+            "audio": "What_time_is_it_now.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "今何時ですか（いまなんじですか）",
+            "audio": "いまなんじですか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "지금 몇 시인가요?",
+            "audio": "지금_몇_시인가요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Xin hỏi bây giờ là mấy giờ?",
+            "audio": "Xin_hỏi_bây_giờ_là_mấy_giờ.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "請問依家幾點？",
+            "audio": "請問依家幾點？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Quelle heure est-il maintenant ?",
+            "audio": "Quelle_heure_est-il_maintenant.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie spät ist es jetzt?",
+            "audio": "Wie_spät_ist_es_jetzt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Qué hora es ahora?",
+            "audio": "¿Qué_hora_es_ahora.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Сколько сейчас времени?",
+            "audio": "Сколько_сейчас_времени.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตอนนี้กี่โมงแล้วครับ",
+            "audio": "ตอนนี้กี่โมงแล้วครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Jam berapa sekarang?",
+            "audio": "Jam_berapa_sekarang.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "請問現在幾點？",
+            "audio": "請問現在幾點？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1034",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這裡有人坐嗎？",
+        "CN_ENG": {
+            "word": "Is this seat taken?",
+            "audio": "Is_this_seat_taken.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この席は空いていますか（このせきはあいていますか）",
+            "audio": "このせきはあいていますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "여기 자리 있나요?",
+            "audio": "여기_자리_있나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chỗ này có ai ngồi chưa?",
+            "audio": "Chỗ_này_có_ai_ngồi_chưa.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢度有冇人坐？",
+            "audio": "呢度有冇人坐？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Cette place est-elle prise ?",
+            "audio": "Cette_place_est-elle_prise.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ist dieser Platz besetzt?",
+            "audio": "Ist_dieser_Platz_besetzt.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Está ocupado este asiento?",
+            "audio": "¿Está_ocupado_este_asiento.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это место занято?",
+            "audio": "Это_место_занято.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ตรงนี้มีคนนั่งไหมครับ",
+            "audio": "ตรงนี้มีคนนั่งไหมครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Apakah kursi ini kosong?",
+            "audio": "Apakah_kursi_ini_kosong.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這裡有人坐嗎？",
+            "audio": "這裡有人坐嗎？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1035",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我想預訂一張桌子。",
+        "CN_ENG": {
+            "word": "I would like to book a table.",
+            "audio": "I_would_like_to_book_a_table..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "席を予約したいのですが（せきをよやくしたいのですが）",
+            "audio": "せきをよやくしたいのですが.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "테이블을 예약하고 싶어요.",
+            "audio": "테이블을_예약하고_싶어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi muốn đặt một bàn.",
+            "audio": "Tôi_muốn_đặt_một_bàn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我想訂位。",
+            "audio": "我想訂位。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je voudrais réserver une table.",
+            "audio": "Je_voudrais_réserver_une_table..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich möchte einen Tisch reservieren.",
+            "audio": "Ich_möchte_einen_Tisch_reservieren..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Me gustaría reservar una mesa.",
+            "audio": "Me_gustaría_reservar_una_mesa..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я бы хотел заказать столик.",
+            "audio": "Я_бы_хотел_заказать_столик..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันต้องการจองโต๊ะครับ",
+            "audio": "ฉันต้องการจองโต๊ะครับ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya ingin memesan meja.",
+            "audio": "Saya_ingin_memesan_meja..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我想預訂一張桌子。",
+            "audio": "我想預訂一張桌子。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1036",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這個字怎麼發音？",
+        "CN_ENG": {
+            "word": "How do you pronounce this word?",
+            "audio": "How_do_you_pronounce_this_word.mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "この単語はどう発音しますか（このたんごはどうはつおんしますか）",
+            "audio": "このたんごはどうはつおんしますか.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이 단어는 어떻게 발음하나요?",
+            "audio": "이_단어는_어떻게_발음하나요.mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Từ này phát âm thế nào?",
+            "audio": "Từ_này_phát_âm_thế_nào.mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個字點讀呀？",
+            "audio": "呢個字點讀呀？.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Comment prononces-tu ce mot ?",
+            "audio": "Comment_prononces-tu_ce_mot.mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Wie spricht man dieses Wort aus?",
+            "audio": "Wie_spricht_man_dieses_Wort_aus.mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "¿Cómo se pronuncia esta palabra?",
+            "audio": "¿Cómo_se_pronuncia_esta_palabra.mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Как произносится это слово?",
+            "audio": "Как_произносится_это_слово.mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คำนี้ออกเสียงอย่างไร",
+            "audio": "คำนี้ออกเสียงอย่างไร.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Bagaimana cara mengucapkan kata ini?",
+            "audio": "Bagaimana_cara_mengucapkan_kata_ini.mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個字怎麼發音？",
+            "audio": "這個字怎麼發音？.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1037",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我覺得這有點困難。",
+        "CN_ENG": {
+            "word": "I think this is a bit difficult.",
+            "audio": "I_think_this_is_a_bit_difficult..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これは少し難しいと思います（これはすこしむずかしいとおもいます）",
+            "audio": "これはすこしむずかしいとおもいます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이건 좀 어려운 것 같아요.",
+            "audio": "이건_좀_어려운_것_같아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi nghĩ điều này hơi khó.",
+            "audio": "Tôi_nghĩ_điều_này_hơi_khó..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我覺得呢個有啲難。",
+            "audio": "我覺得呢個有啲難。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je pense que c'est un peu difficile.",
+            "audio": "Je_pense_que_c'est_un_peu_difficile..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich finde das etwas schwierig.",
+            "audio": "Ich_finde_das_etwas_schwierig..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Creo que esto es un poco difícil.",
+            "audio": "Creo_que_esto_es_un_poco_difícil..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я думаю, это немного сложно.",
+            "audio": "Я_думаю,_это_немного_сложно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันคิดว่ามันยากไปหน่อย",
+            "audio": "ฉันคิดว่ามันยากไปหน่อย.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya pikir ini sedikit sulit.",
+            "audio": "Saya_pikir_ini_sedikit_sulit..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我覺得這有點困難。",
+            "audio": "我覺得這有點困難。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1038",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們走吧，要遲到了。",
+        "CN_ENG": {
+            "word": "Let's go, we are going to be late.",
+            "audio": "Let's_go,_we_are_going_to_be_late..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "行きましょう、遅刻しますよ（いきましょう、ちこくしますよ）",
+            "audio": "いきましょう、ちこくしますよ.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가자, 지각하겠어.",
+            "audio": "가자,_지각하겠어..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đi thôi, chúng ta sẽ muộn mất.",
+            "audio": "Đi_thôi,_chúng_ta_sẽ_muộn_mất..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋走啦，要遲到喇。",
+            "audio": "我哋走啦，要遲到喇。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Allons-y, nous allons être en retard.",
+            "audio": "Allons-y,_nous_allons_être_en_retard..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns gehen, wir kommen zu spät.",
+            "audio": "Lass_uns_gehen,_wir_kommen_zu_spät..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vámonos, vamos a llegar tarde.",
+            "audio": "Vámonos,_vamos_a_llegar_tarde..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Пойдем, мы опоздаем.",
+            "audio": "Пойдем,_мы_опоздаем..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไปกันเถอะ เรากำลังจะสายแล้ว",
+            "audio": "ไปกันเถอะ_เรากำลังจะสายแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Ayo pergi, kita akan terlambat.",
+            "audio": "Ayo_pergi,_kita_akan_terlambat..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們走吧，要遲到了。",
+            "audio": "我們走吧，要遲到了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1039",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "謝謝你的邀請。",
+        "CN_ENG": {
+            "word": "Thank you for the invitation.",
+            "audio": "Thank_you_for_the_invitation..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご招待ありがとうございます（ごしょうたいありがとうございます）",
+            "audio": "ごしょうたいありがとうございます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "초대해 주셔서 감사합니다.",
+            "audio": "초대해_주셔서_감사합니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Cảm ơn vì lời mời của bạn.",
+            "audio": "Cảm_ơn_vì_lời_mời_của_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "多謝你嘅邀請。",
+            "audio": "多謝你嘅邀請。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Merci pour l'invitation.",
+            "audio": "Merci_pour_l'invitation..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Danke für die Einladung.",
+            "audio": "Danke_für_die_Einladung..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Gracias por la invitación.",
+            "audio": "Gracias_por_la_invitación..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Спасибо за приглашение.",
+            "audio": "Спасибо_за_приглашение..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอบคุณสำหรับคำเชิญ",
+            "audio": "ขอบคุณสำหรับคำเชิญ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Terima kasih atas undangannya.",
+            "audio": "Terima_kasih_atas_undangannya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "謝謝你的邀請。",
+            "audio": "謝謝你的邀請。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1040",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我忘記他的名字了。",
+        "CN_ENG": {
+            "word": "I forgot his name.",
+            "audio": "I_forgot_his_name..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "彼の名前を忘れました（かれのなまえをわすれました）",
+            "audio": "かれのなまえをわすれました.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그 사람 이름이 기억 안 나요.",
+            "audio": "그_사람_이름이_기억_안_나요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi quên tên anh ấy rồi.",
+            "audio": "Tôi_quên_tên_anh_ấy_rồi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔記得佢個名。",
+            "audio": "我唔記得佢個名。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai oublié son nom.",
+            "audio": "J'ai_oublié_son_nom..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich habe seinen Namen vergessen.",
+            "audio": "Ich_habe_seinen_Namen_vergessen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Olvidé su nombre.",
+            "audio": "Olvidé_su_nombre..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я забыл его имя.",
+            "audio": "Я_забыл_его_имя..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันลืมชื่อเขาไปแล้ว",
+            "audio": "ฉันลืมชื่อเขาไปแล้ว.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya lupa namanya.",
+            "audio": "Saya_lupa_namanya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我忘記他的名字了。",
+            "audio": "我忘記他的名字了。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1041",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "你看起來很累。",
+        "CN_ENG": {
+            "word": "You look very tired.",
+            "audio": "You_look_very_tired..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "とても疲れているように見えます（とてもつかれているようにみえます）",
+            "audio": "とてもつかれているようにみえます.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "너 너무 피곤해 보여.",
+            "audio": "너_너무_피곤해_보여..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Trông bạn rất mệt mỏi.",
+            "audio": "Trông_bạn_rất_mệt_mỏi..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "你看落好攰。",
+            "audio": "你看落好攰。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Tu as l'air très fatigué.",
+            "audio": "Tu_as_l'air_très_fatigué..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Du siehst sehr müde aus.",
+            "audio": "Du_siehst_sehr_müde_aus..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Te ves muy cansado.",
+            "audio": "Te_ves_muy_cansado..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Ты выглядишь очень уставшим.",
+            "audio": "Ты_выглядишь_очень_уставшим..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "คุณดูเหนื่อยมากนะ",
+            "audio": "คุณดูเหนื่อยมากนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Anda terlihat sangat lelah.",
+            "audio": "Anda_terlihat_sangat_lelah..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "你看起來很累。",
+            "audio": "你看起來很累。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1042",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我需要喝杯水。",
+        "CN_ENG": {
+            "word": "I need a glass of water.",
+            "audio": "I_need_a_glass_of_water..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "水を一杯飲みたいです（みずをいっぱいのみたいです）",
+            "audio": "みずをいっぱいのみたいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "물 한 잔 마셔야겠어요.",
+            "audio": "물_한_잔_마셔야겠어요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi cần uống một cốc nước.",
+            "audio": "Tôi_cần_uống_một_cốc_nước..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我需要飲杯水。",
+            "audio": "我需要飲杯水。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "J'ai besoin d'un verre d'eau.",
+            "audio": "J'ai_besoin_d'un_verre_d'eau..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich brauche ein Glas Wasser.",
+            "audio": "Ich_brauche_ein_Glas_Wasser..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Necesito un vaso de agua.",
+            "audio": "Necesito_un_vaso_de_agua..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Мне нужен стакан воды.",
+            "audio": "Мне_нужен_стакан_воды..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันขอน้ำสักแก้วสิ",
+            "audio": "ฉันขอน้ำสักแก้วสิ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya butuh segelas air.",
+            "audio": "Saya_butuh_segelas_air..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我需要喝杯水。",
+            "audio": "我需要喝杯水。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1043",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這是個好問題。",
+        "CN_ENG": {
+            "word": "That is a good question.",
+            "audio": "That_is_a_good_question..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "それは良い質問ですね（それはいいしつもんですね）",
+            "audio": "それはいいしつもんですね.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그건 좋은 질문이네요.",
+            "audio": "그건_좋은_질문이네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Đó là một câu hỏi hay.",
+            "audio": "Đó_là_một_câu_hỏi_hay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個係個好問題。",
+            "audio": "呢個係個好問題。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "C'est une bonne question.",
+            "audio": "C'est_une_bonne_question..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das ist eine gute Frage.",
+            "audio": "Das_ist_eine_gute_Frage..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esa es una buena pregunta.",
+            "audio": "Esa_es_una_buena_pregunta..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это хороший вопрос.",
+            "audio": "Это_хороший_вопрос..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "นั่นเป็นคำถามที่ดี",
+            "audio": "นั่นเป็นคำถามที่ดี.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Itu pertanyaan yang bagus.",
+            "audio": "Itu_pertanyaan_yang_bagus..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這是個好問題。",
+            "audio": "這是個好問題。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1044",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我馬上回來。",
+        "CN_ENG": {
+            "word": "I will be right back.",
+            "audio": "I_will_be_right_back..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "すぐに戻ります（すぐにもどります）",
+            "audio": "すぐにもどります.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "금방 돌아올게요.",
+            "audio": "금방_돌아올게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi sẽ quay lại ngay.",
+            "audio": "Tôi_sẽ_quay_lại_ngay..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我轉頭就返。",
+            "audio": "我轉頭就返。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je reviens tout de suite.",
+            "audio": "Je_reviens_tout_de_suite..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin gleich zurück.",
+            "audio": "Ich_bin_gleich_zurück..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Vuelvo enseguida.",
+            "audio": "Vuelvo_enseguida..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я скоро вернусь.",
+            "audio": "Я_скоро_вернусь..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันจะกลับมาเดี๋ยวนี้",
+            "audio": "ฉันจะกลับมาเดี๋ยวนี้.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya akan segera kembali.",
+            "audio": "Saya_akan_segera_kembali..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我馬上回來。",
+            "audio": "我馬上回來。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1045",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我們下次再聊。",
+        "CN_ENG": {
+            "word": "Let's talk next time.",
+            "audio": "Let's_talk_next_time..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "また今度話しましょう（またこんどはなしましょう）",
+            "audio": "またこんどはなしましょう.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "다음에 또 얘기해요.",
+            "audio": "다음에_또_얘기해요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Lần sau chúng ta nói chuyện tiếp nhé.",
+            "audio": "Lần_sau_chúng_ta_nói_chuyện_tiếp_nhé..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我哋下次再傾。",
+            "audio": "我哋下次再傾。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "On se parle la prochaine fois.",
+            "audio": "On_se_parle_la_prochaine_fois..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass uns das nächste Mal reden.",
+            "audio": "Lass_uns_das_nächste_Mal_reden..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Hablamos la próxima vez.",
+            "audio": "Hablamos_la_próxima_vez..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Давайте поговорим в следующий раз.",
+            "audio": "Давайте_поговорим_в_следующий_раз..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ไว้คุยกันใหม่คราวหน้านะ",
+            "audio": "ไว้คุยกันใหม่คราวหน้านะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Mari kita bicara lain kali.",
+            "audio": "Mari_kita_bicara_lain_kali..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我們下次再聊。",
+            "audio": "我們下次再聊。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1046",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "祝你旅途愉快。",
+        "CN_ENG": {
+            "word": "Have a good trip.",
+            "audio": "Have_a_good_trip..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "良い旅を（よいたびを）",
+            "audio": "よいたびを.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "즐거운 여행 되세요.",
+            "audio": "즐거운_여행_되세요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Chúc bạn chuyến đi vui vẻ.",
+            "audio": "Chúc_bạn_chuyến_đi_vui_vẻ..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "祝你旅途愉快。",
+            "audio": "祝你旅途愉快。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Bon voyage.",
+            "audio": "Bon_voyage..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Gute Reise.",
+            "audio": "Gute_Reise..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Que tengas un buen viaje.",
+            "audio": "Que_tengas_un_buen_viaje..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Хорошей поездки.",
+            "audio": "Хорошей_поездки..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอให้เดินทางโดยสวัสดิภาพ",
+            "audio": "ขอให้เดินทางโดยสวัสดิภาพ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Semoga perjalananmu menyenangkan.",
+            "audio": "Semoga_perjalananmu_menyenangkan..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "祝你旅途愉快。",
+            "audio": "祝你旅途愉快。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1047",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "這個味道真好。",
+        "CN_ENG": {
+            "word": "This tastes really good.",
+            "audio": "This_tastes_really_good..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "これはとても美味しいです（これはとてもおいしいです）",
+            "audio": "これはとてもおいしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "이거 맛이 정말 좋네요.",
+            "audio": "이거_맛이_정말_좋네요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Món này vị rất ngon.",
+            "audio": "Món_này_vị_rất_ngon..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "呢個味道真係好。",
+            "audio": "呢個味道真係好。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ça a très bon goût.",
+            "audio": "Ça_a_très_bon_goût..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Das schmeckt wirklich gut.",
+            "audio": "Das_schmeckt_wirklich_gut..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Esto sabe muy bien.",
+            "audio": "Esto_sabe_muy_bien..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Это на вкус очень вкусно.",
+            "audio": "Это_на_вкус_очень_вкусно..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "รสชาตินี้อร่อยมาก",
+            "audio": "รสชาตินี้อร่อยมาก.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Rasanya sangat enak.",
+            "audio": "Rasanya_sangat_enak..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "這個味道真好。",
+            "audio": "這個味道真好。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1048",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "我不確定是不是這樣。",
+        "CN_ENG": {
+            "word": "I am not sure about that.",
+            "audio": "I_am_not_sure_about_that..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "そうかどうか確信が持てません（そうかどうかの確信がもてません）",
+            "audio": "そうかどうかの確信がもてません.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "그런지 확실하지 않아요.",
+            "audio": "그런지_확실하지_않아요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Tôi không chắc có phải vậy không.",
+            "audio": "Tôi_không_chắc_có_phải_vậy_không..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "我唔肯定係咪咁。",
+            "audio": "我唔肯定係咪咁。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Je n'en suis pas sûr.",
+            "audio": "Je_n'en_suis_pas_sûr..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Ich bin mir da nicht sicher.",
+            "audio": "Ich_bin_mir_da_nicht_sicher..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "No estoy seguro de eso.",
+            "audio": "No_estoy_seguro_de_eso..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Я не уверен в этом.",
+            "audio": "Я_не_уверен_в_этом..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ฉันไม่แน่ใจว่าเป็นแบบนั้นไหม",
+            "audio": "ฉันไม่แน่ใจว่าเป็นแบบนั้นไหม.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Saya tidak yakin tentang hal itu.",
+            "audio": "Saya_tidak_yakin_tentang_hal_itu..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "我不確定是不是這樣。",
+            "audio": "我不確定是不是這樣。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1049",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "讓我想一想。",
+        "CN_ENG": {
+            "word": "Let me think about it.",
+            "audio": "Let_me_think_about_it..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "少し考えさせてください（すこしかんがえさせてください）",
+            "audio": "すこしかんがえさせてください.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "생각 좀 해볼게요.",
+            "audio": "생각_좀_해볼게요..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Để tôi suy nghĩ một chút.",
+            "audio": "Để_tôi_suy_nghĩ_một_chút..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "等我諗下先。",
+            "audio": "等我諗下先。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Laisse-moi y réfléchir.",
+            "audio": "Laisse-moi_y_réfléchir..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Lass mich darüber nachdenken.",
+            "audio": "Lass_mich_darüber_nachdenken..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Déjame pensarlo.",
+            "audio": "Déjame_pensarlo..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Дай мне подумать об этом.",
+            "audio": "Дай_мне_подумать_об_этом..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ขอฉันคิดดูก่อนนะ",
+            "audio": "ขอฉันคิดดูก่อนนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Biarkan saya memikirkannya.",
+            "audio": "Biarkan_saya_memikirkannya..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "讓我想一想。",
+            "audio": "讓我想一想。.mp3",
+            "folder": "CN_ZH/audio"
+        }
+    },
+    {
+        "id": "1050",
+        "category": "Lesson 04 💬 日常對話(Daily Chat)",
+        "subcategory": "💬 實用短句(Useful Phrases)",
+        "cn": "很高興認識你的家人。",
+        "CN_ENG": {
+            "word": "Nice to meet your family.",
+            "audio": "Nice_to_meet_your_family..mp3",
+            "folder": "CN_ENG/audio"
+        },
+        "CN_JP": {
+            "word": "ご家族にお会いできて嬉しいです（ごかぞくにおあいできてうれしいです）",
+            "audio": "ごかぞくにおあいできてうれしいです.mp3",
+            "folder": "CN_JP/audio"
+        },
+        "CN_KR": {
+            "word": "가족분들을 만나게 되어 반갑습니다.",
+            "audio": "가족분들을_만나게_되어_반갑습니다..mp3",
+            "folder": "CN_KR/audio"
+        },
+        "CN_VN": {
+            "word": "Rất vui được gặp gia đình bạn.",
+            "audio": "Rất_vui_được_gặp_gia_đình_bạn..mp3",
+            "folder": "CN_VN/audio"
+        },
+        "CN_CON": {
+            "word": "好高興認識你屋企人。",
+            "audio": "好高興認識你屋企人。.mp3",
+            "folder": "CN_CON/audio"
+        },
+        "CN_FR": {
+            "word": "Ravi de rencontrer ta famille.",
+            "audio": "Ravi_de_rencontrer_ta_famille..mp3",
+            "folder": "CN_FR/audio"
+        },
+        "CN_DE": {
+            "word": "Schön, deine Familie kennenzulernen.",
+            "audio": "Schön,_deine_Familie_kennenzulernen..mp3",
+            "folder": "CN_DE/audio"
+        },
+        "CN_ES": {
+            "word": "Encantado de conocer a tu familia.",
+            "audio": "Encantado_de_conocer_a_tu_familia..mp3",
+            "folder": "CN_ES/audio"
+        },
+        "CN_RU": {
+            "word": "Приятно познакомиться с вашей семьей.",
+            "audio": "Приятно_познакомиться_с_вашей_семьей..mp3",
+            "folder": "CN_RU/audio"
+        },
+        "CN_TH": {
+            "word": "ยินดีที่ได้รู้จักครอบครัวของคุณนะ",
+            "audio": "ยินดีที่ได้รู้จักครอบครัวของคุณนะ.mp3",
+            "folder": "CN_TH/audio"
+        },
+        "CN_ID": {
+            "word": "Senang bertemu dengan keluarga Anda.",
+            "audio": "Senang_bertemu_dengan_keluarga_Anda..mp3",
+            "folder": "CN_ID/audio"
+        },
+        "CN_ZH": {
+            "word": "很高興認識你的家人。",
+            "audio": "很高興認識你的家人。.mp3",
             "folder": "CN_ZH/audio"
         }
     }
