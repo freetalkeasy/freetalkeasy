@@ -46531,7 +46531,7 @@ const vocabData = [
     },
     {
         "id": "sen_res001",
-        "category": "Lesson 08 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請問現在有空位嗎？",
         "CN_ENG": {
@@ -46597,7 +46597,7 @@ const vocabData = [
     },
     {
         "id": "sen_res002",
-        "category": "Lesson 09 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我們一共有四個人。",
         "CN_ENG": {
@@ -46663,7 +46663,7 @@ const vocabData = [
     },
     {
         "id": "sen_res003",
-        "category": "Lesson 10 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請給我一份菜單，謝謝。",
         "CN_ENG": {
@@ -46729,7 +46729,7 @@ const vocabData = [
     },
     {
         "id": "sen_res004",
-        "category": "Lesson 11 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我們需要一點時間看菜單。",
         "CN_ENG": {
@@ -46795,7 +46795,7 @@ const vocabData = [
     },
     {
         "id": "sen_res005",
-        "category": "Lesson 12 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請問有什麼推薦的招牌菜嗎？",
         "CN_ENG": {
@@ -46861,7 +46861,7 @@ const vocabData = [
     },
     {
         "id": "sen_res006",
-        "category": "Lesson 13 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我想要點和這個一樣的。",
         "CN_ENG": {
@@ -46927,7 +46927,7 @@ const vocabData = [
     },
     {
         "id": "sen_res007",
-        "category": "Lesson 14 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "這道菜會很辣嗎？",
         "CN_ENG": {
@@ -46993,7 +46993,7 @@ const vocabData = [
     },
     {
         "id": "sen_res008",
-        "category": "Lesson 15 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請幫我把醬汁分開放。",
         "CN_ENG": {
@@ -47059,7 +47059,7 @@ const vocabData = [
     },
     {
         "id": "sen_res009",
-        "category": "Lesson 16 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我對花生嚴重過敏。",
         "CN_ENG": {
@@ -47125,7 +47125,7 @@ const vocabData = [
     },
     {
         "id": "sen_res010",
-        "category": "Lesson 17 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "這樣就夠了，先點這些。",
         "CN_ENG": {
@@ -47191,7 +47191,7 @@ const vocabData = [
     },
     {
         "id": "sen_res011",
-        "category": "Lesson 18 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請問我們的餐點還要等多久？",
         "CN_ENG": {
@@ -47257,7 +47257,7 @@ const vocabData = [
     },
     {
         "id": "sen_res012",
-        "category": "Lesson 19 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "這道菜我們沒有點。",
         "CN_ENG": {
@@ -47323,7 +47323,7 @@ const vocabData = [
     },
     {
         "id": "sen_res013",
-        "category": "Lesson 20 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請再給我們一些餐巾紙。",
         "CN_ENG": {
@@ -47389,7 +47389,7 @@ const vocabData = [
     },
     {
         "id": "sen_res014",
-        "category": "Lesson 21 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "可以幫我加滿水嗎？",
         "CN_ENG": {
@@ -47455,7 +47455,7 @@ const vocabData = [
     },
     {
         "id": "sen_res015",
-        "category": "Lesson 22 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我想要加點一份甜點。",
         "CN_ENG": {
@@ -47521,7 +47521,7 @@ const vocabData = [
     },
     {
         "id": "sen_res016",
-        "category": "Lesson 23 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "麻煩幫我把剩下的打包。",
         "CN_ENG": {
@@ -47587,7 +47587,7 @@ const vocabData = [
     },
     {
         "id": "sen_res017",
-        "category": "Lesson 24 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請問可以在桌邊結帳嗎？",
         "CN_ENG": {
@@ -47653,7 +47653,7 @@ const vocabData = [
     },
     {
         "id": "sen_res018",
-        "category": "Lesson 25 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請分開結帳，謝謝。",
         "CN_ENG": {
@@ -47719,7 +47719,7 @@ const vocabData = [
     },
     {
         "id": "sen_res019",
-        "category": "Lesson 26 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "這個帳單好像有點錯誤。",
         "CN_ENG": {
@@ -47785,7 +47785,7 @@ const vocabData = [
     },
     {
         "id": "sen_res020",
-        "category": "Lesson 27 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "今天的餐點非常美味。",
         "CN_ENG": {
@@ -47851,7 +47851,7 @@ const vocabData = [
     },
     {
         "id": "sen_res021",
-        "category": "Lesson 28 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請問有靠窗的座位嗎？",
         "CN_ENG": {
@@ -47917,7 +47917,7 @@ const vocabData = [
     },
     {
         "id": "sen_res022",
-        "category": "Lesson 29 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我們沒有先訂位。",
         "CN_ENG": {
@@ -47983,7 +47983,7 @@ const vocabData = [
     },
     {
         "id": "sen_res023",
-        "category": "Lesson 30 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我們準備好要點餐了。",
         "CN_ENG": {
@@ -48049,7 +48049,7 @@ const vocabData = [
     },
     {
         "id": "sen_res024",
-        "category": "Lesson 31 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請問這個有素食的版本嗎？",
         "CN_ENG": {
@@ -48115,7 +48115,7 @@ const vocabData = [
     },
     {
         "id": "sen_res025",
-        "category": "Lesson 32 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請幫我的飲料去冰。",
         "CN_ENG": {
@@ -48181,7 +48181,7 @@ const vocabData = [
     },
     {
         "id": "sen_res026",
-        "category": "Lesson 33 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "這份沙拉不需要加沙拉醬。",
         "CN_ENG": {
@@ -48247,7 +48247,7 @@ const vocabData = [
     },
     {
         "id": "sen_res027",
-        "category": "Lesson 34 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "可以幫我催一下菜嗎？",
         "CN_ENG": {
@@ -48313,7 +48313,7 @@ const vocabData = [
     },
     {
         "id": "sen_res028",
-        "category": "Lesson 35 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "我不小心把叉子弄掉了。",
         "CN_ENG": {
@@ -48379,7 +48379,7 @@ const vocabData = [
     },
     {
         "id": "sen_res029",
-        "category": "Lesson 36 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "請問這裡有收一成服務費嗎？",
         "CN_ENG": {
@@ -48445,7 +48445,7 @@ const vocabData = [
     },
     {
         "id": "sen_res030",
-        "category": "Lesson 37 🍚食物 (Food)",
+        "category": "Lesson 07 🍚食物 (Food)",
         "subcategory": "餐廳短句",
         "cn": "可以給我收據嗎？",
         "CN_ENG": {
