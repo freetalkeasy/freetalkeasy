@@ -397128,7 +397128,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01833",
+        "id": "S_01831",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "期待(Expection)",
         "cn": "我想吃在地美食",
@@ -397194,7 +397194,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01834",
+        "id": "S_01832",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "期待(Expection)",
         "cn": "我想吃海鮮",
@@ -397260,7 +397260,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01835",
+        "id": "S_01833",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "期待(Expection)",
         "cn": "我想吃烤肉",
@@ -397326,7 +397326,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01836",
+        "id": "S_01834",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記密碼了",
@@ -397392,7 +397392,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01837",
+        "id": "S_01835",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記帶錢包了",
@@ -397458,7 +397458,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01838",
+        "id": "S_01836",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記帶鑰匙了",
@@ -397524,7 +397524,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01839",
+        "id": "S_01837",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記房號了",
@@ -397590,7 +397590,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01840",
+        "id": "S_01838",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記帶手機了",
@@ -397656,7 +397656,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01841",
+        "id": "S_01839",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記帶護照了",
@@ -397722,7 +397722,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01842",
+        "id": "S_01840",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記帶錢包了",
@@ -397788,7 +397788,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01843",
+        "id": "S_01841",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記帶鑰匙了",
@@ -397854,7 +397854,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01844",
+        "id": "S_01842",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記你的名字了",
@@ -397920,7 +397920,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01845",
+        "id": "S_01843",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我忘記時間了",
@@ -397986,7 +397986,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01846",
+        "id": "S_01844",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我會說中文",
@@ -398052,7 +398052,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01847",
+        "id": "S_01845",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我會說英文",
@@ -398118,7 +398118,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01848",
+        "id": "S_01846",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "及物動詞",
         "cn": "我會說一點日文",
@@ -398184,7 +398184,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01849",
+        "id": "S_01847",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "天氣很好",
@@ -398250,7 +398250,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01850",
+        "id": "S_01848",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "天氣很熱",
@@ -398316,7 +398316,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01851",
+        "id": "S_01849",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "天氣很冷",
@@ -398382,7 +398382,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01852",
+        "id": "S_01850",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "請給我結帳",
@@ -398448,7 +398448,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01853",
+        "id": "S_01851",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "這是我的護照",
@@ -398514,7 +398514,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01854",
+        "id": "S_01852",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "這是我的行李",
@@ -398580,7 +398580,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01855",
+        "id": "S_01853",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "這是我的車票",
@@ -398646,7 +398646,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01856",
+        "id": "S_01854",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "這是我的名片",
@@ -398712,7 +398712,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01857",
+        "id": "S_01855",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "這是我的朋友",
@@ -398778,7 +398778,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01858",
+        "id": "S_01856",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我覺得很冷",
@@ -398844,7 +398844,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01859",
+        "id": "S_01857",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我覺得很熱",
@@ -398910,7 +398910,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01860",
+        "id": "S_01858",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我覺得很餓",
@@ -398976,7 +398976,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01861",
+        "id": "S_01859",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我覺得很渴",
@@ -399042,7 +399042,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01862",
+        "id": "S_01860",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我覺得很累",
@@ -399108,7 +399108,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01863",
+        "id": "S_01861",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我喜歡喝茶",
@@ -399174,7 +399174,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01864",
+        "id": "S_01862",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我喜歡聽音樂",
@@ -399240,7 +399240,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01865",
+        "id": "S_01863",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我喜歡看電影",
@@ -399306,7 +399306,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01866",
+        "id": "S_01864",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我喜歡這家餐廳",
@@ -399372,7 +399372,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01867",
+        "id": "S_01865",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我喜歡這個城市",
@@ -399438,7 +399438,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01868",
+        "id": "S_01866",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我想買單程票",
@@ -399504,7 +399504,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01869",
+        "id": "S_01867",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我想買來回票",
@@ -399570,7 +399570,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01870",
+        "id": "S_01868",
         "category": "Int. L11 句型訓練 (肯定句)",
         "subcategory": "不及物動詞(Vi)",
         "cn": "我想買學生票",
@@ -399636,7 +399636,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01871",
+        "id": "S_01869",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你是學生嗎",
@@ -399702,7 +399702,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01872",
+        "id": "S_01870",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你是老師嗎",
@@ -399768,7 +399768,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01873",
+        "id": "S_01871",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你是醫生嗎",
@@ -399834,7 +399834,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01874",
+        "id": "S_01872",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你是遊客嗎",
@@ -399900,7 +399900,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01875",
+        "id": "S_01873",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你是本地人嗎",
@@ -399966,7 +399966,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01876",
+        "id": "S_01874",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡的飲料是什麼",
@@ -400032,7 +400032,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01877",
+        "id": "S_01875",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡的甜點是什麼",
@@ -400098,7 +400098,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01878",
+        "id": "S_01876",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡的節日是什麼",
@@ -400164,7 +400164,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01879",
+        "id": "S_01877",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡的季節是什麼",
@@ -400230,7 +400230,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01880",
+        "id": "S_01878",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡的國家是什麼",
@@ -400296,7 +400296,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01881",
+        "id": "S_01879",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡什麼食物",
@@ -400362,7 +400362,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01882",
+        "id": "S_01880",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡什麼電影",
@@ -400428,7 +400428,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01883",
+        "id": "S_01881",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你最喜歡什麼運動",
@@ -400494,7 +400494,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01884",
+        "id": "S_01882",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "wifi密碼是什麼",
@@ -400560,7 +400560,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01885",
+        "id": "S_01883",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "房間密碼是什麼",
@@ -400626,7 +400626,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01886",
+        "id": "S_01884",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "大門密碼是什麼",
@@ -400692,7 +400692,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01887",
+        "id": "S_01885",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "往機場是這個方向嗎",
@@ -400758,7 +400758,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01888",
+        "id": "S_01886",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "往車站是這個方向嗎",
@@ -400824,7 +400824,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01889",
+        "id": "S_01887",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "往市區是這個方向嗎",
@@ -400890,7 +400890,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01890",
+        "id": "S_01888",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "這裡可以抽菸嗎",
@@ -400956,7 +400956,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01891",
+        "id": "S_01889",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "這裡可以吃東西嗎",
@@ -401022,7 +401022,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01892",
+        "id": "S_01890",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有英文菜單嗎",
@@ -401088,7 +401088,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01893",
+        "id": "S_01891",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有免費網路嗎",
@@ -401154,7 +401154,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01894",
+        "id": "S_01892",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有地圖嗎",
@@ -401220,7 +401220,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01895",
+        "id": "S_01893",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收現金嗎",
@@ -401286,7 +401286,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01896",
+        "id": "S_01894",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收信用卡嗎",
@@ -401352,7 +401352,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01897",
+        "id": "S_01895",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收Apple Pay嗎",
@@ -401418,7 +401418,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01898",
+        "id": "S_01896",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有大一點的嗎",
@@ -401484,7 +401484,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01899",
+        "id": "S_01897",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有小一點的嗎",
@@ -401550,7 +401550,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01900",
+        "id": "S_01898",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有其他顏色的嗎",
@@ -401616,7 +401616,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01901",
+        "id": "S_01899",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收信用卡嗎",
@@ -401682,7 +401682,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01902",
+        "id": "S_01900",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收現金嗎",
@@ -401748,7 +401748,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01903",
+        "id": "S_01901",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收美金嗎",
@@ -401814,7 +401814,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01904",
+        "id": "S_01902",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收歐元嗎",
@@ -401880,7 +401880,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01905",
+        "id": "S_01903",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你們收行動支付嗎",
@@ -401946,7 +401946,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01906",
+        "id": "S_01904",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你這裡有賣水嗎",
@@ -402012,7 +402012,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01907",
+        "id": "S_01905",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你這裡有賣雨傘嗎",
@@ -402078,7 +402078,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01908",
+        "id": "S_01906",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你這裡有賣藥嗎",
@@ -402144,7 +402144,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01909",
+        "id": "S_01907",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你這裡有賣車票嗎",
@@ -402210,7 +402210,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01910",
+        "id": "S_01908",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你這裡有賣咖啡嗎",
@@ -402276,7 +402276,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01911",
+        "id": "S_01909",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你有空房嗎",
@@ -402342,7 +402342,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01912",
+        "id": "S_01910",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你有預約嗎",
@@ -402408,7 +402408,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01913",
+        "id": "S_01911",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你有零錢嗎",
@@ -402474,7 +402474,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01914",
+        "id": "S_01912",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你有時間嗎",
@@ -402540,7 +402540,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01915",
+        "id": "S_01913",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "你有問題嗎",
@@ -402606,7 +402606,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01916",
+        "id": "S_01914",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有大號的嗎",
@@ -402672,7 +402672,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01917",
+        "id": "S_01915",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有中號的嗎",
@@ -402738,7 +402738,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01918",
+        "id": "S_01916",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有小號的嗎",
@@ -402804,7 +402804,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01919",
+        "id": "S_01917",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有賣雨傘嗎？",
@@ -402870,7 +402870,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01920",
+        "id": "S_01918",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有賣水嗎？",
@@ -402936,7 +402936,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01921",
+        "id": "S_01919",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "請問有賣藥嗎？",
@@ -403002,7 +403002,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01922",
+        "id": "S_01920",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "助動詞疑問句",
         "cn": "要轉車嗎？",
@@ -403068,7 +403068,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01923",
+        "id": "S_01921",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "我可以用吹風機嗎",
@@ -403134,7 +403134,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01924",
+        "id": "S_01922",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "我可以用微波爐嗎",
@@ -403200,7 +403200,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01925",
+        "id": "S_01923",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "我可以用洗衣機嗎",
@@ -403266,7 +403266,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01926",
+        "id": "S_01924",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "我可以用冰箱嗎",
@@ -403332,7 +403332,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01927",
+        "id": "S_01925",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "我可以用熱水瓶嗎",
@@ -403398,7 +403398,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01928",
+        "id": "S_01926",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你可以教我說英文嗎",
@@ -403464,7 +403464,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01929",
+        "id": "S_01927",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你可以教我說日文嗎",
@@ -403530,7 +403530,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01930",
+        "id": "S_01928",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你可以教我做菜嗎",
@@ -403596,7 +403596,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01931",
+        "id": "S_01929",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你可以教我怎麼去車站嗎",
@@ -403662,7 +403662,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01932",
+        "id": "S_01930",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你可以教我怎麼用這個嗎",
@@ -403728,7 +403728,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01933",
+        "id": "S_01931",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦好吃的餐廳嗎",
@@ -403794,7 +403794,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01934",
+        "id": "S_01932",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦好玩的景點嗎",
@@ -403860,7 +403860,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01935",
+        "id": "S_01933",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦便宜的飯店嗎",
@@ -403926,7 +403926,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01936",
+        "id": "S_01934",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你能幫我叫車嗎",
@@ -403992,7 +403992,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01937",
+        "id": "S_01935",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你能幫我拿行李嗎",
@@ -404058,7 +404058,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01938",
+        "id": "S_01936",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你能幫我開門嗎",
@@ -404124,7 +404124,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01939",
+        "id": "S_01937",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你能幫我拍照嗎",
@@ -404190,7 +404190,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01940",
+        "id": "S_01938",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "你能幫我翻譯嗎",
@@ -404256,7 +404256,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01941",
+        "id": "S_01939",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "能幫我叫計程車嗎",
@@ -404322,7 +404322,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01942",
+        "id": "S_01940",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "能幫我拿行李嗎",
@@ -404388,7 +404388,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01943",
+        "id": "S_01941",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "能幫我開門嗎",
@@ -404454,7 +404454,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01944",
+        "id": "S_01942",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "能幫我找路嗎",
@@ -404520,7 +404520,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01945",
+        "id": "S_01943",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "能幫我拍照嗎",
@@ -404586,7 +404586,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01946",
+        "id": "S_01944",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以刷卡嗎",
@@ -404652,7 +404652,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01947",
+        "id": "S_01945",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以退稅嗎",
@@ -404718,7 +404718,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01948",
+        "id": "S_01946",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以試穿嗎",
@@ -404784,7 +404784,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01949",
+        "id": "S_01947",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以打包嗎",
@@ -404850,7 +404850,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01950",
+        "id": "S_01948",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以拍照嗎",
@@ -404916,7 +404916,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01951",
+        "id": "S_01949",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "我可以用美金付嗎",
@@ -404982,7 +404982,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01952",
+        "id": "S_01950",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "我可以用歐元付嗎",
@@ -405048,7 +405048,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01953",
+        "id": "S_01951",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "我可以用日幣付嗎",
@@ -405114,7 +405114,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01954",
+        "id": "S_01952",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "我可以用信用卡付嗎",
@@ -405180,7 +405180,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01955",
+        "id": "S_01953",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以刷手機付嗎？",
@@ -405246,7 +405246,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01956",
+        "id": "S_01954",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以付現金嗎？",
@@ -405312,7 +405312,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01957",
+        "id": "S_01955",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "請問有收據嗎？",
@@ -405378,7 +405378,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01958",
+        "id": "S_01956",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以幫我嗎？",
@@ -405444,7 +405444,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01959",
+        "id": "S_01957",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以幫我拍照嗎？",
@@ -405510,7 +405510,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01960",
+        "id": "S_01958",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態助動詞疑問句",
         "cn": "可以幫我拿嗎？",
@@ -405576,7 +405576,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01961",
+        "id": "S_01959",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦餐廳嗎",
@@ -405642,7 +405642,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01962",
+        "id": "S_01960",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦景點嗎",
@@ -405708,7 +405708,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01963",
+        "id": "S_01961",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦飯店嗎",
@@ -405774,7 +405774,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01964",
+        "id": "S_01962",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦伴手禮嗎",
@@ -405840,7 +405840,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01965",
+        "id": "S_01963",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "可以推薦當地美食嗎",
@@ -405906,7 +405906,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01966",
+        "id": "S_01964",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "明天會下雨嗎",
@@ -405972,7 +405972,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01967",
+        "id": "S_01965",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "明天會很熱嗎",
@@ -406038,7 +406038,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01968",
+        "id": "S_01966",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "情態動詞欵問句",
         "cn": "明天會下雪嗎",
@@ -406104,7 +406104,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01969",
+        "id": "S_01967",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "博物館幾點開門",
@@ -406170,7 +406170,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01970",
+        "id": "S_01968",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "超市幾點開門",
@@ -406236,7 +406236,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01971",
+        "id": "S_01969",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "餐廳幾點關門",
@@ -406302,7 +406302,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01972",
+        "id": "S_01970",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "銀行幾點關門",
@@ -406368,7 +406368,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01973",
+        "id": "S_01971",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "會議幾點開始",
@@ -406434,7 +406434,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01974",
+        "id": "S_01972",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "搭火車要多久",
@@ -406500,7 +406500,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01975",
+        "id": "S_01973",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "搭巴士要多久",
@@ -406566,7 +406566,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01976",
+        "id": "S_01974",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞欵問句",
         "cn": "搭計程車要多久",
@@ -406632,7 +406632,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01977",
+        "id": "S_01975",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這個蘋果多少錢",
@@ -406698,7 +406698,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01978",
+        "id": "S_01976",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這杯茶多少錢",
@@ -406764,7 +406764,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01979",
+        "id": "S_01977",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這本書多少錢",
@@ -406830,7 +406830,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01980",
+        "id": "S_01978",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這張地圖多少錢",
@@ -406896,7 +406896,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01981",
+        "id": "S_01979",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這件衣服多少錢",
@@ -406962,7 +406962,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01982",
+        "id": "S_01980",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "請問這個怎麼用",
@@ -407028,7 +407028,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01983",
+        "id": "S_01981",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "去台北的票多少錢",
@@ -407094,7 +407094,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01984",
+        "id": "S_01982",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "去機場的票多少錢",
@@ -407160,7 +407160,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01985",
+        "id": "S_01983",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "去車站的票多少錢",
@@ -407226,7 +407226,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01986",
+        "id": "S_01984",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以幫我們拍照嗎",
@@ -407292,7 +407292,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01987",
+        "id": "S_01985",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以幫我跟這個拍照嗎",
@@ -407358,7 +407358,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01988",
+        "id": "S_01986",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以再拍一張嗎",
@@ -407424,7 +407424,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01989",
+        "id": "S_01987",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以幫我叫計程車嗎",
@@ -407490,7 +407490,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01990",
+        "id": "S_01988",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以幫我拍照嗎",
@@ -407556,7 +407556,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01991",
+        "id": "S_01989",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以幫我翻譯嗎",
@@ -407622,7 +407622,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01992",
+        "id": "S_01990",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以給我多一點衛生紙嗎",
@@ -407688,7 +407688,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01993",
+        "id": "S_01991",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "可以給我乾淨的毛巾嗎",
@@ -407754,7 +407754,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01994",
+        "id": "S_01992",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這裡可以帶寵物嗎",
@@ -407820,7 +407820,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01995",
+        "id": "S_01993",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這個多少錢？",
@@ -407886,7 +407886,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01996",
+        "id": "S_01994",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "那個多少錢？",
@@ -407952,7 +407952,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01997",
+        "id": "S_01995",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "總共多少錢？",
@@ -408018,7 +408018,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01998",
+        "id": "S_01996",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "捷運站怎麼走",
@@ -408084,7 +408084,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_01999",
+        "id": "S_01997",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "警察局怎麼走",
@@ -408150,7 +408150,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02000",
+        "id": "S_01998",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "現在幾點？",
@@ -408216,7 +408216,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02001",
+        "id": "S_01999",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "有打折嗎？",
@@ -408282,7 +408282,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02002",
+        "id": "S_02000",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "疑問句",
         "cn": "這台機器怎麼用？",
@@ -408348,7 +408348,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02003",
+        "id": "S_02001",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "火車幾點開？",
@@ -408414,7 +408414,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02004",
+        "id": "S_02002",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "巴士幾點開？",
@@ -408480,7 +408480,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02005",
+        "id": "S_02003",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "飛機幾點起飛？",
@@ -408546,7 +408546,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02006",
+        "id": "S_02004",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "什麼時候出發？",
@@ -408612,7 +408612,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02007",
+        "id": "S_02005",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "什麼時候關門？",
@@ -408678,7 +408678,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02008",
+        "id": "S_02006",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "餐廳什麼時候開門",
@@ -408744,7 +408744,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02009",
+        "id": "S_02007",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "銀行什麼時候關門",
@@ -408810,7 +408810,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02010",
+        "id": "S_02008",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "巴士什麼時候到",
@@ -408876,7 +408876,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02011",
+        "id": "S_02009",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "火車什麼時候出發",
@@ -408942,7 +408942,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02012",
+        "id": "S_02010",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "電影什麼時候開始",
@@ -409008,7 +409008,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02013",
+        "id": "S_02011",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "表演幾點開始",
@@ -409074,7 +409074,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02014",
+        "id": "S_02012",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "登機幾點開始",
@@ -409140,7 +409140,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02015",
+        "id": "S_02013",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "時間副詞疑問句",
         "cn": "早餐幾點開始供應",
@@ -409206,7 +409206,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02016",
+        "id": "S_02014",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "下一站是什麼？",
@@ -409272,7 +409272,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02017",
+        "id": "S_02015",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "這班車去哪裡？",
@@ -409338,7 +409338,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02018",
+        "id": "S_02016",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "哪裡可以充電？",
@@ -409404,7 +409404,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02019",
+        "id": "S_02017",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "請問車站在哪裡？",
@@ -409470,7 +409470,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02020",
+        "id": "S_02018",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "請問機場在哪裡？",
@@ -409536,7 +409536,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02021",
+        "id": "S_02019",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "請問廁所在哪裡？",
@@ -409602,7 +409602,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02022",
+        "id": "S_02020",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "請問警察局在哪裡？",
@@ -409668,7 +409668,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02023",
+        "id": "S_02021",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "在哪裡搭車？",
@@ -409734,7 +409734,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02024",
+        "id": "S_02022",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "在哪裡下車？",
@@ -409800,7 +409800,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02025",
+        "id": "S_02023",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "最近的車站在哪裡",
@@ -409866,7 +409866,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02026",
+        "id": "S_02024",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "最近的醫院在哪裡",
@@ -409932,7 +409932,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02027",
+        "id": "S_02025",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "最近的超市在哪裡",
@@ -409998,7 +409998,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02028",
+        "id": "S_02026",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "最近的郵局在哪裡",
@@ -410064,7 +410064,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02029",
+        "id": "S_02027",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "最近的藥局在哪裡",
@@ -410130,7 +410130,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02030",
+        "id": "S_02028",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "哪裡可以找到提款機",
@@ -410196,7 +410196,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02031",
+        "id": "S_02029",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "哪裡可以找到超市",
@@ -410262,7 +410262,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02032",
+        "id": "S_02030",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "哪裡可以找到廁所",
@@ -410328,7 +410328,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02033",
+        "id": "S_02031",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "哪裡可以搭計程車",
@@ -410394,7 +410394,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02034",
+        "id": "S_02032",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "地方副詞疑問句",
         "cn": "哪裡可以搭公車",
@@ -410460,7 +410460,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02035",
+        "id": "S_02033",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "現在完成式欵問句",
         "cn": "你去過台灣嗎",
@@ -410526,7 +410526,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02036",
+        "id": "S_02034",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "現在完成式欵問句",
         "cn": "你去過日本嗎",
@@ -410592,7 +410592,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02037",
+        "id": "S_02035",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "現在完成式欵問句",
         "cn": "你去過美國嗎",
@@ -410658,7 +410658,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02038",
+        "id": "S_02036",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "現在完成式欵問句",
         "cn": "你去過法國嗎",
@@ -410724,7 +410724,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02039",
+        "id": "S_02037",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "現在完成式欵問句",
         "cn": "你去過韓國嗎",
@@ -410790,7 +410790,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02040",
+        "id": "S_02038",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "有大一點的嗎",
@@ -410856,7 +410856,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02041",
+        "id": "S_02039",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "有小一點的嗎",
@@ -410922,7 +410922,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02042",
+        "id": "S_02040",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "有其他顏色的嗎",
@@ -410988,7 +410988,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02043",
+        "id": "S_02041",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "我可以試穿這個嗎",
@@ -411054,7 +411054,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02044",
+        "id": "S_02042",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "我可以試吃這個嗎",
@@ -411120,7 +411120,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02045",
+        "id": "S_02043",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "我可以拍照嗎",
@@ -411186,7 +411186,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02046",
+        "id": "S_02044",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "這是什麼東西",
@@ -411252,7 +411252,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02047",
+        "id": "S_02045",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "這是什麼肉",
@@ -411318,7 +411318,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02048",
+        "id": "S_02046",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "這是什麼意思",
@@ -411384,7 +411384,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02049",
+        "id": "S_02047",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "請問洗衣機怎麼用",
@@ -411450,7 +411450,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02050",
+        "id": "S_02048",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "請問微波爐怎麼用",
@@ -411516,7 +411516,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02051",
+        "id": "S_02049",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "請問冷氣怎麼用",
@@ -411582,7 +411582,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02052",
+        "id": "S_02050",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "請問wifi怎麼連",
@@ -411648,7 +411648,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02053",
+        "id": "S_02051",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你知道怎麼去那裡嗎",
@@ -411714,7 +411714,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02054",
+        "id": "S_02052",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你知道怎麼用這個嗎",
@@ -411780,7 +411780,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02055",
+        "id": "S_02053",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你知道怎麼買票嗎",
@@ -411846,7 +411846,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02056",
+        "id": "S_02054",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你知道怎麼上網嗎",
@@ -411912,7 +411912,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02057",
+        "id": "S_02055",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你知道怎麼開門嗎",
@@ -411978,7 +411978,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02058",
+        "id": "S_02056",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "幾點開門營業",
@@ -412044,7 +412044,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02059",
+        "id": "S_02057",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "幾點打烊休息",
@@ -412110,7 +412110,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02060",
+        "id": "S_02058",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "幾點開始售票",
@@ -412176,7 +412176,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02061",
+        "id": "S_02059",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "哪裡可以買網卡",
@@ -412242,7 +412242,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02062",
+        "id": "S_02060",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "哪裡可以買水",
@@ -412308,7 +412308,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02063",
+        "id": "S_02061",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "哪裡可以買票",
@@ -412374,7 +412374,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02064",
+        "id": "S_02062",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "走路到車站遠嗎",
@@ -412440,7 +412440,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02065",
+        "id": "S_02063",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "走路到公園遠嗎",
@@ -412506,7 +412506,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02066",
+        "id": "S_02064",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "走路到飯店遠嗎",
@@ -412572,7 +412572,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02067",
+        "id": "S_02065",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "明天幾點集合",
@@ -412638,7 +412638,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02068",
+        "id": "S_02066",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "明天有行程嗎",
@@ -412704,7 +412704,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02069",
+        "id": "S_02067",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你叫什麼名字",
@@ -412770,7 +412770,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02070",
+        "id": "S_02068",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你從哪裡來",
@@ -412836,7 +412836,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02071",
+        "id": "S_02069",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你幾歲",
@@ -412902,7 +412902,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02072",
+        "id": "S_02070",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你有看到我的錢包嗎",
@@ -412968,7 +412968,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02073",
+        "id": "S_02071",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你有看到我的護照嗎",
@@ -413034,7 +413034,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02074",
+        "id": "S_02072",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "你有看到我的手機嗎",
@@ -413100,7 +413100,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02075",
+        "id": "S_02073",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "這是什麼意思？",
@@ -413166,7 +413166,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02076",
+        "id": "S_02074",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "我需要換錢",
@@ -413232,7 +413232,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02077",
+        "id": "S_02075",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "哪裡可以換錢？",
@@ -413298,7 +413298,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02078",
+        "id": "S_02076",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "匯率是多少？",
@@ -413364,7 +413364,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02079",
+        "id": "S_02077",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "去火車站怎麼走？",
@@ -413430,7 +413430,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02080",
+        "id": "S_02078",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "去機場怎麼走？",
@@ -413496,7 +413496,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02081",
+        "id": "S_02079",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "去市中心怎麼走？",
@@ -413562,7 +413562,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02082",
+        "id": "S_02080",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "我可以試穿這個嗎？",
@@ -413628,7 +413628,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02083",
+        "id": "S_02081",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "有大一點的嗎？",
@@ -413694,7 +413694,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02084",
+        "id": "S_02082",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "有小一點的嗎？",
@@ -413760,7 +413760,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02085",
+        "id": "S_02083",
         "category": "Int. L12 句型訓練 (欵問句)",
         "subcategory": "欵問句",
         "cn": "有別的顏色嗎？",
@@ -413826,7 +413826,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02086",
+        "id": "S_02084",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請幫我叫警察",
@@ -413892,7 +413892,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02087",
+        "id": "S_02085",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請幫我叫救護車",
@@ -413958,7 +413958,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02088",
+        "id": "S_02086",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請幫我叫經理來",
@@ -414024,7 +414024,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02089",
+        "id": "S_02087",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一些冷水",
@@ -414090,7 +414090,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02090",
+        "id": "S_02088",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一些熱水",
@@ -414156,7 +414156,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02091",
+        "id": "S_02089",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一些冰塊",
@@ -414222,7 +414222,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02092",
+        "id": "S_02090",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請等我五分鐘",
@@ -414288,7 +414288,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02093",
+        "id": "S_02091",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請等我十分鐘",
@@ -414354,7 +414354,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02094",
+        "id": "S_02092",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請等我半小時",
@@ -414420,7 +414420,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02095",
+        "id": "S_02093",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一張菜單",
@@ -414486,7 +414486,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02096",
+        "id": "S_02094",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一杯溫水",
@@ -414552,7 +414552,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02097",
+        "id": "S_02095",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一雙筷子",
@@ -414618,7 +414618,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02098",
+        "id": "S_02096",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一些衛生紙",
@@ -414684,7 +414684,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02099",
+        "id": "S_02097",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請寫下地址",
@@ -414750,7 +414750,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02100",
+        "id": "S_02098",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請寫下名字",
@@ -414816,7 +414816,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02101",
+        "id": "S_02099",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請寫下電話號碼",
@@ -414882,7 +414882,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02102",
+        "id": "S_02100",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請寫下價格",
@@ -414948,7 +414948,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02103",
+        "id": "S_02101",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請寫下時間",
@@ -415014,7 +415014,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02104",
+        "id": "S_02102",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請帶我去這個地址",
@@ -415080,7 +415080,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02105",
+        "id": "S_02103",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請帶我去酒店",
@@ -415146,7 +415146,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02106",
+        "id": "S_02104",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請帶我去醫院",
@@ -415212,7 +415212,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02107",
+        "id": "S_02105",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一杯熱水",
@@ -415278,7 +415278,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02108",
+        "id": "S_02106",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一杯冰水",
@@ -415344,7 +415344,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02109",
+        "id": "S_02107",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一雙拖鞋",
@@ -415410,7 +415410,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02110",
+        "id": "S_02108",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一個衣架",
@@ -415476,7 +415476,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02111",
+        "id": "S_02109",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一條毛巾",
@@ -415542,7 +415542,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02112",
+        "id": "S_02110",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請幫我拿這個",
@@ -415608,7 +415608,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02113",
+        "id": "S_02111",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請幫我開燈",
@@ -415674,7 +415674,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02114",
+        "id": "S_02112",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請幫我關門",
@@ -415740,7 +415740,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02115",
+        "id": "S_02113",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一個叉子",
@@ -415806,7 +415806,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02116",
+        "id": "S_02114",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一個湯匙",
@@ -415872,7 +415872,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02117",
+        "id": "S_02115",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請給我一個盤子",
@@ -415938,7 +415938,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02118",
+        "id": "S_02116",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請稍等一下",
@@ -416004,7 +416004,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02119",
+        "id": "S_02117",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請再說一次",
@@ -416070,7 +416070,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02120",
+        "id": "S_02118",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請寫下來",
@@ -416136,7 +416136,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02121",
+        "id": "S_02119",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請稍等一下",
@@ -416202,7 +416202,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02122",
+        "id": "S_02120",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請再說一次",
@@ -416268,7 +416268,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02123",
+        "id": "S_02121",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "祈求句",
         "cn": "請寫下來",
@@ -416334,7 +416334,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02124",
+        "id": "S_02122",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "否定句",
         "cn": "我不喜歡這個味道",
@@ -416400,7 +416400,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02125",
+        "id": "S_02123",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "否定句",
         "cn": "我不喜歡這個款式",
@@ -416466,7 +416466,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02126",
+        "id": "S_02124",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在完成進行式",
         "cn": "我等了十分鐘",
@@ -416532,7 +416532,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02127",
+        "id": "S_02125",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在完成進行式",
         "cn": "我等了半小時",
@@ -416598,7 +416598,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02128",
+        "id": "S_02126",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在完成進行式",
         "cn": "我等了一個小時",
@@ -416664,7 +416664,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02129",
+        "id": "S_02127",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在完成進行式",
         "cn": "我等了很久",
@@ -416730,7 +416730,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02130",
+        "id": "S_02128",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在完成進行式",
         "cn": "我等了一整天",
@@ -416796,7 +416796,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02131",
+        "id": "S_02129",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我在找公車站",
@@ -416862,7 +416862,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02132",
+        "id": "S_02130",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我在找地鐵站",
@@ -416928,7 +416928,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02133",
+        "id": "S_02131",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我在找計程車招呼站",
@@ -416994,7 +416994,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02134",
+        "id": "S_02132",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在學習英文",
@@ -417060,7 +417060,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02135",
+        "id": "S_02133",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在學習日文",
@@ -417126,7 +417126,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02136",
+        "id": "S_02134",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在學習法文",
@@ -417192,7 +417192,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02137",
+        "id": "S_02135",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在尋找我的朋友",
@@ -417258,7 +417258,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02138",
+        "id": "S_02136",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在尋找我的行李",
@@ -417324,7 +417324,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02139",
+        "id": "S_02137",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在尋找洗手間",
@@ -417390,7 +417390,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02140",
+        "id": "S_02138",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在尋找出口",
@@ -417456,7 +417456,7 @@ const vocabData = [
         }
     },
     {
-        "id": "S_02141",
+        "id": "S_02139",
         "category": "Int. L13 句型訓練 ",
         "subcategory": "現在進行式",
         "cn": "我正在尋找電梯",
