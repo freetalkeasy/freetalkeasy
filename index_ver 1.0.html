@@ -740,10 +740,7 @@
         </div>
     </div>
 
-    <!-- 動態載入 data.js 並加上時間戳記，強制清除快取 -->
-    <script>
-        document.write('<script src="data.js?v=' + new Date().getTime() + '"><\/script>');
-    </script>
+    <script src="data.js"></script>
 
     <script>
         let currentLang = 'CN_ENG'; 
@@ -772,7 +769,7 @@
         const repeatSelect = document.getElementById('repeat-count-select');
         const motherTongueSelect = document.getElementById('mother-tongue-select');
         const ttsToggle = document.getElementById('tts-toggle');
-        const speedSelect = document.getElementById('speed-select');
+        const speedSelect = document.getElementById('speed-select'); // 🔴 取得速度選單
         
         const globalPlayer = document.getElementById('global-audio-player');
 
@@ -784,7 +781,7 @@
         let repeatCount = 1; 
         let enableTTS = true; 
         let explanationLang = 'CN_ZH'; 
-        let playbackSpeed = 1.0; 
+        let playbackSpeed = 1.0; // 🔴 預設速度
 
         window.onload = () => {
             if (typeof vocabData === 'undefined') {
@@ -793,6 +790,7 @@
             }
             populateCategories(); 
 
+            // 載入設定
             const savedRepeat = localStorage.getItem(STORAGE_KEY_SETTING_REPEAT);
             if (savedRepeat) {
                 repeatCount = parseInt(savedRepeat);
@@ -813,6 +811,7 @@
             }
             ttsToggle.checked = enableTTS; 
 
+            // 🔴 載入速度設定
             const savedSpeed = localStorage.getItem(STORAGE_KEY_SETTING_SPEED);
             if (savedSpeed) {
                 playbackSpeed = parseFloat(savedSpeed);
@@ -846,6 +845,7 @@
             localStorage.setItem(STORAGE_KEY_SETTING_TTS, enableTTS);
         });
 
+        // 🔴 監聽速度變化
         speedSelect.addEventListener('change', () => {
             playbackSpeed = parseFloat(speedSelect.value);
             localStorage.setItem(STORAGE_KEY_SETTING_SPEED, playbackSpeed);
@@ -1015,7 +1015,7 @@
                     if (!audioSrc) { resolve(); return; }
                     
                     globalPlayer.src = audioSrc;
-                    globalPlayer.playbackRate = playbackSpeed; 
+                    globalPlayer.playbackRate = playbackSpeed; // 🔴 應用速度
                     globalPlayer.onended = resolve;
                     globalPlayer.onerror = resolve;
                     
@@ -1050,7 +1050,7 @@
                         const explSrc = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
                         
                         globalPlayer.src = explSrc;
-                        globalPlayer.playbackRate = 1.25; 
+                        globalPlayer.playbackRate = 1.25; // 🔴 解釋語速固定稍微快一點點，聽感較好，或可改為 playbackSpeed
                         globalPlayer.onended = resolve;
                         globalPlayer.onerror = resolve;
                         globalPlayer.play().catch(resolve);
@@ -1159,7 +1159,7 @@
                     if (isAutoPlaying) stopAutoPlay(); 
 
                     globalPlayer.src = src;
-                    globalPlayer.playbackRate = playbackSpeed; 
+                    globalPlayer.playbackRate = playbackSpeed; // 🔴 手動點擊也應用速度
                     globalPlayer.play().then(() => {
                         card.classList.add('playing');
                         const n = addClick(item.id);
