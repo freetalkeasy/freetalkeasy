@@ -202,24 +202,6 @@
             margin-bottom: 15px;
         }
 
-        /* 🔍 搜尋列樣式 */
-        #search-input {
-            grid-column: 1 / -1; /* 讓搜尋列在手機上佔滿整行 */
-            padding: 12px 15px;
-            font-size: 15px;
-            border-radius: 8px;
-            border: 1px solid #ddd;
-            background-color: white;
-            width: 100%;
-            transition: all 0.2s;
-        }
-        
-        #search-input:focus {
-            outline: none;
-            border-color: var(--primary-color);
-            box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
-        }
-
         .sticky-controls {
             position: fixed;
             bottom: 0;
@@ -648,8 +630,6 @@
             <select id="sub-category-filter" disabled>
                 <option value="all">📌 所有次分類</option>
             </select>
-            <!-- 🔍 新增的搜尋列 -->
-            <input type="text" id="search-input" placeholder="🔍 搜尋母語或外語單字...">
         </div>
 
         <div id="card-container">Loading...</div>
@@ -747,6 +727,7 @@
                 </label>
             </div>
 
+            <!-- 新增循環播放開關 -->
             <div class="setting-row">
                 <div class="setting-label">
                     <span>🔄 循環播放列表</span>
@@ -788,7 +769,7 @@
         const STORAGE_KEY_SETTING_TTS = 'fte_setting_tts';
         const STORAGE_KEY_SETTING_MOTHER_TONGUE = 'fte_setting_mt';
         const STORAGE_KEY_SETTING_SPEED = 'fte_setting_speed';
-        const STORAGE_KEY_SETTING_LOOP = 'fte_setting_loop'; 
+        const STORAGE_KEY_SETTING_LOOP = 'fte_setting_loop'; // 紀錄循環設定
         
         const landingScreen = document.getElementById('landing-screen');
         const appScreen = document.getElementById('app-screen');
@@ -797,8 +778,6 @@
         const container = document.getElementById('card-container');
         const catFilter = document.getElementById('category-filter');
         const subCatFilter = document.getElementById('sub-category-filter');
-        const searchInput = document.getElementById('search-input'); // 🔍 取得搜尋輸入框
-        
         const btnAutoPlay = document.getElementById('btn-autoplay');
         const btnReset = document.getElementById('btn-reset');
         
@@ -807,7 +786,7 @@
         const motherTongueSelect = document.getElementById('mother-tongue-select');
         const ttsToggle = document.getElementById('tts-toggle');
         const speedSelect = document.getElementById('speed-select');
-        const loopToggle = document.getElementById('loop-toggle'); 
+        const loopToggle = document.getElementById('loop-toggle'); // 抓取循環開關
         
         const globalPlayer = document.getElementById('global-audio-player');
 
@@ -820,7 +799,7 @@
         let enableTTS = true; 
         let explanationLang = 'CN_ZH'; 
         let playbackSpeed = 1.0; 
-        let enableLoop = false; 
+        let enableLoop = false; // 循環變數
 
         window.onload = () => {
             if (typeof vocabData === 'undefined') {
@@ -855,6 +834,7 @@
                 speedSelect.value = playbackSpeed;
             }
 
+            // 讀取循環播放設定
             const savedLoop = localStorage.getItem(STORAGE_KEY_SETTING_LOOP);
             if (savedLoop !== null) {
                 enableLoop = (savedLoop === 'true');
@@ -895,15 +875,10 @@
             localStorage.setItem(STORAGE_KEY_SETTING_SPEED, playbackSpeed);
         });
 
+        // 儲存循環播放設定
         loopToggle.addEventListener('change', () => {
             enableLoop = loopToggle.checked;
             localStorage.setItem(STORAGE_KEY_SETTING_LOOP, enableLoop);
-        });
-
-        // 🔍 監聽搜尋框輸入事件，輸入時停止播放並重新渲染卡片
-        searchInput.addEventListener('input', () => {
-            stopAutoPlay();
-            renderCards();
         });
 
         function selectLanguage(code, name, isAutoLoad = false) {
@@ -945,7 +920,6 @@
 
         function goBackToHome() {
             stopAutoPlay();
-            searchInput.value = ''; // 回首頁時清空搜尋
             appScreen.style.display = 'none';
             landingScreen.style.display = 'flex';
         }
@@ -1131,6 +1105,7 @@
                 if (autoPlayIndex < visibleCards.length) {
                     setTimeout(() => playCardSequence(visibleCards[autoPlayIndex]), 800);
                 } else {
+                    // 若開啟循環，且列表有單字，就重置回第一個，並停頓1.5秒後重新開始
                     if (enableLoop && visibleCards.length > 0) {
                         autoPlayIndex = 0;
                         setTimeout(() => {
@@ -1149,7 +1124,6 @@
             container.innerHTML = '';
             const sCat = catFilter.value;
             const sSub = subCatFilter.value;
-            const sSearch = searchInput.value.trim().toLowerCase(); // 🔍 取得搜尋關鍵字
             const isChineseMode = (currentLang === 'CN_ZH');
 
             let lastCat = "";
@@ -1161,14 +1135,6 @@
 
                 const targetData = item[currentLang];
                 if (!targetData) return;
-
-                // 🔍 搜尋過濾邏輯：如果輸入框有字，比對中文 (cn) 或 目標外語 (word)
-                if (sSearch !== "") {
-                    const matchCn = (item.cn || "").toLowerCase().includes(sSearch);
-                    const matchTarget = (targetData.word || "").toLowerCase().includes(sSearch);
-                    if (!matchCn && !matchTarget) return; // 都沒比對中就跳過這張卡片
-                }
-
                 if (isChineseMode) {
                    const cName = (item.category||"").toLowerCase();
                    if (cName.includes('字母')||cName.includes('五十音')) return;
