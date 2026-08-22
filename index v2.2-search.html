@@ -26,7 +26,6 @@
         :root {
             --primary-color: #4a90e2;
             --danger-color: #e74c3c;
-            --quiz-color: #8e44ad;
             --bg-color: #f5f7fa;
             --card-shadow: 0 2px 4px rgba(0,0,0,0.08);
             --lvl-0-bg: #ffffff;
@@ -203,8 +202,9 @@
             margin-bottom: 15px;
         }
 
+        /* 🔍 搜尋列樣式 */
         #search-input {
-            grid-column: 1 / -1; 
+            grid-column: 1 / -1; /* 讓搜尋列在手機上佔滿整行 */
             padding: 12px 15px;
             font-size: 15px;
             border-radius: 8px;
@@ -227,37 +227,30 @@
             width: 100%;
             background: white;
             box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
-            padding: 12px 10px;
+            padding: 12px 15px;
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 8px;
+            gap: 10px;
             z-index: 1000;
         }
 
         .sticky-controls button {
-            padding: 10px 5px;
-            font-size: 14px;
-            border-radius: 20px;
+            padding: 10px 15px;
+            font-size: 15px;
+            border-radius: 25px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             flex: 1; 
-            text-align: center;
+            max-width: 160px;
         }
 
         #btn-settings {
             background-color: #f0f0f0;
             color: #555;
             border: 1px solid #ccc;
-        }
-        #btn-autoplay { background-color: var(--primary-color); color: white; border: none; font-weight: bold; }
-        #btn-autoplay.playing { background-color: #f39c12; animation: pulse 1.5s infinite; }
-        #btn-quiz { background-color: var(--quiz-color); color: white; border: none; font-weight: bold; }
-        #btn-reset { background-color: white; color: var(--danger-color); border: 1px solid var(--danger-color); }
-
-        @keyframes pulse {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-            100% { transform: scale(1); }
+            flex: 0 0 auto; 
+            width: auto;
+            max-width: none;
         }
 
         #settings-panel {
@@ -329,6 +322,7 @@
         input:checked + .slider { background-color: var(--primary-color); }
         input:checked + .slider:before { transform: translateX(16px); }
 
+
         select, button {
             padding: 12px;
             font-size: 15px;
@@ -338,7 +332,19 @@
             cursor: pointer;
             width: 100%;
         }
+
         select:disabled { background-color: #f0f0f0; color: #aaa; cursor: not-allowed; }
+
+        #btn-autoplay { background-color: var(--primary-color); color: white; border: none; font-weight: bold; }
+        #btn-autoplay.playing { background-color: #f39c12; animation: pulse 1.5s infinite; }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
+        #btn-reset { background-color: white; color: var(--danger-color); border: 1px solid var(--danger-color); }
 
         #card-container {
             display: grid; 
@@ -360,6 +366,14 @@
             display: flex;
             align-items: center;
             gap: 10px;
+        }
+        .category-header .badge {
+            background: #e3f2fd;
+            color: #4a90e2;
+            font-size: 0.8em;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-weight: normal;
         }
 
         @media (max-width: 400px) { 
@@ -387,52 +401,143 @@
             margin-bottom: 2px; 
             line-height: 1.3; 
             word-wrap: break-word;       
+            overflow-wrap: break-word;   
             word-break: break-word;      
+            hyphens: auto;               
         }
         
         .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
         .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #eee; font-size: 13px; color: #555; }
 
-        /* --- Quiz Screen --- */
-        #quiz-screen {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: #fff; z-index: 2000; display: none; flex-direction: column;
-        }
-        .quiz-header {
-            display: flex; justify-content: space-between; align-items: center; padding: 15px 20px;
-            background: var(--quiz-color); color: white; font-size: 16px; font-weight: bold;
-        }
-        .quiz-header button {
-            background: rgba(255,255,255,0.2); border: none; color: white; padding: 8px 15px; 
-            border-radius: 20px; cursor: pointer; font-weight: bold; width: auto; font-size: 14px;
-        }
-        .quiz-content { 
-            padding: 30px 20px; text-align: center; flex: 1; display: flex; 
-            flex-direction: column; justify-content: center; max-width: 600px; margin: 0 auto; width: 100%;
-        }
-        #quiz-question { font-size: 28px; margin-bottom: 30px; color: #2c3e50; line-height: 1.4; }
-        .quiz-options { display: flex; flex-direction: column; gap: 15px; width: 100%; }
-        .quiz-option-btn {
-            padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 12px;
-            background: white; cursor: pointer; transition: 0.2s; font-weight: bold; color: #333;
-        }
-        .quiz-option-btn:hover:not(:disabled) { background: #f9f9f9; border-color: var(--quiz-color); }
-        .quiz-option-btn.correct { background: #d4edda !important; border-color: #4caf50 !important; color: #1b5e20 !important; }
-        .quiz-option-btn.wrong { background: #f8d7da !important; border-color: #f44336 !important; color: #b71c1c !important; }
-        .quiz-option-btn:disabled { cursor: not-allowed; }
-
         .app-footer { 
-            margin-top: 50px; padding: 20px 20px 80px 20px;
-            text-align: center; color: #999; font-size: 12px; width: 100%; 
-            background: #fff; border-top: 1px solid #eee; line-height: 1.6;
+            margin-top: 50px; 
+            padding: 20px 20px 80px 20px;
+            text-align: center; 
+            color: #999; 
+            font-size: 12px; 
+            width: 100%; 
+            background: #fff; 
+            border-top: 1px solid #eee; 
+            line-height: 1.6;
         }
 
-        .support-box { background: rgba(0,0,0,0.03); border-radius: 12px; padding: 15px; border: 1px solid rgba(0,0,0,0.05); max-width: 600px; margin: 0 auto 15px auto; }
-        .landing-footer .support-box { background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.1); color: #eee; }
-        .support-text { font-size: 13px; line-height: 1.6; margin-bottom: 10px; text-align: justify; }
-        .support-text-en { font-size: 12px; font-style: italic; opacity: 0.8; margin-bottom: 15px; text-align: justify; }
-        .bmc-btn { background-color: #FFDD00; color: #000000; font-family: 'Roboto', sans-serif; font-weight: bold; text-decoration: none; padding: 10px 25px; border-radius: 25px; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s; font-size: 14px; }
+        .landing-footer {
+            margin-top: 20px;
+            text-align: center;
+            color: rgba(255,255,255,0.8);
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .support-box {
+            background: rgba(0,0,0,0.03);
+            border-radius: 12px;
+            padding: 15px;
+            border: 1px solid rgba(0,0,0,0.05);
+            max-width: 600px; 
+            margin: 0 auto 15px auto; 
+        }
+        .landing-footer .support-box {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.1);
+            color: #eee;
+        }
+
+        .install-guide-box {
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            padding: 15px;
+            margin-top: 20px;
+            text-align: left;
+            font-size: 13px;
+            color: #fff;
+        }
+        .install-guide-box h4 {
+            margin: 0 0 10px 0;
+            font-size: 14px;
+            color: #FFDD00;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .install-guide-box ul { margin: 0; padding-left: 20px; opacity: 0.9; line-height: 1.6; }
+
+        .support-text {
+            font-size: 13px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+            text-align: justify;
+        }
+        .support-text-en {
+            font-size: 12px;
+            font-style: italic;
+            opacity: 0.8;
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        .app-footer a { color: #aaa; text-decoration: none; margin: 0 5px; }
+        
+        .feedback-link {
+            color: inherit;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            transition: opacity 0.2s;
+        }
+        .feedback-link:hover { opacity: 0.8; }
+
+        .legal-notice {
+            margin-top: 15px;
+            font-size: 11px;
+            color: #ccc;
+            border-top: 1px solid #f0f0f0;
+            padding-top: 10px;
+        }
+        
+        .landing-legal-notice {
+            margin-top: 20px; 
+            font-size: 11px; 
+            color: rgba(255,255,255,0.5); 
+            border-top: 1px solid rgba(255,255,255,0.2); 
+            padding-top: 15px;
+        }
+        
+        .landing-links {
+            margin-top: 15px;
+            margin-bottom: 10px;
+            font-size: 13px;
+        }
+        .landing-links a {
+            color: rgba(255,255,255,0.8);
+            text-decoration: none;
+            margin: 0 8px;
+            transition: color 0.2s;
+        }
+        .landing-links a:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+
+        .bmc-btn {
+            background-color: #FFDD00;
+            color: #000000;
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            text-decoration: none;
+            padding: 10px 25px;
+            border-radius: 25px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+            font-size: 14px;
+        }
         .bmc-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(0,0,0,0.15); }
+
     </style>
 </head>
 <body>
@@ -486,12 +591,44 @@
                 <img src="https://flagcdn.com/w80/ru.png" class="lang-flag-img" alt="RU"><span class="lang-name">俄語 (Russian)</span><span class="lang-arrow">➜</span>
             </div>
         </div>
+
         <div class="landing-footer">
             <div class="support-box">
                 <p class="support-text">如果您覺得 FreeTalkEasy 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！</p>
+                <p class="support-text-en">If FreeTalkEasy has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!</p>
                 <a href="https://www.buymeacoffee.com/freetalkeasy" target="_blank" class="bmc-btn">
                     <i class="fas fa-coffee"></i> Buy me a coffee
                 </a>
+            </div>
+
+            <div class="install-guide-box">
+                <h4><i class="fas fa-mobile-alt"></i> 如何像 App 一樣安裝？</h4>
+                <ul>
+                    <li style="margin-bottom:5px;">
+                        <i class="fab fa-apple"></i> <b>iPhone (Safari):</b> 點擊下方「分享」圖示 <i class="fas fa-share-square"></i> ➜ 選擇「加入主畫面」。
+                    </li>
+                    <li>
+                        <i class="fab fa-android"></i> <b>Android (Chrome):</b> 點擊右上角選單 <i class="fas fa-ellipsis-v"></i> ➜ 選擇「加到主畫面」或「安裝應用程式」。
+                    </li>
+                </ul>
+            </div>
+
+            <div style="margin: 15px 0 5px 0;">
+                <a href="mailto:tw.jeremy@gmail.com" class="feedback-link" style="color: rgba(255,255,255,0.9); font-size: 14px;">
+                    <i class="fas fa-envelope"></i> 網站回饋信箱：tw.jeremy@gmail.com
+                </a>
+            </div>
+
+            <div class="landing-links">
+                <a href="seo_pages/sitemap.html">單字列表</a> |
+                <a href="seo_pages/about.html">關於本站</a> | 
+                <a href="seo_pages/privacy.html">隱私政策</a>
+            </div>
+
+            <div class="landing-legal-notice">
+                <p>免責聲明：本網站內容僅供語言學習參考，我們力求資訊準確，但對於因使用本網站內容而造成的任何直接或間接損失，本站不負任何法律責任。</p>
+                <p>※ 為了您的視力健康，請避免長時間盯著螢幕，建議每30分鐘休息一下。</p>
+                <p>&copy; 2026 FreeTalkEasy. All rights reserved.</p>
             </div>
         </div>
     </div>
@@ -511,6 +648,7 @@
             <select id="sub-category-filter" disabled>
                 <option value="all">📌 所有次分類</option>
             </select>
+            <!-- 🔍 新增的搜尋列 -->
             <input type="text" id="search-input" placeholder="🔍 搜尋母語或外語單字...">
         </div>
 
@@ -519,14 +657,29 @@
         <footer class="app-footer">
             <div class="support-box">
                 <p class="support-text">如果您覺得 FreeTalkEasy 幫您省下了大量整理資料與學習的時間，歡迎請我喝杯咖啡。您的每一份支持，都是我維持伺服器運作、持續擴充資料庫的動力。讓我們一起讓這個免費資源走得更遠，幫助更多語言學習者！</p>
+                <p class="support-text-en">If FreeTalkEasy has saved you valuable time in your learning journey, consider buying me a coffee! Your support helps cover server costs and fuels the continuous update of our database. Let’s keep this project alive and helpful for everyone together!</p>
                 <a href="https://www.buymeacoffee.com/freetalkeasy" target="_blank" class="bmc-btn">
                     <i class="fas fa-coffee"></i> Buy me a coffee
                 </a>
             </div>
+            
             <div style="margin-top: 20px;">
-                <a href="mailto:tw.jeremy@gmail.com" style="color:inherit; text-decoration:none;"><i class="fas fa-envelope"></i> 回饋信箱：tw.jeremy@gmail.com</a>
+                <a href="mailto:tw.jeremy@gmail.com" class="feedback-link" style="font-size: 13px;">
+                    <i class="fas fa-envelope"></i> 網站回饋信箱：tw.jeremy@gmail.com
+                </a>
             </div>
-            <p>&copy; 2026 FreeTalkEasy. All rights reserved.</p>
+
+            <div style="margin-top:20px;">
+                <a href="seo_pages/sitemap.html">單字列表</a> |
+                <a href="seo_pages/about.html">關於</a> | 
+                <a href="seo_pages/privacy.html">隱私</a>
+            </div>
+
+            <div class="legal-notice">
+                <p>免責聲明：本網站內容僅供語言學習參考，我們力求資訊準確，但對於因使用本網站內容而造成的任何直接或間接損失，本站不負任何法律責任。</p>
+                <p>※ 為了您的視力健康，請避免長時間盯著螢幕，建議每30分鐘休息一下。</p>
+                <p>&copy; 2026 FreeTalkEasy. All rights reserved.</p>
+            </div>
         </footer>
 
         <div id="settings-panel">
@@ -534,8 +687,12 @@
                 <i class="fas fa-cog"></i> 播放設定 <span style="font-size:12px; font-weight:normal; color:#888;">(Settings)</span>
                 <span onclick="toggleSettings()" style="float:right; cursor:pointer; color:#999;">✕</span>
             </div>
+            
             <div class="setting-row">
-                <div class="setting-label"><span>🔁 單字重複次數</span></div>
+                <div class="setting-label">
+                    <span>🔁 單字重複次數</span>
+                    <span class="en">Repeat Count</span>
+                </div>
                 <select id="repeat-count-select">
                     <option value="1">1 次</option>
                     <option value="2">2 次</option>
@@ -543,8 +700,12 @@
                     <option value="5">5 次</option>
                 </select>
             </div>
+
             <div class="setting-row">
-                <div class="setting-label"><span>⚡ 播放速度</span></div>
+                <div class="setting-label">
+                    <span>⚡ 播放速度</span>
+                    <span class="en">Playback Speed</span>
+                </div>
                 <select id="speed-select">
                     <option value="0.5">0.5x (慢速)</option>
                     <option value="0.75">0.75x (稍慢)</option>
@@ -553,50 +714,67 @@
                     <option value="1.5">1.5x (快速)</option>
                 </select>
             </div>
+
             <div class="setting-row">
-                <div class="setting-label"><span>🗣️ 解釋語言 (母語)</span></div>
+                <div class="setting-label">
+                    <span>🗣️ 解釋語言 (母語)</span>
+                    <span class="en">Mother Tongue</span>
+                </div>
                 <select id="mother-tongue-select">
                     <option value="CN_ZH">🇹🇼 中文</option>
                     <option value="CN_ENG">🇺🇸 英語</option>
                     <option value="CN_JP">🇯🇵 日語</option>
                     <option value="CN_KR">🇰🇷 韓語</option>
                     <option value="CN_VN">🇻🇳 越語</option>
+                    <option value="CN_TH">🇹🇭 泰語</option>
+                    <option value="CN_ID">🇮🇩 印尼語</option>
+                    <option value="CN_CON">🇭🇰 廣東話</option>
+                    <option value="CN_FR">🇫🇷 法語</option>
+                    <option value="CN_DE">🇩🇪 德語</option>
+                    <option value="CN_ES">🇪🇸 西語</option>
+                    <option value="CN_RU">🇷🇺 俄語</option>
                 </select>
             </div>
+
             <div class="setting-row">
-                <div class="setting-label"><span>🎧 朗讀解釋</span></div>
-                <label class="toggle-switch"><input type="checkbox" id="tts-toggle"><span class="slider"></span></label>
+                <div class="setting-label">
+                    <span>🎧 朗讀解釋</span>
+                    <span class="en">Read Explanation</span>
+                </div>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="tts-toggle">
+                    <span class="slider"></span>
+                </label>
             </div>
+
             <div class="setting-row">
-                <div class="setting-label"><span>🔄 循環播放列表</span></div>
-                <label class="toggle-switch"><input type="checkbox" id="loop-toggle"><span class="slider"></span></label>
+                <div class="setting-label">
+                    <span>🔄 循環播放列表</span>
+                    <span class="en">Loop Playback</span>
+                </div>
+                <label class="toggle-switch">
+                    <input type="checkbox" id="loop-toggle">
+                    <span class="slider"></span>
+                </label>
+            </div>
+
+            <div style="font-size:11px; color:#999; margin-top:5px; line-height: 1.4;">
+                ※ 解釋僅在最後播放一次。<br>
+                (Explanation audio plays only once at the end.)
             </div>
         </div>
 
         <div class="sticky-controls">
             <button id="btn-settings" onclick="toggleSettings()"><i class="fas fa-cog"></i> 設定</button>
-            <button id="btn-autoplay">▶ 播放</button>
-            <button id="btn-quiz" onclick="startQuiz()">📝 測驗</button>
+            <button id="btn-autoplay">▶ 自動播放</button>
             <button id="btn-reset">🗑️ 重置</button>
         </div>
     </div>
 
-    <!-- 📝 測驗畫面 -->
-    <div id="quiz-screen">
-        <div class="quiz-header">
-            <span id="quiz-score">進度: 0/0 | 分數: 0</span>
-            <button onclick="closeQuiz()">✕ 結束測驗</button>
-        </div>
-        <div class="quiz-content">
-            <h2 id="quiz-question">準備中...</h2>
-            <div id="quiz-options" class="quiz-options">
-                <!-- 選項按鈕會由 JS 動態生成 -->
-            </div>
-        </div>
-    </div>
-
     <!-- 動態載入 data.js 並加上時間戳記，強制清除快取 -->
-    <script>document.write('<script src="data.js?v=' + new Date().getTime() + '"><\/script>');</script>
+    <script>
+        document.write('<script src="data.js?v=' + new Date().getTime() + '"><\/script>');
+    </script>
 
     <script>
         let currentLang = 'CN_ENG'; 
@@ -619,7 +797,7 @@
         const container = document.getElementById('card-container');
         const catFilter = document.getElementById('category-filter');
         const subCatFilter = document.getElementById('sub-category-filter');
-        const searchInput = document.getElementById('search-input');
+        const searchInput = document.getElementById('search-input'); // 🔍 取得搜尋輸入框
         
         const btnAutoPlay = document.getElementById('btn-autoplay');
         const btnReset = document.getElementById('btn-reset');
@@ -635,7 +813,6 @@
 
         let isAutoPlaying = false;
         let visibleCards = [];
-        let filteredData = []; // 儲存目前畫面上的卡片資料，供測驗使用
         let autoPlayTimer = null;
         let autoPlayIndex = 0;
         
@@ -645,11 +822,6 @@
         let playbackSpeed = 1.0; 
         let enableLoop = false; 
 
-        // 測驗變數
-        let quizCards = [];
-        let currentQuizIndex = 0;
-        let quizScore = 0;
-
         window.onload = () => {
             if (typeof vocabData === 'undefined') {
                 alert("找不到 data.js，請確認是否已執行 Python 程式！");
@@ -657,22 +829,38 @@
             }
             populateCategories(); 
 
-            // 載入設定...
             const savedRepeat = localStorage.getItem(STORAGE_KEY_SETTING_REPEAT);
-            if (savedRepeat) { repeatCount = parseInt(savedRepeat); repeatSelect.value = repeatCount; }
+            if (savedRepeat) {
+                repeatCount = parseInt(savedRepeat);
+                repeatSelect.value = repeatCount;
+            }
 
             const savedMT = localStorage.getItem(STORAGE_KEY_SETTING_MOTHER_TONGUE);
-            if (savedMT) { explanationLang = savedMT; motherTongueSelect.value = explanationLang; }
+            if (savedMT) {
+                explanationLang = savedMT;
+                motherTongueSelect.value = explanationLang;
+            }
 
             const savedTTS = localStorage.getItem(STORAGE_KEY_SETTING_TTS);
-            if (savedTTS !== null) { enableTTS = (savedTTS === 'true'); } 
+            if (savedTTS !== null) {
+                enableTTS = (savedTTS === 'true');
+            } else {
+                enableTTS = true; 
+            }
             ttsToggle.checked = enableTTS; 
 
             const savedSpeed = localStorage.getItem(STORAGE_KEY_SETTING_SPEED);
-            if (savedSpeed) { playbackSpeed = parseFloat(savedSpeed); speedSelect.value = playbackSpeed; }
+            if (savedSpeed) {
+                playbackSpeed = parseFloat(savedSpeed);
+                speedSelect.value = playbackSpeed;
+            }
 
             const savedLoop = localStorage.getItem(STORAGE_KEY_SETTING_LOOP);
-            if (savedLoop !== null) { enableLoop = (savedLoop === 'true'); }
+            if (savedLoop !== null) {
+                enableLoop = (savedLoop === 'true');
+            } else {
+                enableLoop = false;
+            }
             loopToggle.checked = enableLoop;
 
             const lastLang = localStorage.getItem(STORAGE_KEY_LAST_LANG);
@@ -683,14 +871,36 @@
             }
         };
 
-        function toggleSettings() { settingsPanel.classList.toggle('show'); }
+        function toggleSettings() {
+            settingsPanel.classList.toggle('show');
+        }
 
-        repeatSelect.addEventListener('change', () => { repeatCount = parseInt(repeatSelect.value); localStorage.setItem(STORAGE_KEY_SETTING_REPEAT, repeatCount); });
-        motherTongueSelect.addEventListener('change', () => { explanationLang = motherTongueSelect.value; localStorage.setItem(STORAGE_KEY_SETTING_MOTHER_TONGUE, explanationLang); });
-        ttsToggle.addEventListener('change', () => { enableTTS = ttsToggle.checked; localStorage.setItem(STORAGE_KEY_SETTING_TTS, enableTTS); });
-        speedSelect.addEventListener('change', () => { playbackSpeed = parseFloat(speedSelect.value); localStorage.setItem(STORAGE_KEY_SETTING_SPEED, playbackSpeed); });
-        loopToggle.addEventListener('change', () => { enableLoop = loopToggle.checked; localStorage.setItem(STORAGE_KEY_SETTING_LOOP, enableLoop); });
+        repeatSelect.addEventListener('change', () => { 
+            repeatCount = parseInt(repeatSelect.value); 
+            localStorage.setItem(STORAGE_KEY_SETTING_REPEAT, repeatCount);
+        });
 
+        motherTongueSelect.addEventListener('change', () => {
+            explanationLang = motherTongueSelect.value;
+            localStorage.setItem(STORAGE_KEY_SETTING_MOTHER_TONGUE, explanationLang);
+        });
+        
+        ttsToggle.addEventListener('change', () => { 
+            enableTTS = ttsToggle.checked; 
+            localStorage.setItem(STORAGE_KEY_SETTING_TTS, enableTTS);
+        });
+
+        speedSelect.addEventListener('change', () => {
+            playbackSpeed = parseFloat(speedSelect.value);
+            localStorage.setItem(STORAGE_KEY_SETTING_SPEED, playbackSpeed);
+        });
+
+        loopToggle.addEventListener('change', () => {
+            enableLoop = loopToggle.checked;
+            localStorage.setItem(STORAGE_KEY_SETTING_LOOP, enableLoop);
+        });
+
+        // 🔍 監聽搜尋框輸入事件，輸入時停止播放並重新渲染卡片
         searchInput.addEventListener('input', () => {
             stopAutoPlay();
             renderCards();
@@ -717,16 +927,25 @@
                     updateSubCategories('all');
                 }
             } else {
-                catFilter.value = 'all';
-                updateSubCategories('all');
+                const lastCat = localStorage.getItem(STORAGE_KEY_LAST_CAT);
+                if (lastCat) {
+                    catFilter.value = lastCat;
+                    updateSubCategories(lastCat);
+                    const lastSub = localStorage.getItem(STORAGE_KEY_LAST_SUB);
+                    if (lastSub) subCatFilter.value = lastSub;
+                } else {
+                    catFilter.value = 'all';
+                    updateSubCategories('all');
+                }
             }
+
             renderCards();
             window.scrollTo(0, 0);
         }
 
         function goBackToHome() {
             stopAutoPlay();
-            searchInput.value = '';
+            searchInput.value = ''; // 回首頁時清空搜尋
             appScreen.style.display = 'none';
             landingScreen.style.display = 'flex';
         }
@@ -773,9 +992,17 @@
 
         function updateSubCategories(mainCat) {
             subCatFilter.innerHTML = '<option value="all">📌 所有次分類</option>';
-            if (mainCat === 'all') { subCatFilter.disabled = true; return; }
+            if (mainCat === 'all') {
+                subCatFilter.disabled = true;
+                return;
+            }
             subCatFilter.disabled = false;
-            const subCats = [...new Set(vocabData.filter(item => item.category === mainCat).map(item => item.subcategory).filter(s => s))];
+            
+            const subCats = [...new Set(
+                vocabData.filter(item => item.category === mainCat)
+                .map(item => item.subcategory).filter(s => s)
+            )];
+
             if (subCats.length > 0) {
                 subCats.forEach(sub => {
                     const opt = document.createElement('option');
@@ -792,7 +1019,11 @@
         }
 
         function getClicks(id) { return parseInt(localStorage.getItem(STORAGE_KEY_PREFIX + id) || '0'); }
-        function addClick(id) { const n = getClicks(id) + 1; localStorage.setItem(STORAGE_KEY_PREFIX + id, n); return n; }
+        function addClick(id) {
+            const n = getClicks(id) + 1;
+            localStorage.setItem(STORAGE_KEY_PREFIX + id, n);
+            return n;
+        }
         function getLevelClass(n) {
             if (n >= 30) return 'level-5';
             if (n >= 20) return 'level-4';
@@ -802,28 +1033,140 @@
             return 'level-0';
         }
 
+        function startAutoPlay() {
+            visibleCards = Array.from(document.querySelectorAll('.card'));
+            if (visibleCards.length === 0) return;
+            isAutoPlaying = true;
+            btnAutoPlay.innerHTML = '<i class="fas fa-stop"></i> 停止播放';
+            btnAutoPlay.classList.add('playing');
+            autoPlayIndex = 0;
+            settingsPanel.classList.remove('show');
+            playCardSequence(visibleCards[autoPlayIndex]);
+        }
+
+        function stopAutoPlay() {
+            isAutoPlaying = false;
+            btnAutoPlay.innerHTML = '▶ 自動播放';
+            btnAutoPlay.classList.remove('playing');
+            clearTimeout(autoPlayTimer);
+            globalPlayer.pause();
+            document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
+        }
+
+        function playCardSequence(card) {
+            if (!isAutoPlaying || !card) { stopAutoPlay(); return; }
+
+            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
+            card.classList.add('playing');
+
+            let currentRepeat = 0;
+
+            const playForeignLoop = () => {
+                if (!isAutoPlaying) return;
+
+                const audioSrc = card.dataset.audio;
+                
+                const playTarget = new Promise((resolve) => {
+                    if (!audioSrc) { resolve(); return; }
+                    
+                    globalPlayer.src = audioSrc;
+                    globalPlayer.playbackRate = playbackSpeed; 
+                    globalPlayer.onended = resolve;
+                    globalPlayer.onerror = resolve;
+                    
+                    globalPlayer.play().catch(e => {
+                        console.log("Auto-play blocked or failed:", e);
+                        resolve(); 
+                    });
+                });
+
+                playTarget.then(() => {
+                    if (!isAutoPlaying) return;
+                    
+                    currentRepeat++;
+                    if (currentRepeat < repeatCount) {
+                        setTimeout(playForeignLoop, 500);
+                    } else {
+                        setTimeout(playExplanationOnce, 500); 
+                    }
+                });
+            };
+
+            const playExplanationOnce = () => {
+                if (!isAutoPlaying) return;
+
+                const playExpl = new Promise((resolve) => {
+                    if (!enableTTS) { resolve(); return; } 
+
+                    const cardId = card.dataset.id; 
+                    const itemData = vocabData.find(v => v.id == cardId);
+                    
+                    if (itemData && itemData[explanationLang] && itemData[explanationLang].audio) {
+                        const explSrc = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
+                        
+                        globalPlayer.src = explSrc;
+                        globalPlayer.playbackRate = 1.25; 
+                        globalPlayer.onended = resolve;
+                        globalPlayer.onerror = resolve;
+                        globalPlayer.play().catch(resolve);
+                    } else {
+                        resolve(); 
+                    }
+                });
+
+                playExpl.then(() => {
+                    finishCard();
+                });
+            };
+
+            const finishCard = () => {
+                if (!isAutoPlaying) return;
+
+                const itemData = vocabData.find(v => v.id == card.dataset.id);
+                const n = addClick(itemData ? itemData.id : 0);
+                card.querySelector('.click-counter').innerText = n;
+
+                autoPlayIndex++;
+                if (autoPlayIndex < visibleCards.length) {
+                    setTimeout(() => playCardSequence(visibleCards[autoPlayIndex]), 800);
+                } else {
+                    if (enableLoop && visibleCards.length > 0) {
+                        autoPlayIndex = 0;
+                        setTimeout(() => {
+                            if (isAutoPlaying) playCardSequence(visibleCards[autoPlayIndex]);
+                        }, 1500);
+                    } else {
+                        stopAutoPlay(); 
+                    }
+                }
+            };
+
+            playForeignLoop();
+        }
+
         function renderCards() {
             container.innerHTML = '';
-            filteredData = []; // 清空準備測驗用的資料
             const sCat = catFilter.value;
             const sSub = subCatFilter.value;
-            const sSearch = searchInput.value.trim().toLowerCase(); 
+            const sSearch = searchInput.value.trim().toLowerCase(); // 🔍 取得搜尋關鍵字
             const isChineseMode = (currentLang === 'CN_ZH');
 
             let lastCat = "";
             let lastSub = "";
 
-            vocabData.forEach((item) => {
+            vocabData.forEach((item, index) => {
                 if (sCat !== 'all' && item.category !== sCat) return;
                 if (sCat !== 'all' && sSub !== 'all' && item.subcategory !== sSub) return;
 
                 const targetData = item[currentLang];
                 if (!targetData) return;
 
+                // 🔍 搜尋過濾邏輯：如果輸入框有字，比對中文 (cn) 或 目標外語 (word)
                 if (sSearch !== "") {
                     const matchCn = (item.cn || "").toLowerCase().includes(sSearch);
                     const matchTarget = (targetData.word || "").toLowerCase().includes(sSearch);
-                    if (!matchCn && !matchTarget) return; 
+                    if (!matchCn && !matchTarget) return; // 都沒比對中就跳過這張卡片
                 }
 
                 if (isChineseMode) {
@@ -831,22 +1174,27 @@
                    if (cName.includes('字母')||cName.includes('五十音')) return;
                 }
 
-                filteredData.push(item); // 將符合條件的單字加入列表
-
                 const currentCat = item.category || "未分類";
                 const currentSub = item.subcategory || "";
                 
                 if (currentCat !== lastCat || (currentSub !== lastSub && currentSub !== "")) {
                     const separator = document.createElement('div');
                     separator.className = 'category-header';
+                    
                     let headerText = currentCat;
-                    if (currentSub) headerText += ` <i class="fas fa-angle-right" style="font-size:0.8em; color:#999;"></i> ${currentSub}`;
+                    if (currentSub) {
+                        headerText += ` <i class="fas fa-angle-right" style="font-size:0.8em; color:#999;"></i> ${currentSub}`;
+                    }
+                    
                     separator.innerHTML = `${headerText}`;
                     container.appendChild(separator);
-                    lastCat = currentCat; lastSub = currentSub;
+                    
+                    lastCat = currentCat;
+                    lastSub = currentSub;
                 }
 
                 const clicks = getClicks(item.id);
+                
                 let footerHtml = "";
                 if (isChineseMode) {
                     const ls = [{c:'CN_ENG',f:'🇺🇸'}, {c:'CN_VN',f:'🇻🇳'}, {c:'CN_JP',f:'🇯🇵'}];
@@ -879,7 +1227,9 @@
                 card.onclick = () => {
                     const src = card.dataset.audio;
                     if(!src) return;
+                    
                     if (isAutoPlaying) stopAutoPlay(); 
+
                     globalPlayer.src = src;
                     globalPlayer.playbackRate = playbackSpeed; 
                     globalPlayer.play().then(() => {
@@ -893,196 +1243,6 @@
 
                 container.appendChild(card);
             });
-        }
-
-        /* --- 播放與測驗邏輯 --- */
-        function startAutoPlay() {
-            visibleCards = Array.from(document.querySelectorAll('.card'));
-            if (visibleCards.length === 0) return;
-            isAutoPlaying = true;
-            btnAutoPlay.innerHTML = '<i class="fas fa-stop"></i> 停止播放';
-            btnAutoPlay.classList.add('playing');
-            autoPlayIndex = 0;
-            settingsPanel.classList.remove('show');
-            playCardSequence(visibleCards[autoPlayIndex]);
-        }
-
-        function stopAutoPlay() {
-            isAutoPlaying = false;
-            btnAutoPlay.innerHTML = '▶ 播放';
-            btnAutoPlay.classList.remove('playing');
-            clearTimeout(autoPlayTimer);
-            globalPlayer.pause();
-            document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
-        }
-
-        function playCardSequence(card) {
-            if (!isAutoPlaying || !card) { stopAutoPlay(); return; }
-            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
-            card.classList.add('playing');
-
-            let currentRepeat = 0;
-            const playForeignLoop = () => {
-                if (!isAutoPlaying) return;
-                const audioSrc = card.dataset.audio;
-                const playTarget = new Promise((resolve) => {
-                    if (!audioSrc) { resolve(); return; }
-                    globalPlayer.src = audioSrc;
-                    globalPlayer.playbackRate = playbackSpeed; 
-                    globalPlayer.onended = resolve;
-                    globalPlayer.onerror = resolve;
-                    globalPlayer.play().catch(e => { console.log(e); resolve(); });
-                });
-
-                playTarget.then(() => {
-                    if (!isAutoPlaying) return;
-                    currentRepeat++;
-                    if (currentRepeat < repeatCount) {
-                        setTimeout(playForeignLoop, 500);
-                    } else {
-                        setTimeout(playExplanationOnce, 500); 
-                    }
-                });
-            };
-
-            const playExplanationOnce = () => {
-                if (!isAutoPlaying) return;
-                const playExpl = new Promise((resolve) => {
-                    if (!enableTTS) { resolve(); return; } 
-                    const itemData = vocabData.find(v => v.id == card.dataset.id);
-                    if (itemData && itemData[explanationLang] && itemData[explanationLang].audio) {
-                        globalPlayer.src = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
-                        globalPlayer.playbackRate = 1.25; 
-                        globalPlayer.onended = resolve;
-                        globalPlayer.onerror = resolve;
-                        globalPlayer.play().catch(resolve);
-                    } else { resolve(); }
-                });
-
-                playExpl.then(() => { finishCard(); });
-            };
-
-            const finishCard = () => {
-                if (!isAutoPlaying) return;
-                const n = addClick(card.dataset.id);
-                card.querySelector('.click-counter').innerText = n;
-                autoPlayIndex++;
-                if (autoPlayIndex < visibleCards.length) {
-                    setTimeout(() => playCardSequence(visibleCards[autoPlayIndex]), 800);
-                } else {
-                    if (enableLoop && visibleCards.length > 0) {
-                        autoPlayIndex = 0;
-                        setTimeout(() => { if (isAutoPlaying) playCardSequence(visibleCards[autoPlayIndex]); }, 1500);
-                    } else {
-                        stopAutoPlay(); 
-                    }
-                }
-            };
-            playForeignLoop();
-        }
-
-        /* ====== 測驗模式核心邏輯 ====== */
-        function startQuiz() {
-            if (filteredData.length === 0) {
-                alert("目前沒有單字可以測驗喔！");
-                return;
-            }
-            if (isAutoPlaying) stopAutoPlay();
-            settingsPanel.classList.remove('show');
-
-            // 打亂當前篩選出的單字，最多取 20 題
-            quizCards = [...filteredData].sort(() => Math.random() - 0.5).slice(0, 20);
-            currentQuizIndex = 0;
-            quizScore = 0;
-
-            document.getElementById('quiz-screen').style.display = 'flex';
-            updateQuizScore();
-            renderQuizQuestion();
-        }
-
-        function renderQuizQuestion() {
-            if (currentQuizIndex >= quizCards.length) {
-                document.getElementById('quiz-question').innerText = `測驗結束！🎉`;
-                document.getElementById('quiz-options').innerHTML = `<button class="quiz-option-btn" onclick="closeQuiz()">回到單字列表</button>`;
-                return;
-            }
-
-            const currentItem = quizCards[currentQuizIndex];
-            const targetData = currentItem[currentLang];
-            
-            // 設定問題 (若是中文模式，題目顯示英文；若是外文模式，題目顯示中文)
-            let questionText = currentItem.cn;
-            if (currentLang === 'CN_ZH') {
-                questionText = currentItem['CN_ENG'] ? currentItem['CN_ENG'].word : "中文單字";
-            }
-            document.getElementById('quiz-question').innerText = questionText;
-
-            // 準備選項 (1個正確 + 3個錯誤)
-            let options = [targetData];
-            
-            // 從所有資料庫中隨機抓 3 個錯誤選項
-            let possibleWrongs = vocabData.filter(v => v.id !== currentItem.id && v[currentLang]);
-            possibleWrongs = possibleWrongs.sort(() => Math.random() - 0.5).slice(0, 3);
-            
-            options.push(...possibleWrongs.map(v => v[currentLang]));
-            options = options.sort(() => Math.random() - 0.5); // 再次打亂選項順序
-
-            const optionsContainer = document.getElementById('quiz-options');
-            optionsContainer.innerHTML = '';
-            
-            options.forEach(opt => {
-                const btn = document.createElement('button');
-                btn.className = 'quiz-option-btn';
-                btn.innerText = opt.word;
-                btn.onclick = () => handleQuizAnswer(btn, opt.word === targetData.word, targetData.audio, targetData.folder);
-                optionsContainer.appendChild(btn);
-            });
-        }
-
-        function handleQuizAnswer(btn, isCorrect, audioName, audioFolder) {
-            // 鎖定所有按鈕防止重複點擊
-            const btns = document.querySelectorAll('.quiz-option-btn');
-            btns.forEach(b => b.disabled = true);
-
-            if (isCorrect) {
-                btn.classList.add('correct');
-                quizScore++;
-            } else {
-                btn.classList.add('wrong');
-                // 標示出正確答案
-                const currentItem = quizCards[currentQuizIndex];
-                btns.forEach(b => {
-                    if (b.innerText === currentItem[currentLang].word) b.classList.add('correct');
-                });
-            }
-
-            updateQuizScore();
-
-            // 播放正確單字的發音
-            if (audioName && audioFolder) {
-                globalPlayer.src = `${audioFolder}/${audioName}`;
-                globalPlayer.playbackRate = playbackSpeed;
-                globalPlayer.play().catch(e => console.log(e));
-            }
-
-            // 1.5 秒後進入下一題
-            setTimeout(() => {
-                currentQuizIndex++;
-                renderQuizQuestion();
-                updateQuizScore();
-            }, 1500);
-        }
-
-        function updateQuizScore() {
-            const total = quizCards.length;
-            const current = Math.min(currentQuizIndex + 1, total);
-            document.getElementById('quiz-score').innerText = `進度: ${current} / ${total} | 分數: ${quizScore}`;
-        }
-
-        function closeQuiz() {
-            document.getElementById('quiz-screen').style.display = 'none';
-            globalPlayer.pause();
         }
     </script>
 </body>
