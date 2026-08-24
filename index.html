@@ -426,6 +426,35 @@
         .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
         .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #eee; font-size: 13px; color: #555; line-height: 1.5; }
 
+        /* 新增：隱藏卡片按鈕樣式 */
+        .hide-btn {
+            color: #d1d5db;
+            cursor: pointer;
+            transition: all 0.2s;
+            padding: 4px;
+            font-size: 14px;
+        }
+        .hide-btn:hover {
+            color: #6b7280;
+            transform: scale(1.2);
+        }
+
+        .btn-restore-hidden {
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid var(--primary-color);
+            background: white;
+            color: var(--primary-color);
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.2s;
+            margin-top: 5px;
+        }
+        .btn-restore-hidden:hover {
+            background: #f0f7ff;
+        }
+
         /* --- Quiz Screen --- */
         #quiz-screen {
             position: fixed; top: 0; left: 0; width: 100%; height: 100%;
@@ -627,6 +656,11 @@
                 <div class="setting-label"><span data-i18n="set_loop">🔄 循環播放列表</span></div>
                 <label class="toggle-switch"><input type="checkbox" id="loop-toggle"><span class="slider"></span></label>
             </div>
+            
+            <hr style="border-color:#eee; margin:15px 0;">
+            <button class="btn-restore-hidden" onclick="restoreHiddenCards()">
+                <i class="fas fa-eye"></i> <span data-i18n="btn_restore">恢復所有隱藏單字</span>
+            </button>
         </div>
 
         <div class="sticky-controls">
@@ -668,9 +702,10 @@
                 set_speed: '⚡ 播放速度',
                 speed_05: '0.5x (慢速)', speed_075: '0.75x (稍慢)', speed_10: '1.0x (正常)', speed_125: '1.25x (稍快)', speed_15: '1.5x (快速)',
                 set_mt: '🗣️ 解釋語言 (發音)', set_tts: '🎧 朗讀解釋', set_loop: '🔄 循環播放列表',
-                btn_settings: '設定', btn_play: '▶ 播放', btn_stop: '⏹ 停止播放', btn_quiz: '📝 測驗', btn_reset: '🗑️ 重置',
+                btn_settings: '設定', btn_play: '▶ 播放', btn_stop: '⏹ 停止播放', btn_quiz: '📝 測驗', btn_reset: '🗑️ 重置', btn_restore: '恢復所有隱藏單字',
                 quiz_end_btn: '✕ 結束測驗', quiz_back_list: '回到單字列表', quiz_finished: '測驗結束！🎉',
-                alert_no_vocab: '目前沒有單字可以測驗喔！', confirm_reset: '⚠️ 確定要清除所有學習紀錄嗎？\n(卡片等級將全部歸零)'
+                alert_no_vocab: '目前沒有單字可以測驗喔！', confirm_reset: '⚠️ 確定要清除所有學習紀錄嗎？\n(卡片等級將全部歸零)',
+                alert_no_hidden: '目前沒有被隱藏的單字喔！', confirm_restore: '確定要恢復所有被隱藏的單字卡嗎？'
             },
             'en': {
                 select_target: '🎯 Select Target Language',
@@ -683,9 +718,10 @@
                 set_speed: '⚡ Speed',
                 speed_05: '0.5x (Slow)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Fast)',
                 set_mt: '🗣️ Explanation Lang', set_tts: '🎧 Read Explanations', set_loop: '🔄 Loop Playlist',
-                btn_settings: 'Settings', btn_play: '▶ Play', btn_stop: '⏹ Stop', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Reset',
+                btn_settings: 'Settings', btn_play: '▶ Play', btn_stop: '⏹ Stop', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Reset', btn_restore: 'Restore Hidden Cards',
                 quiz_end_btn: '✕ End Quiz', quiz_back_list: 'Back to List', quiz_finished: 'Quiz Finished! 🎉',
-                alert_no_vocab: 'No vocabulary available for quiz!', confirm_reset: '⚠️ Are you sure you want to clear all records?\n(Card levels will be reset)'
+                alert_no_vocab: 'No vocabulary available for quiz!', confirm_reset: '⚠️ Are you sure you want to clear all records?\n(Card levels will be reset)',
+                alert_no_hidden: 'No hidden cards found!', confirm_restore: 'Are you sure you want to restore all hidden cards?'
             },
             'ja': {
                 select_target: '🎯 学習する言語を選択してください',
@@ -698,9 +734,10 @@
                 set_speed: '⚡ 再生速度',
                 speed_05: '0.5x (遅い)', speed_075: '0.75x', speed_10: '1.0x (標準)', speed_125: '1.25x', speed_15: '1.5x (速い)',
                 set_mt: '🗣️ 説明言語 (母国語)', set_tts: '🎧 説明を読み上げる', set_loop: '🔄 リストをループ',
-                btn_settings: '設定', btn_play: '▶ 再生', btn_stop: '⏹ 停止', btn_quiz: '📝 テスト', btn_reset: '🗑️ リセット',
+                btn_settings: '設定', btn_play: '▶ 再生', btn_stop: '⏹ 停止', btn_quiz: '📝 テスト', btn_reset: '🗑️ リセット', btn_restore: '非表示の単語を復元',
                 quiz_end_btn: '✕ 終了', quiz_back_list: '単語帳に戻る', quiz_finished: 'テスト終了！🎉',
-                alert_no_vocab: 'テストできる単語がありません！', confirm_reset: '⚠️ 学習記録をすべて削除しますか？\n(レベルがリセットされます)'
+                alert_no_vocab: 'テストできる単語がありません！', confirm_reset: '⚠️ 学習記録をすべて削除しますか？\n(レベルがリセットされます)',
+                alert_no_hidden: '非表示の単語はありません！', confirm_restore: 'すべての非表示の単語を復元しますか？'
             },
             'ko': {
                 select_target: '🎯 학습할 언어를 선택하세요',
@@ -713,9 +750,10 @@
                 set_speed: '⚡ 재생 속도',
                 speed_05: '0.5x (느림)', speed_075: '0.75x', speed_10: '1.0x (보통)', speed_125: '1.25x', speed_15: '1.5x (빠름)',
                 set_mt: '🗣️ 설명 언어', set_tts: '🎧 설명 읽어주기', set_loop: '🔄 재생목록 반복',
-                btn_settings: '설정', btn_play: '▶ 재생', btn_stop: '⏹ 정지', btn_quiz: '📝 퀴즈', btn_reset: '🗑️ 초기화',
+                btn_settings: '설정', btn_play: '▶ 재생', btn_stop: '⏹ 정지', btn_quiz: '📝 퀴즈', btn_reset: '🗑️ 초기화', btn_restore: '숨긴 단어 복원',
                 quiz_end_btn: '✕ 퀴즈 종료', quiz_back_list: '목록으로 돌아가기', quiz_finished: '퀴즈 종료! 🎉',
-                alert_no_vocab: '퀴즈를 풀 단어가 없습니다!', confirm_reset: '⚠️ 모든 학습 기록을 삭제하시겠습니까?\n(카드 레벨이 초기화됩니다)'
+                alert_no_vocab: '퀴즈를 풀 단어가 없습니다!', confirm_reset: '⚠️ 모든 학습 기록을 삭제하시겠습니까?\n(카드 레벨이 초기화됩니다)',
+                alert_no_hidden: '숨긴 단어가 없습니다!', confirm_restore: '숨겨진 모든 단어를 복원하시겠습니까?'
             },
             'vi': {
                 select_target: '🎯 Chọn ngôn ngữ mục tiêu',
@@ -728,9 +766,10 @@
                 set_speed: '⚡ Tốc độ phát',
                 speed_05: '0.5x (Chậm)', speed_075: '0.75x', speed_10: '1.0x (Bình thường)', speed_125: '1.25x', speed_15: '1.5x (Nhanh)',
                 set_mt: '🗣️ Ngôn ngữ giải thích', set_tts: '🎧 Đọc giải thích', set_loop: '🔄 Lặp lại danh sách',
-                btn_settings: 'Cài đặt', btn_play: '▶ Phát', btn_stop: '⏹ Dừng', btn_quiz: '📝 Kiểm tra', btn_reset: '🗑️ Đặt lại',
+                btn_settings: 'Cài đặt', btn_play: '▶ Phát', btn_stop: '⏹ Dừng', btn_quiz: '📝 Kiểm tra', btn_reset: '🗑️ Đặt lại', btn_restore: 'Khôi phục từ đã ẩn',
                 quiz_end_btn: '✕ Kết thúc', quiz_back_list: 'Quay lại danh sách', quiz_finished: 'Hoàn thành bài kiểm tra! 🎉',
-                alert_no_vocab: 'Không có từ vựng nào để kiểm tra!', confirm_reset: '⚠️ Bạn có chắc chắn muốn xóa tất cả lịch sử học không?\n(Cấp độ thẻ sẽ bị xóa)'
+                alert_no_vocab: 'Không có từ vựng nào để kiểm tra!', confirm_reset: '⚠️ Bạn có chắc chắn muốn xóa tất cả lịch sử học không?\n(Cấp độ thẻ sẽ bị xóa)',
+                alert_no_hidden: 'Không có từ nào bị ẩn!', confirm_restore: 'Khôi phục tất cả các từ đã ẩn?'
             },
             'id': {
                 select_target: '🎯 Pilih Bahasa Target',
@@ -743,9 +782,10 @@
                 set_speed: '⚡ Kecepatan',
                 speed_05: '0.5x (Lambat)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Cepat)',
                 set_mt: '🗣️ Bahasa Penjelasan', set_tts: '🎧 Baca Penjelasan', set_loop: '🔄 Ulangi Daftar Putar',
-                btn_settings: 'Pengaturan', btn_play: '▶ Putar', btn_stop: '⏹ Berhenti', btn_quiz: '📝 Kuis', btn_reset: '🗑️ Reset',
+                btn_settings: 'Pengaturan', btn_play: '▶ Putar', btn_stop: '⏹ Berhenti', btn_quiz: '📝 Kuis', btn_reset: '🗑️ Reset', btn_restore: 'Pulihkan Kata Tersembunyi',
                 quiz_end_btn: '✕ Akhiri Kuis', quiz_back_list: 'Kembali ke Daftar', quiz_finished: 'Kuis Selesai! 🎉',
-                alert_no_vocab: 'Tidak ada kosakata untuk kuis!', confirm_reset: '⚠️ Anda yakin ingin menghapus semua catatan belajar?'
+                alert_no_vocab: 'Tidak ada kosakata untuk kuis!', confirm_reset: '⚠️ Anda yakin ingin menghapus semua catatan belajar?',
+                alert_no_hidden: 'Tidak ada kartu tersembunyi!', confirm_restore: 'Pulihkan semua kartu yang tersembunyi?'
             },
             'th': {
                 select_target: '🎯 เลือกภาษาที่ต้องการเรียน',
@@ -758,9 +798,10 @@
                 set_speed: '⚡ ความเร็ว',
                 speed_05: '0.5x (ช้า)', speed_075: '0.75x', speed_10: '1.0x (ปกติ)', speed_125: '1.25x', speed_15: '1.5x (เร็ว)',
                 set_mt: '🗣️ ภาษาคำแปล', set_tts: '🎧 อ่านคำแปล', set_loop: '🔄 เล่นซ้ำเพลย์ลิสต์',
-                btn_settings: 'ตั้งค่า', btn_play: '▶ เล่น', btn_stop: '⏹ หยุด', btn_quiz: '📝 ทดสอบ', btn_reset: '🗑️ รีเซ็ต',
+                btn_settings: 'ตั้งค่า', btn_play: '▶ เล่น', btn_stop: '⏹ หยุด', btn_quiz: '📝 ทดสอบ', btn_reset: '🗑️ รีเซ็ต', btn_restore: 'กู้คืนคำที่ซ่อนอยู่',
                 quiz_end_btn: '✕ จบการทดสอบ', quiz_back_list: 'กลับไปที่รายการ', quiz_finished: 'จบทดสอบ! 🎉',
-                alert_no_vocab: 'ไม่มีคำศัพท์สำหรับทดสอบ!', confirm_reset: '⚠️ คุณแน่ใจหรือไม่ว่าต้องการลบประวัติการเรียนรู้ทั้งหมด?'
+                alert_no_vocab: 'ไม่มีคำศัพท์สำหรับทดสอบ!', confirm_reset: '⚠️ คุณแน่ใจหรือไม่ว่าต้องการลบประวัติการเรียนรู้ทั้งหมด?',
+                alert_no_hidden: 'ไม่มีคำที่ซ่อนอยู่!', confirm_restore: 'คุณต้องการกู้คืนการ์ดที่ซ่อนอยู่ทั้งหมดหรือไม่?'
             },
             'de': {
                 select_target: '🎯 Zielsprache auswählen',
@@ -773,9 +814,10 @@
                 set_speed: '⚡ Geschwindigkeit',
                 speed_05: '0.5x (Langsam)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Schnell)',
                 set_mt: '🗣️ Erklärungssprache', set_tts: '🎧 Erklärungen vorlesen', set_loop: '🔄 Playlist wiederholen',
-                btn_settings: 'Einstellungen', btn_play: '▶ Abspielen', btn_stop: '⏹ Stopp', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Reset',
+                btn_settings: 'Einstellungen', btn_play: '▶ Abspielen', btn_stop: '⏹ Stopp', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Reset', btn_restore: 'Versteckte Wörter wiederherstellen',
                 quiz_end_btn: '✕ Quiz beenden', quiz_back_list: 'Zurück zur Liste', quiz_finished: 'Quiz beendet! 🎉',
-                alert_no_vocab: 'Keine Vokabeln für das Quiz verfügbar!', confirm_reset: '⚠️ Möchten Sie wirklich alle Lernaufzeichnungen löschen?'
+                alert_no_vocab: 'Keine Vokabeln für das Quiz verfügbar!', confirm_reset: '⚠️ Möchten Sie wirklich alle Lernaufzeichnungen löschen?',
+                alert_no_hidden: 'Keine versteckten Karten!', confirm_restore: 'Alle versteckten Karten wiederherstellen?'
             },
             'es': {
                 select_target: '🎯 Selecciona el idioma a aprender',
@@ -788,9 +830,10 @@
                 set_speed: '⚡ Velocidad',
                 speed_05: '0.5x (Lento)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Rápido)',
                 set_mt: '🗣️ Idioma de explicación', set_tts: '🎧 Leer explicaciones', set_loop: '🔄 Repetir lista',
-                btn_settings: 'Ajustes', btn_play: '▶ Reproducir', btn_stop: '⏹ Detener', btn_quiz: '📝 Prueba', btn_reset: '🗑️ Restablecer',
+                btn_settings: 'Ajustes', btn_play: '▶ Reproducir', btn_stop: '⏹ Detener', btn_quiz: '📝 Prueba', btn_reset: '🗑️ Restablecer', btn_restore: 'Restaurar palabras ocultas',
                 quiz_end_btn: '✕ Salir', quiz_back_list: 'Volver a la lista', quiz_finished: '¡Prueba terminada! 🎉',
-                alert_no_vocab: '¡No hay vocabulario para la prueba!', confirm_reset: '⚠️ ¿Estás seguro de que deseas borrar todos los registros?'
+                alert_no_vocab: '¡No hay vocabulario para la prueba!', confirm_reset: '⚠️ ¿Estás seguro de que deseas borrar todos los registros?',
+                alert_no_hidden: '¡No hay tarjetas ocultas!', confirm_restore: '¿Restaurar todas las tarjetas ocultas?'
             },
             'fr': {
                 select_target: '🎯 Sélectionnez la langue à apprendre',
@@ -803,9 +846,10 @@
                 set_speed: '⚡ Vitesse',
                 speed_05: '0.5x (Lent)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Rapide)',
                 set_mt: '🗣️ Langue d\'explication', set_tts: '🎧 Lire les explications', set_loop: '🔄 Répéter la liste',
-                btn_settings: 'Paramètres', btn_play: '▶ Lire', btn_stop: '⏹ Arrêter', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Réinitialiser',
+                btn_settings: 'Paramètres', btn_play: '▶ Lire', btn_stop: '⏹ Arrêter', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Réinitialiser', btn_restore: 'Restaurer les mots masqués',
                 quiz_end_btn: '✕ Quitter', quiz_back_list: 'Retour à la liste', quiz_finished: 'Quiz terminé ! 🎉',
-                alert_no_vocab: 'Aucun mot disponible pour le quiz !', confirm_reset: '⚠️ Êtes-vous sûr de vouloir effacer tout l\'historique ?'
+                alert_no_vocab: 'Aucun mot disponible pour le quiz !', confirm_reset: '⚠️ Êtes-vous sûr de vouloir effacer tout l\'historique ?',
+                alert_no_hidden: 'Aucune carte masquée !', confirm_restore: 'Restaurer toutes les cartes masquées ?'
             },
             'ru': {
                 select_target: '🎯 Выберите язык для изучения',
@@ -818,9 +862,10 @@
                 set_speed: '⚡ Скорость',
                 speed_05: '0.5x (Медленно)', speed_075: '0.75x', speed_10: '1.0x (Обычно)', speed_125: '1.25x', speed_15: '1.5x (Быстро)',
                 set_mt: '🗣️ Язык пояснений', set_tts: '🎧 Озвучивать перевод', set_loop: '🔄 Зациклить список',
-                btn_settings: 'Настройки', btn_play: '▶ Старт', btn_stop: '⏹ Стоп', btn_quiz: '📝 Тест', btn_reset: '🗑️ Сброс',
+                btn_settings: 'Настройки', btn_play: '▶ Старт', btn_stop: '⏹ Стоп', btn_quiz: '📝 Тест', btn_reset: '🗑️ Сброс', btn_restore: 'Восстановить скрытые слова',
                 quiz_end_btn: '✕ Выход', quiz_back_list: 'К списку слов', quiz_finished: 'Тест завершен! 🎉',
-                alert_no_vocab: 'Нет слов для теста!', confirm_reset: '⚠️ Вы уверены, что хотите сбросить прогресс?'
+                alert_no_vocab: 'Нет слов для теста!', confirm_reset: '⚠️ Вы уверены, что хотите сбросить прогресс?',
+                alert_no_hidden: 'Нет скрытых карточек!', confirm_restore: 'Восстановить все скрытые карточки?'
             }
         };
 
@@ -915,6 +960,9 @@
         const STORAGE_KEY_SETTING_MOTHER_TONGUE = 'fte_setting_mt';
         const STORAGE_KEY_SETTING_SPEED = 'fte_setting_speed';
         const STORAGE_KEY_SETTING_LOOP = 'fte_setting_loop'; 
+        const STORAGE_KEY_HIDDEN = 'fte_hidden_cards'; 
+        
+        let manualPlayId = 0; // 🌟 新增：用於追蹤手動播放，避免連續點擊造成音檔重疊
         
         const landingScreen = document.getElementById('landing-screen');
         const appScreen = document.getElementById('app-screen');
@@ -1060,6 +1108,36 @@
             }
         });
 
+        /* ============================
+           隱藏卡片邏輯
+        ============================ */
+        function getHiddenCards() {
+            return JSON.parse(localStorage.getItem(STORAGE_KEY_HIDDEN) || '[]');
+        }
+
+        function toggleHideCard(event, id) {
+            event.stopPropagation(); // 阻止事件冒泡，避免點擊時觸發卡片發音
+            let hiddenCards = getHiddenCards();
+            if (!hiddenCards.includes(id)) {
+                hiddenCards.push(id);
+                localStorage.setItem(STORAGE_KEY_HIDDEN, JSON.stringify(hiddenCards));
+            }
+            renderCards(); // 重新渲染，被隱藏的卡片將會消失
+        }
+
+        function restoreHiddenCards() {
+            const hiddenCards = getHiddenCards();
+            if (hiddenCards.length === 0) {
+                alert(t('alert_no_hidden') || '目前沒有隱藏的單字喔！');
+                return;
+            }
+            if (confirm(t('confirm_restore') || '確定要恢復所有隱藏的單字卡嗎？')) {
+                localStorage.removeItem(STORAGE_KEY_HIDDEN);
+                renderCards(); // 重新渲染，所有卡片恢復顯示
+                toggleSettings(); // 關閉設定面板
+            }
+        }
+
         function populateCategories() {
             const categories = [...new Set(vocabData.map(item => item.category))];
             categories.forEach(cat => {
@@ -1105,8 +1183,12 @@
             const sSub = subCatFilter.value;
             const sSearch = searchInput.value.trim().toLowerCase(); 
             const isChineseMode = (currentLang === 'CN_ZH');
+            
+            const hiddenCardsList = getHiddenCards();
 
             vocabData.forEach((item) => {
+                if (hiddenCardsList.includes(item.id)) return;
+
                 if (sCat !== 'all' && item.category !== sCat) return;
                 if (sCat !== 'all' && sSub !== 'all' && item.subcategory !== sSub) return;
                 
@@ -1181,7 +1263,8 @@
                     card.dataset.id = item.id; 
 
                     card.innerHTML = `
-                        <div style="font-size:10px; color:#999; display:flex; justify-content:flex-end;">
+                        <div style="font-size:12px; color:#999; display:flex; justify-content:space-between; align-items:center;">
+                            <i class="fas fa-eye-slash hide-btn" onclick="toggleHideCard(event, '${item.id}')" title="隱藏此單字"></i>
                             <span class="click-counter" style="background:#eee; padding:2px 6px; border-radius:10px;">${clicks}</span>
                         </div>
                         <div>
@@ -1191,19 +1274,66 @@
                         <div class="footer-translation">${footerHtml}</div>
                     `;
 
+                    // 🌟 修正：手動點擊卡片時，採用與 AutoPlay 相同的重複播放邏輯
                     card.onclick = () => {
                         const src = card.dataset.audio;
                         if(!src) return;
                         if (isAutoPlaying) stopAutoPlay(); 
-                        globalPlayer.src = src;
-                        globalPlayer.playbackRate = playbackSpeed; 
-                        globalPlayer.play().then(() => {
-                            card.classList.add('playing');
-                            const n = addClick(item.id);
-                            card.className = `card playing ${getLevelClass(n)}`;
-                            card.querySelector('.click-counter').innerText = n;
-                            setTimeout(() => card.classList.remove('playing'), 1000);
-                        }).catch(e => console.error(e));
+                        
+                        manualPlayId++;
+                        const currentPlayId = manualPlayId;
+                        
+                        // 視覺效果更新
+                        document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
+                        card.classList.add('playing');
+                        
+                        const n = addClick(item.id);
+                        card.className = `card playing ${getLevelClass(n)}`;
+                        card.querySelector('.click-counter').innerText = n;
+                        
+                        setTimeout(() => { 
+                            if (manualPlayId === currentPlayId) card.classList.remove('playing'); 
+                        }, 1000);
+
+                        let currentRepeat = 0;
+                        
+                        // 定義手動播放的外語迴圈
+                        const playForeignLoop = () => {
+                            if (isAutoPlaying || manualPlayId !== currentPlayId) return;
+                            const playTarget = new Promise((resolve) => {
+                                globalPlayer.src = src;
+                                globalPlayer.playbackRate = playbackSpeed; 
+                                globalPlayer.onended = resolve; 
+                                globalPlayer.onerror = resolve;
+                                globalPlayer.play().catch(resolve);
+                            });
+
+                            playTarget.then(() => {
+                                if (isAutoPlaying || manualPlayId !== currentPlayId) return;
+                                currentRepeat++;
+                                if (currentRepeat < repeatCount) {
+                                    setTimeout(playForeignLoop, 500); // 每次重複間隔 0.5 秒
+                                } else {
+                                    setTimeout(playExplanationOnce, 500);
+                                }
+                            });
+                        };
+
+                        // 定義手動播放的母語解釋
+                        const playExplanationOnce = () => {
+                            if (isAutoPlaying || manualPlayId !== currentPlayId) return;
+                            if (!enableTTS) return;
+                            
+                            const itemData = vocabData.find(v => v.id == card.dataset.id);
+                            if (itemData && itemData[explanationLang] && itemData[explanationLang].audio) {
+                                globalPlayer.src = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
+                                globalPlayer.playbackRate = 1.25; 
+                                globalPlayer.play().catch(e => console.log(e));
+                            }
+                        };
+
+                        // 啟動手動播放迴圈
+                        playForeignLoop();
                     };
                     fragment.appendChild(card);
                 }
@@ -1215,7 +1345,7 @@
         }
 
         /* ============================
-           播放邏輯
+           播放邏輯 (自動播放)
         ============================ */
         function startAutoPlay() {
             visibleCards = Array.from(document.querySelectorAll('.card'));
@@ -1328,7 +1458,7 @@
 
             let options = [targetData];
             
-            // 🌟 修正：優先從「當前篩選的列表 (filteredData)」中挑選錯誤選項
+            // 優先從「當前篩選的列表 (filteredData)」中挑選錯誤選項
             let possibleWrongs = filteredData.filter(v => v.id !== currentItem.id && v[currentLang]);
             
             // 如果當前列表的單字數量不足 3 個，則擴大範圍到「同一個大分類」
