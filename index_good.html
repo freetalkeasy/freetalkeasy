@@ -1179,9 +1179,13 @@
                     card.className = `card ${getLevelClass(clicks)}`;
                     card.dataset.audio = targetData.audio ? `${targetData.folder}/${targetData.audio}` : '';
                     card.dataset.id = item.id; 
+                    
+                    let headerTxt = item.category;
+                    if(item.subcategory && sCat === 'all') headerTxt += ` > ${item.subcategory}`;
 
                     card.innerHTML = `
-                        <div style="font-size:10px; color:#999; display:flex; justify-content:flex-end;">
+                        <div style="font-size:10px; color:#999; display:flex; justify-content:space-between;">
+                            <span>${headerTxt}</span>
                             <span class="click-counter" style="background:#eee; padding:2px 6px; border-radius:10px;">${clicks}</span>
                         </div>
                         <div>
@@ -1327,20 +1331,7 @@
             document.getElementById('quiz-question').innerText = questionText;
 
             let options = [targetData];
-            
-            // 🌟 修正：優先從「當前篩選的列表 (filteredData)」中挑選錯誤選項
-            let possibleWrongs = filteredData.filter(v => v.id !== currentItem.id && v[currentLang]);
-            
-            // 如果當前列表的單字數量不足 3 個，則擴大範圍到「同一個大分類」
-            if (possibleWrongs.length < 3) {
-                possibleWrongs = vocabData.filter(v => v.category === currentItem.category && v.id !== currentItem.id && v[currentLang]);
-            }
-            
-            // 如果同一個大分類還是不足 3 個，最後才從「全部單字」中挑選 (防呆機制)
-            if (possibleWrongs.length < 3) {
-                possibleWrongs = vocabData.filter(v => v.id !== currentItem.id && v[currentLang]);
-            }
-
+            let possibleWrongs = vocabData.filter(v => v.id !== currentItem.id && v[currentLang]);
             possibleWrongs = possibleWrongs.sort(() => Math.random() - 0.5).slice(0, 3);
             options.push(...possibleWrongs.map(v => v[currentLang]));
             options = options.sort(() => Math.random() - 0.5); 
