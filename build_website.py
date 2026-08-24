@@ -53,24 +53,17 @@ LANG_MAP = {
 def get_audio_text(text, lang_code):
     if not isinstance(text, str): return str(text)
     
-    # ✅ 修改重點：將換行符號和斜線取代為「逗號+空白」，讓語音有停頓感，且不會唸出 Slash
     text = text.replace('\n', ', ').replace('/', ', ')
-    
     text = text.strip()
     
-    # 日文特殊處理 (保留括號內的假名)
     if lang_code == 'ja':
         match = re.search(r'[\(（](.*?)[\)）]', text)
         return match.group(1).strip() if match else text
     
-    # 其他語言移除括號
     return re.sub(r'[\(（].*?[\)）]', '', text).strip()
 
 def safe_filename(text):
-    # 1. 基本非法字元清理
     safe_text = re.sub(r'[\\/*?:"<>|]', "", text).strip().replace(" ", "_")
-    
-    # 2. 🛡️ Windows 保留字防護 (解決 CON, NUL 問題)
     reserved_words = {
         "CON", "PRN", "AUX", "NUL",
         "COM1", "COM2", "COM3", "COM4", "COM5", "COM6", "COM7", "COM8", "COM9",
@@ -80,12 +73,15 @@ def safe_filename(text):
         safe_text += "_"
     return safe_text
 
+# 非同步下載任務
 async def generate_voice_file(text, voice_name, output_path):
     try:
         communicate = edge_tts.Communicate(text, voice_name)
         await communicate.save(output_path)
     except Exception as e:
-        print(f"      ⚠️ 下載失敗 (跳過): {text} -> {e}")
+        # 發生錯誤時靜默處理，避免打斷進度條顯示
+        # 且如果產生了 0KB 壞檔，下次執行時會自動修復
+        pass
 
 # --- HTML 生成 ---
 
@@ -134,7 +130,7 @@ def generate_html_footer(cat_name="general"):
 
 # --- 主程式 ---
 def main():
-    print(f"🚀 啟動 Builder (v12.5 斜線優化版)...")
+    print(f"🚀 啟動 Builder (並行加速 + 壞檔修復 + 進度顯示版)...")
     if not os.path.exists(SEO_FOLDER): os.makedirs(SEO_FOLDER)
     
     # 1. 讀取 Excel
@@ -159,20 +155,16 @@ def main():
 
     js_data_list = []
     seo_categories = {} 
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
+    
+    download_tasks = []
 
-    print("🔄 開始處理資料 (若看到 [新] 代表正在下載音檔)...")
+    print("🔄 開始處理資料與建立下載清單...")
 
     for index, row in df.iterrows():
         cn_text = row.get(COL_CN, "").strip()
         main_cat = row.get(COL_CAT_MAIN, "Uncategorized")
         sub_cat = str(row.get(COL_CAT_SUB, "")).strip()
         if sub_cat == "nan": sub_cat = ""
-
-        # 顯示進度
-        if index % 10 == 0:
-            print(f"   ⏳ 進度: {index + 1}/{total_items} ({cn_text})")
 
         if main_cat not in seo_categories: seo_categories[main_cat] = []
         seo_categories[main_cat].append(row)
@@ -191,15 +183,41 @@ def main():
             
             if not os.path.exists(os.path.dirname(fpath)): os.makedirs(os.path.dirname(fpath))
 
-            if not os.path.exists(fpath):
-                try:
-                    print(f"      🎙️ [新] 下載 {lang_key} 音檔: {text_audio}")
-                    loop.run_until_complete(generate_voice_file(text_audio, config['voice'], fpath))
-                except: pass
+            # ✅ 關鍵修改：檢查檔案是否存在，或者檔案大小為 0 (壞檔) 時，都重新加入下載清單
+            if not os.path.exists(fpath) or os.path.getsize(fpath) == 0:
+                download_tasks.append(generate_voice_file(text_audio, config['voice'], fpath))
 
             item_data[config['folder']] = {"word": str(raw_text), "audio": fname, "folder": f"{config['folder']}/{AUDIO_SUBFOLDER}"}
 
         js_data_list.append(item_data)
+
+    # 執行所有收集到的下載任務 (並行處理)
+    if download_tasks:
+        total_dl = len(download_tasks)
+        print(f"\n🚀 發現 {total_dl} 個新音檔 (或 0KB 壞檔) 需要下載！")
+        print("⏳ 正在啟動並行下載，請稍候...")
+        
+        async def run_all_tasks(tasks):
+            sem = asyncio.Semaphore(15) 
+            completed_count = 0
+            
+            async def sem_task(task):
+                nonlocal completed_count
+                async with sem:
+                    await task
+                    completed_count += 1
+                    # 每完成 10 個或最後一個時，更新畫面進度
+                    if completed_count % 10 == 0 or completed_count == total_dl:
+                        print(f"\r   📥 下載進度: {completed_count} / {total_dl} ({(completed_count/total_dl)*100:.1f}%)", end="", flush=True)
+
+            await asyncio.gather(*(sem_task(t) for t in tasks))
+
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        loop.run_until_complete(run_all_tasks(download_tasks))
+        print("\n✅ 所有音檔下載完成！\n")
+    else:
+        print("✅ 音檔皆已就緒，沒有發現需要下載的新單字或壞檔。\n")
 
     # 2. 存檔 data.js
     print(f"💾 正在儲存 data.js (共 {len(js_data_list)} 筆資料)...")
@@ -209,7 +227,6 @@ def main():
     # 3. 頁面更新
     print("📄 更新網頁 (Sitemap, About, Privacy)...")
     
-    # Sitemap
     sitemap = generate_html_header("網站地圖", True) + '<div class="content-box"><h1 class="text-center">📚 分類列表</h1><div class="list-group">'
     for cat, rows in seo_categories.items():
         s_cat = safe_filename(str(cat))
@@ -221,7 +238,6 @@ def main():
     sitemap += '</div></div>' + generate_html_footer("sitemap")
     with open(os.path.join(SEO_FOLDER, "sitemap.html"), "w", encoding="utf-8") as f: f.write(sitemap)
 
-    # About / Privacy
     about = generate_html_header("關於本站", True) + '<div class="content-box"><h1>關於 FreeTalkEasy</h1><p>免費語言學習平台。</p></div>' + generate_html_footer("about")
     with open(os.path.join(SEO_FOLDER, "about.html"), "w", encoding="utf-8") as f: f.write(about)
     privacy = generate_html_header("隱私權政策", True) + '<div class="content-box"><h1>隱私權政策</h1><p>本站使用 Cookie 與 GA4。</p></div>' + generate_html_footer("privacy")
