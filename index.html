@@ -30,13 +30,14 @@
             --bg-color: #f5f7fa;
             --card-shadow: 0 2px 4px rgba(0,0,0,0.08);
             
-            /* 新的漸層變暗顏色 (由白到深湖水綠) */
-            --lvl-0-bg: #ffffff;
-            --lvl-1-bg: #e0f2f1; /* 1~2次: 淺綠 */
-            --lvl-2-bg: #b2dfdb; /* 3~9次: 稍暗 */
-            --lvl-3-bg: #4db6ac; /* 10~19次: 中等暗 */
-            --lvl-4-bg: #00897b; /* 20~29次: 深綠 */
-            --lvl-5-bg: #004d40; /* 30次+: 極深綠 */
+            /* 新的顏色漸層 (每 20 次變化一次) */
+            --lvl-0-bg: #ffffff; /* 0~19: 白色 */
+            --lvl-1-bg: #e8f5e9; /* 20~39: 淡綠 */
+            --lvl-2-bg: #fff9c4; /* 40~59: 淡黃 */
+            --lvl-3-bg: #ffebee; /* 60~79: 淡紅 */
+            --lvl-4-bg: #2e7d32; /* 80~99: 深綠 */
+            --lvl-5-bg: #1565c0; /* 100~119: 深藍 */
+            --lvl-6-bg: #212121; /* 120+: 黑色 */
         }
 
         body {
@@ -408,12 +409,14 @@
             border: 2px solid transparent;
         }
         .card.playing { border-color: #4a90e2 !important; transform: scale(1.05); z-index: 10; box-shadow: 0 0 15px rgba(74, 144, 226, 0.5); }
+        
         .card.level-0 { background:var(--lvl-0-bg); border:1px solid #eee; }
-        .card.level-1 { background:var(--lvl-1-bg); border-color:#b2dfdb; }
-        .card.level-2 { background:var(--lvl-2-bg); border-color:#80cbc4; }
-        .card.level-3 { background:var(--lvl-3-bg); border-color:#26a69a; }
-        .card.level-4 { background:var(--lvl-4-bg); border-color:#00796b; }
-        .card.level-5 { background:var(--lvl-5-bg); border-color:#004d40; }
+        .card.level-1 { background:var(--lvl-1-bg); border-color:#a5d6a7; }
+        .card.level-2 { background:var(--lvl-2-bg); border-color:#fff59d; }
+        .card.level-3 { background:var(--lvl-3-bg); border-color:#ef9a9a; }
+        .card.level-4 { background:var(--lvl-4-bg); border-color:#1b5e20; }
+        .card.level-5 { background:var(--lvl-5-bg); border-color:#0d47a1; }
+        .card.level-6 { background:var(--lvl-6-bg); border-color:#424242; }
 
         .main-word { 
             font-size: 20px; 
@@ -428,12 +431,12 @@
         .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
         .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #ccc; font-size: 13px; color: #555; line-height: 1.5; }
 
-        /* 當卡片顏色變深時(Level 3以上)，將字體轉為白色增加辨識度 */
-        .card.level-3 .main-word, .card.level-4 .main-word, .card.level-5 .main-word { color: #ffffff; }
-        .card.level-3 .phonetic, .card.level-4 .phonetic, .card.level-5 .phonetic { color: #e0e0e0; }
-        .card.level-3 .footer-translation, .card.level-4 .footer-translation, .card.level-5 .footer-translation { color: #f5f5f5; border-top-color: rgba(255,255,255,0.3); }
-        .card.level-3 .click-counter, .card.level-4 .click-counter, .card.level-5 .click-counter { background: rgba(255,255,255,0.2) !important; color: white !important; }
-        .card.level-3 .hide-btn, .card.level-4 .hide-btn, .card.level-5 .hide-btn { color: #e0e0e0; }
+        /* 當卡片顏色變深時(Level 4 以上)，將字體轉為白色增加辨識度 */
+        .card.level-4 .main-word, .card.level-5 .main-word, .card.level-6 .main-word { color: #ffffff; }
+        .card.level-4 .phonetic, .card.level-5 .phonetic, .card.level-6 .phonetic { color: #e0e0e0; }
+        .card.level-4 .footer-translation, .card.level-5 .footer-translation, .card.level-6 .footer-translation { color: #f5f5f5; border-top-color: rgba(255,255,255,0.3); }
+        .card.level-4 .click-counter, .card.level-5 .click-counter, .card.level-6 .click-counter { background: rgba(255,255,255,0.2) !important; color: white !important; }
+        .card.level-4 .hide-btn, .card.level-5 .hide-btn, .card.level-6 .hide-btn { color: #e0e0e0; }
 
         .hide-btn {
             color: #b0bec5;
@@ -638,7 +641,6 @@
             <input type="text" id="search-input" data-i18n-placeholder="search_placeholder" placeholder="🔍 搜尋母語或外語單字...">
         </div>
         
-        <!-- 隱藏卡片管理模式的提示橫幅 -->
         <div id="hidden-manager-banner" style="display:none; background-color:#34495e; color:white; padding:12px 15px; border-radius:8px; margin-bottom:15px; justify-content:space-between; align-items:center; width:100%; max-width:1200px;">
             <span><i class="fas fa-eye"></i> <span data-i18n="manage_hidden_mode">隱藏單字管理模式 (點擊眼睛即可復原)</span></span>
             <button onclick="toggleHiddenManagerMode()" style="background:var(--danger-color); color:white; border:none; padding:6px 12px; border-radius:5px; cursor:pointer; font-weight:bold;"><span data-i18n="exit_manage">退出管理</span></button>
@@ -708,7 +710,6 @@
             </div>
             
             <hr style="border-color:#eee; margin:15px 0;">
-            <!-- 更新為管理隱藏單字按鈕 -->
             <button class="btn-manage-hidden" onclick="toggleHiddenManagerMode()">
                 <i class="fas fa-tasks"></i> <span data-i18n="btn_manage_hidden">管理隱藏單字</span>
             </button>
@@ -1054,7 +1055,7 @@
         let playbackSpeed = 1.0; 
         let enableLoop = false; 
         
-        let isManageHiddenMode = false; // 新增：是否處於隱藏單字管理模式
+        let isManageHiddenMode = false;
 
         let quizCards = [];
         let currentQuizIndex = 0;
@@ -1160,7 +1161,7 @@
         subCatFilter.addEventListener('change', () => { stopAutoPlay(); localStorage.setItem(STORAGE_KEY_LAST_SUB, subCatFilter.value); renderCards(); });
 
         btnAutoPlay.addEventListener('click', () => {
-            if (isManageHiddenMode) return; // 管理模式下禁止自動播放
+            if (isManageHiddenMode) return; 
             if (!isAutoPlaying) startAutoPlay();
             else stopAutoPlay();
         });
@@ -1175,13 +1176,12 @@
         });
 
         /* ============================
-           隱藏卡片邏輯 (含管理模式與 Toast)
+           隱藏卡片邏輯 
         ============================ */
         function toggleHiddenManagerMode() {
             isManageHiddenMode = !isManageHiddenMode;
             document.getElementById('hidden-manager-banner').style.display = isManageHiddenMode ? 'flex' : 'none';
             
-            // 管理模式下鎖定過濾器，方便直接瀏覽所有隱藏單字
             catFilter.disabled = isManageHiddenMode;
             subCatFilter.disabled = isManageHiddenMode || (!isManageHiddenMode && catFilter.value === 'all');
             searchInput.disabled = isManageHiddenMode;
@@ -1201,15 +1201,12 @@
             let hiddenCards = getHiddenCards();
             
             if (hiddenCards.includes(id)) {
-                // 如果已經在隱藏名單，就把它移除 (復原)
                 hiddenCards = hiddenCards.filter(cardId => cardId !== id);
                 localStorage.setItem(STORAGE_KEY_HIDDEN, JSON.stringify(hiddenCards));
             } else {
-                // 加入隱藏名單
                 hiddenCards.push(id);
                 localStorage.setItem(STORAGE_KEY_HIDDEN, JSON.stringify(hiddenCards));
                 
-                // 只有在非管理模式下才彈出 Toast
                 if (!isManageHiddenMode) {
                     lastHiddenCardId = id;
                     showUndoToast();
@@ -1269,9 +1266,16 @@
 
         function getClicks(id) { return parseInt(localStorage.getItem(STORAGE_KEY_PREFIX + id) || '0'); }
         function addClick(id) { const n = getClicks(id) + 1; localStorage.setItem(STORAGE_KEY_PREFIX + id, n); return n; }
+        
+        // --- ★ 更新等級判斷邏輯：每 20 下變化一次 ---
         function getLevelClass(n) {
-            if (n >= 30) return 'level-5'; if (n >= 20) return 'level-4'; if (n >= 10) return 'level-3';
-            if (n >= 3) return 'level-2'; if (n >= 1) return 'level-1'; return 'level-0';
+            if (n >= 120) return 'level-6'; // 黑色
+            if (n >= 100) return 'level-5'; // 深藍
+            if (n >= 80) return 'level-4';  // 深綠
+            if (n >= 60) return 'level-3';  // 淡紅
+            if (n >= 40) return 'level-2';  // 淡黃
+            if (n >= 20) return 'level-1';  // 淡綠
+            return 'level-0';               // 白色
         }
 
         function renderCards() {
@@ -1287,11 +1291,9 @@
             const hiddenCardsList = getHiddenCards();
 
             vocabData.forEach((item) => {
-                // 如果是「管理隱藏模式」，只顯示被隱藏的單字，無視分類搜尋
                 if (isManageHiddenMode) {
                     if (!hiddenCardsList.includes(item.id)) return;
                 } else {
-                    // 正常模式
                     if (hiddenCardsList.includes(item.id)) return;
                     if (sCat !== 'all' && item.category !== sCat) return;
                     if (sCat !== 'all' && sSub !== 'all' && item.subcategory !== sSub) return;
@@ -1361,7 +1363,6 @@
 
                     let footerHtml = footerLines.join('<br>');
 
-                    // 判斷按鈕圖示狀態
                     const eyeIcon = isManageHiddenMode ? 'fa-eye' : 'fa-eye-slash';
                     const eyeTitle = isManageHiddenMode ? (t('btn_undo')||'復原') : (t('toast_hidden')||'隱藏單字');
                     const eyeStyle = isManageHiddenMode ? 'color:#4caf50; font-size:16px;' : '';
@@ -1394,7 +1395,6 @@
                         document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
                         card.classList.add('playing');
                         
-                        // 管理模式下點擊不增加次數
                         if (!isManageHiddenMode) {
                             const n = addClick(item.id);
                             card.className = `card playing ${getLevelClass(n)}`;
@@ -1519,6 +1519,10 @@
                 if (!isAutoPlaying) return;
                 const n = addClick(card.dataset.id);
                 card.querySelector('.click-counter').innerText = n;
+                
+                // ★ 自動更新目前播放中卡片的顏色等級
+                card.className = `card playing ${getLevelClass(n)}`;
+                
                 autoPlayIndex++;
                 if (autoPlayIndex < visibleCards.length) {
                     setTimeout(() => playCardSequence(visibleCards[autoPlayIndex]), 800);
