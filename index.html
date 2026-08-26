@@ -30,14 +30,14 @@
             --bg-color: #f5f7fa;
             --card-shadow: 0 2px 4px rgba(0,0,0,0.08);
             
-            /* 新的顏色漸層 (每 20 次變化一次) */
-            --lvl-0-bg: #ffffff; /* 0~19: 白色 */
-            --lvl-1-bg: #e8f5e9; /* 20~39: 淡綠 */
-            --lvl-2-bg: #fff9c4; /* 40~59: 淡黃 */
-            --lvl-3-bg: #ffebee; /* 60~79: 淡紅 */
-            --lvl-4-bg: #2e7d32; /* 80~99: 深綠 */
-            --lvl-5-bg: #1565c0; /* 100~119: 深藍 */
-            --lvl-6-bg: #212121; /* 120+: 黑色 */
+            /* 新的顏色漸層 */
+            --lvl-0-bg: #ffffff; /* 0下: 白色 */
+            --lvl-1-bg: #e8f5e9; /* 1~19下: 淡綠 */
+            --lvl-2-bg: #fff9c4; /* 20~39下: 淡黃 */
+            --lvl-3-bg: #ffebee; /* 40~59下: 淡紅 */
+            --lvl-4-bg: #2e7d32; /* 60~79下: 深綠 */
+            --lvl-5-bg: #1565c0; /* 80~99下: 深藍 */
+            --lvl-6-bg: #212121; /* 100下以上: 黑色 */
         }
 
         body {
@@ -1267,15 +1267,15 @@
         function getClicks(id) { return parseInt(localStorage.getItem(STORAGE_KEY_PREFIX + id) || '0'); }
         function addClick(id) { const n = getClicks(id) + 1; localStorage.setItem(STORAGE_KEY_PREFIX + id, n); return n; }
         
-        // --- ★ 更新等級判斷邏輯：每 20 下變化一次 ---
+        // --- ★ 更新等級判斷邏輯 ---
         function getLevelClass(n) {
-            if (n >= 120) return 'level-6'; // 黑色
-            if (n >= 100) return 'level-5'; // 深藍
-            if (n >= 80) return 'level-4';  // 深綠
-            if (n >= 60) return 'level-3';  // 淡紅
-            if (n >= 40) return 'level-2';  // 淡黃
-            if (n >= 20) return 'level-1';  // 淡綠
-            return 'level-0';               // 白色
+            if (n >= 100) return 'level-6'; // 100下以上: 黑色
+            if (n >= 80) return 'level-5';  // 80~99下: 深藍
+            if (n >= 60) return 'level-4';  // 60~79下: 深綠
+            if (n >= 40) return 'level-3';  // 40~59下: 淡紅
+            if (n >= 20) return 'level-2';  // 20~39下: 淡黃
+            if (n >= 1)  return 'level-1';  // 1~19下: 淡綠 (只要按1次就變色)
+            return 'level-0';               // 0下: 白色
         }
 
         function renderCards() {
