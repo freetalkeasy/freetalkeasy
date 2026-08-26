@@ -1,0 +1,1533 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R7XMFE1GNF"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-R7XMFE1GNF');
+    </script>
+
+    <title>FreeTalkEasy Flashcards</title>
+    
+    <link rel="icon" href="logo/logo.png" type="image/png" sizes="32x32">
+    <link rel="icon" href="logo/logo.png" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="logo/logo.png">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; }
+
+        :root {
+            --primary-color: #4a90e2;
+            --danger-color: #e74c3c;
+            --quiz-color: #8e44ad;
+            --bg-color: #f5f7fa;
+            --card-shadow: 0 2px 4px rgba(0,0,0,0.08);
+            --lvl-0-bg: #ffffff;
+            --lvl-1-bg: #e3f2fd;
+            --lvl-2-bg: #e8f5e9;
+            --lvl-3-bg: #fff9c4;
+            --lvl-4-bg: #ffe0b2;
+            --lvl-5-bg: #ffebee;
+        }
+
+        body {
+            font-family: 'Noto Sans TC', 'Roboto', sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            padding-bottom: 90px;
+        }
+
+        /* --- 介面語言選擇器 (右上角) --- */
+        .ui-lang-container {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 8px 12px;
+            border-radius: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            z-index: 200;
+        }
+        .ui-lang-container select {
+            border: none;
+            background: transparent;
+            font-size: 14px;
+            font-weight: bold;
+            color: #2a5298;
+            outline: none;
+            cursor: pointer;
+            padding: 0;
+            width: auto;
+        }
+
+        /* --- Landing Page --- */
+        #landing-screen {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 40px 15px;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            z-index: 100;
+            width: 100%;
+            position: relative;
+        }
+
+        .logo-container {
+            display: flex;
+            flex-direction: column; 
+            align-items: center;
+            margin-bottom: 30px; 
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .logo-title-wrapper {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 0px; 
+            margin-bottom: 5px;
+        }
+
+        .earth-logo {
+            width: 130px;
+            height: 130px;
+            object-fit: contain;
+            border-radius: 50%;
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2));
+        }
+
+        .site-title {
+            font-family: 'Roboto', sans-serif;
+            font-size: 42px;    
+            color: #ffffff;
+            font-weight: 700;
+            margin: 0;          
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            line-height: 1;     
+        }
+
+        .site-subtitle {
+            font-size: 16px;
+            color: rgba(255, 255, 255, 0.8);
+            font-weight: normal;
+            margin: 0;
+            background: rgba(0,0,0,0.2);
+            padding: 5px 15px;
+            border-radius: 15px;
+        }
+
+        .lang-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            width: 100%;
+            max-width: 400px;
+            margin-bottom: 30px; 
+        }
+
+        .lang-btn {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: flex-start;
+            background: white;
+            border: none;
+            border-radius: 12px;
+            padding: 15px 15px; 
+            width: 100%;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.2s, background-color 0.2s;
+            position: relative;
+            text-decoration: none;
+        }
+
+        .lang-btn:hover {
+            transform: translateX(5px);
+            background-color: #f0f7ff;
+        }
+
+        .lang-flag-img {
+            width: 36px;  
+            height: 27px; 
+            margin-right: 15px; 
+            border-radius: 4px; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2); 
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+
+        .lang-name { 
+            font-size: 16px; 
+            color: #2a5298; 
+            font-weight: bold;
+            flex-grow: 1;
+            word-break: break-word; 
+            text-align: left;
+        }
+
+        .lang-arrow { color: #ccc; font-size: 14px; margin-left: 10px; }
+
+        /* --- App Screen --- */
+        #app-screen {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            min-height: 100vh;
+            width: 100%;
+        }
+
+        .top-nav {
+            width: 100%;
+            max-width: 1200px; 
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .back-btn {
+            background: #f0f4f8; 
+            border: 1px solid #d9e2ec; 
+            font-size: 16px; 
+            color: #334e68; 
+            cursor: pointer; 
+            display: flex; 
+            align-items: center; 
+            gap: 8px;
+            flex-shrink: 0; 
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            transition: 0.2s;
+        }
+        .back-btn:hover {
+            background: #e1e8ef;
+            transform: scale(1.02);
+        }
+        
+        .current-lang-display { 
+            font-weight: bold; 
+            color: var(--primary-color); 
+            font-size: 18px; 
+            white-space: nowrap !important;
+            flex-shrink: 0;
+            text-align: right;   
+            margin-left: 10px;   
+        }
+
+        @media (max-width: 400px) {
+            .back-btn span.btn-text { display: none; }
+            .back-btn { font-size: 20px; padding: 8px 12px; }
+        }
+
+        .filters {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            width: 100%;
+            max-width: 1200px; 
+            margin-bottom: 15px;
+        }
+
+        #search-input {
+            grid-column: 1 / -1; 
+            padding: 12px 15px;
+            font-size: 15px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            background-color: white;
+            width: 100%;
+            transition: all 0.2s;
+        }
+        
+        #search-input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+        }
+
+        .sticky-controls {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: white;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+            padding: 12px 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            z-index: 1000;
+        }
+
+        .sticky-controls button {
+            padding: 10px 5px;
+            font-size: 14px;
+            border-radius: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            flex: 1; 
+            text-align: center;
+            border: none;
+        }
+
+        #btn-settings { background-color: #f0f0f0; color: #555; border: 1px solid #ccc; }
+        #btn-autoplay { background-color: var(--primary-color); color: white; font-weight: bold; }
+        #btn-autoplay.playing { background-color: #f39c12; animation: pulse 1.5s infinite; }
+        #btn-quiz { background-color: var(--quiz-color); color: white; font-weight: bold; }
+        #btn-reset { background-color: white; color: var(--danger-color); border: 1px solid var(--danger-color); }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
+        #settings-panel {
+            position: fixed;
+            bottom: 80px; 
+            left: 50%;
+            transform: translateX(-50%);
+            width: 90%;
+            max-width: 380px; 
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+            padding: 15px;
+            z-index: 1001;
+            display: none; 
+            border: 1px solid #eee;
+        }
+        
+        #settings-panel.show { display: block; animation: slideUp 0.3s ease-out; }
+        
+        @keyframes slideUp {
+            from { transform: translate(-50%, 20px); opacity: 0; }
+            to { transform: translate(-50%, 0); opacity: 1; }
+        }
+
+        .setting-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            font-size: 14px;
+            color: #333;
+        }
+        
+        .setting-row select {
+            width: auto;
+            padding: 5px 10px;
+            font-size: 14px;
+            max-width: 150px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+        }
+
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 40px;
+            height: 24px;
+            flex-shrink: 0;
+        }
+        .toggle-switch input { opacity: 0; width: 0; height: 0; }
+        .slider {
+            position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0;
+            background-color: #ccc; transition: .4s; border-radius: 24px;
+        }
+        .slider:before {
+            position: absolute; content: ""; height: 18px; width: 18px;
+            left: 3px; bottom: 3px; background-color: white; transition: .4s; border-radius: 50%;
+        }
+        input:checked + .slider { background-color: var(--primary-color); }
+        input:checked + .slider:before { transform: translateX(16px); }
+
+        select, .filters input {
+            padding: 12px;
+            font-size: 15px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            background-color: white;
+            width: 100%;
+        }
+        select:disabled { background-color: #f0f0f0; color: #aaa; cursor: not-allowed; }
+
+        #card-container {
+            display: grid; 
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); 
+            gap: 10px; 
+            width: 100%; 
+            max-width: 1200px; 
+            flex: 1;
+        }
+
+        .category-header {
+            grid-column: 1 / -1; 
+            padding: 15px 0 5px 0;
+            margin-top: 10px;
+            color: #2a5298;
+            font-weight: bold;
+            font-size: 1.1em;
+            border-bottom: 2px solid #e0e0e0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        @media (max-width: 400px) { 
+            #card-container { grid-template-columns: 1fr 1fr; } 
+            .main-word { font-size: 18px !important; }
+        }
+
+        .card {
+            background-color: var(--lvl-0-bg); border-radius: 12px; padding: 12px; box-shadow: var(--card-shadow); cursor: pointer; transition: transform 0.2s;
+            display: flex; flex-direction: column; justify-content: space-between; position: relative; min-height: 140px;
+            border: 2px solid transparent;
+        }
+        .card.playing { border-color: #4a90e2 !important; transform: scale(1.05); z-index: 10; box-shadow: 0 0 15px rgba(74, 144, 226, 0.5); }
+        .card.level-0 { background:var(--lvl-0-bg); border:1px solid #eee; }
+        .card.level-1 { background:var(--lvl-1-bg); border-color:#90caf9; }
+        .card.level-2 { background:var(--lvl-2-bg); border-color:#a5d6a7; }
+        .card.level-3 { background:var(--lvl-3-bg); border-color:#fff59d; }
+        .card.level-4 { background:var(--lvl-4-bg); border-color:#ffcc80; }
+        .card.level-5 { background:var(--lvl-5-bg); border-color:#ef9a9a; }
+
+        .main-word { 
+            font-size: 20px; 
+            font-weight: bold; 
+            color: #2c3e50; 
+            margin-bottom: 2px; 
+            line-height: 1.3; 
+            word-wrap: break-word;       
+            word-break: break-word;      
+        }
+        
+        .phonetic { font-size: 13px; color: #7f8c8d; margin-bottom: 10px; font-style: italic; }
+        .footer-translation { margin-top: auto; padding-top: 8px; border-top: 1px dashed #eee; font-size: 13px; color: #555; line-height: 1.5; }
+
+        /* 新增：隱藏卡片按鈕樣式 */
+        .hide-btn {
+            color: #d1d5db;
+            cursor: pointer;
+            transition: all 0.2s;
+            padding: 4px;
+            font-size: 14px;
+        }
+        .hide-btn:hover {
+            color: #6b7280;
+            transform: scale(1.2);
+        }
+
+        .btn-restore-hidden {
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid var(--primary-color);
+            background: white;
+            color: var(--primary-color);
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.2s;
+            margin-top: 5px;
+        }
+        .btn-restore-hidden:hover {
+            background: #f0f7ff;
+        }
+
+        /* --- Quiz Screen --- */
+        #quiz-screen {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: #fff; z-index: 2000; display: none; flex-direction: column;
+        }
+        .quiz-header {
+            display: flex; justify-content: space-between; align-items: center; padding: 15px 20px;
+            background: var(--quiz-color); color: white; font-size: 16px; font-weight: bold;
+        }
+        .quiz-header button {
+            background: rgba(255,255,255,0.2); border: none; color: white; padding: 8px 15px; 
+            border-radius: 20px; cursor: pointer; font-weight: bold; width: auto; font-size: 14px;
+        }
+        .quiz-content { 
+            padding: 30px 20px; text-align: center; flex: 1; display: flex; 
+            flex-direction: column; justify-content: center; max-width: 600px; margin: 0 auto; width: 100%;
+        }
+        #quiz-question { font-size: 28px; margin-bottom: 30px; color: #2c3e50; line-height: 1.4; }
+        .quiz-options { display: flex; flex-direction: column; gap: 15px; width: 100%; }
+        .quiz-option-btn {
+            padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 12px;
+            background: white; cursor: pointer; transition: 0.2s; font-weight: bold; color: #333;
+        }
+        .quiz-option-btn:hover:not(:disabled) { background: #f9f9f9; border-color: var(--quiz-color); }
+        .quiz-option-btn.correct { background: #d4edda !important; border-color: #4caf50 !important; color: #1b5e20 !important; }
+        .quiz-option-btn.wrong { background: #f8d7da !important; border-color: #f44336 !important; color: #b71c1c !important; }
+        .quiz-option-btn:disabled { cursor: not-allowed; }
+
+        .app-footer { 
+            margin-top: 50px; padding: 20px 20px 80px 20px;
+            text-align: center; color: #999; font-size: 12px; width: 100%; 
+            background: #fff; border-top: 1px solid #eee; line-height: 1.6;
+        }
+
+        .support-box { background: rgba(0,0,0,0.03); border-radius: 12px; padding: 15px; border: 1px solid rgba(0,0,0,0.05); max-width: 600px; margin: 0 auto 15px auto; }
+        .landing-footer .support-box { background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.1); color: #eee; }
+        .support-text { font-size: 13px; line-height: 1.6; margin-bottom: 10px; text-align: justify; }
+        .bmc-btn { background-color: #FFDD00; color: #000000; font-family: 'Roboto', sans-serif; font-weight: bold; text-decoration: none; padding: 10px 25px; border-radius: 25px; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s; font-size: 14px; }
+        .bmc-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(0,0,0,0.15); }
+    </style>
+</head>
+<body>
+    
+    <audio id="global-audio-player" preload="auto" style="display:none;"></audio>
+
+    <div id="landing-screen">
+        <!-- 🌐 介面語言選擇器 (母語選擇) -->
+        <div class="ui-lang-container">
+            <span>🌐</span>
+            <select id="ui-lang-select" onchange="changeUILanguage(this.value)">
+                <option value="zh">繁體中文</option>
+                <option value="en">English</option>
+                <option value="ja">日本語</option>
+                <option value="ko">한국어</option>
+                <option value="vi">Tiếng Việt</option>
+                <option value="id">Bahasa Indonesia</option>
+                <option value="th">ไทย</option>
+                <option value="de">Deutsch</option>
+                <option value="es">Español</option>
+                <option value="fr">Français</option>
+                <option value="ru">Русский</option>
+            </select>
+        </div>
+
+        <div class="logo-container">
+            <div class="logo-title-wrapper">
+                <img src="logo/logo.png" class="earth-logo" alt="FreeTalkEasy Logo">
+                <h1 class="site-title">FreeTalkEasy</h1>
+            </div>
+            <p class="site-subtitle" data-i18n="select_target">🎯 請選擇要學習的目標語言</p>
+        </div>
+        
+        <div class="lang-list">
+            <div class="lang-btn" onclick="selectLanguage('CN_ENG', '🇺🇸 英語')">
+                <img src="https://flagcdn.com/w80/us.png" class="lang-flag-img" alt="US"><span class="lang-name">英語 (English)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_JP', '🇯🇵 日語')">
+                <img src="https://flagcdn.com/w80/jp.png" class="lang-flag-img" alt="JP"><span class="lang-name">日語 (Japanese)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_KR', '🇰🇷 韓語')">
+                <img src="https://flagcdn.com/w80/kr.png" class="lang-flag-img" alt="KR"><span class="lang-name">韓語 (Korean)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_VN', '🇻🇳 越語')">
+                <img src="https://flagcdn.com/w80/vn.png" class="lang-flag-img" alt="VN"><span class="lang-name">越語 (Vietnamese)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_TH', '🇹🇭 泰語')">
+                <img src="https://flagcdn.com/w80/th.png" class="lang-flag-img" alt="TH"><span class="lang-name">泰語 (Thai)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_ID', '🇮🇩 印尼語')">
+                <img src="https://flagcdn.com/w80/id.png" class="lang-flag-img" alt="ID"><span class="lang-name">印尼語 (Indonesia)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_FR', '🇫🇷 法語')">
+                <img src="https://flagcdn.com/w80/fr.png" class="lang-flag-img" alt="FR"><span class="lang-name">法語 (French)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_DE', '🇩🇪 德語')">
+                <img src="https://flagcdn.com/w80/de.png" class="lang-flag-img" alt="DE"><span class="lang-name">德語 (German)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_ES', '🇪🇸 西語')">
+                <img src="https://flagcdn.com/w80/es.png" class="lang-flag-img" alt="ES"><span class="lang-name">西語 (Spanish)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_CON', '🇭🇰 廣東話')">
+                <img src="https://flagcdn.com/w80/hk.png" class="lang-flag-img" alt="HK"><span class="lang-name">廣東話 (Cantonese)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_ZH', '🇹🇼 中文')">
+                <img src="https://flagcdn.com/w80/tw.png" class="lang-flag-img" alt="TW"><span class="lang-name">中文 (Chinese Mode)</span><span class="lang-arrow">➜</span>
+            </div>
+            <div class="lang-btn" onclick="selectLanguage('CN_RU', '🇷🇺 俄語')">
+                <img src="https://flagcdn.com/w80/ru.png" class="lang-flag-img" alt="RU"><span class="lang-name">俄語 (Russian)</span><span class="lang-arrow">➜</span>
+            </div>
+        </div>
+        <div class="landing-footer">
+            <div class="support-box">
+                <p class="support-text" data-i18n="support_text">如果您覺得 FreeTalkEasy 幫您省下了時間，歡迎請我喝杯咖啡。您的支持是我維持伺服器運作的動力！</p>
+                <a href="https://www.buymeacoffee.com/freetalkeasy" target="_blank" class="bmc-btn">
+                    <i class="fas fa-coffee"></i> Buy me a coffee
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id="app-screen">
+        <div class="top-nav">
+            <!-- 🏠 防迷路回首頁按鈕 -->
+            <button class="back-btn" onclick="goBackToHome()">
+                <span>🏠</span> <span class="btn-text" data-i18n="back_home">回首頁</span>
+            </button>
+            <div class="current-lang-display" id="display-lang-name">🇺🇸 英語</div>
+        </div>
+
+        <div class="filters">
+            <select id="category-filter">
+                <option value="all" data-i18n="filter_cat_all">📚 所有主分類</option>
+            </select>
+            <select id="sub-category-filter" disabled>
+                <option value="all" data-i18n="filter_sub_all">📌 所有次分類</option>
+            </select>
+            <input type="text" id="search-input" data-i18n-placeholder="search_placeholder" placeholder="🔍 搜尋母語或外語單字...">
+        </div>
+
+        <div id="card-container">Loading...</div>
+
+        <footer class="app-footer">
+            <div class="support-box">
+                <p class="support-text" data-i18n="support_text">如果您覺得 FreeTalkEasy 幫您省下了時間，歡迎請我喝杯咖啡。您的支持是我維持伺服器運作的動力！</p>
+                <a href="https://www.buymeacoffee.com/freetalkeasy" target="_blank" class="bmc-btn">
+                    <i class="fas fa-coffee"></i> Buy me a coffee
+                </a>
+            </div>
+            <div style="margin-top: 20px;">
+                <a href="mailto:tw.jeremy@gmail.com" style="color:inherit; text-decoration:none;"><i class="fas fa-envelope"></i> tw.jeremy@gmail.com</a>
+            </div>
+        </footer>
+
+        <div id="settings-panel">
+            <div style="font-weight:bold; margin-bottom:15px; border-bottom:1px solid #eee; padding-bottom:5px;">
+                <i class="fas fa-cog"></i> <span data-i18n="set_title">播放設定</span>
+                <span onclick="toggleSettings()" style="float:right; cursor:pointer; color:#999;">✕</span>
+            </div>
+            <div class="setting-row">
+                <div class="setting-label"><span data-i18n="set_repeat">🔁 單字重複次數</span></div>
+                <select id="repeat-count-select">
+                    <option value="1" data-i18n="opt_1_time">1 次</option>
+                    <option value="2" data-i18n="opt_2_time">2 次</option>
+                    <option value="3" data-i18n="opt_3_time">3 次</option>
+                    <option value="5" data-i18n="opt_5_time">5 次</option>
+                </select>
+            </div>
+            <div class="setting-row">
+                <div class="setting-label"><span data-i18n="set_speed">⚡ 播放速度</span></div>
+                <select id="speed-select">
+                    <option value="0.5" data-i18n="speed_05">0.5x (慢速)</option>
+                    <option value="0.75" data-i18n="speed_075">0.75x (稍慢)</option>
+                    <option value="1.0" selected data-i18n="speed_10">1.0x (正常)</option>
+                    <option value="1.25" data-i18n="speed_125">1.25x (稍快)</option>
+                    <option value="1.5" data-i18n="speed_15">1.5x (快速)</option>
+                </select>
+            </div>
+            <div class="setting-row">
+                <div class="setting-label"><span data-i18n="set_mt">🗣️ 解釋語言 (母語)</span></div>
+                <select id="mother-tongue-select">
+                    <option value="CN_ZH">🇹🇼 中文</option>
+                    <option value="CN_ENG">🇺🇸 英語</option>
+                    <option value="CN_JP">🇯🇵 日語</option>
+                    <option value="CN_KR">🇰🇷 韓語</option>
+                    <option value="CN_VN">🇻🇳 越語</option>
+                    <option value="CN_ID">🇮🇩 印尼語</option>
+                    <option value="CN_TH">🇹🇭 泰語</option>
+                    <option value="CN_DE">🇩🇪 德語</option>
+                    <option value="CN_ES">🇪🇸 西班牙語</option>
+                    <option value="CN_FR">🇫🇷 法語</option>
+                    <option value="CN_RU">🇷🇺 俄語</option>
+                </select>
+            </div>
+            <div class="setting-row">
+                <div class="setting-label"><span data-i18n="set_tts">🎧 朗讀解釋</span></div>
+                <label class="toggle-switch"><input type="checkbox" id="tts-toggle"><span class="slider"></span></label>
+            </div>
+            <div class="setting-row">
+                <div class="setting-label"><span data-i18n="set_loop">🔄 循環播放列表</span></div>
+                <label class="toggle-switch"><input type="checkbox" id="loop-toggle"><span class="slider"></span></label>
+            </div>
+            
+            <hr style="border-color:#eee; margin:15px 0;">
+            <button class="btn-restore-hidden" onclick="restoreHiddenCards()">
+                <i class="fas fa-eye"></i> <span data-i18n="btn_restore">恢復所有隱藏單字</span>
+            </button>
+        </div>
+
+        <div class="sticky-controls">
+            <button id="btn-settings" onclick="toggleSettings()"><i class="fas fa-cog"></i> <span data-i18n="btn_settings">設定</span></button>
+            <button id="btn-autoplay"><span data-i18n="btn_play">▶ 播放</span></button>
+            <button id="btn-quiz" onclick="startQuiz()"><span data-i18n="btn_quiz">📝 測驗</span></button>
+            <button id="btn-reset"><span data-i18n="btn_reset">🗑️ 重置</span></button>
+        </div>
+    </div>
+
+    <!-- 📝 測驗畫面 -->
+    <div id="quiz-screen">
+        <div class="quiz-header">
+            <span id="quiz-score">進度: 0/0 | 分數: 0</span>
+            <button onclick="closeQuiz()"><span data-i18n="quiz_end_btn">✕ 結束測驗</span></button>
+        </div>
+        <div class="quiz-content">
+            <h2 id="quiz-question">準備中...</h2>
+            <div id="quiz-options" class="quiz-options"></div>
+        </div>
+    </div>
+
+    <!-- 動態載入 data.js -->
+    <script>document.write('<script src="data.js?v=' + new Date().getTime() + '"><\/script>');</script>
+
+    <script>
+        /* ============================
+           多國語言字典 (i18n)
+        ============================ */
+        const translations = {
+            'zh': {
+                select_target: '🎯 請選擇要學習的目標語言',
+                back_home: '回首頁',
+                filter_cat_all: '📚 所有主分類', filter_sub_all: '📌 所有次分類',
+                search_placeholder: '🔍 搜尋母語或外語單字...',
+                support_text: '如果您覺得 FreeTalkEasy 幫您省下了時間，歡迎請我喝杯咖啡。您的支持是我維持伺服器運作的動力！',
+                set_title: '播放設定', set_repeat: '🔁 單字重複次數',
+                opt_1_time: '1 次', opt_2_time: '2 次', opt_3_time: '3 次', opt_5_time: '5 次',
+                set_speed: '⚡ 播放速度',
+                speed_05: '0.5x (慢速)', speed_075: '0.75x (稍慢)', speed_10: '1.0x (正常)', speed_125: '1.25x (稍快)', speed_15: '1.5x (快速)',
+                set_mt: '🗣️ 解釋語言 (發音)', set_tts: '🎧 朗讀解釋', set_loop: '🔄 循環播放列表',
+                btn_settings: '設定', btn_play: '▶ 播放', btn_stop: '⏹ 停止播放', btn_quiz: '📝 測驗', btn_reset: '🗑️ 重置', btn_restore: '恢復所有隱藏單字',
+                quiz_end_btn: '✕ 結束測驗', quiz_back_list: '回到單字列表', quiz_finished: '測驗結束！🎉',
+                alert_no_vocab: '目前沒有單字可以測驗喔！', confirm_reset: '⚠️ 確定要清除所有學習紀錄嗎？\n(卡片等級將全部歸零)',
+                alert_no_hidden: '目前沒有被隱藏的單字喔！', confirm_restore: '確定要恢復所有被隱藏的單字卡嗎？'
+            },
+            'en': {
+                select_target: '🎯 Select Target Language',
+                back_home: 'Home',
+                filter_cat_all: '📚 All Categories', filter_sub_all: '📌 All Subcategories',
+                search_placeholder: '🔍 Search words...',
+                support_text: 'If FreeTalkEasy saves you time, consider buying me a coffee. Your support keeps the server running!',
+                set_title: 'Playback Settings', set_repeat: '🔁 Repeat Count',
+                opt_1_time: '1 Time', opt_2_time: '2 Times', opt_3_time: '3 Times', opt_5_time: '5 Times',
+                set_speed: '⚡ Speed',
+                speed_05: '0.5x (Slow)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Fast)',
+                set_mt: '🗣️ Explanation Lang', set_tts: '🎧 Read Explanations', set_loop: '🔄 Loop Playlist',
+                btn_settings: 'Settings', btn_play: '▶ Play', btn_stop: '⏹ Stop', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Reset', btn_restore: 'Restore Hidden Cards',
+                quiz_end_btn: '✕ End Quiz', quiz_back_list: 'Back to List', quiz_finished: 'Quiz Finished! 🎉',
+                alert_no_vocab: 'No vocabulary available for quiz!', confirm_reset: '⚠️ Are you sure you want to clear all records?\n(Card levels will be reset)',
+                alert_no_hidden: 'No hidden cards found!', confirm_restore: 'Are you sure you want to restore all hidden cards?'
+            },
+            'ja': {
+                select_target: '🎯 学習する言語を選択してください',
+                back_home: 'ホーム',
+                filter_cat_all: '📚 全てのカテゴリ', filter_sub_all: '📌 全てのサブカテゴリ',
+                search_placeholder: '🔍 単語を検索...',
+                support_text: 'FreeTalkEasyがお役に立ちましたら、コーヒーをおごってください。サポートがサーバー維持の力になります！',
+                set_title: '再生設定', set_repeat: '🔁 繰り返し回数',
+                opt_1_time: '1 回', opt_2_time: '2 回', opt_3_time: '3 回', opt_5_time: '5 回',
+                set_speed: '⚡ 再生速度',
+                speed_05: '0.5x (遅い)', speed_075: '0.75x', speed_10: '1.0x (標準)', speed_125: '1.25x', speed_15: '1.5x (速い)',
+                set_mt: '🗣️ 説明言語 (母国語)', set_tts: '🎧 説明を読み上げる', set_loop: '🔄 リストをループ',
+                btn_settings: '設定', btn_play: '▶ 再生', btn_stop: '⏹ 停止', btn_quiz: '📝 テスト', btn_reset: '🗑️ リセット', btn_restore: '非表示の単語を復元',
+                quiz_end_btn: '✕ 終了', quiz_back_list: '単語帳に戻る', quiz_finished: 'テスト終了！🎉',
+                alert_no_vocab: 'テストできる単語がありません！', confirm_reset: '⚠️ 学習記録をすべて削除しますか？\n(レベルがリセットされます)',
+                alert_no_hidden: '非表示の単語はありません！', confirm_restore: 'すべての非表示の単語を復元しますか？'
+            },
+            'ko': {
+                select_target: '🎯 학습할 언어를 선택하세요',
+                back_home: '홈',
+                filter_cat_all: '📚 모든 카테고리', filter_sub_all: '📌 모든 하위 카테고리',
+                search_placeholder: '🔍 단어 검색...',
+                support_text: 'FreeTalkEasy가 도움이 되셨다면 커피 한 잔 사주세요. 여러분의 후원이 서버 유지에 큰 힘이 됩니다!',
+                set_title: '재생 설정', set_repeat: '🔁 반복 횟수',
+                opt_1_time: '1 번', opt_2_time: '2 번', opt_3_time: '3 번', opt_5_time: '5 번',
+                set_speed: '⚡ 재생 속도',
+                speed_05: '0.5x (느림)', speed_075: '0.75x', speed_10: '1.0x (보통)', speed_125: '1.25x', speed_15: '1.5x (빠름)',
+                set_mt: '🗣️ 설명 언어', set_tts: '🎧 설명 읽어주기', set_loop: '🔄 재생목록 반복',
+                btn_settings: '설정', btn_play: '▶ 재생', btn_stop: '⏹ 정지', btn_quiz: '📝 퀴즈', btn_reset: '🗑️ 초기화', btn_restore: '숨긴 단어 복원',
+                quiz_end_btn: '✕ 퀴즈 종료', quiz_back_list: '목록으로 돌아가기', quiz_finished: '퀴즈 종료! 🎉',
+                alert_no_vocab: '퀴즈를 풀 단어가 없습니다!', confirm_reset: '⚠️ 모든 학습 기록을 삭제하시겠습니까?\n(카드 레벨이 초기화됩니다)',
+                alert_no_hidden: '숨긴 단어가 없습니다!', confirm_restore: '숨겨진 모든 단어를 복원하시겠습니까?'
+            },
+            'vi': {
+                select_target: '🎯 Chọn ngôn ngữ mục tiêu',
+                back_home: 'Trang chủ',
+                filter_cat_all: '📚 Tất cả danh mục', filter_sub_all: '📌 Tất cả danh mục phụ',
+                search_placeholder: '🔍 Tìm kiếm từ vựng...',
+                support_text: 'Nếu FreeTalkEasy giúp ích cho bạn, hãy mời tôi một ly cà phê. Sự ủng hộ của bạn giúp duy trì máy chủ!',
+                set_title: 'Cài đặt phát', set_repeat: '🔁 Số lần lặp lại',
+                opt_1_time: '1 lần', opt_2_time: '2 lần', opt_3_time: '3 lần', opt_5_time: '5 lần',
+                set_speed: '⚡ Tốc độ phát',
+                speed_05: '0.5x (Chậm)', speed_075: '0.75x', speed_10: '1.0x (Bình thường)', speed_125: '1.25x', speed_15: '1.5x (Nhanh)',
+                set_mt: '🗣️ Ngôn ngữ giải thích', set_tts: '🎧 Đọc giải thích', set_loop: '🔄 Lặp lại danh sách',
+                btn_settings: 'Cài đặt', btn_play: '▶ Phát', btn_stop: '⏹ Dừng', btn_quiz: '📝 Kiểm tra', btn_reset: '🗑️ Đặt lại', btn_restore: 'Khôi phục từ đã ẩn',
+                quiz_end_btn: '✕ Kết thúc', quiz_back_list: 'Quay lại danh sách', quiz_finished: 'Hoàn thành bài kiểm tra! 🎉',
+                alert_no_vocab: 'Không có từ vựng nào để kiểm tra!', confirm_reset: '⚠️ Bạn có chắc chắn muốn xóa tất cả lịch sử học không?\n(Cấp độ thẻ sẽ bị xóa)',
+                alert_no_hidden: 'Không có từ nào bị ẩn!', confirm_restore: 'Khôi phục tất cả các từ đã ẩn?'
+            },
+            'id': {
+                select_target: '🎯 Pilih Bahasa Target',
+                back_home: 'Beranda',
+                filter_cat_all: '📚 Semua Kategori', filter_sub_all: '📌 Semua Subkategori',
+                search_placeholder: '🔍 Cari kata...',
+                support_text: 'Jika aplikasi ini menghemat waktu Anda, pertimbangkan untuk mentraktir saya kopi!',
+                set_title: 'Pengaturan Pemutaran', set_repeat: '🔁 Jumlah Pengulangan',
+                opt_1_time: '1 Kali', opt_2_time: '2 Kali', opt_3_time: '3 Kali', opt_5_time: '5 Kali',
+                set_speed: '⚡ Kecepatan',
+                speed_05: '0.5x (Lambat)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Cepat)',
+                set_mt: '🗣️ Bahasa Penjelasan', set_tts: '🎧 Baca Penjelasan', set_loop: '🔄 Ulangi Daftar Putar',
+                btn_settings: 'Pengaturan', btn_play: '▶ Putar', btn_stop: '⏹ Berhenti', btn_quiz: '📝 Kuis', btn_reset: '🗑️ Reset', btn_restore: 'Pulihkan Kata Tersembunyi',
+                quiz_end_btn: '✕ Akhiri Kuis', quiz_back_list: 'Kembali ke Daftar', quiz_finished: 'Kuis Selesai! 🎉',
+                alert_no_vocab: 'Tidak ada kosakata untuk kuis!', confirm_reset: '⚠️ Anda yakin ingin menghapus semua catatan belajar?',
+                alert_no_hidden: 'Tidak ada kartu tersembunyi!', confirm_restore: 'Pulihkan semua kartu yang tersembunyi?'
+            },
+            'th': {
+                select_target: '🎯 เลือกภาษาที่ต้องการเรียน',
+                back_home: 'หน้าแรก',
+                filter_cat_all: '📚 หมวดหมู่ทั้งหมด', filter_sub_all: '📌 หมวดหมู่ย่อยทั้งหมด',
+                search_placeholder: '🔍 ค้นหาคำศัพท์...',
+                support_text: 'หากแอพนี้ช่วยประหยัดเวลาของคุณ เลี้ยงกาแฟฉันสักแก้วสิ!',
+                set_title: 'การตั้งค่าการเล่น', set_repeat: '🔁 เล่นซ้ำ',
+                opt_1_time: '1 ครั้ง', opt_2_time: '2 ครั้ง', opt_3_time: '3 ครั้ง', opt_5_time: '5 ครั้ง',
+                set_speed: '⚡ ความเร็ว',
+                speed_05: '0.5x (ช้า)', speed_075: '0.75x', speed_10: '1.0x (ปกติ)', speed_125: '1.25x', speed_15: '1.5x (เร็ว)',
+                set_mt: '🗣️ ภาษาคำแปล', set_tts: '🎧 อ่านคำแปล', set_loop: '🔄 เล่นซ้ำเพลย์ลิสต์',
+                btn_settings: 'ตั้งค่า', btn_play: '▶ เล่น', btn_stop: '⏹ หยุด', btn_quiz: '📝 ทดสอบ', btn_reset: '🗑️ รีเซ็ต', btn_restore: 'กู้คืนคำที่ซ่อนอยู่',
+                quiz_end_btn: '✕ จบการทดสอบ', quiz_back_list: 'กลับไปที่รายการ', quiz_finished: 'จบทดสอบ! 🎉',
+                alert_no_vocab: 'ไม่มีคำศัพท์สำหรับทดสอบ!', confirm_reset: '⚠️ คุณแน่ใจหรือไม่ว่าต้องการลบประวัติการเรียนรู้ทั้งหมด?',
+                alert_no_hidden: 'ไม่มีคำที่ซ่อนอยู่!', confirm_restore: 'คุณต้องการกู้คืนการ์ดที่ซ่อนอยู่ทั้งหมดหรือไม่?'
+            },
+            'de': {
+                select_target: '🎯 Zielsprache auswählen',
+                back_home: 'Startseite',
+                filter_cat_all: '📚 Alle Kategorien', filter_sub_all: '📌 Alle Unterkategorien',
+                search_placeholder: '🔍 Vokabeln suchen...',
+                support_text: 'Wenn dir diese App Zeit spart, spendiere mir gerne einen Kaffee!',
+                set_title: 'Wiedergabeeinstellungen', set_repeat: '🔁 Wiederholungen',
+                opt_1_time: '1 Mal', opt_2_time: '2 Mal', opt_3_time: '3 Mal', opt_5_time: '5 Mal',
+                set_speed: '⚡ Geschwindigkeit',
+                speed_05: '0.5x (Langsam)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Schnell)',
+                set_mt: '🗣️ Erklärungssprache', set_tts: '🎧 Erklärungen vorlesen', set_loop: '🔄 Playlist wiederholen',
+                btn_settings: 'Einstellungen', btn_play: '▶ Abspielen', btn_stop: '⏹ Stopp', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Reset', btn_restore: 'Versteckte Wörter wiederherstellen',
+                quiz_end_btn: '✕ Quiz beenden', quiz_back_list: 'Zurück zur Liste', quiz_finished: 'Quiz beendet! 🎉',
+                alert_no_vocab: 'Keine Vokabeln für das Quiz verfügbar!', confirm_reset: '⚠️ Möchten Sie wirklich alle Lernaufzeichnungen löschen?',
+                alert_no_hidden: 'Keine versteckten Karten!', confirm_restore: 'Alle versteckten Karten wiederherstellen?'
+            },
+            'es': {
+                select_target: '🎯 Selecciona el idioma a aprender',
+                back_home: 'Inicio',
+                filter_cat_all: '📚 Todas las categorías', filter_sub_all: '📌 Todas las subcategorías',
+                search_placeholder: '🔍 Buscar palabras...',
+                support_text: 'Si esta aplicación te ahorra tiempo, ¡invítame a un café!',
+                set_title: 'Configuración de reproducción', set_repeat: '🔁 Repeticiones',
+                opt_1_time: '1 vez', opt_2_time: '2 veces', opt_3_time: '3 veces', opt_5_time: '5 veces',
+                set_speed: '⚡ Velocidad',
+                speed_05: '0.5x (Lento)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Rápido)',
+                set_mt: '🗣️ Idioma de explicación', set_tts: '🎧 Leer explicaciones', set_loop: '🔄 Repetir lista',
+                btn_settings: 'Ajustes', btn_play: '▶ Reproducir', btn_stop: '⏹ Detener', btn_quiz: '📝 Prueba', btn_reset: '🗑️ Restablecer', btn_restore: 'Restaurar palabras ocultas',
+                quiz_end_btn: '✕ Salir', quiz_back_list: 'Volver a la lista', quiz_finished: '¡Prueba terminada! 🎉',
+                alert_no_vocab: '¡No hay vocabulario para la prueba!', confirm_reset: '⚠️ ¿Estás seguro de que deseas borrar todos los registros?',
+                alert_no_hidden: '¡No hay tarjetas ocultas!', confirm_restore: '¿Restaurar todas las tarjetas ocultas?'
+            },
+            'fr': {
+                select_target: '🎯 Sélectionnez la langue à apprendre',
+                back_home: 'Accueil',
+                filter_cat_all: '📚 Toutes les catégories', filter_sub_all: '📌 Toutes les sous-catégories',
+                search_placeholder: '🔍 Rechercher un mot...',
+                support_text: 'Si cette application vous fait gagner du temps, offrez-moi un café !',
+                set_title: 'Paramètres de lecture', set_repeat: '🔁 Nombre de répétitions',
+                opt_1_time: '1 fois', opt_2_time: '2 fois', opt_3_time: '3 fois', opt_5_time: '5 fois',
+                set_speed: '⚡ Vitesse',
+                speed_05: '0.5x (Lent)', speed_075: '0.75x', speed_10: '1.0x (Normal)', speed_125: '1.25x', speed_15: '1.5x (Rapide)',
+                set_mt: '🗣️ Langue d\'explication', set_tts: '🎧 Lire les explications', set_loop: '🔄 Répéter la liste',
+                btn_settings: 'Paramètres', btn_play: '▶ Lire', btn_stop: '⏹ Arrêter', btn_quiz: '📝 Quiz', btn_reset: '🗑️ Réinitialiser', btn_restore: 'Restaurer les mots masqués',
+                quiz_end_btn: '✕ Quitter', quiz_back_list: 'Retour à la liste', quiz_finished: 'Quiz terminé ! 🎉',
+                alert_no_vocab: 'Aucun mot disponible pour le quiz !', confirm_reset: '⚠️ Êtes-vous sûr de vouloir effacer tout l\'historique ?',
+                alert_no_hidden: 'Aucune carte masquée !', confirm_restore: 'Restaurer toutes les cartes masquées ?'
+            },
+            'ru': {
+                select_target: '🎯 Выберите язык для изучения',
+                back_home: 'Главная',
+                filter_cat_all: '📚 Все категории', filter_sub_all: '📌 Все подкатегории',
+                search_placeholder: '🔍 Поиск слов...',
+                support_text: 'Если это приложение экономит ваше время, угостите меня кофе!',
+                set_title: 'Настройки воспроизведения', set_repeat: '🔁 Повторения',
+                opt_1_time: '1 раз', opt_2_time: '2 раза', opt_3_time: '3 раза', opt_5_time: '5 раз',
+                set_speed: '⚡ Скорость',
+                speed_05: '0.5x (Медленно)', speed_075: '0.75x', speed_10: '1.0x (Обычно)', speed_125: '1.25x', speed_15: '1.5x (Быстро)',
+                set_mt: '🗣️ Язык пояснений', set_tts: '🎧 Озвучивать перевод', set_loop: '🔄 Зациклить список',
+                btn_settings: 'Настройки', btn_play: '▶ Старт', btn_stop: '⏹ Стоп', btn_quiz: '📝 Тест', btn_reset: '🗑️ Сброс', btn_restore: 'Восстановить скрытые слова',
+                quiz_end_btn: '✕ Выход', quiz_back_list: 'К списку слов', quiz_finished: 'Тест завершен! 🎉',
+                alert_no_vocab: 'Нет слов для теста!', confirm_reset: '⚠️ Вы уверены, что хотите сбросить прогресс?',
+                alert_no_hidden: 'Нет скрытых карточек!', confirm_restore: 'Восстановить все скрытые карточки?'
+            }
+        };
+
+        // 語系與資料庫欄位對應表 (全 11 種母語)
+        const uiLangToDataKey = {
+            'zh': { key: 'cn', flag: '🇹🇼', targetKey: 'CN_ZH' },
+            'en': { key: 'CN_ENG', flag: '🇺🇸', targetKey: 'CN_ENG' },
+            'ja': { key: 'CN_JP', flag: '🇯🇵', targetKey: 'CN_JP' },
+            'ko': { key: 'CN_KR', flag: '🇰🇷', targetKey: 'CN_KR' },
+            'vi': { key: 'CN_VN', flag: '🇻🇳', targetKey: 'CN_VN' },
+            'id': { key: 'CN_ID', flag: '🇮🇩', targetKey: 'CN_ID' },
+            'th': { key: 'CN_TH', flag: '🇹🇭', targetKey: 'CN_TH' },
+            'de': { key: 'CN_DE', flag: '🇩🇪', targetKey: 'CN_DE' },
+            'es': { key: 'CN_ES', flag: '🇪🇸', targetKey: 'CN_ES' },
+            'fr': { key: 'CN_FR', flag: '🇫🇷', targetKey: 'CN_FR' },
+            'ru': { key: 'CN_RU', flag: '🇷🇺', targetKey: 'CN_RU' }
+        };
+
+        // 取得乾淨字串小幫手
+        function getWordText(item, langKey) {
+            if (langKey === 'cn') return item.cn || "";
+            if (item[langKey] && item[langKey].word) {
+                return item[langKey].word.replace(/[\(（].*?[\)）]/g, '').trim();
+            }
+            return "";
+        }
+
+        let currentUILang = 'zh'; 
+        
+        function changeUILanguage(langCode) {
+            currentUILang = langCode;
+            localStorage.setItem('fte_ui_lang', langCode);
+            
+            // 替換所有帶有 data-i18n 的文字
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if(translations[currentUILang] && translations[currentUILang][key]) {
+                    el.innerText = translations[currentUILang][key];
+                }
+            });
+            // 替換 placeholder
+            document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+                const key = el.getAttribute('data-i18n-placeholder');
+                if(translations[currentUILang] && translations[currentUILang][key]) {
+                    el.placeholder = translations[currentUILang][key];
+                }
+            });
+
+            // 根據介面語言自動連動解釋語言
+            if(!localStorage.getItem(STORAGE_KEY_SETTING_MOTHER_TONGUE)) {
+                if(uiLangToDataKey[langCode] && uiLangToDataKey[langCode].targetKey) {
+                    explanationLang = uiLangToDataKey[langCode].targetKey;
+                    motherTongueSelect.value = explanationLang;
+                }
+            }
+            
+            // 更新篩選器預設選項的文字
+            if(catFilter.options.length > 0 && catFilter.options[0].value === 'all') {
+                catFilter.options[0].innerText = translations[currentUILang]['filter_cat_all'];
+            }
+            if(subCatFilter.options.length > 0 && subCatFilter.options[0].value === 'all') {
+                subCatFilter.options[0].innerText = translations[currentUILang]['filter_sub_all'];
+            }
+            
+            // 按鈕狀態切換
+            if(isAutoPlaying) {
+                btnAutoPlay.innerHTML = translations[currentUILang]['btn_stop'];
+            } else {
+                btnAutoPlay.innerHTML = translations[currentUILang]['btn_play'];
+            }
+            
+            if(document.getElementById('quiz-screen').style.display === 'flex') {
+                updateQuizScore();
+            }
+        }
+
+        function t(key) {
+            return translations[currentUILang] && translations[currentUILang][key] ? translations[currentUILang][key] : key;
+        }
+
+        /* ============================
+           核心邏輯變數
+        ============================ */
+        let currentLang = 'CN_ENG'; 
+        const STORAGE_KEY_PREFIX = 'fte_clicks_';
+        const STORAGE_KEY_LAST_LANG = 'fte_last_lang';
+        const STORAGE_KEY_LAST_LANG_NAME = 'fte_last_lang_name';
+        const STORAGE_KEY_LAST_CAT = 'fte_last_cat';
+        const STORAGE_KEY_LAST_SUB = 'fte_last_sub';
+        const STORAGE_KEY_SETTING_REPEAT = 'fte_setting_repeat';
+        const STORAGE_KEY_SETTING_TTS = 'fte_setting_tts';
+        const STORAGE_KEY_SETTING_MOTHER_TONGUE = 'fte_setting_mt';
+        const STORAGE_KEY_SETTING_SPEED = 'fte_setting_speed';
+        const STORAGE_KEY_SETTING_LOOP = 'fte_setting_loop'; 
+        const STORAGE_KEY_HIDDEN = 'fte_hidden_cards'; 
+        
+        let manualPlayId = 0; // 🌟 新增：用於追蹤手動播放，避免連續點擊造成音檔重疊
+        
+        const landingScreen = document.getElementById('landing-screen');
+        const appScreen = document.getElementById('app-screen');
+        const displayLangName = document.getElementById('display-lang-name');
+        const container = document.getElementById('card-container');
+        const catFilter = document.getElementById('category-filter');
+        const subCatFilter = document.getElementById('sub-category-filter');
+        const searchInput = document.getElementById('search-input');
+        
+        const btnAutoPlay = document.getElementById('btn-autoplay');
+        const btnReset = document.getElementById('btn-reset');
+        
+        const settingsPanel = document.getElementById('settings-panel');
+        const repeatSelect = document.getElementById('repeat-count-select');
+        const motherTongueSelect = document.getElementById('mother-tongue-select');
+        const ttsToggle = document.getElementById('tts-toggle');
+        const speedSelect = document.getElementById('speed-select');
+        const loopToggle = document.getElementById('loop-toggle'); 
+        
+        const globalPlayer = document.getElementById('global-audio-player');
+
+        let isAutoPlaying = false;
+        let visibleCards = [];
+        let filteredData = [];
+        let autoPlayTimer = null;
+        let autoPlayIndex = 0;
+        
+        let repeatCount = 1; 
+        let enableTTS = true; 
+        let explanationLang = 'CN_ZH'; 
+        let playbackSpeed = 1.0; 
+        let enableLoop = false; 
+
+        let quizCards = [];
+        let currentQuizIndex = 0;
+        let quizScore = 0;
+        let renderTimer = null; 
+
+        window.onload = () => {
+            if (typeof vocabData === 'undefined') {
+                alert("找不到資料，請確認 data.js 是否存在！");
+                return;
+            }
+            populateCategories(); 
+
+            const savedUILang = localStorage.getItem('fte_ui_lang');
+            if(savedUILang) {
+                document.getElementById('ui-lang-select').value = savedUILang;
+                changeUILanguage(savedUILang);
+            }
+
+            const savedRepeat = localStorage.getItem(STORAGE_KEY_SETTING_REPEAT);
+            if (savedRepeat) { repeatCount = parseInt(savedRepeat); repeatSelect.value = repeatCount; }
+
+            const savedMT = localStorage.getItem(STORAGE_KEY_SETTING_MOTHER_TONGUE);
+            if (savedMT) { explanationLang = savedMT; motherTongueSelect.value = explanationLang; }
+
+            const savedTTS = localStorage.getItem(STORAGE_KEY_SETTING_TTS);
+            if (savedTTS !== null) { enableTTS = (savedTTS === 'true'); } 
+            ttsToggle.checked = enableTTS; 
+
+            const savedSpeed = localStorage.getItem(STORAGE_KEY_SETTING_SPEED);
+            if (savedSpeed) { playbackSpeed = parseFloat(savedSpeed); speedSelect.value = playbackSpeed; }
+
+            const savedLoop = localStorage.getItem(STORAGE_KEY_SETTING_LOOP);
+            if (savedLoop !== null) { enableLoop = (savedLoop === 'true'); }
+            loopToggle.checked = enableLoop;
+
+            const lastLang = localStorage.getItem(STORAGE_KEY_LAST_LANG);
+            const lastLangName = localStorage.getItem(STORAGE_KEY_LAST_LANG_NAME);
+            if (lastLang && lastLangName) {
+                selectLanguage(lastLang, lastLangName, true);
+            }
+        };
+
+        function toggleSettings() { settingsPanel.classList.toggle('show'); }
+
+        repeatSelect.addEventListener('change', () => { repeatCount = parseInt(repeatSelect.value); localStorage.setItem(STORAGE_KEY_SETTING_REPEAT, repeatCount); });
+        motherTongueSelect.addEventListener('change', () => { explanationLang = motherTongueSelect.value; localStorage.setItem(STORAGE_KEY_SETTING_MOTHER_TONGUE, explanationLang); });
+        ttsToggle.addEventListener('change', () => { enableTTS = ttsToggle.checked; localStorage.setItem(STORAGE_KEY_SETTING_TTS, enableTTS); });
+        speedSelect.addEventListener('change', () => { playbackSpeed = parseFloat(speedSelect.value); localStorage.setItem(STORAGE_KEY_SETTING_SPEED, playbackSpeed); });
+        loopToggle.addEventListener('change', () => { enableLoop = loopToggle.checked; localStorage.setItem(STORAGE_KEY_SETTING_LOOP, enableLoop); });
+
+        searchInput.addEventListener('input', () => { stopAutoPlay(); renderCards(); });
+
+        function selectLanguage(code, name, isAutoLoad = false) {
+            currentLang = code;
+            displayLangName.innerText = name;
+            landingScreen.style.display = 'none';
+            appScreen.style.display = 'flex';
+            
+            localStorage.setItem(STORAGE_KEY_LAST_LANG, code);
+            localStorage.setItem(STORAGE_KEY_LAST_LANG_NAME, name);
+            
+            if (isAutoLoad) {
+                const lastCat = localStorage.getItem(STORAGE_KEY_LAST_CAT);
+                if (lastCat) {
+                    catFilter.value = lastCat;
+                    updateSubCategories(lastCat); 
+                    const lastSub = localStorage.getItem(STORAGE_KEY_LAST_SUB);
+                    if (lastSub) subCatFilter.value = lastSub;
+                } else {
+                    catFilter.value = 'all';
+                    updateSubCategories('all');
+                }
+            } else {
+                catFilter.value = 'all';
+                updateSubCategories('all');
+            }
+            renderCards();
+            window.scrollTo(0, 0);
+        }
+
+        function goBackToHome() {
+            stopAutoPlay();
+            closeQuiz();
+            searchInput.value = '';
+            appScreen.style.display = 'none';
+            landingScreen.style.display = 'flex';
+        }
+
+        catFilter.addEventListener('change', () => {
+            stopAutoPlay();
+            updateSubCategories(catFilter.value);
+            localStorage.setItem(STORAGE_KEY_LAST_CAT, catFilter.value);
+            localStorage.setItem(STORAGE_KEY_LAST_SUB, 'all');
+            renderCards();
+        });
+
+        subCatFilter.addEventListener('change', () => { stopAutoPlay(); localStorage.setItem(STORAGE_KEY_LAST_SUB, subCatFilter.value); renderCards(); });
+
+        btnAutoPlay.addEventListener('click', () => {
+            if (!isAutoPlaying) startAutoPlay();
+            else stopAutoPlay();
+        });
+
+        btnReset.addEventListener('click', () => {
+            if(confirm(t('confirm_reset'))) {
+                Object.keys(localStorage).forEach(key => {
+                    if(key.startsWith(STORAGE_KEY_PREFIX)) localStorage.removeItem(key);
+                });
+                renderCards();
+            }
+        });
+
+        /* ============================
+           隱藏卡片邏輯
+        ============================ */
+        function getHiddenCards() {
+            return JSON.parse(localStorage.getItem(STORAGE_KEY_HIDDEN) || '[]');
+        }
+
+        function toggleHideCard(event, id) {
+            event.stopPropagation(); // 阻止事件冒泡，避免點擊時觸發卡片發音
+            let hiddenCards = getHiddenCards();
+            if (!hiddenCards.includes(id)) {
+                hiddenCards.push(id);
+                localStorage.setItem(STORAGE_KEY_HIDDEN, JSON.stringify(hiddenCards));
+            }
+            renderCards(); // 重新渲染，被隱藏的卡片將會消失
+        }
+
+        function restoreHiddenCards() {
+            const hiddenCards = getHiddenCards();
+            if (hiddenCards.length === 0) {
+                alert(t('alert_no_hidden') || '目前沒有隱藏的單字喔！');
+                return;
+            }
+            if (confirm(t('confirm_restore') || '確定要恢復所有隱藏的單字卡嗎？')) {
+                localStorage.removeItem(STORAGE_KEY_HIDDEN);
+                renderCards(); // 重新渲染，所有卡片恢復顯示
+                toggleSettings(); // 關閉設定面板
+            }
+        }
+
+        function populateCategories() {
+            const categories = [...new Set(vocabData.map(item => item.category))];
+            categories.forEach(cat => {
+                if(cat) {
+                    const opt = document.createElement('option');
+                    opt.value = cat;
+                    opt.innerText = cat;
+                    catFilter.appendChild(opt);
+                }
+            });
+        }
+
+        function updateSubCategories(mainCat) {
+            subCatFilter.innerHTML = `<option value="all">${t('filter_sub_all')}</option>`;
+            if (mainCat === 'all') { subCatFilter.disabled = true; return; }
+            subCatFilter.disabled = false;
+            const subCats = [...new Set(vocabData.filter(item => item.category === mainCat).map(item => item.subcategory).filter(s => s))];
+            if (subCats.length > 0) {
+                subCats.forEach(sub => {
+                    const opt = document.createElement('option');
+                    opt.value = sub;
+                    opt.innerText = sub;
+                    subCatFilter.appendChild(opt);
+                });
+            } else {
+                subCatFilter.disabled = true;
+            }
+        }
+
+        function getClicks(id) { return parseInt(localStorage.getItem(STORAGE_KEY_PREFIX + id) || '0'); }
+        function addClick(id) { const n = getClicks(id) + 1; localStorage.setItem(STORAGE_KEY_PREFIX + id, n); return n; }
+        function getLevelClass(n) {
+            if (n >= 30) return 'level-5'; if (n >= 20) return 'level-4'; if (n >= 10) return 'level-3';
+            if (n >= 3) return 'level-2'; if (n >= 1) return 'level-1'; return 'level-0';
+        }
+
+        function renderCards() {
+            container.innerHTML = '';
+            filteredData = []; 
+            clearTimeout(renderTimer); 
+
+            const sCat = catFilter.value;
+            const sSub = subCatFilter.value;
+            const sSearch = searchInput.value.trim().toLowerCase(); 
+            const isChineseMode = (currentLang === 'CN_ZH');
+            
+            const hiddenCardsList = getHiddenCards();
+
+            vocabData.forEach((item) => {
+                if (hiddenCardsList.includes(item.id)) return;
+
+                if (sCat !== 'all' && item.category !== sCat) return;
+                if (sCat !== 'all' && sSub !== 'all' && item.subcategory !== sSub) return;
+                
+                const targetData = item[currentLang];
+                if (!targetData) return;
+                
+                if (sSearch !== "") {
+                    const matchCn = (item.cn || "").toLowerCase().includes(sSearch);
+                    const matchTarget = (targetData.word || "").toLowerCase().includes(sSearch);
+                    if (!matchCn && !matchTarget) return; 
+                }
+                
+                if (isChineseMode) {
+                   const cName = (item.category||"").toLowerCase();
+                   if (cName.includes('字母')||cName.includes('五十音')) return;
+                }
+                filteredData.push(item); 
+            });
+
+            let currentIndex = 0;
+            const chunkSize = 50; 
+            let lastCat = "";
+            let lastSub = "";
+
+            function renderChunk() {
+                const fragment = document.createDocumentFragment();
+                const end = Math.min(currentIndex + chunkSize, filteredData.length);
+
+                for (let i = currentIndex; i < end; i++) {
+                    const item = filteredData[i];
+                    const targetData = item[currentLang];
+                    const currentCat = item.category || "未分類";
+                    const currentSub = item.subcategory || "";
+                    
+                    if (currentCat !== lastCat || (currentSub !== lastSub && currentSub !== "")) {
+                        const separator = document.createElement('div');
+                        separator.className = 'category-header';
+                        let headerText = currentCat;
+                        if (currentSub) headerText += ` <i class="fas fa-angle-right" style="font-size:0.8em; color:#999;"></i> ${currentSub}`;
+                        separator.innerHTML = `${headerText}`;
+                        fragment.appendChild(separator);
+                        lastCat = currentCat; lastSub = currentSub;
+                    }
+
+                    const clicks = getClicks(item.id);
+                    
+                    // ==========================================
+                    // 🌟 新版卡片底部翻譯邏輯 (母語優先 + 英文基準)
+                    // ==========================================
+                    let footerLines = [];
+                    let mtConfig = uiLangToDataKey[currentUILang] || uiLangToDataKey['zh'];
+                    let enConfig = uiLangToDataKey['en'];
+
+                    // 1. 如果目標語言(正在學的語言) 不是母語，就顯示母語翻譯
+                    if (currentLang !== mtConfig.targetKey) {
+                        let mtWord = getWordText(item, mtConfig.key);
+                        if (mtWord) footerLines.push(`<span style="margin-right:5px;">${mtConfig.flag}</span>${mtWord}`);
+                    }
+
+                    // 2. 如果母語不是英文，且目標語言也不是英文，則強制加上英文翻譯做為國際基準
+                    if (currentUILang !== 'en' && currentLang !== 'CN_ENG') {
+                        let enWord = getWordText(item, enConfig.key);
+                        if (enWord) footerLines.push(`<span style="margin-right:5px;">${enConfig.flag}</span>${enWord}`);
+                    }
+
+                    let footerHtml = footerLines.join('<br>');
+                    // ==========================================
+
+                    const card = document.createElement('div');
+                    card.className = `card ${getLevelClass(clicks)}`;
+                    card.dataset.audio = targetData.audio ? `${targetData.folder}/${targetData.audio}` : '';
+                    card.dataset.id = item.id; 
+
+                    card.innerHTML = `
+                        <div style="font-size:12px; color:#999; display:flex; justify-content:space-between; align-items:center;">
+                            <i class="fas fa-eye-slash hide-btn" onclick="toggleHideCard(event, '${item.id}')" title="隱藏此單字"></i>
+                            <span class="click-counter" style="background:#eee; padding:2px 6px; border-radius:10px;">${clicks}</span>
+                        </div>
+                        <div>
+                            <div class="main-word">${targetData.word}</div>
+                            <div class="phonetic">${targetData.phonetic || ""}</div>
+                        </div>
+                        <div class="footer-translation">${footerHtml}</div>
+                    `;
+
+                    // 🌟 修正：手動點擊卡片時，採用與 AutoPlay 相同的重複播放邏輯
+                    card.onclick = () => {
+                        const src = card.dataset.audio;
+                        if(!src) return;
+                        if (isAutoPlaying) stopAutoPlay(); 
+                        
+                        manualPlayId++;
+                        const currentPlayId = manualPlayId;
+                        
+                        // 視覺效果更新
+                        document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
+                        card.classList.add('playing');
+                        
+                        const n = addClick(item.id);
+                        card.className = `card playing ${getLevelClass(n)}`;
+                        card.querySelector('.click-counter').innerText = n;
+                        
+                        setTimeout(() => { 
+                            if (manualPlayId === currentPlayId) card.classList.remove('playing'); 
+                        }, 1000);
+
+                        let currentRepeat = 0;
+                        
+                        // 定義手動播放的外語迴圈
+                        const playForeignLoop = () => {
+                            if (isAutoPlaying || manualPlayId !== currentPlayId) return;
+                            const playTarget = new Promise((resolve) => {
+                                globalPlayer.src = src;
+                                globalPlayer.playbackRate = playbackSpeed; 
+                                globalPlayer.onended = resolve; 
+                                globalPlayer.onerror = resolve;
+                                globalPlayer.play().catch(resolve);
+                            });
+
+                            playTarget.then(() => {
+                                if (isAutoPlaying || manualPlayId !== currentPlayId) return;
+                                currentRepeat++;
+                                if (currentRepeat < repeatCount) {
+                                    setTimeout(playForeignLoop, 500); // 每次重複間隔 0.5 秒
+                                } else {
+                                    setTimeout(playExplanationOnce, 500);
+                                }
+                            });
+                        };
+
+                        // 定義手動播放的母語解釋
+                        const playExplanationOnce = () => {
+                            if (isAutoPlaying || manualPlayId !== currentPlayId) return;
+                            if (!enableTTS) return;
+                            
+                            const itemData = vocabData.find(v => v.id == card.dataset.id);
+                            if (itemData && itemData[explanationLang] && itemData[explanationLang].audio) {
+                                globalPlayer.src = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
+                                globalPlayer.playbackRate = 1.25; 
+                                globalPlayer.play().catch(e => console.log(e));
+                            }
+                        };
+
+                        // 啟動手動播放迴圈
+                        playForeignLoop();
+                    };
+                    fragment.appendChild(card);
+                }
+                container.appendChild(fragment); 
+                currentIndex = end;
+                if (currentIndex < filteredData.length) { renderTimer = setTimeout(renderChunk, 50); }
+            }
+            renderChunk();
+        }
+
+        /* ============================
+           播放邏輯 (自動播放)
+        ============================ */
+        function startAutoPlay() {
+            visibleCards = Array.from(document.querySelectorAll('.card'));
+            if (visibleCards.length === 0) return;
+            isAutoPlaying = true;
+            btnAutoPlay.innerHTML = t('btn_stop');
+            btnAutoPlay.classList.add('playing');
+            autoPlayIndex = 0;
+            settingsPanel.classList.remove('show');
+            playCardSequence(visibleCards[autoPlayIndex]);
+        }
+
+        function stopAutoPlay() {
+            isAutoPlaying = false;
+            btnAutoPlay.innerHTML = `<span data-i18n="btn_play">${t('btn_play')}</span>`;
+            btnAutoPlay.classList.remove('playing');
+            clearTimeout(autoPlayTimer);
+            globalPlayer.pause();
+            document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
+        }
+
+        function playCardSequence(card) {
+            if (!isAutoPlaying || !card) { stopAutoPlay(); return; }
+            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            document.querySelectorAll('.card.playing').forEach(c => c.classList.remove('playing'));
+            card.classList.add('playing');
+
+            let currentRepeat = 0;
+            const playForeignLoop = () => {
+                if (!isAutoPlaying) return;
+                const audioSrc = card.dataset.audio;
+                const playTarget = new Promise((resolve) => {
+                    if (!audioSrc) { resolve(); return; }
+                    globalPlayer.src = audioSrc;
+                    globalPlayer.playbackRate = playbackSpeed; 
+                    globalPlayer.onended = resolve; globalPlayer.onerror = resolve;
+                    globalPlayer.play().catch(e => resolve());
+                });
+
+                playTarget.then(() => {
+                    if (!isAutoPlaying) return;
+                    currentRepeat++;
+                    if (currentRepeat < repeatCount) setTimeout(playForeignLoop, 500);
+                    else setTimeout(playExplanationOnce, 500); 
+                });
+            };
+
+            const playExplanationOnce = () => {
+                if (!isAutoPlaying) return;
+                const playExpl = new Promise((resolve) => {
+                    if (!enableTTS) { resolve(); return; } 
+                    const itemData = vocabData.find(v => v.id == card.dataset.id);
+                    if (itemData && itemData[explanationLang] && itemData[explanationLang].audio) {
+                        globalPlayer.src = `${itemData[explanationLang].folder}/${itemData[explanationLang].audio}`;
+                        globalPlayer.playbackRate = 1.25; 
+                        globalPlayer.onended = resolve; globalPlayer.onerror = resolve;
+                        globalPlayer.play().catch(resolve);
+                    } else resolve();
+                });
+                playExpl.then(() => finishCard());
+            };
+
+            const finishCard = () => {
+                if (!isAutoPlaying) return;
+                const n = addClick(card.dataset.id);
+                card.querySelector('.click-counter').innerText = n;
+                autoPlayIndex++;
+                if (autoPlayIndex < visibleCards.length) {
+                    setTimeout(() => playCardSequence(visibleCards[autoPlayIndex]), 800);
+                } else {
+                    if (enableLoop && visibleCards.length > 0) {
+                        autoPlayIndex = 0;
+                        setTimeout(() => { if (isAutoPlaying) playCardSequence(visibleCards[autoPlayIndex]); }, 1500);
+                    } else stopAutoPlay(); 
+                }
+            };
+            playForeignLoop();
+        }
+
+        /* ============================
+           測驗邏輯
+        ============================ */
+        function startQuiz() {
+            if (filteredData.length === 0) { alert(t('alert_no_vocab')); return; }
+            if (isAutoPlaying) stopAutoPlay();
+            settingsPanel.classList.remove('show');
+
+            quizCards = [...filteredData].sort(() => Math.random() - 0.5).slice(0, 20);
+            currentQuizIndex = 0; quizScore = 0;
+
+            document.getElementById('quiz-screen').style.display = 'flex';
+            updateQuizScore();
+            renderQuizQuestion();
+        }
+
+        function renderQuizQuestion() {
+            if (currentQuizIndex >= quizCards.length) {
+                document.getElementById('quiz-question').innerText = t('quiz_finished');
+                document.getElementById('quiz-options').innerHTML = `<button class="quiz-option-btn" onclick="closeQuiz()">${t('quiz_back_list')}</button>`;
+                return;
+            }
+
+            const currentItem = quizCards[currentQuizIndex];
+            const targetData = currentItem[currentLang];
+            
+            // 測驗問題顯示邏輯 (顯示母語)
+            let mtConfig = uiLangToDataKey[currentUILang] || uiLangToDataKey['zh'];
+            let questionText = getWordText(currentItem, mtConfig.key) || currentItem.cn; 
+            document.getElementById('quiz-question').innerText = questionText;
+
+            let options = [targetData];
+            
+            // 優先從「當前篩選的列表 (filteredData)」中挑選錯誤選項
+            let possibleWrongs = filteredData.filter(v => v.id !== currentItem.id && v[currentLang]);
+            
+            // 如果當前列表的單字數量不足 3 個，則擴大範圍到「同一個大分類」
+            if (possibleWrongs.length < 3) {
+                possibleWrongs = vocabData.filter(v => v.category === currentItem.category && v.id !== currentItem.id && v[currentLang]);
+            }
+            
+            // 如果同一個大分類還是不足 3 個，最後才從「全部單字」中挑選 (防呆機制)
+            if (possibleWrongs.length < 3) {
+                possibleWrongs = vocabData.filter(v => v.id !== currentItem.id && v[currentLang]);
+            }
+
+            possibleWrongs = possibleWrongs.sort(() => Math.random() - 0.5).slice(0, 3);
+            options.push(...possibleWrongs.map(v => v[currentLang]));
+            options = options.sort(() => Math.random() - 0.5); 
+
+            const optionsContainer = document.getElementById('quiz-options');
+            optionsContainer.innerHTML = '';
+            
+            options.forEach(opt => {
+                const btn = document.createElement('button');
+                btn.className = 'quiz-option-btn';
+                btn.innerText = opt.word;
+                btn.onclick = () => handleQuizAnswer(btn, opt.word === targetData.word, targetData.audio, targetData.folder);
+                optionsContainer.appendChild(btn);
+            });
+        }
+
+        function handleQuizAnswer(btn, isCorrect, audioName, audioFolder) {
+            const btns = document.querySelectorAll('.quiz-option-btn');
+            btns.forEach(b => b.disabled = true);
+
+            if (isCorrect) { btn.classList.add('correct'); quizScore++; } 
+            else {
+                btn.classList.add('wrong');
+                const currentItem = quizCards[currentQuizIndex];
+                btns.forEach(b => { if (b.innerText === currentItem[currentLang].word) b.classList.add('correct'); });
+            }
+
+            updateQuizScore();
+            if (audioName && audioFolder) {
+                globalPlayer.src = `${audioFolder}/${audioName}`;
+                globalPlayer.playbackRate = playbackSpeed;
+                globalPlayer.play().catch(e => console.log(e));
+            }
+
+            setTimeout(() => { currentQuizIndex++; renderQuizQuestion(); updateQuizScore(); }, 1500);
+        }
+
+        function updateQuizScore() {
+            const total = quizCards.length;
+            const current = Math.min(currentQuizIndex + 1, total);
+            let progressTxt = 'Progress';
+            let scoreTxt = 'Score';
+            if (currentUILang === 'zh') { progressTxt = '進度'; scoreTxt = '分數'; }
+            else if (currentUILang === 'ja') { progressTxt = '進捗'; scoreTxt = 'スコア'; }
+            else if (currentUILang === 'ko') { progressTxt = '진행'; scoreTxt = '점수'; }
+            else if (currentUILang === 'vi') { progressTxt = 'Tiến độ'; scoreTxt = 'Điểm'; }
+            else if (currentUILang === 'id') { progressTxt = 'Progres'; scoreTxt = 'Skor'; }
+            else if (currentUILang === 'th') { progressTxt = 'ความคืบหน้า'; scoreTxt = 'คะแนน'; }
+            else if (currentUILang === 'de') { progressTxt = 'Fortschritt'; scoreTxt = 'Punkte'; }
+            else if (currentUILang === 'es') { progressTxt = 'Progreso'; scoreTxt = 'Puntaje'; }
+            else if (currentUILang === 'fr') { progressTxt = 'Progression'; scoreTxt = 'Score'; }
+            else if (currentUILang === 'ru') { progressTxt = 'Прогресс'; scoreTxt = 'Счет'; }
+
+            document.getElementById('quiz-score').innerText = `${progressTxt}: ${current} / ${total} | ${scoreTxt}: ${quizScore}`;
+        }
+
+        function closeQuiz() { document.getElementById('quiz-screen').style.display = 'none'; globalPlayer.pause(); }
+    </script>
+</body>
+</html>
